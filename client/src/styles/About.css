@@ -1,0 +1,36 @@
+.about-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+    padding: 40px 20px;
+    gap: 40px;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .about-image img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  }
+  
+  .about-text {
+    max-width: 500px;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .founded {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 8px;
+  }
+  
+  .company-name {
+    color: #8a2be2;
+    font-weight: bold;
+    margin-bottom: 12px;
+  }

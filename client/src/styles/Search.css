@@ -1,0 +1,117 @@
+/* Search.css */
+
+/* Main Hero Section */
+main {
+    text-align: center;
+    padding: 80px 20px 40px;
+    flex: 1;
+  }
+  
+  main h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  main p {
+    font-size: 18px;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto 40px;
+  }
+  
+  /* Search Bar */
+  .search-bar {
+    margin: 1rem 0;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .search-bar input,
+  .search-bar select,
+  .search-bar button {
+    padding: 0.6rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  .search-bar input,
+  .search-bar select {
+    background-color: white;
+    color: #333;
+  }
+  
+  .search-bar button {
+    background-color: #8a2be2;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Results List */
+  .result-card {
+    margin: 1rem auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    width: 90%;
+    max-width: 900px;
+    border-radius: 16px;
+    background-color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .result-card summary {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .result-card p {
+    margin: 0.3rem 0;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  /* Error Message */
+  .error {
+    color: red;
+    font-weight: 500;
+    margin-top: 1rem;
+  }
+  
+  /* Pagination */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  
+  .pagination button {
+    padding: 0.5rem 1rem;
+    background: #8a2be2;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+  }
+  
+  .pagination button:disabled {
+    background: #ccc;
+    color: #666;
+    cursor: not-allowed;
+  }
+  .search-heading {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #555;
+  }

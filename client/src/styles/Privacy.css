@@ -1,0 +1,22 @@
+.privacy-policy {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+  }
+  
+  .toggle-item {
+    margin-top: 3rem; /* creates the space */
+    line-height: 1.6;
+    text-align: left;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+  }
+  
+  .toggle-item summary {
+    font-weight: bold;
+    cursor: pointer;
+  }

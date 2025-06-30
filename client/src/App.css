@@ -1,0 +1,115 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Helvetica', sans-serif;
+}
+
+html, body, #root {
+  background-color: white !important;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #333;
+}
+
+/* Root Container */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Header */
+header,
+.new-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+/* Logo Section */
+.logo-center {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-icon {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+/* Navigation */
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #666;
+  font-weight: 500;
+}
+
+/* Auth Buttons */
+.auth-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.auth-buttons .login {
+  border: 1px solid #ccc;
+  background: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #333;  /* <-- Add this line */
+}
+
+.auth-buttons .signup {
+  background-color: #8a2be2;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Main Hero Section */
+main {
+  text-align: center;
+  padding: 80px 20px 40px;
+  flex: 1;
+}
+
+main h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.highlight {
+  color: #8a2be2;
+}
+
+main p {
+  font-size: 18px;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto 40px;
+}

@@ -1,0 +1,96 @@
+footer.footer {
+    width: 100%;
+    background-color: #f9f9f9;  /* Light background */
+    padding: 3rem 2rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 2rem;
+    box-sizing: border-box;
+  }
+  
+  /* Each section */
+  .footer-section {
+    flex: 1 1 220px;
+    min-width: 220px;
+  }
+  
+  /* Headings */
+  .footer-section h3,
+  .footer-section h4 {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  /* Paragraph text */
+  .footer-section p {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  /* List links */
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 8px;
+  }
+  
+  .footer-section a {
+    text-decoration: none;
+    color: #444;
+    font-size: 14px;
+  }
+  
+  /* Contact form */
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .name-fields {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .name-fields input {
+    flex: 1 1 0;
+    min-width: 0; /* prevent overflow */
+    font-size: 13px;
+    padding: 8px;
+  }
+  
+  .footer-section form {
+    max-width: 400px;
+  }
+  /* Fix black boxes */
+  .contact-form input,
+  .contact-form textarea {
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  
+  .contact-form textarea {
+    min-height: 60px;
+    resize: vertical;
+  }
+  
+  .contact-form button {
+    background-color: #8a2be2;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
