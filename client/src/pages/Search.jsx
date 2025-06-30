@@ -102,7 +102,7 @@ function Search() {
     <main>
       <h1>Discover the cost of your care.</h1>
       <p>
-        Please select a state, then search for a hospital or service below. Medifare currently supports California and New York.
+        Please select a state, then search for a hospital or service below. Medifare currently supports the following states: California, New York, New Jersey, Texas and Massachusetts.
       </p>
 
       <div className="search-bar">
