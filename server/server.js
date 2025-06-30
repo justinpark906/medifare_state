@@ -22,7 +22,11 @@ app.get('/api/hospitals/:state', (req, res) => {
     NY: 'Hospitals_NY.json',
     NJ: 'Hospitals_NJ.json',
     TX: 'Hospitals_TX.json',
-    MA: 'Hospitals_MA.json'
+    MA: 'Hospitals_MA.json',
+    WA: 'Hospitals_WA.json',
+    OR: 'Hospitals_OR.json',
+    ID: 'Hospitals_ID.json',
+    NV: 'Hospitals_NV.json'
   };
 
   const fileName = fileMap[state];

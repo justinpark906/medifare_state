@@ -63,6 +63,7 @@ main {
     text-align: center;
     display: flex;
     flex-direction: column;
+    text-align: center;
     align-items: center;
   }
   
@@ -70,8 +71,10 @@ main {
     font-weight: bold;
     font-size: 1.1rem;
     margin-bottom: 0.5rem;
+    text-align: center;
     cursor: pointer;
   }
+  
   
   .result-card p {
     margin: 0.3rem 0;

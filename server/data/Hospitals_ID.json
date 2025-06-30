@@ -1,0 +1,4612 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 45121,
+      "Total Payment Amount": 14668,
+      "Medicare Payment Amount": 13159
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 30279,
+      "Total Payment Amount": 8089,
+      "Medicare Payment Amount": 6729
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 46118,
+      "Total Payment Amount": 10749,
+      "Medicare Payment Amount": 9512
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 47420,
+      "Total Payment Amount": 13806,
+      "Medicare Payment Amount": 12533
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 46896,
+      "Total Payment Amount": 9601,
+      "Medicare Payment Amount": 8584
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 32633,
+      "Total Payment Amount": 8722,
+      "Medicare Payment Amount": 7655
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 44956,
+      "Total Payment Amount": 11215,
+      "Medicare Payment Amount": 8780
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 105982,
+      "Total Payment Amount": 20930,
+      "Medicare Payment Amount": 19997
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 143771,
+      "Total Payment Amount": 27921,
+      "Medicare Payment Amount": 19966
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 92725,
+      "Total Payment Amount": 15696,
+      "Medicare Payment Amount": 12547
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 63449,
+      "Total Payment Amount": 13862,
+      "Medicare Payment Amount": 12041
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 47006,
+      "Total Payment Amount": 7563,
+      "Medicare Payment Amount": 6463
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",
+      "Submitted Covered Payment": 58768,
+      "Total Payment Amount": 14492,
+      "Medicare Payment Amount": 13037
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 48990,
+      "Total Payment Amount": 11178,
+      "Medicare Payment Amount": 8747
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 63729,
+      "Total Payment Amount": 10031,
+      "Medicare Payment Amount": 8677
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 47853,
+      "Total Payment Amount": 6361,
+      "Medicare Payment Amount": 5232
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 58269,
+      "Total Payment Amount": 14554,
+      "Medicare Payment Amount": 11561
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 36589,
+      "Total Payment Amount": 8366,
+      "Medicare Payment Amount": 6509
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 26450,
+      "Total Payment Amount": 6795,
+      "Medicare Payment Amount": 5448
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 50807,
+      "Total Payment Amount": 10110,
+      "Medicare Payment Amount": 9043
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26347,
+      "Total Payment Amount": 9206,
+      "Medicare Payment Amount": 5797
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 183693,
+      "Total Payment Amount": 29021,
+      "Medicare Payment Amount": 27521
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 103064,
+      "Total Payment Amount": 22385,
+      "Medicare Payment Amount": 20988
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 65264,
+      "Total Payment Amount": 15367,
+      "Medicare Payment Amount": 13769
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 107124,
+      "Total Payment Amount": 15933,
+      "Medicare Payment Amount": 14573
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 28868,
+      "Total Payment Amount": 7324,
+      "Medicare Payment Amount": 6067
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 29733,
+      "Total Payment Amount": 7918,
+      "Medicare Payment Amount": 5134
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 44134,
+      "Total Payment Amount": 10199,
+      "Medicare Payment Amount": 7761
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 26123,
+      "Total Payment Amount": 6741,
+      "Medicare Payment Amount": 4919
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 47376,
+      "Total Payment Amount": 11404,
+      "Medicare Payment Amount": 10116
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 37724,
+      "Total Payment Amount": 7284,
+      "Medicare Payment Amount": 5904
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 32506,
+      "Total Payment Amount": 8989,
+      "Medicare Payment Amount": 8189
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24882,
+      "Total Payment Amount": 6704,
+      "Medicare Payment Amount": 5204
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 41833,
+      "Total Payment Amount": 12055,
+      "Medicare Payment Amount": 11161
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 60825,
+      "Total Payment Amount": 11913,
+      "Medicare Payment Amount": 11166
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 124048,
+      "Total Payment Amount": 38169,
+      "Medicare Payment Amount": 36684
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 62281,
+      "Total Payment Amount": 15433,
+      "Medicare Payment Amount": 13821
+    },
+    {
+      "Hospital_Name": "St Luke's Magic Valley Rmc",
+      "Address": "801 Pole Line Road West, Twin Falls, ID 83301",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 35746,
+      "Total Payment Amount": 8172,
+      "Medicare Payment Amount": 7023
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 140770,
+      "Total Payment Amount": 42185,
+      "Medicare Payment Amount": 35079
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45525,
+      "Total Payment Amount": 16536,
+      "Medicare Payment Amount": 14936
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 52454,
+      "Total Payment Amount": 17661,
+      "Medicare Payment Amount": 15144
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 28827,
+      "Total Payment Amount": 8977,
+      "Medicare Payment Amount": 7500
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 28485,
+      "Total Payment Amount": 11578,
+      "Medicare Payment Amount": 10398
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 41471,
+      "Total Payment Amount": 15917,
+      "Medicare Payment Amount": 14871
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 35746,
+      "Total Payment Amount": 10716,
+      "Medicare Payment Amount": 9344
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 39088,
+      "Total Payment Amount": 11550,
+      "Medicare Payment Amount": 10541
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 84304,
+      "Total Payment Amount": 26192,
+      "Medicare Payment Amount": 24706
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 59075,
+      "Total Payment Amount": 16838,
+      "Medicare Payment Amount": 14314
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 137726,
+      "Total Payment Amount": 37605,
+      "Medicare Payment Amount": 36151
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 30644,
+      "Total Payment Amount": 14032,
+      "Medicare Payment Amount": 12918
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 32332,
+      "Total Payment Amount": 8141,
+      "Medicare Payment Amount": 6655
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27422,
+      "Total Payment Amount": 6375,
+      "Medicare Payment Amount": 4775
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 36128,
+      "Total Payment Amount": 10573,
+      "Medicare Payment Amount": 7763
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 34144,
+      "Total Payment Amount": 11338,
+      "Medicare Payment Amount": 10291
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29020,
+      "Total Payment Amount": 10690,
+      "Medicare Payment Amount": 9433
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 25790,
+      "Total Payment Amount": 7154,
+      "Medicare Payment Amount": 5668
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 148696,
+      "Total Payment Amount": 41965,
+      "Medicare Payment Amount": 40465
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 61641,
+      "Total Payment Amount": 18590,
+      "Medicare Payment Amount": 17084
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 46657,
+      "Total Payment Amount": 14467,
+      "Medicare Payment Amount": 12867
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 35803,
+      "Total Payment Amount": 11299,
+      "Medicare Payment Amount": 9845
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 23081,
+      "Total Payment Amount": 6864,
+      "Medicare Payment Amount": 5829
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 21925,
+      "Total Payment Amount": 13229,
+      "Medicare Payment Amount": 12482
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 22720,
+      "Total Payment Amount": 7961,
+      "Medicare Payment Amount": 6627
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 178043,
+      "Total Payment Amount": 47988,
+      "Medicare Payment Amount": 46505
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 47595,
+      "Total Payment Amount": 17937,
+      "Medicare Payment Amount": 16533
+    },
+    {
+      "Hospital_Name": "St Joseph Regional Medical Center",
+      "Address": "415 Sixth Street, Lewiston, ID 83501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 31842,
+      "Total Payment Amount": 9297,
+      "Medicare Payment Amount": 7616
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 153548,
+      "Total Payment Amount": 40174,
+      "Medicare Payment Amount": 38787
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITHOUT MC",
+      "Submitted Covered Payment": 115663,
+      "Total Payment Amount": 27274,
+      "Medicare Payment Amount": 25911
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 187892,
+      "Total Payment Amount": 34976,
+      "Medicare Payment Amount": 33507
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 163872,
+      "Total Payment Amount": 35109,
+      "Medicare Payment Amount": 24394
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 122428,
+      "Total Payment Amount": 21599,
+      "Medicare Payment Amount": 17735
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 60037,
+      "Total Payment Amount": 8967,
+      "Medicare Payment Amount": 7362
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 54485,
+      "Total Payment Amount": 11933,
+      "Medicare Payment Amount": 10667
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 63478,
+      "Total Payment Amount": 14148,
+      "Medicare Payment Amount": 12543
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 80312,
+      "Total Payment Amount": 16339,
+      "Medicare Payment Amount": 14090
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 43236,
+      "Total Payment Amount": 8364,
+      "Medicare Payment Amount": 6590
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 29568,
+      "Total Payment Amount": 6289,
+      "Medicare Payment Amount": 4420
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 47651,
+      "Total Payment Amount": 12602,
+      "Medicare Payment Amount": 11392
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 75332,
+      "Total Payment Amount": 15132,
+      "Medicare Payment Amount": 13781
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 47400,
+      "Total Payment Amount": 7391,
+      "Medicare Payment Amount": 5986
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 176789,
+      "Total Payment Amount": 36385,
+      "Medicare Payment Amount": 35063
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 165849,
+      "Total Payment Amount": 22621,
+      "Medicare Payment Amount": 21011
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 133136,
+      "Total Payment Amount": 14846,
+      "Medicare Payment Amount": 13240
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 48723,
+      "Total Payment Amount": 11104,
+      "Medicare Payment Amount": 8551
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 23270,
+      "Total Payment Amount": 7042,
+      "Medicare Payment Amount": 4908
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 54161,
+      "Total Payment Amount": 13966,
+      "Medicare Payment Amount": 12654
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 41066,
+      "Total Payment Amount": 9642,
+      "Medicare Payment Amount": 6690
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 43665,
+      "Total Payment Amount": 9850,
+      "Medicare Payment Amount": 7633
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 69663,
+      "Total Payment Amount": 10096,
+      "Medicare Payment Amount": 8690
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 48606,
+      "Total Payment Amount": 10212,
+      "Medicare Payment Amount": 8545
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "INTERSTITIAL LUNG DISEASE WITH MCC",
+      "Submitted Covered Payment": 52523,
+      "Total Payment Amount": 13383,
+      "Medicare Payment Amount": 12200
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 81274,
+      "Total Payment Amount": 24370,
+      "Medicare Payment Amount": 17235
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 253283,
+      "Total Payment Amount": 43033,
+      "Medicare Payment Amount": 41415
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 203307,
+      "Total Payment Amount": 31377,
+      "Medicare Payment Amount": 29842
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 111417,
+      "Total Payment Amount": 26639,
+      "Medicare Payment Amount": 25114
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 63672,
+      "Total Payment Amount": 16801,
+      "Medicare Payment Amount": 15417
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 48785,
+      "Total Payment Amount": 13908,
+      "Medicare Payment Amount": 12516
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 120437,
+      "Total Payment Amount": 22337,
+      "Medicare Payment Amount": 20907
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 86490,
+      "Total Payment Amount": 14053,
+      "Medicare Payment Amount": 12256
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 97367,
+      "Total Payment Amount": 19325,
+      "Medicare Payment Amount": 18039
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 152855,
+      "Total Payment Amount": 44969,
+      "Medicare Payment Amount": 44084
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 92206,
+      "Total Payment Amount": 36612,
+      "Medicare Payment Amount": 33424
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 118854,
+      "Total Payment Amount": 25063,
+      "Medicare Payment Amount": 23450
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 59457,
+      "Total Payment Amount": 23522,
+      "Medicare Payment Amount": 22034
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 55134,
+      "Total Payment Amount": 12310,
+      "Medicare Payment Amount": 10379
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 37345,
+      "Total Payment Amount": 7590,
+      "Medicare Payment Amount": 5942
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32619,
+      "Total Payment Amount": 6130,
+      "Medicare Payment Amount": 4595
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",
+      "Submitted Covered Payment": 52171,
+      "Total Payment Amount": 14384,
+      "Medicare Payment Amount": 13042
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 56308,
+      "Total Payment Amount": 9950,
+      "Medicare Payment Amount": 8781
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 34469,
+      "Total Payment Amount": 8236,
+      "Medicare Payment Amount": 6894
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 45588,
+      "Total Payment Amount": 9310,
+      "Medicare Payment Amount": 8053
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 39286,
+      "Total Payment Amount": 6262,
+      "Medicare Payment Amount": 5068
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 28332,
+      "Total Payment Amount": 5046,
+      "Medicare Payment Amount": 3529
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 38637,
+      "Total Payment Amount": 7237,
+      "Medicare Payment Amount": 6023
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 72028,
+      "Total Payment Amount": 16702,
+      "Medicare Payment Amount": 15548
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 91818,
+      "Total Payment Amount": 20364,
+      "Medicare Payment Amount": 10537
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 215193,
+      "Total Payment Amount": 47573,
+      "Medicare Payment Amount": 46185
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 157713,
+      "Total Payment Amount": 25014,
+      "Medicare Payment Amount": 23702
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 175376,
+      "Total Payment Amount": 37402,
+      "Medicare Payment Amount": 36012
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 127286,
+      "Total Payment Amount": 20473,
+      "Medicare Payment Amount": 17235
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 86634,
+      "Total Payment Amount": 12476,
+      "Medicare Payment Amount": 11002
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DIGESTIVE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 83442,
+      "Total Payment Amount": 18524,
+      "Medicare Payment Amount": 17889
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 41030,
+      "Total Payment Amount": 9310,
+      "Medicare Payment Amount": 7832
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 66000,
+      "Total Payment Amount": 15864,
+      "Medicare Payment Amount": 14784
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 35901,
+      "Total Payment Amount": 8120,
+      "Medicare Payment Amount": 6476
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 23509,
+      "Total Payment Amount": 6501,
+      "Medicare Payment Amount": 5437
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19745,
+      "Total Payment Amount": 5129,
+      "Medicare Payment Amount": 3810
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31530,
+      "Total Payment Amount": 9928,
+      "Medicare Payment Amount": 8930
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25201,
+      "Total Payment Amount": 7547,
+      "Medicare Payment Amount": 4768
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 74298,
+      "Total Payment Amount": 12922,
+      "Medicare Payment Amount": 11981
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26501,
+      "Total Payment Amount": 7101,
+      "Medicare Payment Amount": 6241
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 88487,
+      "Total Payment Amount": 25754,
+      "Medicare Payment Amount": 16260
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 72366,
+      "Total Payment Amount": 12450,
+      "Medicare Payment Amount": 10840
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 68114,
+      "Total Payment Amount": 12744,
+      "Medicare Payment Amount": 11566
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 86495,
+      "Total Payment Amount": 17920,
+      "Medicare Payment Amount": 16988
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 33501,
+      "Total Payment Amount": 8598,
+      "Medicare Payment Amount": 5762
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 47325,
+      "Total Payment Amount": 14277,
+      "Medicare Payment Amount": 9730
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 38225,
+      "Total Payment Amount": 8822,
+      "Medicare Payment Amount": 7455
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 233750,
+      "Total Payment Amount": 50833,
+      "Medicare Payment Amount": 49275
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 162974,
+      "Total Payment Amount": 36963,
+      "Medicare Payment Amount": 30708
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 161967,
+      "Total Payment Amount": 27923,
+      "Medicare Payment Amount": 26485
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 108131,
+      "Total Payment Amount": 24764,
+      "Medicare Payment Amount": 23400
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 95741,
+      "Total Payment Amount": 19805,
+      "Medicare Payment Amount": 18296
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 86592,
+      "Total Payment Amount": 14024,
+      "Medicare Payment Amount": 12593
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 120488,
+      "Total Payment Amount": 25142,
+      "Medicare Payment Amount": 18897
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 88680,
+      "Total Payment Amount": 21225,
+      "Medicare Payment Amount": 19917
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 71894,
+      "Total Payment Amount": 15101,
+      "Medicare Payment Amount": 13649
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 53451,
+      "Total Payment Amount": 12167,
+      "Medicare Payment Amount": 10786
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 103267,
+      "Total Payment Amount": 20650,
+      "Medicare Payment Amount": 19384
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 89376,
+      "Total Payment Amount": 15543,
+      "Medicare Payment Amount": 13989
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 34584,
+      "Total Payment Amount": 8388,
+      "Medicare Payment Amount": 7043
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 29291,
+      "Total Payment Amount": 7551,
+      "Medicare Payment Amount": 6210
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 28086,
+      "Total Payment Amount": 7158,
+      "Medicare Payment Amount": 6037
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "O.R. PROCEDURES FOR OBESITY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 57581,
+      "Total Payment Amount": 13460,
+      "Medicare Payment Amount": 8962
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 58266,
+      "Total Payment Amount": 10792,
+      "Medicare Payment Amount": 9280
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 34919,
+      "Total Payment Amount": 8584,
+      "Medicare Payment Amount": 5721
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 47642,
+      "Total Payment Amount": 9867,
+      "Medicare Payment Amount": 8735
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 31094,
+      "Total Payment Amount": 6417,
+      "Medicare Payment Amount": 5094
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 50748,
+      "Total Payment Amount": 12498,
+      "Medicare Payment Amount": 11439
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 45739,
+      "Total Payment Amount": 10644,
+      "Medicare Payment Amount": 9411
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 182810,
+      "Total Payment Amount": 38835,
+      "Medicare Payment Amount": 36629
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 42632,
+      "Total Payment Amount": 11004,
+      "Medicare Payment Amount": 9810
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 31296,
+      "Total Payment Amount": 7064,
+      "Medicare Payment Amount": 5742
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 41314,
+      "Total Payment Amount": 9175,
+      "Medicare Payment Amount": 7757
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 29195,
+      "Total Payment Amount": 6714,
+      "Medicare Payment Amount": 5237
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 55484,
+      "Total Payment Amount": 11274,
+      "Medicare Payment Amount": 10016
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30838,
+      "Total Payment Amount": 8010,
+      "Medicare Payment Amount": 7043
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 41587,
+      "Total Payment Amount": 10775,
+      "Medicare Payment Amount": 9778
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 49832,
+      "Total Payment Amount": 11822,
+      "Medicare Payment Amount": 10764
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 65300,
+      "Total Payment Amount": 9497,
+      "Medicare Payment Amount": 8822
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 157473,
+      "Total Payment Amount": 38390,
+      "Medicare Payment Amount": 35867
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 69432,
+      "Total Payment Amount": 14102,
+      "Medicare Payment Amount": 12583
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 128244,
+      "Total Payment Amount": 31168,
+      "Medicare Payment Amount": 30346
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 47844,
+      "Total Payment Amount": 13188,
+      "Medicare Payment Amount": 12541
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 295731,
+      "Total Payment Amount": 59221,
+      "Medicare Payment Amount": 57718
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 70018,
+      "Total Payment Amount": 15643,
+      "Medicare Payment Amount": 13423
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 40030,
+      "Total Payment Amount": 8684,
+      "Medicare Payment Amount": 6436
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 41228,
+      "Total Payment Amount": 12174,
+      "Medicare Payment Amount": 10989
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 44965,
+      "Total Payment Amount": 12432,
+      "Medicare Payment Amount": 8633
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 58022,
+      "Total Payment Amount": 11683,
+      "Medicare Payment Amount": 10571
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 55287,
+      "Total Payment Amount": 13736,
+      "Medicare Payment Amount": 12656
+    },
+    {
+      "Hospital_Name": "St Luke's Regional Medical Center",
+      "Address": "190 East Bannock Street, Boise, ID 83712",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 145866,
+      "Total Payment Amount": 34353,
+      "Medicare Payment Amount": 33160
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 186091,
+      "Total Payment Amount": 48331,
+      "Medicare Payment Amount": 46179
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 110257,
+      "Total Payment Amount": 33053,
+      "Medicare Payment Amount": 31807
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 47078,
+      "Total Payment Amount": 11182,
+      "Medicare Payment Amount": 9479
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 71332,
+      "Total Payment Amount": 15818,
+      "Medicare Payment Amount": 14320
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 38136,
+      "Total Payment Amount": 8869,
+      "Medicare Payment Amount": 6978
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 29644,
+      "Total Payment Amount": 6415,
+      "Medicare Payment Amount": 4908
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 29892,
+      "Total Payment Amount": 7160,
+      "Medicare Payment Amount": 5806
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 73518,
+      "Total Payment Amount": 19678,
+      "Medicare Payment Amount": 18263
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 55137,
+      "Total Payment Amount": 11307,
+      "Medicare Payment Amount": 9752
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 32767,
+      "Total Payment Amount": 10734,
+      "Medicare Payment Amount": 9167
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 48155,
+      "Total Payment Amount": 8744,
+      "Medicare Payment Amount": 7264
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 76482,
+      "Total Payment Amount": 18439,
+      "Medicare Payment Amount": 17069
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 161614,
+      "Total Payment Amount": 39507,
+      "Medicare Payment Amount": 38160
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 92240,
+      "Total Payment Amount": 23890,
+      "Medicare Payment Amount": 16487
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 46964,
+      "Total Payment Amount": 12682,
+      "Medicare Payment Amount": 8879
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 26302,
+      "Total Payment Amount": 7298,
+      "Medicare Payment Amount": 6180
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 46739,
+      "Total Payment Amount": 15638,
+      "Medicare Payment Amount": 13051
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR CHEST TRAUMA WITH MCC",
+      "Submitted Covered Payment": 33860,
+      "Total Payment Amount": 12373,
+      "Medicare Payment Amount": 10271
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 27558,
+      "Total Payment Amount": 9975,
+      "Medicare Payment Amount": 5760
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 43384,
+      "Total Payment Amount": 10557,
+      "Medicare Payment Amount": 8729
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 41522,
+      "Total Payment Amount": 8903,
+      "Medicare Payment Amount": 7499
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 38520,
+      "Total Payment Amount": 10609,
+      "Medicare Payment Amount": 9311
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PNEUMOTHORAX WITH MCC",
+      "Submitted Covered Payment": 44179,
+      "Total Payment Amount": 15753,
+      "Medicare Payment Amount": 11559
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PNEUMOTHORAX WITH CC",
+      "Submitted Covered Payment": 35328,
+      "Total Payment Amount": 9867,
+      "Medicare Payment Amount": 7299
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 139340,
+      "Total Payment Amount": 26671,
+      "Medicare Payment Amount": 24883
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 183399,
+      "Total Payment Amount": 43409,
+      "Medicare Payment Amount": 37551
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER CARDIOTHORACIC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 100502,
+      "Total Payment Amount": 25225,
+      "Medicare Payment Amount": 23825
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 171347,
+      "Total Payment Amount": 30886,
+      "Medicare Payment Amount": 29842
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 88087,
+      "Total Payment Amount": 27745,
+      "Medicare Payment Amount": 21946
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 53197,
+      "Total Payment Amount": 18503,
+      "Medicare Payment Amount": 16963
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 119199,
+      "Total Payment Amount": 23624,
+      "Medicare Payment Amount": 22268
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 77878,
+      "Total Payment Amount": 16389,
+      "Medicare Payment Amount": 13321
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 117812,
+      "Total Payment Amount": 47785,
+      "Medicare Payment Amount": 46769
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 112915,
+      "Total Payment Amount": 38449,
+      "Medicare Payment Amount": 37345
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 179149,
+      "Total Payment Amount": 40851,
+      "Medicare Payment Amount": 39796
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 79138,
+      "Total Payment Amount": 30383,
+      "Medicare Payment Amount": 28735
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 75890,
+      "Total Payment Amount": 25883,
+      "Medicare Payment Amount": 23766
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 62770,
+      "Total Payment Amount": 13254,
+      "Medicare Payment Amount": 12001
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 37767,
+      "Total Payment Amount": 8031,
+      "Medicare Payment Amount": 6899
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 80160,
+      "Total Payment Amount": 16983,
+      "Medicare Payment Amount": 15597
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 50043,
+      "Total Payment Amount": 10279,
+      "Medicare Payment Amount": 7362
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 46640,
+      "Total Payment Amount": 11760,
+      "Medicare Payment Amount": 8983
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 27906,
+      "Total Payment Amount": 7341,
+      "Medicare Payment Amount": 4682
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 54347,
+      "Total Payment Amount": 10829,
+      "Medicare Payment Amount": 9711
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 27108,
+      "Total Payment Amount": 6953,
+      "Medicare Payment Amount": 5229
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20020,
+      "Total Payment Amount": 5813,
+      "Medicare Payment Amount": 3575
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 45928,
+      "Total Payment Amount": 8464,
+      "Medicare Payment Amount": 6090
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 28670,
+      "Total Payment Amount": 6585,
+      "Medicare Payment Amount": 5183
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 95735,
+      "Total Payment Amount": 25180,
+      "Medicare Payment Amount": 19904
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 78050,
+      "Total Payment Amount": 16586,
+      "Medicare Payment Amount": 12559
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 106099,
+      "Total Payment Amount": 34789,
+      "Medicare Payment Amount": 33222
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 71608,
+      "Total Payment Amount": 18325,
+      "Medicare Payment Amount": 16829
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 52906,
+      "Total Payment Amount": 15644,
+      "Medicare Payment Amount": 10756
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 70883,
+      "Total Payment Amount": 14145,
+      "Medicare Payment Amount": 12974
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 34973,
+      "Total Payment Amount": 9024,
+      "Medicare Payment Amount": 6589
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 27906,
+      "Total Payment Amount": 7243,
+      "Medicare Payment Amount": 6019
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 40449,
+      "Total Payment Amount": 10753,
+      "Medicare Payment Amount": 9536
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 27630,
+      "Total Payment Amount": 7347,
+      "Medicare Payment Amount": 5469
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 45965,
+      "Total Payment Amount": 16923,
+      "Medicare Payment Amount": 9652
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 27915,
+      "Total Payment Amount": 8841,
+      "Medicare Payment Amount": 6292
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 70857,
+      "Total Payment Amount": 37362,
+      "Medicare Payment Amount": 31883
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 93402,
+      "Total Payment Amount": 28706,
+      "Medicare Payment Amount": 25223
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 90391,
+      "Total Payment Amount": 21424,
+      "Medicare Payment Amount": 19791
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 63814,
+      "Total Payment Amount": 19628,
+      "Medicare Payment Amount": 11766
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 106128,
+      "Total Payment Amount": 22354,
+      "Medicare Payment Amount": 20735
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 63658,
+      "Total Payment Amount": 17499,
+      "Medicare Payment Amount": 14329
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 75399,
+      "Total Payment Amount": 20336,
+      "Medicare Payment Amount": 15585
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITHOUT CC/MCC",
+      "Submitted Covered Payment": 54543,
+      "Total Payment Amount": 15118,
+      "Medicare Payment Amount": 13580
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 90450,
+      "Total Payment Amount": 23828,
+      "Medicare Payment Amount": 22368
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 69226,
+      "Total Payment Amount": 17592,
+      "Medicare Payment Amount": 14744
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 27958,
+      "Total Payment Amount": 6879,
+      "Medicare Payment Amount": 5583
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 69231,
+      "Total Payment Amount": 16832,
+      "Medicare Payment Amount": 12868
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 30888,
+      "Total Payment Amount": 8352,
+      "Medicare Payment Amount": 6556
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 34013,
+      "Total Payment Amount": 7662,
+      "Medicare Payment Amount": 5810
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 27554,
+      "Total Payment Amount": 8265,
+      "Medicare Payment Amount": 5686
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 44825,
+      "Total Payment Amount": 11165,
+      "Medicare Payment Amount": 9817
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 62419,
+      "Total Payment Amount": 6933,
+      "Medicare Payment Amount": 6224
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 59982,
+      "Total Payment Amount": 12280,
+      "Medicare Payment Amount": 10698
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 34309,
+      "Total Payment Amount": 6830,
+      "Medicare Payment Amount": 5457
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 84586,
+      "Total Payment Amount": 16066,
+      "Medicare Payment Amount": 10500
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 28314,
+      "Total Payment Amount": 8257,
+      "Medicare Payment Amount": 6403
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 30150,
+      "Total Payment Amount": 9690,
+      "Medicare Payment Amount": 8437
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 23617,
+      "Total Payment Amount": 7013,
+      "Medicare Payment Amount": 5823
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 68186,
+      "Total Payment Amount": 16894,
+      "Medicare Payment Amount": 13974
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 141318,
+      "Total Payment Amount": 38893,
+      "Medicare Payment Amount": 35366
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 67867,
+      "Total Payment Amount": 16316,
+      "Medicare Payment Amount": 14521
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 41835,
+      "Total Payment Amount": 8932,
+      "Medicare Payment Amount": 7066
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 67938,
+      "Total Payment Amount": 13776,
+      "Medicare Payment Amount": 10600
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 71324,
+      "Total Payment Amount": 15328,
+      "Medicare Payment Amount": 13692
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 30777,
+      "Total Payment Amount": 6920,
+      "Medicare Payment Amount": 5670
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH CC",
+      "Submitted Covered Payment": 63158,
+      "Total Payment Amount": 15188,
+      "Medicare Payment Amount": 14231
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 55624,
+      "Total Payment Amount": 11652,
+      "Medicare Payment Amount": 10252
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 29506,
+      "Total Payment Amount": 7567,
+      "Medicare Payment Amount": 5202
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA WITH MCC",
+      "Submitted Covered Payment": 268824,
+      "Total Payment Amount": 65184,
+      "Medicare Payment Amount": 58872
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "OTHER MULTIPLE SIGNIFICANT TRAUMA WITH MCC",
+      "Submitted Covered Payment": 81465,
+      "Total Payment Amount": 21841,
+      "Medicare Payment Amount": 20472
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Regional Medical Center",
+      "Address": "1055 North Curtis Road, Boise, ID 83706",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 146498,
+      "Total Payment Amount": 39525,
+      "Medicare Payment Amount": 33277
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 72780,
+      "Total Payment Amount": 15193,
+      "Medicare Payment Amount": 13482
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 53117,
+      "Total Payment Amount": 9584,
+      "Medicare Payment Amount": 7047
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 39427,
+      "Total Payment Amount": 15000,
+      "Medicare Payment Amount": 12712
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 54222,
+      "Total Payment Amount": 10813,
+      "Medicare Payment Amount": 8896
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 72315,
+      "Total Payment Amount": 9433,
+      "Medicare Payment Amount": 8175
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 46890,
+      "Total Payment Amount": 11152,
+      "Medicare Payment Amount": 9696
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 163760,
+      "Total Payment Amount": 26396,
+      "Medicare Payment Amount": 24796
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 87104,
+      "Total Payment Amount": 15146,
+      "Medicare Payment Amount": 13546
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 65433,
+      "Total Payment Amount": 12722,
+      "Medicare Payment Amount": 9553
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 50246,
+      "Total Payment Amount": 10790,
+      "Medicare Payment Amount": 9691
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 61386,
+      "Total Payment Amount": 10290,
+      "Medicare Payment Amount": 9166
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 38151,
+      "Total Payment Amount": 6959,
+      "Medicare Payment Amount": 5702
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 32054,
+      "Total Payment Amount": 7866,
+      "Medicare Payment Amount": 6759
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 31307,
+      "Total Payment Amount": 6844,
+      "Medicare Payment Amount": 5377
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 39469,
+      "Total Payment Amount": 9928,
+      "Medicare Payment Amount": 6953
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 24372,
+      "Total Payment Amount": 8334,
+      "Medicare Payment Amount": 5534
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32245,
+      "Total Payment Amount": 10992,
+      "Medicare Payment Amount": 9392
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 56767,
+      "Total Payment Amount": 15190,
+      "Medicare Payment Amount": 13590
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 70060,
+      "Total Payment Amount": 22231,
+      "Medicare Payment Amount": 20922
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 71471,
+      "Total Payment Amount": 16561,
+      "Medicare Payment Amount": 15304
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 69954,
+      "Total Payment Amount": 16982,
+      "Medicare Payment Amount": 15496
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 30521,
+      "Total Payment Amount": 7175,
+      "Medicare Payment Amount": 6175
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 55231,
+      "Total Payment Amount": 11930,
+      "Medicare Payment Amount": 10901
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 28442,
+      "Total Payment Amount": 8058,
+      "Medicare Payment Amount": 6894
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 25984,
+      "Total Payment Amount": 7348,
+      "Medicare Payment Amount": 6148
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 163958,
+      "Total Payment Amount": 58407,
+      "Medicare Payment Amount": 35678
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 69819,
+      "Total Payment Amount": 16706,
+      "Medicare Payment Amount": 14050
+    },
+    {
+      "Hospital_Name": "Saint Alphonsus Medical Center - Nampa",
+      "Address": "4300 E Flamingo Ave, Nampa, ID 83687",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 54849,
+      "Total Payment Amount": 10903,
+      "Medicare Payment Amount": 8664
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 76117,
+      "Total Payment Amount": 13234,
+      "Medicare Payment Amount": 12470
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 45019,
+      "Total Payment Amount": 13578,
+      "Medicare Payment Amount": 11322
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 63119,
+      "Total Payment Amount": 11513,
+      "Medicare Payment Amount": 10392
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 42967,
+      "Total Payment Amount": 10379,
+      "Medicare Payment Amount": 9379
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 51078,
+      "Total Payment Amount": 15119,
+      "Medicare Payment Amount": 12785
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 36955,
+      "Total Payment Amount": 8860,
+      "Medicare Payment Amount": 7342
+    },
+    {
+      "Hospital_Name": "West Valley Medical Center",
+      "Address": "1717 Arlington Street, Caldwell, ID 83605",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 45480,
+      "Total Payment Amount": 11153,
+      "Medicare Payment Amount": 8948
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 299039,
+      "Total Payment Amount": 42242,
+      "Medicare Payment Amount": 40337
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 205502,
+      "Total Payment Amount": 33196,
+      "Medicare Payment Amount": 31504
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 90664,
+      "Total Payment Amount": 16659,
+      "Medicare Payment Amount": 12036
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 92546,
+      "Total Payment Amount": 15868,
+      "Medicare Payment Amount": 12762
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 44987,
+      "Total Payment Amount": 8030,
+      "Medicare Payment Amount": 6534
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 45055,
+      "Total Payment Amount": 7556,
+      "Medicare Payment Amount": 4851
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 87216,
+      "Total Payment Amount": 14037,
+      "Medicare Payment Amount": 12840
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 74684,
+      "Total Payment Amount": 14987,
+      "Medicare Payment Amount": 13421
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 34316,
+      "Total Payment Amount": 7357,
+      "Medicare Payment Amount": 6043
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 282658,
+      "Total Payment Amount": 34919,
+      "Medicare Payment Amount": 33272
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 68446,
+      "Total Payment Amount": 15158,
+      "Medicare Payment Amount": 10974
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 48078,
+      "Total Payment Amount": 9827,
+      "Medicare Payment Amount": 8365
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 52218,
+      "Total Payment Amount": 9992,
+      "Medicare Payment Amount": 8702
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 149315,
+      "Total Payment Amount": 21375,
+      "Medicare Payment Amount": 18608
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 153726,
+      "Total Payment Amount": 17452,
+      "Medicare Payment Amount": 15888
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 219381,
+      "Total Payment Amount": 25719,
+      "Medicare Payment Amount": 21920
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 160932,
+      "Total Payment Amount": 14982,
+      "Medicare Payment Amount": 13497
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 267763,
+      "Total Payment Amount": 38178,
+      "Medicare Payment Amount": 36841
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 238028,
+      "Total Payment Amount": 25603,
+      "Medicare Payment Amount": 23344
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 68972,
+      "Total Payment Amount": 12179,
+      "Medicare Payment Amount": 10490
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 72646,
+      "Total Payment Amount": 7616,
+      "Medicare Payment Amount": 5988
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 112882,
+      "Total Payment Amount": 16574,
+      "Medicare Payment Amount": 14868
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 74467,
+      "Total Payment Amount": 8882,
+      "Medicare Payment Amount": 7337
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 53888,
+      "Total Payment Amount": 10265,
+      "Medicare Payment Amount": 8952
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 32657,
+      "Total Payment Amount": 7058,
+      "Medicare Payment Amount": 4046
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 170659,
+      "Total Payment Amount": 14680,
+      "Medicare Payment Amount": 12967
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 235408,
+      "Total Payment Amount": 34862,
+      "Medicare Payment Amount": 33330
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 85631,
+      "Total Payment Amount": 13204,
+      "Medicare Payment Amount": 12072
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 41644,
+      "Total Payment Amount": 8104,
+      "Medicare Payment Amount": 7005
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 28344,
+      "Total Payment Amount": 6597,
+      "Medicare Payment Amount": 5212
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 37692,
+      "Total Payment Amount": 11061,
+      "Medicare Payment Amount": 7461
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 41728,
+      "Total Payment Amount": 6065,
+      "Medicare Payment Amount": 4653
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 53543,
+      "Total Payment Amount": 7821,
+      "Medicare Payment Amount": 6573
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 256938,
+      "Total Payment Amount": 46325,
+      "Medicare Payment Amount": 44482
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 240095,
+      "Total Payment Amount": 35782,
+      "Medicare Payment Amount": 34173
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 202999,
+      "Total Payment Amount": 48506,
+      "Medicare Payment Amount": 22323
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 140033,
+      "Total Payment Amount": 23188,
+      "Medicare Payment Amount": 21564
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 120001,
+      "Total Payment Amount": 16013,
+      "Medicare Payment Amount": 14232
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 93357,
+      "Total Payment Amount": 15875,
+      "Medicare Payment Amount": 14203
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 116328,
+      "Total Payment Amount": 19064,
+      "Medicare Payment Amount": 13665
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 47512,
+      "Total Payment Amount": 7729,
+      "Medicare Payment Amount": 6033
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 38211,
+      "Total Payment Amount": 9866,
+      "Medicare Payment Amount": 8536
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 63470,
+      "Total Payment Amount": 11356,
+      "Medicare Payment Amount": 10156
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 34246,
+      "Total Payment Amount": 8085,
+      "Medicare Payment Amount": 5649
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 50314,
+      "Total Payment Amount": 9152,
+      "Medicare Payment Amount": 7893
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 69562,
+      "Total Payment Amount": 12147,
+      "Medicare Payment Amount": 10928
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 31431,
+      "Total Payment Amount": 7860,
+      "Medicare Payment Amount": 6775
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 59857,
+      "Total Payment Amount": 11055,
+      "Medicare Payment Amount": 9913
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 215094,
+      "Total Payment Amount": 37983,
+      "Medicare Payment Amount": 33674
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 98948,
+      "Total Payment Amount": 16414,
+      "Medicare Payment Amount": 13476
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 47155,
+      "Total Payment Amount": 8744,
+      "Medicare Payment Amount": 6050
+    },
+    {
+      "Hospital_Name": "Eastern Idaho Regional Medical Center",
+      "Address": "3100 Channing Way, Idaho Falls, ID 83404",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 112376,
+      "Total Payment Amount": 12034,
+      "Medicare Payment Amount": 10364
+    },
+    {
+      "Hospital_Name": "Madison Memorial Hospital",
+      "Address": "450 East Main Street, Rexburg, ID 83440",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 31983,
+      "Total Payment Amount": 13155,
+      "Medicare Payment Amount": 11623
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 67901,
+      "Total Payment Amount": 18403,
+      "Medicare Payment Amount": 16928
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 55994,
+      "Total Payment Amount": 9546,
+      "Medicare Payment Amount": 7905
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 52899,
+      "Total Payment Amount": 13113,
+      "Medicare Payment Amount": 11433
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 73675,
+      "Total Payment Amount": 18717,
+      "Medicare Payment Amount": 15305
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 55056,
+      "Total Payment Amount": 11669,
+      "Medicare Payment Amount": 10235
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 46831,
+      "Total Payment Amount": 11884,
+      "Medicare Payment Amount": 10577
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 140535,
+      "Total Payment Amount": 22004,
+      "Medicare Payment Amount": 20897
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 275992,
+      "Total Payment Amount": 31777,
+      "Medicare Payment Amount": 30299
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 149242,
+      "Total Payment Amount": 19046,
+      "Medicare Payment Amount": 15732
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 276971,
+      "Total Payment Amount": 51681,
+      "Medicare Payment Amount": 44037
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 184970,
+      "Total Payment Amount": 33126,
+      "Medicare Payment Amount": 29146
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 88171,
+      "Total Payment Amount": 15219,
+      "Medicare Payment Amount": 13736
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 62951,
+      "Total Payment Amount": 10359,
+      "Medicare Payment Amount": 7093
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 111716,
+      "Total Payment Amount": 19725,
+      "Medicare Payment Amount": 18549
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 63715,
+      "Total Payment Amount": 10294,
+      "Medicare Payment Amount": 8634
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 58436,
+      "Total Payment Amount": 12309,
+      "Medicare Payment Amount": 10859
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 32840,
+      "Total Payment Amount": 7055,
+      "Medicare Payment Amount": 5665
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 40977,
+      "Total Payment Amount": 12155,
+      "Medicare Payment Amount": 9457
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 33014,
+      "Total Payment Amount": 7559,
+      "Medicare Payment Amount": 5308
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 122363,
+      "Total Payment Amount": 24509,
+      "Medicare Payment Amount": 19725
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 98127,
+      "Total Payment Amount": 16927,
+      "Medicare Payment Amount": 15864
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 56290,
+      "Total Payment Amount": 9252,
+      "Medicare Payment Amount": 7920
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 26981,
+      "Total Payment Amount": 7503,
+      "Medicare Payment Amount": 5920
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 147899,
+      "Total Payment Amount": 35075,
+      "Medicare Payment Amount": 33474
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 129973,
+      "Total Payment Amount": 18241,
+      "Medicare Payment Amount": 15068
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 170600,
+      "Total Payment Amount": 28490,
+      "Medicare Payment Amount": 27004
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 152496,
+      "Total Payment Amount": 20161,
+      "Medicare Payment Amount": 18613
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 35696,
+      "Total Payment Amount": 9103,
+      "Medicare Payment Amount": 7533
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 61938,
+      "Total Payment Amount": 12344,
+      "Medicare Payment Amount": 11205
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 51365,
+      "Total Payment Amount": 8276,
+      "Medicare Payment Amount": 7075
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 83487,
+      "Total Payment Amount": 12333,
+      "Medicare Payment Amount": 11350
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 31388,
+      "Total Payment Amount": 7216,
+      "Medicare Payment Amount": 5820
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 64364,
+      "Total Payment Amount": 14113,
+      "Medicare Payment Amount": 12314
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 37889,
+      "Total Payment Amount": 8408,
+      "Medicare Payment Amount": 7132
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 54625,
+      "Total Payment Amount": 10892,
+      "Medicare Payment Amount": 9629
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 43583,
+      "Total Payment Amount": 7523,
+      "Medicare Payment Amount": 6148
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 79723,
+      "Total Payment Amount": 15319,
+      "Medicare Payment Amount": 14083
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 203703,
+      "Total Payment Amount": 49068,
+      "Medicare Payment Amount": 44837
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 87713,
+      "Total Payment Amount": 19227,
+      "Medicare Payment Amount": 17587
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 72851,
+      "Total Payment Amount": 19368,
+      "Medicare Payment Amount": 16369
+    },
+    {
+      "Hospital_Name": "Portneuf Medical Center",
+      "Address": "777 Hospital Way, Pocatello, ID 83201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 56765,
+      "Total Payment Amount": 9902,
+      "Medicare Payment Amount": 8064
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 100614,
+      "Total Payment Amount": 29787,
+      "Medicare Payment Amount": 28408
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 46598,
+      "Total Payment Amount": 12373,
+      "Medicare Payment Amount": 11040
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 36827,
+      "Total Payment Amount": 8894,
+      "Medicare Payment Amount": 7555
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 48058,
+      "Total Payment Amount": 16222,
+      "Medicare Payment Amount": 13901
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25730,
+      "Total Payment Amount": 9489,
+      "Medicare Payment Amount": 7958
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 43029,
+      "Total Payment Amount": 14048,
+      "Medicare Payment Amount": 12762
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 26028,
+      "Total Payment Amount": 7420,
+      "Medicare Payment Amount": 6086
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19779,
+      "Total Payment Amount": 5620,
+      "Medicare Payment Amount": 4195
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31804,
+      "Total Payment Amount": 11678,
+      "Medicare Payment Amount": 10580
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 49034,
+      "Total Payment Amount": 18679,
+      "Medicare Payment Amount": 14473
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 33833,
+      "Total Payment Amount": 12317,
+      "Medicare Payment Amount": 11635
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 31074,
+      "Total Payment Amount": 7627,
+      "Medicare Payment Amount": 6357
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 55323,
+      "Total Payment Amount": 14619,
+      "Medicare Payment Amount": 13117
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 75250,
+      "Total Payment Amount": 23277,
+      "Medicare Payment Amount": 21763
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 33832,
+      "Total Payment Amount": 9909,
+      "Medicare Payment Amount": 8425
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 37504,
+      "Total Payment Amount": 13056,
+      "Medicare Payment Amount": 11418
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 25173,
+      "Total Payment Amount": 7618,
+      "Medicare Payment Amount": 6222
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 32039,
+      "Total Payment Amount": 9401,
+      "Medicare Payment Amount": 7816
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 36274,
+      "Total Payment Amount": 8900,
+      "Medicare Payment Amount": 6799
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32088,
+      "Total Payment Amount": 10069,
+      "Medicare Payment Amount": 8315
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PNEUMOTHORAX WITH MCC",
+      "Submitted Covered Payment": 49501,
+      "Total Payment Amount": 14738,
+      "Medicare Payment Amount": 13476
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 73154,
+      "Total Payment Amount": 19814,
+      "Medicare Payment Amount": 18732
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 251487,
+      "Total Payment Amount": 64689,
+      "Medicare Payment Amount": 63108
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 195115,
+      "Total Payment Amount": 42722,
+      "Medicare Payment Amount": 41115
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 270781,
+      "Total Payment Amount": 67532,
+      "Medicare Payment Amount": 65648
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 176166,
+      "Total Payment Amount": 38781,
+      "Medicare Payment Amount": 37027
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 227208,
+      "Total Payment Amount": 53099,
+      "Medicare Payment Amount": 51739
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 144179,
+      "Total Payment Amount": 30459,
+      "Medicare Payment Amount": 28813
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 83885,
+      "Total Payment Amount": 25363,
+      "Medicare Payment Amount": 23804
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 54332,
+      "Total Payment Amount": 17096,
+      "Medicare Payment Amount": 15659
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 46495,
+      "Total Payment Amount": 14290,
+      "Medicare Payment Amount": 12803
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 98448,
+      "Total Payment Amount": 24668,
+      "Medicare Payment Amount": 20547
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 68063,
+      "Total Payment Amount": 14939,
+      "Medicare Payment Amount": 12335
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 73407,
+      "Total Payment Amount": 24916,
+      "Medicare Payment Amount": 23645
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 54571,
+      "Total Payment Amount": 19828,
+      "Medicare Payment Amount": 18448
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 162747,
+      "Total Payment Amount": 49845,
+      "Medicare Payment Amount": 49220
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 148661,
+      "Total Payment Amount": 37921,
+      "Medicare Payment Amount": 37102
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 122792,
+      "Total Payment Amount": 31684,
+      "Medicare Payment Amount": 30055
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 120081,
+      "Total Payment Amount": 37982,
+      "Medicare Payment Amount": 36553
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 88691,
+      "Total Payment Amount": 27257,
+      "Medicare Payment Amount": 25825
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 101442,
+      "Total Payment Amount": 25057,
+      "Medicare Payment Amount": 23729
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 40755,
+      "Total Payment Amount": 11895,
+      "Medicare Payment Amount": 10712
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 35341,
+      "Total Payment Amount": 7232,
+      "Medicare Payment Amount": 6155
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 62155,
+      "Total Payment Amount": 17178,
+      "Medicare Payment Amount": 15162
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 36230,
+      "Total Payment Amount": 8518,
+      "Medicare Payment Amount": 6893
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32322,
+      "Total Payment Amount": 9805,
+      "Medicare Payment Amount": 8314
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 32501,
+      "Total Payment Amount": 6669,
+      "Medicare Payment Amount": 5362
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 17931,
+      "Total Payment Amount": 5984,
+      "Medicare Payment Amount": 4693
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31753,
+      "Total Payment Amount": 9095,
+      "Medicare Payment Amount": 7767
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 23032,
+      "Total Payment Amount": 6142,
+      "Medicare Payment Amount": 4561
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 22605,
+      "Total Payment Amount": 6816,
+      "Medicare Payment Amount": 5693
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 48464,
+      "Total Payment Amount": 16276,
+      "Medicare Payment Amount": 13803
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 85666,
+      "Total Payment Amount": 21746,
+      "Medicare Payment Amount": 20188
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 65278,
+      "Total Payment Amount": 13945,
+      "Medicare Payment Amount": 12553
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 99221,
+      "Total Payment Amount": 33580,
+      "Medicare Payment Amount": 32170
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 67409,
+      "Total Payment Amount": 18194,
+      "Medicare Payment Amount": 16944
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32844,
+      "Total Payment Amount": 13613,
+      "Medicare Payment Amount": 10778
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 92224,
+      "Total Payment Amount": 17639,
+      "Medicare Payment Amount": 16324
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 22172,
+      "Total Payment Amount": 8961,
+      "Medicare Payment Amount": 7898
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 39475,
+      "Total Payment Amount": 13179,
+      "Medicare Payment Amount": 12113
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 24294,
+      "Total Payment Amount": 7540,
+      "Medicare Payment Amount": 6233
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 24583,
+      "Total Payment Amount": 10643,
+      "Medicare Payment Amount": 9227
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 14026,
+      "Total Payment Amount": 6409,
+      "Medicare Payment Amount": 5092
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 14340,
+      "Total Payment Amount": 4672,
+      "Medicare Payment Amount": 3304
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27186,
+      "Total Payment Amount": 9596,
+      "Medicare Payment Amount": 8035
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 20678,
+      "Total Payment Amount": 6428,
+      "Medicare Payment Amount": 4813
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 56607,
+      "Total Payment Amount": 15243,
+      "Medicare Payment Amount": 12609
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 20987,
+      "Total Payment Amount": 7086,
+      "Medicare Payment Amount": 5957
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 63798,
+      "Total Payment Amount": 18105,
+      "Medicare Payment Amount": 16684
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 48627,
+      "Total Payment Amount": 12646,
+      "Medicare Payment Amount": 11157
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 43973,
+      "Total Payment Amount": 14367,
+      "Medicare Payment Amount": 12942
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 42806,
+      "Total Payment Amount": 13258,
+      "Medicare Payment Amount": 12391
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 35128,
+      "Total Payment Amount": 7455,
+      "Medicare Payment Amount": 6233
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 114269,
+      "Total Payment Amount": 27727,
+      "Medicare Payment Amount": 26088
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 100992,
+      "Total Payment Amount": 27902,
+      "Medicare Payment Amount": 22488
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 75820,
+      "Total Payment Amount": 14693,
+      "Medicare Payment Amount": 13048
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 66485,
+      "Total Payment Amount": 19972,
+      "Medicare Payment Amount": 18638
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 58487,
+      "Total Payment Amount": 15993,
+      "Medicare Payment Amount": 13861
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 42803,
+      "Total Payment Amount": 12252,
+      "Medicare Payment Amount": 10710
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 67125,
+      "Total Payment Amount": 17763,
+      "Medicare Payment Amount": 15772
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 60397,
+      "Total Payment Amount": 13938,
+      "Medicare Payment Amount": 12374
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 40978,
+      "Total Payment Amount": 11453,
+      "Medicare Payment Amount": 9826
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 79120,
+      "Total Payment Amount": 21558,
+      "Medicare Payment Amount": 20105
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 77928,
+      "Total Payment Amount": 17053,
+      "Medicare Payment Amount": 15514
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 20397,
+      "Total Payment Amount": 6068,
+      "Medicare Payment Amount": 4514
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 25057,
+      "Total Payment Amount": 7883,
+      "Medicare Payment Amount": 6562
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 27962,
+      "Total Payment Amount": 7593,
+      "Medicare Payment Amount": 6226
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19297,
+      "Total Payment Amount": 6857,
+      "Medicare Payment Amount": 5493
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 52828,
+      "Total Payment Amount": 12969,
+      "Medicare Payment Amount": 11566
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 28164,
+      "Total Payment Amount": 10292,
+      "Medicare Payment Amount": 8644
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 34011,
+      "Total Payment Amount": 7447,
+      "Medicare Payment Amount": 5915
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 33964,
+      "Total Payment Amount": 10119,
+      "Medicare Payment Amount": 9040
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20777,
+      "Total Payment Amount": 6033,
+      "Medicare Payment Amount": 4716
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 34372,
+      "Total Payment Amount": 12612,
+      "Medicare Payment Amount": 11242
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 28028,
+      "Total Payment Amount": 10407,
+      "Medicare Payment Amount": 8770
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 83172,
+      "Total Payment Amount": 27180,
+      "Medicare Payment Amount": 24458
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 32882,
+      "Total Payment Amount": 10880,
+      "Medicare Payment Amount": 9919
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 21940,
+      "Total Payment Amount": 6990,
+      "Medicare Payment Amount": 5442
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 31515,
+      "Total Payment Amount": 8382,
+      "Medicare Payment Amount": 7235
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 17004,
+      "Total Payment Amount": 6046,
+      "Medicare Payment Amount": 4708
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 39236,
+      "Total Payment Amount": 11568,
+      "Medicare Payment Amount": 10698
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 21764,
+      "Total Payment Amount": 10015,
+      "Medicare Payment Amount": 6286
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 23990,
+      "Total Payment Amount": 10632,
+      "Medicare Payment Amount": 9803
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 97691,
+      "Total Payment Amount": 32988,
+      "Medicare Payment Amount": 31077
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 43781,
+      "Total Payment Amount": 15023,
+      "Medicare Payment Amount": 13846
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 40000,
+      "Total Payment Amount": 14494,
+      "Medicare Payment Amount": 13095
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 146959,
+      "Total Payment Amount": 50752,
+      "Medicare Payment Amount": 40653
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 45146,
+      "Total Payment Amount": 14360,
+      "Medicare Payment Amount": 13136
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 22520,
+      "Total Payment Amount": 7959,
+      "Medicare Payment Amount": 6598
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 40155,
+      "Total Payment Amount": 11342,
+      "Medicare Payment Amount": 9318
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE, LEFT AMA",
+      "Submitted Covered Payment": 12567,
+      "Total Payment Amount": 4723,
+      "Medicare Payment Amount": 4103
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 29557,
+      "Total Payment Amount": 13294,
+      "Medicare Payment Amount": 12691
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 18399,
+      "Total Payment Amount": 6742,
+      "Medicare Payment Amount": 5509
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH MCC",
+      "Submitted Covered Payment": 87288,
+      "Total Payment Amount": 26352,
+      "Medicare Payment Amount": 25305
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 46460,
+      "Total Payment Amount": 13957,
+      "Medicare Payment Amount": 12794
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "COMPLICATIONS OF TREATMENT WITH CC",
+      "Submitted Covered Payment": 20523,
+      "Total Payment Amount": 8544,
+      "Medicare Payment Amount": 6758
+    },
+    {
+      "Hospital_Name": "Kootenai Health",
+      "Address": "2003 Kootenai Health Way, Coeur D'alene, ID 83814",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 80631,
+      "Total Payment Amount": 32614,
+      "Medicare Payment Amount": 31203
+    },
+    {
+      "Hospital_Name": "Treasure Valley Hospital",
+      "Address": "8800 West Emerald Street, Boise, ID 83704",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 85898,
+      "Total Payment Amount": 20953,
+      "Medicare Payment Amount": 19620
+    },
+    {
+      "Hospital_Name": "Treasure Valley Hospital",
+      "Address": "8800 West Emerald Street, Boise, ID 83704",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 90656,
+      "Total Payment Amount": 30165,
+      "Medicare Payment Amount": 28688
+    },
+    {
+      "Hospital_Name": "Treasure Valley Hospital",
+      "Address": "8800 West Emerald Street, Boise, ID 83704",
+      "Service": "CERVICAL SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 79293,
+      "Total Payment Amount": 16036,
+      "Medicare Payment Amount": 14664
+    },
+    {
+      "Hospital_Name": "Mountain View Hospital",
+      "Address": "2325 Coronado Street, Idaho Falls, ID 83404",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 129971,
+      "Total Payment Amount": 34252,
+      "Medicare Payment Amount": 30220
+    },
+    {
+      "Hospital_Name": "Mountain View Hospital",
+      "Address": "2325 Coronado Street, Idaho Falls, ID 83404",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 73157,
+      "Total Payment Amount": 23864,
+      "Medicare Payment Amount": 22340
+    },
+    {
+      "Hospital_Name": "Mountain View Hospital",
+      "Address": "2325 Coronado Street, Idaho Falls, ID 83404",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 82286,
+      "Total Payment Amount": 18264,
+      "Medicare Payment Amount": 17040
+    },
+    {
+      "Hospital_Name": "Mountain View Hospital",
+      "Address": "2325 Coronado Street, Idaho Falls, ID 83404",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 44276,
+      "Total Payment Amount": 12672,
+      "Medicare Payment Amount": 11117
+    },
+    {
+      "Hospital_Name": "Mountain View Hospital",
+      "Address": "2325 Coronado Street, Idaho Falls, ID 83404",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 49019,
+      "Total Payment Amount": 15894,
+      "Medicare Payment Amount": 14428
+    },
+    {
+      "Hospital_Name": "Northwest Specialty Hospital",
+      "Address": "1593 East Polston Avenue, Post Falls, ID 83854",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 233989,
+      "Total Payment Amount": 48139,
+      "Medicare Payment Amount": 45907
+    },
+    {
+      "Hospital_Name": "Northwest Specialty Hospital",
+      "Address": "1593 East Polston Avenue, Post Falls, ID 83854",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 163276,
+      "Total Payment Amount": 33402,
+      "Medicare Payment Amount": 29961
+    },
+    {
+      "Hospital_Name": "Northwest Specialty Hospital",
+      "Address": "1593 East Polston Avenue, Post Falls, ID 83854",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 126030,
+      "Total Payment Amount": 26893,
+      "Medicare Payment Amount": 23119
+    },
+    {
+      "Hospital_Name": "Northwest Specialty Hospital",
+      "Address": "1593 East Polston Avenue, Post Falls, ID 83854",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 76922,
+      "Total Payment Amount": 20886,
+      "Medicare Payment Amount": 15931
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 35585,
+      "Total Payment Amount": 8960,
+      "Medicare Payment Amount": 7612
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 62242,
+      "Total Payment Amount": 14452,
+      "Medicare Payment Amount": 12953
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 41078,
+      "Total Payment Amount": 14419,
+      "Medicare Payment Amount": 12806
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 40347,
+      "Total Payment Amount": 10307,
+      "Medicare Payment Amount": 9284
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 37314,
+      "Total Payment Amount": 10895,
+      "Medicare Payment Amount": 9348
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 39883,
+      "Total Payment Amount": 12538,
+      "Medicare Payment Amount": 11114
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 50229,
+      "Total Payment Amount": 12684,
+      "Medicare Payment Amount": 10383
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 74496,
+      "Total Payment Amount": 16396,
+      "Medicare Payment Amount": 14576
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 95518,
+      "Total Payment Amount": 15688,
+      "Medicare Payment Amount": 14253
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 36457,
+      "Total Payment Amount": 11695,
+      "Medicare Payment Amount": 8828
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 27827,
+      "Total Payment Amount": 7040,
+      "Medicare Payment Amount": 5543
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 38547,
+      "Total Payment Amount": 11829,
+      "Medicare Payment Amount": 10457
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 29267,
+      "Total Payment Amount": 8051,
+      "Medicare Payment Amount": 6758
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 41216,
+      "Total Payment Amount": 12803,
+      "Medicare Payment Amount": 11542
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 130058,
+      "Total Payment Amount": 38032,
+      "Medicare Payment Amount": 36082
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 61033,
+      "Total Payment Amount": 16884,
+      "Medicare Payment Amount": 15107
+    },
+    {
+      "Hospital_Name": "St Luke's Nampa Medical Center",
+      "Address": "9850 West St Lukes Drive, Nampa, ID 83687",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 34108,
+      "Total Payment Amount": 8913,
+      "Medicare Payment Amount": 7391
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 25348,
+      "Total Payment Amount": 6269,
+      "Medicare Payment Amount": 5251
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 38716,
+      "Total Payment Amount": 9059,
+      "Medicare Payment Amount": 7605
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 42881,
+      "Total Payment Amount": 12251,
+      "Medicare Payment Amount": 11085
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 37185,
+      "Total Payment Amount": 9131,
+      "Medicare Payment Amount": 8126
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 25539,
+      "Total Payment Amount": 6962,
+      "Medicare Payment Amount": 5362
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32341,
+      "Total Payment Amount": 8163,
+      "Medicare Payment Amount": 6924
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 21834,
+      "Total Payment Amount": 5277,
+      "Medicare Payment Amount": 4020
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 34983,
+      "Total Payment Amount": 8052,
+      "Medicare Payment Amount": 7125
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 76606,
+      "Total Payment Amount": 19832,
+      "Medicare Payment Amount": 18725
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 30543,
+      "Total Payment Amount": 6481,
+      "Medicare Payment Amount": 5138
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 21004,
+      "Total Payment Amount": 5509,
+      "Medicare Payment Amount": 3327
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 33886,
+      "Total Payment Amount": 11364,
+      "Medicare Payment Amount": 8354
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 73911,
+      "Total Payment Amount": 30927,
+      "Medicare Payment Amount": 29472
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 47465,
+      "Total Payment Amount": 16504,
+      "Medicare Payment Amount": 15485
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 43058,
+      "Total Payment Amount": 12825,
+      "Medicare Payment Amount": 11225
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 19166,
+      "Total Payment Amount": 5020,
+      "Medicare Payment Amount": 3953
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 42171,
+      "Total Payment Amount": 11912,
+      "Medicare Payment Amount": 10790
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23712,
+      "Total Payment Amount": 5771,
+      "Medicare Payment Amount": 4548
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 34776,
+      "Total Payment Amount": 8323,
+      "Medicare Payment Amount": 7066
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 18136,
+      "Total Payment Amount": 4867,
+      "Medicare Payment Amount": 3994
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 138162,
+      "Total Payment Amount": 49447,
+      "Medicare Payment Amount": 48428
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 55441,
+      "Total Payment Amount": 16541,
+      "Medicare Payment Amount": 15239
+    },
+    {
+      "Hospital_Name": "Idaho Falls Community Hospital, Llc",
+      "Address": "2327 Coronado St, Idaho Falls, ID 83404",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 29883,
+      "Total Payment Amount": 7953,
+      "Medicare Payment Amount": 6581
+    }
+  ]
+}
