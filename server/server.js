@@ -44,7 +44,6 @@ app.get('/api/hospitals/:state', (req, res) => {
   });
 });
 
-const PORT = 3001;
-app.listen(PORT, () => {
-  console.log(`✅ Server listening on http://localhost:${PORT}`);
-});
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, () => console.log(`Server running on ${PORT}`));
+

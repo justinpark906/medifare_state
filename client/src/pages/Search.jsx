@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import '../styles/Search.css';
 import Fuse from 'fuse.js';
 
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://medifare-state.onrender.com';
 
 function Search() {
   const [hospitalInput, setHospitalInput] = useState('');
