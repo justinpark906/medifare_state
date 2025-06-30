@@ -110,6 +110,7 @@ function Search() {
           <option value="">Select State</option>
           <option value="CA">California</option>
           <option value="NY">New York</option>
+          <option value="NJ">New Jersey</option>
         </select>
         <input
           type="text"

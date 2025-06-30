@@ -19,7 +19,8 @@ app.get('/api/hospitals/:state', (req, res) => {
   const state = req.params.state.toUpperCase();
   const fileMap = {
     CA: 'Hospitals_CA.json',
-    NY: 'Hospitals_NY.json'
+    NY: 'Hospitals_NY.json',
+    NJ: 'Hospitals_NJ.json'
   };
 
   const fileName = fileMap[state];
