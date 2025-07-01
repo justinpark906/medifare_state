@@ -1,0 +1,3916 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 21369,
+      "Total Payment Amount": 8581,
+      "Medicare Payment Amount": 7111
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 37705,
+      "Total Payment Amount": 16742,
+      "Medicare Payment Amount": 15502
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 23954,
+      "Total Payment Amount": 10284,
+      "Medicare Payment Amount": 9218
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 31882,
+      "Total Payment Amount": 10251,
+      "Medicare Payment Amount": 8917
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 30435,
+      "Total Payment Amount": 11179,
+      "Medicare Payment Amount": 9544
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 17244,
+      "Total Payment Amount": 9218,
+      "Medicare Payment Amount": 5323
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 33233,
+      "Total Payment Amount": 13686,
+      "Medicare Payment Amount": 12619
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 25298,
+      "Total Payment Amount": 7792,
+      "Medicare Payment Amount": 6512
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 27918,
+      "Total Payment Amount": 10822,
+      "Medicare Payment Amount": 9930
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 19489,
+      "Total Payment Amount": 6369,
+      "Medicare Payment Amount": 5036
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 21040,
+      "Total Payment Amount": 7327,
+      "Medicare Payment Amount": 5841
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 21139,
+      "Total Payment Amount": 8438,
+      "Medicare Payment Amount": 7070
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 45368,
+      "Total Payment Amount": 13484,
+      "Medicare Payment Amount": 10830
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 19886,
+      "Total Payment Amount": 6791,
+      "Medicare Payment Amount": 5420
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 56614,
+      "Total Payment Amount": 16087,
+      "Medicare Payment Amount": 14733
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 32809,
+      "Total Payment Amount": 9134,
+      "Medicare Payment Amount": 7934
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 21615,
+      "Total Payment Amount": 6940,
+      "Medicare Payment Amount": 5436
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 20973,
+      "Total Payment Amount": 10856,
+      "Medicare Payment Amount": 9697
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20402,
+      "Total Payment Amount": 6604,
+      "Medicare Payment Amount": 5604
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 34938,
+      "Total Payment Amount": 13265,
+      "Medicare Payment Amount": 11441
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 19525,
+      "Total Payment Amount": 7608,
+      "Medicare Payment Amount": 6356
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 30717,
+      "Total Payment Amount": 13174,
+      "Medicare Payment Amount": 8327
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 21283,
+      "Total Payment Amount": 7253,
+      "Medicare Payment Amount": 5765
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 94315,
+      "Total Payment Amount": 44525,
+      "Medicare Payment Amount": 43385
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 34018,
+      "Total Payment Amount": 16538,
+      "Medicare Payment Amount": 15247
+    },
+    {
+      "Hospital_Name": "St Joseph Hospital",
+      "Address": "360 Broadway, Bangor, ME 4401",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 24816,
+      "Total Payment Amount": 8937,
+      "Medicare Payment Amount": 7166
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 52648,
+      "Total Payment Amount": 15486,
+      "Medicare Payment Amount": 14373
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 45020,
+      "Total Payment Amount": 9852,
+      "Medicare Payment Amount": 8918
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 41665,
+      "Total Payment Amount": 11122,
+      "Medicare Payment Amount": 8999
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 47319,
+      "Total Payment Amount": 12304,
+      "Medicare Payment Amount": 11432
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 39585,
+      "Total Payment Amount": 10263,
+      "Medicare Payment Amount": 9356
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 31930,
+      "Total Payment Amount": 10030,
+      "Medicare Payment Amount": 5011
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 56496,
+      "Total Payment Amount": 20147,
+      "Medicare Payment Amount": 13192
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 27727,
+      "Total Payment Amount": 7631,
+      "Medicare Payment Amount": 6176
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 28635,
+      "Total Payment Amount": 9378,
+      "Medicare Payment Amount": 4981
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 33328,
+      "Total Payment Amount": 10582,
+      "Medicare Payment Amount": 9099
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 55542,
+      "Total Payment Amount": 15429,
+      "Medicare Payment Amount": 14305
+    },
+    {
+      "Hospital_Name": "Northern Light Health",
+      "Address": "144 State Street, Portland, ME 4101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 37924,
+      "Total Payment Amount": 10625,
+      "Medicare Payment Amount": 6825
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ECMO OR TRACHEOSTOMY WITH MV >96 HOURS OR PRINCIPAL DIAGNOSIS EXCEPT FACE, MOUTH AND NEC",
+      "Submitted Covered Payment": 776708,
+      "Total Payment Amount": 264405,
+      "Medicare Payment Amount": 215339
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 183364,
+      "Total Payment Amount": 57889,
+      "Medicare Payment Amount": 43060
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITHOUT MC",
+      "Submitted Covered Payment": 156183,
+      "Total Payment Amount": 37103,
+      "Medicare Payment Amount": 30408
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 80529,
+      "Total Payment Amount": 41950,
+      "Medicare Payment Amount": 29251
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 128877,
+      "Total Payment Amount": 38561,
+      "Medicare Payment Amount": 24677
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 68553,
+      "Total Payment Amount": 22812,
+      "Medicare Payment Amount": 17002
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 70713,
+      "Total Payment Amount": 16605,
+      "Medicare Payment Amount": 15081
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 53031,
+      "Total Payment Amount": 19089,
+      "Medicare Payment Amount": 10633
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 34387,
+      "Total Payment Amount": 13105,
+      "Medicare Payment Amount": 7870
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 42291,
+      "Total Payment Amount": 17904,
+      "Medicare Payment Amount": 9167
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 115058,
+      "Total Payment Amount": 28568,
+      "Medicare Payment Amount": 23158
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 35802,
+      "Total Payment Amount": 12488,
+      "Medicare Payment Amount": 10021
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 64732,
+      "Total Payment Amount": 20480,
+      "Medicare Payment Amount": 16534
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 40236,
+      "Total Payment Amount": 11478,
+      "Medicare Payment Amount": 8667
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33607,
+      "Total Payment Amount": 7165,
+      "Medicare Payment Amount": 5122
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 59341,
+      "Total Payment Amount": 22501,
+      "Medicare Payment Amount": 13542
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 45600,
+      "Total Payment Amount": 11073,
+      "Medicare Payment Amount": 8860
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 97478,
+      "Total Payment Amount": 19091,
+      "Medicare Payment Amount": 16908
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 32463,
+      "Total Payment Amount": 13653,
+      "Medicare Payment Amount": 9658
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 63142,
+      "Total Payment Amount": 21716,
+      "Medicare Payment Amount": 17447
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 34725,
+      "Total Payment Amount": 11960,
+      "Medicare Payment Amount": 9352
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 67867,
+      "Total Payment Amount": 19323,
+      "Medicare Payment Amount": 14690
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 42661,
+      "Total Payment Amount": 14990,
+      "Medicare Payment Amount": 6998
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 68849,
+      "Total Payment Amount": 20416,
+      "Medicare Payment Amount": 14908
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 28846,
+      "Total Payment Amount": 9032,
+      "Medicare Payment Amount": 6877
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 164021,
+      "Total Payment Amount": 62548,
+      "Medicare Payment Amount": 36679
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 87845,
+      "Total Payment Amount": 37074,
+      "Medicare Payment Amount": 16227
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 61352,
+      "Total Payment Amount": 21675,
+      "Medicare Payment Amount": 12653
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 46472,
+      "Total Payment Amount": 14037,
+      "Medicare Payment Amount": 10604
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 60062,
+      "Total Payment Amount": 19438,
+      "Medicare Payment Amount": 15712
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 52918,
+      "Total Payment Amount": 14733,
+      "Medicare Payment Amount": 11480
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 52889,
+      "Total Payment Amount": 15809,
+      "Medicare Payment Amount": 13568
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR CHEST TRAUMA WITH MCC",
+      "Submitted Covered Payment": 72341,
+      "Total Payment Amount": 15590,
+      "Medicare Payment Amount": 10720
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 39655,
+      "Total Payment Amount": 10571,
+      "Medicare Payment Amount": 7651
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 38548,
+      "Total Payment Amount": 13224,
+      "Medicare Payment Amount": 9689
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 27601,
+      "Total Payment Amount": 9858,
+      "Medicare Payment Amount": 8147
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 39079,
+      "Total Payment Amount": 13068,
+      "Medicare Payment Amount": 10042
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 21607,
+      "Total Payment Amount": 8807,
+      "Medicare Payment Amount": 5944
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PNEUMOTHORAX WITH CC",
+      "Submitted Covered Payment": 33429,
+      "Total Payment Amount": 11452,
+      "Medicare Payment Amount": 7261
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT >96 HOURS",
+      "Submitted Covered Payment": 273124,
+      "Total Payment Amount": 72480,
+      "Medicare Payment Amount": 67446
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 92255,
+      "Total Payment Amount": 24543,
+      "Medicare Payment Amount": 19251
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WIT",
+      "Submitted Covered Payment": 389487,
+      "Total Payment Amount": 132749,
+      "Medicare Payment Amount": 91818
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 246144,
+      "Total Payment Amount": 79536,
+      "Medicare Payment Amount": 61652
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 214790,
+      "Total Payment Amount": 64478,
+      "Medicare Payment Amount": 42549
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER CARDIOTHORACIC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 152188,
+      "Total Payment Amount": 55543,
+      "Medicare Payment Amount": 33375
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER CARDIOTHORACIC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 112185,
+      "Total Payment Amount": 28595,
+      "Medicare Payment Amount": 26301
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 247231,
+      "Total Payment Amount": 87014,
+      "Medicare Payment Amount": 64355
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 161279,
+      "Total Payment Amount": 51577,
+      "Medicare Payment Amount": 38851
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 137256,
+      "Total Payment Amount": 40362,
+      "Medicare Payment Amount": 28060
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 104768,
+      "Total Payment Amount": 30118,
+      "Medicare Payment Amount": 28127
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 70171,
+      "Total Payment Amount": 21225,
+      "Medicare Payment Amount": 18198
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 61095,
+      "Total Payment Amount": 18975,
+      "Medicare Payment Amount": 13939
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 108003,
+      "Total Payment Amount": 31820,
+      "Medicare Payment Amount": 25028
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 80012,
+      "Total Payment Amount": 20478,
+      "Medicare Payment Amount": 13914
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 132946,
+      "Total Payment Amount": 37553,
+      "Medicare Payment Amount": 35114
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 82667,
+      "Total Payment Amount": 24147,
+      "Medicare Payment Amount": 22169
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 309807,
+      "Total Payment Amount": 76053,
+      "Medicare Payment Amount": 67416
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 245953,
+      "Total Payment Amount": 54843,
+      "Medicare Payment Amount": 44820
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 195876,
+      "Total Payment Amount": 52249,
+      "Medicare Payment Amount": 34748
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 148547,
+      "Total Payment Amount": 49846,
+      "Medicare Payment Amount": 42022
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 122630,
+      "Total Payment Amount": 45788,
+      "Medicare Payment Amount": 22867
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 161130,
+      "Total Payment Amount": 37430,
+      "Medicare Payment Amount": 35371
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 125999,
+      "Total Payment Amount": 31646,
+      "Medicare Payment Amount": 26372
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 57792,
+      "Total Payment Amount": 17270,
+      "Medicare Payment Amount": 12727
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 33453,
+      "Total Payment Amount": 10078,
+      "Medicare Payment Amount": 6788
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26097,
+      "Total Payment Amount": 8047,
+      "Medicare Payment Amount": 5069
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 70874,
+      "Total Payment Amount": 27038,
+      "Medicare Payment Amount": 16691
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 34836,
+      "Total Payment Amount": 10784,
+      "Medicare Payment Amount": 8207
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 47458,
+      "Total Payment Amount": 15703,
+      "Medicare Payment Amount": 10368
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 30693,
+      "Total Payment Amount": 8853,
+      "Medicare Payment Amount": 7213
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 67539,
+      "Total Payment Amount": 16855,
+      "Medicare Payment Amount": 12737
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 36799,
+      "Total Payment Amount": 10706,
+      "Medicare Payment Amount": 8689
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 34896,
+      "Total Payment Amount": 11720,
+      "Medicare Payment Amount": 9361
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21757,
+      "Total Payment Amount": 7957,
+      "Medicare Payment Amount": 5061
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 18685,
+      "Total Payment Amount": 5926,
+      "Medicare Payment Amount": 3919
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 28920,
+      "Total Payment Amount": 9503,
+      "Medicare Payment Amount": 6150
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 71461,
+      "Total Payment Amount": 24685,
+      "Medicare Payment Amount": 17133
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 118114,
+      "Total Payment Amount": 29416,
+      "Medicare Payment Amount": 23388
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 84801,
+      "Total Payment Amount": 21440,
+      "Medicare Payment Amount": 12743
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 165626,
+      "Total Payment Amount": 53558,
+      "Medicare Payment Amount": 46224
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 88439,
+      "Total Payment Amount": 35114,
+      "Medicare Payment Amount": 15857
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 80210,
+      "Total Payment Amount": 23386,
+      "Medicare Payment Amount": 11916
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 143602,
+      "Total Payment Amount": 45943,
+      "Medicare Payment Amount": 42578
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 70769,
+      "Total Payment Amount": 23160,
+      "Medicare Payment Amount": 17288
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 48721,
+      "Total Payment Amount": 15249,
+      "Medicare Payment Amount": 13464
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 28931,
+      "Total Payment Amount": 9412,
+      "Medicare Payment Amount": 7859
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DIGESTIVE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 52146,
+      "Total Payment Amount": 19851,
+      "Medicare Payment Amount": 14510
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 71592,
+      "Total Payment Amount": 19330,
+      "Medicare Payment Amount": 15146
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 33164,
+      "Total Payment Amount": 9526,
+      "Medicare Payment Amount": 7325
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 25549,
+      "Total Payment Amount": 8615,
+      "Medicare Payment Amount": 5774
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17594,
+      "Total Payment Amount": 5901,
+      "Medicare Payment Amount": 4098
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 55094,
+      "Total Payment Amount": 18285,
+      "Medicare Payment Amount": 14015
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25968,
+      "Total Payment Amount": 8372,
+      "Medicare Payment Amount": 6165
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 57305,
+      "Total Payment Amount": 19773,
+      "Medicare Payment Amount": 11890
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25786,
+      "Total Payment Amount": 9473,
+      "Medicare Payment Amount": 7321
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PANCREAS, LIVER AND SHUNT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 108326,
+      "Total Payment Amount": 25790,
+      "Medicare Payment Amount": 23804
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 53592,
+      "Total Payment Amount": 18640,
+      "Medicare Payment Amount": 11931
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 109977,
+      "Total Payment Amount": 24257,
+      "Medicare Payment Amount": 20601
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC",
+      "Submitted Covered Payment": 43588,
+      "Total Payment Amount": 22249,
+      "Medicare Payment Amount": 11465
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 39305,
+      "Total Payment Amount": 8836,
+      "Medicare Payment Amount": 7046
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 63500,
+      "Total Payment Amount": 19755,
+      "Medicare Payment Amount": 11165
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 147237,
+      "Total Payment Amount": 61174,
+      "Medicare Payment Amount": 45141
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 88773,
+      "Total Payment Amount": 43335,
+      "Medicare Payment Amount": 34800
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 116973,
+      "Total Payment Amount": 32921,
+      "Medicare Payment Amount": 25453
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 134078,
+      "Total Payment Amount": 39132,
+      "Medicare Payment Amount": 24980
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 141251,
+      "Total Payment Amount": 39380,
+      "Medicare Payment Amount": 23710
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 75119,
+      "Total Payment Amount": 20931,
+      "Medicare Payment Amount": 14130
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 86981,
+      "Total Payment Amount": 33323,
+      "Medicare Payment Amount": 19478
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 85652,
+      "Total Payment Amount": 26603,
+      "Medicare Payment Amount": 22953
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 67411,
+      "Total Payment Amount": 20538,
+      "Medicare Payment Amount": 16376
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 51478,
+      "Total Payment Amount": 16809,
+      "Medicare Payment Amount": 11284
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 80159,
+      "Total Payment Amount": 21227,
+      "Medicare Payment Amount": 17901
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 84698,
+      "Total Payment Amount": 24258,
+      "Medicare Payment Amount": 14890
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 84553,
+      "Total Payment Amount": 27885,
+      "Medicare Payment Amount": 22105
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 72825,
+      "Total Payment Amount": 20999,
+      "Medicare Payment Amount": 15913
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 25483,
+      "Total Payment Amount": 7820,
+      "Medicare Payment Amount": 5676
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 25514,
+      "Total Payment Amount": 10180,
+      "Medicare Payment Amount": 8120
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 68666,
+      "Total Payment Amount": 20319,
+      "Medicare Payment Amount": 15347
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 31232,
+      "Total Payment Amount": 9782,
+      "Medicare Payment Amount": 7314
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 61725,
+      "Total Payment Amount": 14231,
+      "Medicare Payment Amount": 9926
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 24848,
+      "Total Payment Amount": 8628,
+      "Medicare Payment Amount": 6870
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC",
+      "Submitted Covered Payment": 26451,
+      "Total Payment Amount": 10316,
+      "Medicare Payment Amount": 6658
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 49279,
+      "Total Payment Amount": 13258,
+      "Medicare Payment Amount": 11016
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 35308,
+      "Total Payment Amount": 9066,
+      "Medicare Payment Amount": 6868
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 52255,
+      "Total Payment Amount": 15196,
+      "Medicare Payment Amount": 12892
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 25538,
+      "Total Payment Amount": 7634,
+      "Medicare Payment Amount": 5724
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 59807,
+      "Total Payment Amount": 18966,
+      "Medicare Payment Amount": 13424
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 32053,
+      "Total Payment Amount": 9315,
+      "Medicare Payment Amount": 7542
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "KIDNEY TRANSPLANT",
+      "Submitted Covered Payment": 240839,
+      "Total Payment Amount": 36385,
+      "Medicare Payment Amount": 23116
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 83690,
+      "Total Payment Amount": 25733,
+      "Medicare Payment Amount": 18907
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 43892,
+      "Total Payment Amount": 16283,
+      "Medicare Payment Amount": 11505
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 25405,
+      "Total Payment Amount": 9332,
+      "Medicare Payment Amount": 6662
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 32149,
+      "Total Payment Amount": 10800,
+      "Medicare Payment Amount": 8739
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 26307,
+      "Total Payment Amount": 8787,
+      "Medicare Payment Amount": 5870
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 55947,
+      "Total Payment Amount": 19396,
+      "Medicare Payment Amount": 16840
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 32605,
+      "Total Payment Amount": 10394,
+      "Medicare Payment Amount": 7475
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 67905,
+      "Total Payment Amount": 13732,
+      "Medicare Payment Amount": 8098
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 39968,
+      "Total Payment Amount": 13373,
+      "Medicare Payment Amount": 11575
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 31636,
+      "Total Payment Amount": 11116,
+      "Medicare Payment Amount": 10112
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 180581,
+      "Total Payment Amount": 53435,
+      "Medicare Payment Amount": 44743
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 46426,
+      "Total Payment Amount": 21519,
+      "Medicare Payment Amount": 14167
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 49655,
+      "Total Payment Amount": 19936,
+      "Medicare Payment Amount": 12583
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 303867,
+      "Total Payment Amount": 76696,
+      "Medicare Payment Amount": 72723
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 69803,
+      "Total Payment Amount": 21310,
+      "Medicare Payment Amount": 16364
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 29878,
+      "Total Payment Amount": 11337,
+      "Medicare Payment Amount": 7487
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 57611,
+      "Total Payment Amount": 17012,
+      "Medicare Payment Amount": 13683
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 32645,
+      "Total Payment Amount": 8626,
+      "Medicare Payment Amount": 6200
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 57496,
+      "Total Payment Amount": 14252,
+      "Medicare Payment Amount": 11787
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 56859,
+      "Total Payment Amount": 18222,
+      "Medicare Payment Amount": 14553
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "COMPLICATIONS OF TREATMENT WITH CC",
+      "Submitted Covered Payment": 31456,
+      "Total Payment Amount": 9929,
+      "Medicare Payment Amount": 8537
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 26954,
+      "Total Payment Amount": 8442,
+      "Medicare Payment Amount": 5820
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 202633,
+      "Total Payment Amount": 75995,
+      "Medicare Payment Amount": 53793
+    },
+    {
+      "Hospital_Name": "Maine Medical Center",
+      "Address": "22 Bramhall St, Portland, ME 4102",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 87860,
+      "Total Payment Amount": 25291,
+      "Medicare Payment Amount": 18464
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 35268,
+      "Total Payment Amount": 15626,
+      "Medicare Payment Amount": 14381
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 24716,
+      "Total Payment Amount": 10433,
+      "Medicare Payment Amount": 9425
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 31910,
+      "Total Payment Amount": 11102,
+      "Medicare Payment Amount": 9938
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 29967,
+      "Total Payment Amount": 13547,
+      "Medicare Payment Amount": 12368
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 40802,
+      "Total Payment Amount": 11228,
+      "Medicare Payment Amount": 10161
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 19678,
+      "Total Payment Amount": 6433,
+      "Medicare Payment Amount": 5124
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 32018,
+      "Total Payment Amount": 7721,
+      "Medicare Payment Amount": 6267
+    },
+    {
+      "Hospital_Name": "Northern Light A R Gould Hospital",
+      "Address": "Po Box 151, Presque Isle, ME 4769",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 46156,
+      "Total Payment Amount": 16202,
+      "Medicare Payment Amount": 14909
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 31275,
+      "Total Payment Amount": 9953,
+      "Medicare Payment Amount": 8935
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 36338,
+      "Total Payment Amount": 14309,
+      "Medicare Payment Amount": 11889
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 28088,
+      "Total Payment Amount": 8787,
+      "Medicare Payment Amount": 6200
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 35078,
+      "Total Payment Amount": 11766,
+      "Medicare Payment Amount": 8945
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 27343,
+      "Total Payment Amount": 6801,
+      "Medicare Payment Amount": 5347
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 44811,
+      "Total Payment Amount": 14158,
+      "Medicare Payment Amount": 13063
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 29639,
+      "Total Payment Amount": 9846,
+      "Medicare Payment Amount": 7799
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 29926,
+      "Total Payment Amount": 9782,
+      "Medicare Payment Amount": 8249
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 28225,
+      "Total Payment Amount": 11067,
+      "Medicare Payment Amount": 8402
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 21307,
+      "Total Payment Amount": 6938,
+      "Medicare Payment Amount": 5672
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 39738,
+      "Total Payment Amount": 11474,
+      "Medicare Payment Amount": 10509
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 48073,
+      "Total Payment Amount": 15242,
+      "Medicare Payment Amount": 13871
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32647,
+      "Total Payment Amount": 10500,
+      "Medicare Payment Amount": 9064
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31214,
+      "Total Payment Amount": 10768,
+      "Medicare Payment Amount": 7823
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 17403,
+      "Total Payment Amount": 6310,
+      "Medicare Payment Amount": 5110
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 30231,
+      "Total Payment Amount": 7711,
+      "Medicare Payment Amount": 6045
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 82375,
+      "Total Payment Amount": 23689,
+      "Medicare Payment Amount": 13541
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 47630,
+      "Total Payment Amount": 14316,
+      "Medicare Payment Amount": 11685
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 28226,
+      "Total Payment Amount": 8053,
+      "Medicare Payment Amount": 6731
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 43515,
+      "Total Payment Amount": 10428,
+      "Medicare Payment Amount": 9288
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 21718,
+      "Total Payment Amount": 6984,
+      "Medicare Payment Amount": 5132
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 21563,
+      "Total Payment Amount": 8237,
+      "Medicare Payment Amount": 6158
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 64056,
+      "Total Payment Amount": 12645,
+      "Medicare Payment Amount": 11178
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 63696,
+      "Total Payment Amount": 15439,
+      "Medicare Payment Amount": 13999
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 55694,
+      "Total Payment Amount": 17687,
+      "Medicare Payment Amount": 13328
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 27447,
+      "Total Payment Amount": 7333,
+      "Medicare Payment Amount": 5833
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 47936,
+      "Total Payment Amount": 15315,
+      "Medicare Payment Amount": 11243
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "O.R. PROCEDURES FOR OBESITY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 50326,
+      "Total Payment Amount": 19856,
+      "Medicare Payment Amount": 7587
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 36534,
+      "Total Payment Amount": 13070,
+      "Medicare Payment Amount": 9924
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 22726,
+      "Total Payment Amount": 7222,
+      "Medicare Payment Amount": 6186
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 28256,
+      "Total Payment Amount": 9816,
+      "Medicare Payment Amount": 8552
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21118,
+      "Total Payment Amount": 6579,
+      "Medicare Payment Amount": 5379
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 43701,
+      "Total Payment Amount": 13316,
+      "Medicare Payment Amount": 9110
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 24361,
+      "Total Payment Amount": 7422,
+      "Medicare Payment Amount": 6050
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 29227,
+      "Total Payment Amount": 8999,
+      "Medicare Payment Amount": 7610
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24362,
+      "Total Payment Amount": 6654,
+      "Medicare Payment Amount": 5307
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 33043,
+      "Total Payment Amount": 13304,
+      "Medicare Payment Amount": 9488
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 22580,
+      "Total Payment Amount": 8060,
+      "Medicare Payment Amount": 6931
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 100764,
+      "Total Payment Amount": 34474,
+      "Medicare Payment Amount": 33243
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 43266,
+      "Total Payment Amount": 15006,
+      "Medicare Payment Amount": 12777
+    },
+    {
+      "Hospital_Name": "Southern Maine Health Care",
+      "Address": "1 Medical Center Drive, Biddeford, ME 4005",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 28194,
+      "Total Payment Amount": 8736,
+      "Medicare Payment Amount": 6301
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 21588,
+      "Total Payment Amount": 6992,
+      "Medicare Payment Amount": 4525
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 42393,
+      "Total Payment Amount": 13160,
+      "Medicare Payment Amount": 11846
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 20988,
+      "Total Payment Amount": 9445,
+      "Medicare Payment Amount": 6497
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 34681,
+      "Total Payment Amount": 9814,
+      "Medicare Payment Amount": 7306
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 28158,
+      "Total Payment Amount": 8699,
+      "Medicare Payment Amount": 7564
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 19633,
+      "Total Payment Amount": 8101,
+      "Medicare Payment Amount": 6784
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 19692,
+      "Total Payment Amount": 6253,
+      "Medicare Payment Amount": 3643
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 23256,
+      "Total Payment Amount": 6764,
+      "Medicare Payment Amount": 5317
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 15303,
+      "Total Payment Amount": 6344,
+      "Medicare Payment Amount": 3630
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 85790,
+      "Total Payment Amount": 18102,
+      "Medicare Payment Amount": 13898
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 24571,
+      "Total Payment Amount": 6062,
+      "Medicare Payment Amount": 4708
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 34263,
+      "Total Payment Amount": 7645,
+      "Medicare Payment Amount": 6274
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 19872,
+      "Total Payment Amount": 5492,
+      "Medicare Payment Amount": 4159
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 95835,
+      "Total Payment Amount": 35041,
+      "Medicare Payment Amount": 33882
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 47985,
+      "Total Payment Amount": 13371,
+      "Medicare Payment Amount": 11647
+    },
+    {
+      "Hospital_Name": "York Hospital",
+      "Address": "15 Hospital Drive, York, ME 3909",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26906,
+      "Total Payment Amount": 6927,
+      "Medicare Payment Amount": 5675
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 34310,
+      "Total Payment Amount": 10029,
+      "Medicare Payment Amount": 8929
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 27741,
+      "Total Payment Amount": 7552,
+      "Medicare Payment Amount": 6198
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 35082,
+      "Total Payment Amount": 13567,
+      "Medicare Payment Amount": 12062
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 32935,
+      "Total Payment Amount": 10129,
+      "Medicare Payment Amount": 8111
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 32899,
+      "Total Payment Amount": 9288,
+      "Medicare Payment Amount": 8088
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 27216,
+      "Total Payment Amount": 6713,
+      "Medicare Payment Amount": 5258
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 29194,
+      "Total Payment Amount": 9738,
+      "Medicare Payment Amount": 8523
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 20764,
+      "Total Payment Amount": 6680,
+      "Medicare Payment Amount": 5213
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 41881,
+      "Total Payment Amount": 12529,
+      "Medicare Payment Amount": 11591
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 25334,
+      "Total Payment Amount": 6906,
+      "Medicare Payment Amount": 6106
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 24416,
+      "Total Payment Amount": 5830,
+      "Medicare Payment Amount": 4957
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 49099,
+      "Total Payment Amount": 13919,
+      "Medicare Payment Amount": 12884
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 30357,
+      "Total Payment Amount": 8346,
+      "Medicare Payment Amount": 6207
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 25537,
+      "Total Payment Amount": 9679,
+      "Medicare Payment Amount": 8450
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 22869,
+      "Total Payment Amount": 6863,
+      "Medicare Payment Amount": 5699
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 32286,
+      "Total Payment Amount": 9081,
+      "Medicare Payment Amount": 7881
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 20676,
+      "Total Payment Amount": 5992,
+      "Medicare Payment Amount": 4849
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 58550,
+      "Total Payment Amount": 25020,
+      "Medicare Payment Amount": 10885
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 22515,
+      "Total Payment Amount": 7596,
+      "Medicare Payment Amount": 6612
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 23314,
+      "Total Payment Amount": 6313,
+      "Medicare Payment Amount": 4884
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 55986,
+      "Total Payment Amount": 16885,
+      "Medicare Payment Amount": 12539
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 44168,
+      "Total Payment Amount": 15737,
+      "Medicare Payment Amount": 14428
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 20399,
+      "Total Payment Amount": 6303,
+      "Medicare Payment Amount": 4703
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 21017,
+      "Total Payment Amount": 8085,
+      "Medicare Payment Amount": 4966
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 23375,
+      "Total Payment Amount": 6187,
+      "Medicare Payment Amount": 5202
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 40093,
+      "Total Payment Amount": 13636,
+      "Medicare Payment Amount": 9086
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 19496,
+      "Total Payment Amount": 7327,
+      "Medicare Payment Amount": 5340
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 17281,
+      "Total Payment Amount": 6326,
+      "Medicare Payment Amount": 4728
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 30279,
+      "Total Payment Amount": 11270,
+      "Medicare Payment Amount": 9905
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26538,
+      "Total Payment Amount": 8632,
+      "Medicare Payment Amount": 6306
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 65429,
+      "Total Payment Amount": 30246,
+      "Medicare Payment Amount": 29082
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 44806,
+      "Total Payment Amount": 15300,
+      "Medicare Payment Amount": 12914
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 29888,
+      "Total Payment Amount": 8434,
+      "Medicare Payment Amount": 6299
+    },
+    {
+      "Hospital_Name": "Mid Coast Hospital",
+      "Address": "123 Medical Center Drive, Brunswick, ME 4011",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 48357,
+      "Total Payment Amount": 10885,
+      "Medicare Payment Amount": 8660
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 31212,
+      "Total Payment Amount": 15532,
+      "Medicare Payment Amount": 14214
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 24774,
+      "Total Payment Amount": 8409,
+      "Medicare Payment Amount": 6728
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 50886,
+      "Total Payment Amount": 16034,
+      "Medicare Payment Amount": 13259
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 25221,
+      "Total Payment Amount": 9742,
+      "Medicare Payment Amount": 8314
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 21546,
+      "Total Payment Amount": 8914,
+      "Medicare Payment Amount": 7815
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 30295,
+      "Total Payment Amount": 11306,
+      "Medicare Payment Amount": 8715
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 59890,
+      "Total Payment Amount": 20929,
+      "Medicare Payment Amount": 16457
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 66328,
+      "Total Payment Amount": 17191,
+      "Medicare Payment Amount": 12042
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 36719,
+      "Total Payment Amount": 12771,
+      "Medicare Payment Amount": 11423
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 25812,
+      "Total Payment Amount": 8206,
+      "Medicare Payment Amount": 5682
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 44106,
+      "Total Payment Amount": 15312,
+      "Medicare Payment Amount": 13960
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 31002,
+      "Total Payment Amount": 9094,
+      "Medicare Payment Amount": 7538
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29048,
+      "Total Payment Amount": 11390,
+      "Medicare Payment Amount": 9385
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31033,
+      "Total Payment Amount": 10834,
+      "Medicare Payment Amount": 8010
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 19200,
+      "Total Payment Amount": 6412,
+      "Medicare Payment Amount": 5065
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 43258,
+      "Total Payment Amount": 19104,
+      "Medicare Payment Amount": 17211
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 43284,
+      "Total Payment Amount": 14818,
+      "Medicare Payment Amount": 11936
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 26728,
+      "Total Payment Amount": 8276,
+      "Medicare Payment Amount": 6899
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 20077,
+      "Total Payment Amount": 7238,
+      "Medicare Payment Amount": 4866
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 33768,
+      "Total Payment Amount": 9716,
+      "Medicare Payment Amount": 6945
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 63675,
+      "Total Payment Amount": 22010,
+      "Medicare Payment Amount": 20365
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 51618,
+      "Total Payment Amount": 16512,
+      "Medicare Payment Amount": 13637
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 53867,
+      "Total Payment Amount": 16569,
+      "Medicare Payment Amount": 14641
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 42255,
+      "Total Payment Amount": 10560,
+      "Medicare Payment Amount": 9030
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 27425,
+      "Total Payment Amount": 11704,
+      "Medicare Payment Amount": 9179
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 17038,
+      "Total Payment Amount": 7614,
+      "Medicare Payment Amount": 6036
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 24789,
+      "Total Payment Amount": 9689,
+      "Medicare Payment Amount": 7675
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 64402,
+      "Total Payment Amount": 35447,
+      "Medicare Payment Amount": 33613
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 44399,
+      "Total Payment Amount": 15547,
+      "Medicare Payment Amount": 13703
+    },
+    {
+      "Hospital_Name": "Central Maine Medical Center",
+      "Address": "300 Main Street, Lewiston, ME 4240",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 22598,
+      "Total Payment Amount": 7996,
+      "Medicare Payment Amount": 6523
+    },
+    {
+      "Hospital_Name": "Cary Medical Center",
+      "Address": "163 Van Buren Rd, Suite 1, Caribou, ME 4736",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 22129,
+      "Total Payment Amount": 11004,
+      "Medicare Payment Amount": 9104
+    },
+    {
+      "Hospital_Name": "Cary Medical Center",
+      "Address": "163 Van Buren Rd, Suite 1, Caribou, ME 4736",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 14685,
+      "Total Payment Amount": 7225,
+      "Medicare Payment Amount": 5871
+    },
+    {
+      "Hospital_Name": "Cary Medical Center",
+      "Address": "163 Van Buren Rd, Suite 1, Caribou, ME 4736",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 19168,
+      "Total Payment Amount": 10948,
+      "Medicare Payment Amount": 9883
+    },
+    {
+      "Hospital_Name": "Cary Medical Center",
+      "Address": "163 Van Buren Rd, Suite 1, Caribou, ME 4736",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20007,
+      "Total Payment Amount": 6687,
+      "Medicare Payment Amount": 5705
+    },
+    {
+      "Hospital_Name": "Cary Medical Center",
+      "Address": "163 Van Buren Rd, Suite 1, Caribou, ME 4736",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23470,
+      "Total Payment Amount": 7842,
+      "Medicare Payment Amount": 6471
+    },
+    {
+      "Hospital_Name": "Cary Medical Center",
+      "Address": "163 Van Buren Rd, Suite 1, Caribou, ME 4736",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 21571,
+      "Total Payment Amount": 16713,
+      "Medicare Payment Amount": 15202
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 112946,
+      "Total Payment Amount": 34884,
+      "Medicare Payment Amount": 29464
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33591,
+      "Total Payment Amount": 9952,
+      "Medicare Payment Amount": 7037
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 70871,
+      "Total Payment Amount": 16267,
+      "Medicare Payment Amount": 14718
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 37160,
+      "Total Payment Amount": 9426,
+      "Medicare Payment Amount": 6122
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 25351,
+      "Total Payment Amount": 5573,
+      "Medicare Payment Amount": 4158
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 29225,
+      "Total Payment Amount": 6319,
+      "Medicare Payment Amount": 4843
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 61547,
+      "Total Payment Amount": 13981,
+      "Medicare Payment Amount": 12873
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 46705,
+      "Total Payment Amount": 14570,
+      "Medicare Payment Amount": 13105
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 92175,
+      "Total Payment Amount": 29504,
+      "Medicare Payment Amount": 14287
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 41066,
+      "Total Payment Amount": 10041,
+      "Medicare Payment Amount": 8882
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 60123,
+      "Total Payment Amount": 14684,
+      "Medicare Payment Amount": 13264
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 64656,
+      "Total Payment Amount": 12737,
+      "Medicare Payment Amount": 11370
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 55894,
+      "Total Payment Amount": 10247,
+      "Medicare Payment Amount": 8996
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 46656,
+      "Total Payment Amount": 8914,
+      "Medicare Payment Amount": 7764
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 41455,
+      "Total Payment Amount": 10885,
+      "Medicare Payment Amount": 7825
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PNEUMOTHORAX WITH CC",
+      "Submitted Covered Payment": 27972,
+      "Total Payment Amount": 9573,
+      "Medicare Payment Amount": 6497
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 150779,
+      "Total Payment Amount": 30878,
+      "Medicare Payment Amount": 29308
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 246064,
+      "Total Payment Amount": 79673,
+      "Medicare Payment Amount": 59878
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 179385,
+      "Total Payment Amount": 48739,
+      "Medicare Payment Amount": 35260
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER CARDIOTHORACIC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 212375,
+      "Total Payment Amount": 49073,
+      "Medicare Payment Amount": 47750
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER CARDIOTHORACIC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 111130,
+      "Total Payment Amount": 27139,
+      "Medicare Payment Amount": 20767
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 241094,
+      "Total Payment Amount": 57884,
+      "Medicare Payment Amount": 56227
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 192732,
+      "Total Payment Amount": 38836,
+      "Medicare Payment Amount": 34998
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 133763,
+      "Total Payment Amount": 38120,
+      "Medicare Payment Amount": 25762
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 142337,
+      "Total Payment Amount": 28251,
+      "Medicare Payment Amount": 26792
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 105028,
+      "Total Payment Amount": 21384,
+      "Medicare Payment Amount": 15867
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 126913,
+      "Total Payment Amount": 25045,
+      "Medicare Payment Amount": 21822
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 97026,
+      "Total Payment Amount": 16215,
+      "Medicare Payment Amount": 12919
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 132286,
+      "Total Payment Amount": 30343,
+      "Medicare Payment Amount": 29015
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 61692,
+      "Total Payment Amount": 21196,
+      "Medicare Payment Amount": 17001
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 132916,
+      "Total Payment Amount": 38878,
+      "Medicare Payment Amount": 35282
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 118724,
+      "Total Payment Amount": 30663,
+      "Medicare Payment Amount": 29337
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 184894,
+      "Total Payment Amount": 50334,
+      "Medicare Payment Amount": 42818
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 91050,
+      "Total Payment Amount": 25007,
+      "Medicare Payment Amount": 23613
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 126082,
+      "Total Payment Amount": 24347,
+      "Medicare Payment Amount": 22902
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 57125,
+      "Total Payment Amount": 13612,
+      "Medicare Payment Amount": 10795
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 35412,
+      "Total Payment Amount": 7486,
+      "Medicare Payment Amount": 6150
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32245,
+      "Total Payment Amount": 6408,
+      "Medicare Payment Amount": 4135
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",
+      "Submitted Covered Payment": 81355,
+      "Total Payment Amount": 19702,
+      "Medicare Payment Amount": 17887
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 73944,
+      "Total Payment Amount": 17109,
+      "Medicare Payment Amount": 15757
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 40288,
+      "Total Payment Amount": 10292,
+      "Medicare Payment Amount": 6283
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 41553,
+      "Total Payment Amount": 10138,
+      "Medicare Payment Amount": 8674
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 23040,
+      "Total Payment Amount": 9520,
+      "Medicare Payment Amount": 6371
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 35189,
+      "Total Payment Amount": 10659,
+      "Medicare Payment Amount": 7545
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 25107,
+      "Total Payment Amount": 5924,
+      "Medicare Payment Amount": 4633
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 28961,
+      "Total Payment Amount": 4694,
+      "Medicare Payment Amount": 3134
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 32135,
+      "Total Payment Amount": 6832,
+      "Medicare Payment Amount": 5351
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 29721,
+      "Total Payment Amount": 6772,
+      "Medicare Payment Amount": 4037
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 61850,
+      "Total Payment Amount": 25099,
+      "Medicare Payment Amount": 12866
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 154975,
+      "Total Payment Amount": 34144,
+      "Medicare Payment Amount": 23800
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 94646,
+      "Total Payment Amount": 17031,
+      "Medicare Payment Amount": 11636
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 111368,
+      "Total Payment Amount": 39706,
+      "Medicare Payment Amount": 31274
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 81746,
+      "Total Payment Amount": 17727,
+      "Medicare Payment Amount": 16321
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 58881,
+      "Total Payment Amount": 17218,
+      "Medicare Payment Amount": 10236
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 54271,
+      "Total Payment Amount": 14954,
+      "Medicare Payment Amount": 11983
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 41331,
+      "Total Payment Amount": 8553,
+      "Medicare Payment Amount": 6010
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 22035,
+      "Total Payment Amount": 6395,
+      "Medicare Payment Amount": 4998
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 42891,
+      "Total Payment Amount": 9790,
+      "Medicare Payment Amount": 8622
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 29542,
+      "Total Payment Amount": 6236,
+      "Medicare Payment Amount": 4797
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 28061,
+      "Total Payment Amount": 8594,
+      "Medicare Payment Amount": 5550
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 37897,
+      "Total Payment Amount": 8078,
+      "Medicare Payment Amount": 6830
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 91576,
+      "Total Payment Amount": 27768,
+      "Medicare Payment Amount": 23587
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 74362,
+      "Total Payment Amount": 21232,
+      "Medicare Payment Amount": 19527
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 56915,
+      "Total Payment Amount": 14526,
+      "Medicare Payment Amount": 13135
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 55695,
+      "Total Payment Amount": 15905,
+      "Medicare Payment Amount": 14471
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 57094,
+      "Total Payment Amount": 14725,
+      "Medicare Payment Amount": 13513
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 30378,
+      "Total Payment Amount": 7428,
+      "Medicare Payment Amount": 5870
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 30592,
+      "Total Payment Amount": 6908,
+      "Medicare Payment Amount": 5878
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 26143,
+      "Total Payment Amount": 6919,
+      "Medicare Payment Amount": 5735
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 41543,
+      "Total Payment Amount": 10478,
+      "Medicare Payment Amount": 8525
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 36612,
+      "Total Payment Amount": 6218,
+      "Medicare Payment Amount": 4858
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 60796,
+      "Total Payment Amount": 18970,
+      "Medicare Payment Amount": 17439
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 34492,
+      "Total Payment Amount": 11003,
+      "Medicare Payment Amount": 8364
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 46828,
+      "Total Payment Amount": 11145,
+      "Medicare Payment Amount": 9990
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 28410,
+      "Total Payment Amount": 7067,
+      "Medicare Payment Amount": 5630
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 55640,
+      "Total Payment Amount": 9968,
+      "Medicare Payment Amount": 8397
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 27116,
+      "Total Payment Amount": 6336,
+      "Medicare Payment Amount": 4951
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 50279,
+      "Total Payment Amount": 12937,
+      "Medicare Payment Amount": 11983
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25772,
+      "Total Payment Amount": 7660,
+      "Medicare Payment Amount": 6442
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 128878,
+      "Total Payment Amount": 38822,
+      "Medicare Payment Amount": 37125
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 69457,
+      "Total Payment Amount": 15946,
+      "Medicare Payment Amount": 14296
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 31824,
+      "Total Payment Amount": 7900,
+      "Medicare Payment Amount": 6563
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 30173,
+      "Total Payment Amount": 6786,
+      "Medicare Payment Amount": 6052
+    },
+    {
+      "Hospital_Name": "Northern Light Eastern Maine Medical Center",
+      "Address": "489 State Street, Bangor, ME 4401",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 264326,
+      "Total Payment Amount": 73906,
+      "Medicare Payment Amount": 56135
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 40636,
+      "Total Payment Amount": 13750,
+      "Medicare Payment Amount": 12472
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 38183,
+      "Total Payment Amount": 11667,
+      "Medicare Payment Amount": 9015
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29431,
+      "Total Payment Amount": 9967,
+      "Medicare Payment Amount": 8623
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 63720,
+      "Total Payment Amount": 19985,
+      "Medicare Payment Amount": 13766
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 44811,
+      "Total Payment Amount": 14876,
+      "Medicare Payment Amount": 13561
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 29159,
+      "Total Payment Amount": 9411,
+      "Medicare Payment Amount": 6101
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE, LEFT AMA",
+      "Submitted Covered Payment": 11119,
+      "Total Payment Amount": 5320,
+      "Medicare Payment Amount": 4406
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITH REHABILITATION THERAPY",
+      "Submitted Covered Payment": 24841,
+      "Total Payment Amount": 12118,
+      "Medicare Payment Amount": 10518
+    },
+    {
+      "Hospital_Name": "St Mary's Regional Medical Center",
+      "Address": "93 Campus Avenue - Po Box 291, Lewiston, ME 4243",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 14772,
+      "Total Payment Amount": 7396,
+      "Medicare Payment Amount": 5901
+    },
+    {
+      "Hospital_Name": "Franklin Memorial Hospital",
+      "Address": "111 Franklin Health Commons, Farmington, ME 4938",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 36024,
+      "Total Payment Amount": 19919,
+      "Medicare Payment Amount": 18442
+    },
+    {
+      "Hospital_Name": "Franklin Memorial Hospital",
+      "Address": "111 Franklin Health Commons, Farmington, ME 4938",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 26132,
+      "Total Payment Amount": 12932,
+      "Medicare Payment Amount": 11439
+    },
+    {
+      "Hospital_Name": "Franklin Memorial Hospital",
+      "Address": "111 Franklin Health Commons, Farmington, ME 4938",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 28933,
+      "Total Payment Amount": 13643,
+      "Medicare Payment Amount": 12443
+    },
+    {
+      "Hospital_Name": "Franklin Memorial Hospital",
+      "Address": "111 Franklin Health Commons, Farmington, ME 4938",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32707,
+      "Total Payment Amount": 15112,
+      "Medicare Payment Amount": 13912
+    },
+    {
+      "Hospital_Name": "Franklin Memorial Hospital",
+      "Address": "111 Franklin Health Commons, Farmington, ME 4938",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 30956,
+      "Total Payment Amount": 21256,
+      "Medicare Payment Amount": 19379
+    },
+    {
+      "Hospital_Name": "Franklin Memorial Hospital",
+      "Address": "111 Franklin Health Commons, Farmington, ME 4938",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 22634,
+      "Total Payment Amount": 10864,
+      "Medicare Payment Amount": 9757
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 70941,
+      "Total Payment Amount": 18141,
+      "Medicare Payment Amount": 17067
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 30144,
+      "Total Payment Amount": 10184,
+      "Medicare Payment Amount": 8027
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20445,
+      "Total Payment Amount": 8018,
+      "Medicare Payment Amount": 4681
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 35718,
+      "Total Payment Amount": 14932,
+      "Medicare Payment Amount": 10965
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 51263,
+      "Total Payment Amount": 19881,
+      "Medicare Payment Amount": 17549
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 39021,
+      "Total Payment Amount": 11524,
+      "Medicare Payment Amount": 9910
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 33608,
+      "Total Payment Amount": 11996,
+      "Medicare Payment Amount": 10390
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 39076,
+      "Total Payment Amount": 10364,
+      "Medicare Payment Amount": 9069
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 27449,
+      "Total Payment Amount": 8500,
+      "Medicare Payment Amount": 7208
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 47407,
+      "Total Payment Amount": 15261,
+      "Medicare Payment Amount": 10909
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 29339,
+      "Total Payment Amount": 8957,
+      "Medicare Payment Amount": 6300
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 45913,
+      "Total Payment Amount": 15897,
+      "Medicare Payment Amount": 14581
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 27746,
+      "Total Payment Amount": 8967,
+      "Medicare Payment Amount": 7941
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21617,
+      "Total Payment Amount": 7820,
+      "Medicare Payment Amount": 5864
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 44776,
+      "Total Payment Amount": 14799,
+      "Medicare Payment Amount": 10730
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 55176,
+      "Total Payment Amount": 11796,
+      "Medicare Payment Amount": 10314
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 28606,
+      "Total Payment Amount": 7231,
+      "Medicare Payment Amount": 5895
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 138464,
+      "Total Payment Amount": 46603,
+      "Medicare Payment Amount": 45344
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 93014,
+      "Total Payment Amount": 27861,
+      "Medicare Payment Amount": 21756
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 50987,
+      "Total Payment Amount": 17667,
+      "Medicare Payment Amount": 16236
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 32220,
+      "Total Payment Amount": 10350,
+      "Medicare Payment Amount": 7811
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 26393,
+      "Total Payment Amount": 7954,
+      "Medicare Payment Amount": 7089
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 33280,
+      "Total Payment Amount": 12637,
+      "Medicare Payment Amount": 11189
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 29080,
+      "Total Payment Amount": 8161,
+      "Medicare Payment Amount": 6259
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 63166,
+      "Total Payment Amount": 21674,
+      "Medicare Payment Amount": 18517
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 69305,
+      "Total Payment Amount": 21459,
+      "Medicare Payment Amount": 19993
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 35821,
+      "Total Payment Amount": 8798,
+      "Medicare Payment Amount": 7326
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 46156,
+      "Total Payment Amount": 12794,
+      "Medicare Payment Amount": 11423
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 37620,
+      "Total Payment Amount": 14980,
+      "Medicare Payment Amount": 13723
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 44285,
+      "Total Payment Amount": 11083,
+      "Medicare Payment Amount": 9561
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 29248,
+      "Total Payment Amount": 8454,
+      "Medicare Payment Amount": 6526
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 42643,
+      "Total Payment Amount": 16374,
+      "Medicare Payment Amount": 15086
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 140466,
+      "Total Payment Amount": 53352,
+      "Medicare Payment Amount": 50554
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 59875,
+      "Total Payment Amount": 21927,
+      "Medicare Payment Amount": 17658
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 33598,
+      "Total Payment Amount": 10174,
+      "Medicare Payment Amount": 8751
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 63823,
+      "Total Payment Amount": 17869,
+      "Medicare Payment Amount": 15472
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 26654,
+      "Total Payment Amount": 8504,
+      "Medicare Payment Amount": 7085
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 32636,
+      "Total Payment Amount": 7308,
+      "Medicare Payment Amount": 5740
+    },
+    {
+      "Hospital_Name": "Mainegeneral Medical Center",
+      "Address": "35 Medical Center Parkway, Augusta, ME 4330",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 20881,
+      "Total Payment Amount": 7496,
+      "Medicare Payment Amount": 4159
+    },
+    {
+      "Hospital_Name": "Northern Light Inland Hospital",
+      "Address": "200 Kennedy Memorial Drive, Waterville, ME 4901",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 25619,
+      "Total Payment Amount": 16080,
+      "Medicare Payment Amount": 14733
+    },
+    {
+      "Hospital_Name": "Northern Light Inland Hospital",
+      "Address": "200 Kennedy Memorial Drive, Waterville, ME 4901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 37763,
+      "Total Payment Amount": 23987,
+      "Medicare Payment Amount": 21996
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 33780,
+      "Total Payment Amount": 18128,
+      "Medicare Payment Amount": 16635
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 43530,
+      "Total Payment Amount": 13251,
+      "Medicare Payment Amount": 12340
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 39244,
+      "Total Payment Amount": 13496,
+      "Medicare Payment Amount": 12254
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 22030,
+      "Total Payment Amount": 16825,
+      "Medicare Payment Amount": 15807
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 31565,
+      "Total Payment Amount": 9970,
+      "Medicare Payment Amount": 8872
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 26360,
+      "Total Payment Amount": 13245,
+      "Medicare Payment Amount": 12093
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 101908,
+      "Total Payment Amount": 51732,
+      "Medicare Payment Amount": 49699
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 45607,
+      "Total Payment Amount": 20544,
+      "Medicare Payment Amount": 19277
+    },
+    {
+      "Hospital_Name": "Northern Light Maine Coast Hospital",
+      "Address": "50 Union Street, Ellsworth, ME 4605",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 41953,
+      "Total Payment Amount": 15623,
+      "Medicare Payment Amount": 11196
+    },
+    {
+      "Hospital_Name": "Northern Maine Medical Center",
+      "Address": "194 E Main Street, Fort Kent, ME 4743",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 18781,
+      "Total Payment Amount": 14508,
+      "Medicare Payment Amount": 13273
+    },
+    {
+      "Hospital_Name": "Northern Maine Medical Center",
+      "Address": "194 E Main Street, Fort Kent, ME 4743",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 26119,
+      "Total Payment Amount": 23287,
+      "Medicare Payment Amount": 22099
+    },
+    {
+      "Hospital_Name": "Northern Maine Medical Center",
+      "Address": "194 E Main Street, Fort Kent, ME 4743",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 17321,
+      "Total Payment Amount": 12124,
+      "Medicare Payment Amount": 10844
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 37456,
+      "Total Payment Amount": 18465,
+      "Medicare Payment Amount": 16019
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 48636,
+      "Total Payment Amount": 12083,
+      "Medicare Payment Amount": 10091
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 37435,
+      "Total Payment Amount": 15097,
+      "Medicare Payment Amount": 13764
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 20795,
+      "Total Payment Amount": 8665,
+      "Medicare Payment Amount": 7598
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32376,
+      "Total Payment Amount": 12206,
+      "Medicare Payment Amount": 11278
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 27569,
+      "Total Payment Amount": 7450,
+      "Medicare Payment Amount": 6432
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 82134,
+      "Total Payment Amount": 22208,
+      "Medicare Payment Amount": 20608
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 49372,
+      "Total Payment Amount": 21543,
+      "Medicare Payment Amount": 19781
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26685,
+      "Total Payment Amount": 9739,
+      "Medicare Payment Amount": 8392
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 46091,
+      "Total Payment Amount": 14700,
+      "Medicare Payment Amount": 13061
+    },
+    {
+      "Hospital_Name": "Penobscot Bay Medical Center",
+      "Address": "6 Glen Cove Drive, Rockport, ME 4856",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 36889,
+      "Total Payment Amount": 10296,
+      "Medicare Payment Amount": 8987
+    }
+  ]
+}

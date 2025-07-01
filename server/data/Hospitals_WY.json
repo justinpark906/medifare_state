@@ -1,0 +1,1564 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 27666,
+      "Total Payment Amount": 21924,
+      "Medicare Payment Amount": 20097
+    },
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 17683,
+      "Total Payment Amount": 14531,
+      "Medicare Payment Amount": 13197
+    },
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 20646,
+      "Total Payment Amount": 16278,
+      "Medicare Payment Amount": 13812
+    },
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32154,
+      "Total Payment Amount": 15753,
+      "Medicare Payment Amount": 13959
+    },
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 82553,
+      "Total Payment Amount": 28683,
+      "Medicare Payment Amount": 27083
+    },
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 19591,
+      "Total Payment Amount": 11015,
+      "Medicare Payment Amount": 9996
+    },
+    {
+      "Hospital_Name": "Campbell County Memorial Hospital",
+      "Address": "501 South Burma Avenue, Gillette, WY 82716",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 34374,
+      "Total Payment Amount": 23872,
+      "Medicare Payment Amount": 22565
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 25976,
+      "Total Payment Amount": 12004,
+      "Medicare Payment Amount": 10746
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 32995,
+      "Total Payment Amount": 23348,
+      "Medicare Payment Amount": 21354
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 20918,
+      "Total Payment Amount": 14218,
+      "Medicare Payment Amount": 13190
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 19122,
+      "Total Payment Amount": 12880,
+      "Medicare Payment Amount": 11448
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 23833,
+      "Total Payment Amount": 15777,
+      "Medicare Payment Amount": 13855
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 32411,
+      "Total Payment Amount": 18799,
+      "Medicare Payment Amount": 17926
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 26025,
+      "Total Payment Amount": 15246,
+      "Medicare Payment Amount": 14053
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 22428,
+      "Total Payment Amount": 11631,
+      "Medicare Payment Amount": 10408
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 18602,
+      "Total Payment Amount": 9489,
+      "Medicare Payment Amount": 8616
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 19752,
+      "Total Payment Amount": 9279,
+      "Medicare Payment Amount": 8172
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 49485,
+      "Total Payment Amount": 22448,
+      "Medicare Payment Amount": 20848
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 48885,
+      "Total Payment Amount": 25449,
+      "Medicare Payment Amount": 23976
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 21449,
+      "Total Payment Amount": 17586,
+      "Medicare Payment Amount": 16355
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 22992,
+      "Total Payment Amount": 13672,
+      "Medicare Payment Amount": 12342
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 31900,
+      "Total Payment Amount": 23479,
+      "Medicare Payment Amount": 21608
+    },
+    {
+      "Hospital_Name": "Sheridan Memorial Hospital",
+      "Address": "1401 W 5th St, Sheridan, WY 82801",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 24556,
+      "Total Payment Amount": 12109,
+      "Medicare Payment Amount": 10829
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 82154,
+      "Total Payment Amount": 18788,
+      "Medicare Payment Amount": 17021
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 51556,
+      "Total Payment Amount": 10248,
+      "Medicare Payment Amount": 9219
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 65952,
+      "Total Payment Amount": 12582,
+      "Medicare Payment Amount": 11118
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 47794,
+      "Total Payment Amount": 11603,
+      "Medicare Payment Amount": 10367
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 48166,
+      "Total Payment Amount": 8334,
+      "Medicare Payment Amount": 7306
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 39060,
+      "Total Payment Amount": 7262,
+      "Medicare Payment Amount": 6031
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 52323,
+      "Total Payment Amount": 11278,
+      "Medicare Payment Amount": 9824
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 80960,
+      "Total Payment Amount": 19105,
+      "Medicare Payment Amount": 17764
+    },
+    {
+      "Hospital_Name": "Sagewest Health Care",
+      "Address": "2100 W Sunset Dr, Riverton, WY 82501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 43029,
+      "Total Payment Amount": 10659,
+      "Medicare Payment Amount": 7972
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 29454,
+      "Total Payment Amount": 22367,
+      "Medicare Payment Amount": 21184
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 32056,
+      "Total Payment Amount": 14751,
+      "Medicare Payment Amount": 13421
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 23266,
+      "Total Payment Amount": 13789,
+      "Medicare Payment Amount": 10181
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 28938,
+      "Total Payment Amount": 15840,
+      "Medicare Payment Amount": 14609
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 34458,
+      "Total Payment Amount": 19166,
+      "Medicare Payment Amount": 18013
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 33841,
+      "Total Payment Amount": 17153,
+      "Medicare Payment Amount": 14857
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 58517,
+      "Total Payment Amount": 25910,
+      "Medicare Payment Amount": 24286
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 18177,
+      "Total Payment Amount": 9295,
+      "Medicare Payment Amount": 7937
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 20483,
+      "Total Payment Amount": 10760,
+      "Medicare Payment Amount": 9232
+    },
+    {
+      "Hospital_Name": "Memorial Hospital Sweetwater County",
+      "Address": "1200 College Drive, Rock Springs, WY 82901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 39844,
+      "Total Payment Amount": 24012,
+      "Medicare Payment Amount": 22626
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 136694,
+      "Total Payment Amount": 40509,
+      "Medicare Payment Amount": 39371
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 53145,
+      "Total Payment Amount": 17919,
+      "Medicare Payment Amount": 16539
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 38835,
+      "Total Payment Amount": 9114,
+      "Medicare Payment Amount": 7662
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 38737,
+      "Total Payment Amount": 12631,
+      "Medicare Payment Amount": 11357
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 36000,
+      "Total Payment Amount": 16895,
+      "Medicare Payment Amount": 14643
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 22210,
+      "Total Payment Amount": 9940,
+      "Medicare Payment Amount": 8581
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 28792,
+      "Total Payment Amount": 10922,
+      "Medicare Payment Amount": 9852
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 27235,
+      "Total Payment Amount": 10189,
+      "Medicare Payment Amount": 8256
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 29675,
+      "Total Payment Amount": 11768,
+      "Medicare Payment Amount": 10377
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 19483,
+      "Total Payment Amount": 7520,
+      "Medicare Payment Amount": 6371
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 61867,
+      "Total Payment Amount": 23727,
+      "Medicare Payment Amount": 22892
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WIT",
+      "Submitted Covered Payment": 357694,
+      "Total Payment Amount": 96658,
+      "Medicare Payment Amount": 95334
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 101034,
+      "Total Payment Amount": 21691,
+      "Medicare Payment Amount": 20459
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 67678,
+      "Total Payment Amount": 16893,
+      "Medicare Payment Amount": 15504
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 147701,
+      "Total Payment Amount": 28388,
+      "Medicare Payment Amount": 26775
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 92314,
+      "Total Payment Amount": 16999,
+      "Medicare Payment Amount": 15597
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 200556,
+      "Total Payment Amount": 62839,
+      "Medicare Payment Amount": 61834
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 180483,
+      "Total Payment Amount": 51230,
+      "Medicare Payment Amount": 41011
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 216372,
+      "Total Payment Amount": 51344,
+      "Medicare Payment Amount": 50425
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 101678,
+      "Total Payment Amount": 29824,
+      "Medicare Payment Amount": 28263
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 55306,
+      "Total Payment Amount": 14399,
+      "Medicare Payment Amount": 13171
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 42838,
+      "Total Payment Amount": 11964,
+      "Medicare Payment Amount": 6170
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 85046,
+      "Total Payment Amount": 19149,
+      "Medicare Payment Amount": 18112
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 47247,
+      "Total Payment Amount": 10667,
+      "Medicare Payment Amount": 7736
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 36209,
+      "Total Payment Amount": 11591,
+      "Medicare Payment Amount": 10531
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 32811,
+      "Total Payment Amount": 7778,
+      "Medicare Payment Amount": 6513
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 42767,
+      "Total Payment Amount": 19089,
+      "Medicare Payment Amount": 8035
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 23307,
+      "Total Payment Amount": 7038,
+      "Medicare Payment Amount": 5033
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 18781,
+      "Total Payment Amount": 5004,
+      "Medicare Payment Amount": 3665
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 57873,
+      "Total Payment Amount": 18873,
+      "Medicare Payment Amount": 17780
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 123802,
+      "Total Payment Amount": 41274,
+      "Medicare Payment Amount": 39862
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 100296,
+      "Total Payment Amount": 22504,
+      "Medicare Payment Amount": 21069
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 79325,
+      "Total Payment Amount": 16402,
+      "Medicare Payment Amount": 13159
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 68564,
+      "Total Payment Amount": 17808,
+      "Medicare Payment Amount": 16789
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 30440,
+      "Total Payment Amount": 8840,
+      "Medicare Payment Amount": 7613
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26113,
+      "Total Payment Amount": 5725,
+      "Medicare Payment Amount": 4104
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 18445,
+      "Total Payment Amount": 7294,
+      "Medicare Payment Amount": 5855
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 12374,
+      "Total Payment Amount": 5119,
+      "Medicare Payment Amount": 3621
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 26656,
+      "Total Payment Amount": 12316,
+      "Medicare Payment Amount": 9840
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 21023,
+      "Total Payment Amount": 7330,
+      "Medicare Payment Amount": 5962
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26147,
+      "Total Payment Amount": 8556,
+      "Medicare Payment Amount": 7666
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 53564,
+      "Total Payment Amount": 14837,
+      "Medicare Payment Amount": 13419
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITHOUT CC/MCC",
+      "Submitted Covered Payment": 49920,
+      "Total Payment Amount": 12886,
+      "Medicare Payment Amount": 9231
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 34129,
+      "Total Payment Amount": 17100,
+      "Medicare Payment Amount": 15847
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 39706,
+      "Total Payment Amount": 9372,
+      "Medicare Payment Amount": 8521
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 25766,
+      "Total Payment Amount": 7797,
+      "Medicare Payment Amount": 6746
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 43807,
+      "Total Payment Amount": 14905,
+      "Medicare Payment Amount": 13663
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 32803,
+      "Total Payment Amount": 9913,
+      "Medicare Payment Amount": 8504
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 155636,
+      "Total Payment Amount": 42508,
+      "Medicare Payment Amount": 40991
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 83511,
+      "Total Payment Amount": 26632,
+      "Medicare Payment Amount": 12730
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 118420,
+      "Total Payment Amount": 28494,
+      "Medicare Payment Amount": 27094
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 79504,
+      "Total Payment Amount": 18886,
+      "Medicare Payment Amount": 17521
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 90825,
+      "Total Payment Amount": 19380,
+      "Medicare Payment Amount": 17946
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 23232,
+      "Total Payment Amount": 8692,
+      "Medicare Payment Amount": 7292
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 16716,
+      "Total Payment Amount": 7926,
+      "Medicare Payment Amount": 6595
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 55042,
+      "Total Payment Amount": 17396,
+      "Medicare Payment Amount": 16159
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 35610,
+      "Total Payment Amount": 13344,
+      "Medicare Payment Amount": 10266
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 25877,
+      "Total Payment Amount": 7930,
+      "Medicare Payment Amount": 6700
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 46749,
+      "Total Payment Amount": 13180,
+      "Medicare Payment Amount": 10021
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 25603,
+      "Total Payment Amount": 6953,
+      "Medicare Payment Amount": 5636
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 36402,
+      "Total Payment Amount": 14748,
+      "Medicare Payment Amount": 13244
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 34060,
+      "Total Payment Amount": 9347,
+      "Medicare Payment Amount": 7970
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 44729,
+      "Total Payment Amount": 13952,
+      "Medicare Payment Amount": 12231
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23247,
+      "Total Payment Amount": 8323,
+      "Medicare Payment Amount": 6722
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 26419,
+      "Total Payment Amount": 10757,
+      "Medicare Payment Amount": 8867
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 20244,
+      "Total Payment Amount": 7135,
+      "Medicare Payment Amount": 6002
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 34088,
+      "Total Payment Amount": 14566,
+      "Medicare Payment Amount": 13669
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30452,
+      "Total Payment Amount": 9082,
+      "Medicare Payment Amount": 7893
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 52351,
+      "Total Payment Amount": 14046,
+      "Medicare Payment Amount": 13287
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 161378,
+      "Total Payment Amount": 48576,
+      "Medicare Payment Amount": 46856
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 55763,
+      "Total Payment Amount": 18410,
+      "Medicare Payment Amount": 17263
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 183947,
+      "Total Payment Amount": 61111,
+      "Medicare Payment Amount": 59612
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 49993,
+      "Total Payment Amount": 18030,
+      "Medicare Payment Amount": 16697
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26723,
+      "Total Payment Amount": 9494,
+      "Medicare Payment Amount": 7916
+    },
+    {
+      "Hospital_Name": "Wyoming Medical Center",
+      "Address": "1233 East 2nd St, Casper, WY 82601",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 102717,
+      "Total Payment Amount": 42342,
+      "Medicare Payment Amount": 41747
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 55554,
+      "Total Payment Amount": 20906,
+      "Medicare Payment Amount": 19566
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 41968,
+      "Total Payment Amount": 11062,
+      "Medicare Payment Amount": 9625
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 34275,
+      "Total Payment Amount": 8424,
+      "Medicare Payment Amount": 6905
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 56417,
+      "Total Payment Amount": 18344,
+      "Medicare Payment Amount": 17317
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 29969,
+      "Total Payment Amount": 9588,
+      "Medicare Payment Amount": 8162
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 36919,
+      "Total Payment Amount": 14460,
+      "Medicare Payment Amount": 13193
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 57878,
+      "Total Payment Amount": 13488,
+      "Medicare Payment Amount": 9793
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 42859,
+      "Total Payment Amount": 20563,
+      "Medicare Payment Amount": 18471
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 29182,
+      "Total Payment Amount": 12204,
+      "Medicare Payment Amount": 10816
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 33859,
+      "Total Payment Amount": 12796,
+      "Medicare Payment Amount": 11561
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 35540,
+      "Total Payment Amount": 11800,
+      "Medicare Payment Amount": 9922
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 31569,
+      "Total Payment Amount": 10560,
+      "Medicare Payment Amount": 6966
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 38133,
+      "Total Payment Amount": 14227,
+      "Medicare Payment Amount": 12285
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 31946,
+      "Total Payment Amount": 9328,
+      "Medicare Payment Amount": 7946
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 149524,
+      "Total Payment Amount": 37713,
+      "Medicare Payment Amount": 30273
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 122519,
+      "Total Payment Amount": 22287,
+      "Medicare Payment Amount": 20949
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 194183,
+      "Total Payment Amount": 46978,
+      "Medicare Payment Amount": 45493
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 133311,
+      "Total Payment Amount": 35390,
+      "Medicare Payment Amount": 33857
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 56208,
+      "Total Payment Amount": 17729,
+      "Medicare Payment Amount": 15314
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 43164,
+      "Total Payment Amount": 10490,
+      "Medicare Payment Amount": 8136
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 72292,
+      "Total Payment Amount": 24572,
+      "Medicare Payment Amount": 19966
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 67202,
+      "Total Payment Amount": 11614,
+      "Medicare Payment Amount": 10228
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 31261,
+      "Total Payment Amount": 13543,
+      "Medicare Payment Amount": 12381
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 37921,
+      "Total Payment Amount": 13231,
+      "Medicare Payment Amount": 10908
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 23115,
+      "Total Payment Amount": 7800,
+      "Medicare Payment Amount": 6430
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 31097,
+      "Total Payment Amount": 9544,
+      "Medicare Payment Amount": 7653
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 108643,
+      "Total Payment Amount": 33173,
+      "Medicare Payment Amount": 23142
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 49216,
+      "Total Payment Amount": 18720,
+      "Medicare Payment Amount": 17640
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 41752,
+      "Total Payment Amount": 10621,
+      "Medicare Payment Amount": 9164
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 27849,
+      "Total Payment Amount": 11379,
+      "Medicare Payment Amount": 5727
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 40510,
+      "Total Payment Amount": 15529,
+      "Medicare Payment Amount": 10748
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 31144,
+      "Total Payment Amount": 8357,
+      "Medicare Payment Amount": 6978
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 74433,
+      "Total Payment Amount": 20489,
+      "Medicare Payment Amount": 17920
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 91703,
+      "Total Payment Amount": 29528,
+      "Medicare Payment Amount": 28124
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 81278,
+      "Total Payment Amount": 22951,
+      "Medicare Payment Amount": 21491
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 64205,
+      "Total Payment Amount": 18684,
+      "Medicare Payment Amount": 14395
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 77701,
+      "Total Payment Amount": 22778,
+      "Medicare Payment Amount": 21154
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 31890,
+      "Total Payment Amount": 10151,
+      "Medicare Payment Amount": 8865
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 27598,
+      "Total Payment Amount": 9307,
+      "Medicare Payment Amount": 7930
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 45168,
+      "Total Payment Amount": 16440,
+      "Medicare Payment Amount": 12883
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 25690,
+      "Total Payment Amount": 9357,
+      "Medicare Payment Amount": 8011
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 38551,
+      "Total Payment Amount": 14965,
+      "Medicare Payment Amount": 11828
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 30985,
+      "Total Payment Amount": 10834,
+      "Medicare Payment Amount": 8129
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 46057,
+      "Total Payment Amount": 13661,
+      "Medicare Payment Amount": 12155
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 27267,
+      "Total Payment Amount": 8166,
+      "Medicare Payment Amount": 6905
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 50437,
+      "Total Payment Amount": 17526,
+      "Medicare Payment Amount": 12301
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 39105,
+      "Total Payment Amount": 15963,
+      "Medicare Payment Amount": 14827
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 27767,
+      "Total Payment Amount": 9434,
+      "Medicare Payment Amount": 8362
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 33974,
+      "Total Payment Amount": 12640,
+      "Medicare Payment Amount": 10272
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 29463,
+      "Total Payment Amount": 9093,
+      "Medicare Payment Amount": 6673
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 51625,
+      "Total Payment Amount": 16973,
+      "Medicare Payment Amount": 15962
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 156138,
+      "Total Payment Amount": 56093,
+      "Medicare Payment Amount": 52738
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 76895,
+      "Total Payment Amount": 24123,
+      "Medicare Payment Amount": 18120
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 60612,
+      "Total Payment Amount": 21677,
+      "Medicare Payment Amount": 19669
+    },
+    {
+      "Hospital_Name": "Cheyenne Regional Medical Center",
+      "Address": "214 East 23rd Street, Cheyenne, WY 82001",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 34170,
+      "Total Payment Amount": 11518,
+      "Medicare Payment Amount": 9107
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 48580,
+      "Total Payment Amount": 26762,
+      "Medicare Payment Amount": 25347
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 27790,
+      "Total Payment Amount": 16878,
+      "Medicare Payment Amount": 14241
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 45775,
+      "Total Payment Amount": 16928,
+      "Medicare Payment Amount": 15995
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 27469,
+      "Total Payment Amount": 16165,
+      "Medicare Payment Amount": 14931
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 22150,
+      "Total Payment Amount": 10422,
+      "Medicare Payment Amount": 9222
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 24426,
+      "Total Payment Amount": 16163,
+      "Medicare Payment Amount": 14791
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 15843,
+      "Total Payment Amount": 9775,
+      "Medicare Payment Amount": 8175
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 264570,
+      "Total Payment Amount": 129930,
+      "Medicare Payment Amount": 128330
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 157488,
+      "Total Payment Amount": 68436,
+      "Medicare Payment Amount": 66959
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 64925,
+      "Total Payment Amount": 31391,
+      "Medicare Payment Amount": 22527
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 27023,
+      "Total Payment Amount": 11885,
+      "Medicare Payment Amount": 11085
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21186,
+      "Total Payment Amount": 9744,
+      "Medicare Payment Amount": 8575
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24057,
+      "Total Payment Amount": 10107,
+      "Medicare Payment Amount": 8724
+    },
+    {
+      "Hospital_Name": "St Johns Medical Center",
+      "Address": "625 East Broadway, Jackson, WY 83001",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 23279,
+      "Total Payment Amount": 10759,
+      "Medicare Payment Amount": 9179
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 47232,
+      "Total Payment Amount": 23624,
+      "Medicare Payment Amount": 22224
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32608,
+      "Total Payment Amount": 16786,
+      "Medicare Payment Amount": 15555
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 21340,
+      "Total Payment Amount": 16353,
+      "Medicare Payment Amount": 15335
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 65712,
+      "Total Payment Amount": 35458,
+      "Medicare Payment Amount": 33947
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 54308,
+      "Total Payment Amount": 27626,
+      "Medicare Payment Amount": 26026
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 40084,
+      "Total Payment Amount": 25020,
+      "Medicare Payment Amount": 22827
+    },
+    {
+      "Hospital_Name": "Ivinson Memorial Hospital",
+      "Address": "255 N 30th, Laramie, WY 82072",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 23474,
+      "Total Payment Amount": 13178,
+      "Medicare Payment Amount": 11692
+    },
+    {
+      "Hospital_Name": "Evanston Regional Hospital",
+      "Address": "190 Arrowhead Dr, Evanston, WY 82930",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 23792,
+      "Total Payment Amount": 11896,
+      "Medicare Payment Amount": 10299
+    },
+    {
+      "Hospital_Name": "Evanston Regional Hospital",
+      "Address": "190 Arrowhead Dr, Evanston, WY 82930",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 28461,
+      "Total Payment Amount": 17923,
+      "Medicare Payment Amount": 16591
+    }
+  ]
+}

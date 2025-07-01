@@ -1,0 +1,2388 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 38669,
+      "Total Payment Amount": 9411,
+      "Medicare Payment Amount": 7811
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 38914,
+      "Total Payment Amount": 11700,
+      "Medicare Payment Amount": 10366
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 27591,
+      "Total Payment Amount": 4107,
+      "Medicare Payment Amount": 2678
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 26469,
+      "Total Payment Amount": 7816,
+      "Medicare Payment Amount": 6697
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 24788,
+      "Total Payment Amount": 7350,
+      "Medicare Payment Amount": 5614
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 20175,
+      "Total Payment Amount": 3982,
+      "Medicare Payment Amount": 2964
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 24337,
+      "Total Payment Amount": 7401,
+      "Medicare Payment Amount": 6202
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 29527,
+      "Total Payment Amount": 6903,
+      "Medicare Payment Amount": 5795
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 20357,
+      "Total Payment Amount": 3815,
+      "Medicare Payment Amount": 2803
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 12943,
+      "Total Payment Amount": 3672,
+      "Medicare Payment Amount": 2493
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 30806,
+      "Total Payment Amount": 6283,
+      "Medicare Payment Amount": 4789
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 25514,
+      "Total Payment Amount": 2510,
+      "Medicare Payment Amount": 180
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 18940,
+      "Total Payment Amount": 1938,
+      "Medicare Payment Amount": 1253
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19574,
+      "Total Payment Amount": 2148,
+      "Medicare Payment Amount": 815
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 75701,
+      "Total Payment Amount": 11360,
+      "Medicare Payment Amount": 9905
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 43105,
+      "Total Payment Amount": 7146,
+      "Medicare Payment Amount": 6293
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 22405,
+      "Total Payment Amount": 2869,
+      "Medicare Payment Amount": 1928
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 18067,
+      "Total Payment Amount": 2844,
+      "Medicare Payment Amount": 1662
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29864,
+      "Total Payment Amount": 6155,
+      "Medicare Payment Amount": 3515
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 42156,
+      "Total Payment Amount": 7381,
+      "Medicare Payment Amount": 4676
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 66050,
+      "Total Payment Amount": 14318,
+      "Medicare Payment Amount": 13251
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 45946,
+      "Total Payment Amount": 8075,
+      "Medicare Payment Amount": 6653
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 22644,
+      "Total Payment Amount": 3185,
+      "Medicare Payment Amount": 1852
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 19118,
+      "Total Payment Amount": 6122,
+      "Medicare Payment Amount": 4711
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 27453,
+      "Total Payment Amount": 6921,
+      "Medicare Payment Amount": 5814
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 33477,
+      "Total Payment Amount": 7599,
+      "Medicare Payment Amount": 6533
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 17707,
+      "Total Payment Amount": 2579,
+      "Medicare Payment Amount": 1512
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 25118,
+      "Total Payment Amount": 3126,
+      "Medicare Payment Amount": 1842
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 20400,
+      "Total Payment Amount": 2672,
+      "Medicare Payment Amount": 1291
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 29560,
+      "Total Payment Amount": 7045,
+      "Medicare Payment Amount": 5725
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 18206,
+      "Total Payment Amount": 3041,
+      "Medicare Payment Amount": 1551
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 26450,
+      "Total Payment Amount": 6895,
+      "Medicare Payment Amount": 5961
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 79385,
+      "Total Payment Amount": 26513,
+      "Medicare Payment Amount": 25300
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 45287,
+      "Total Payment Amount": 7740,
+      "Medicare Payment Amount": 6273
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 36283,
+      "Total Payment Amount": 9847,
+      "Medicare Payment Amount": 8316
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 21176,
+      "Total Payment Amount": 4490,
+      "Medicare Payment Amount": 3178
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "NEUROSES EXCEPT DEPRESSIVE",
+      "Submitted Covered Payment": 25524,
+      "Total Payment Amount": 4822,
+      "Medicare Payment Amount": 3804
+    },
+    {
+      "Hospital_Name": "Central Vermont Medical Center",
+      "Address": "Box 547, Barre, VT 5641",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 40088,
+      "Total Payment Amount": 13939,
+      "Medicare Payment Amount": 11802
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 190941,
+      "Total Payment Amount": 44280,
+      "Medicare Payment Amount": 34996
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 139076,
+      "Total Payment Amount": 37981,
+      "Medicare Payment Amount": 34804
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 91489,
+      "Total Payment Amount": 19224,
+      "Medicare Payment Amount": 11536
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 114201,
+      "Total Payment Amount": 23092,
+      "Medicare Payment Amount": 20980
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 54868,
+      "Total Payment Amount": 11330,
+      "Medicare Payment Amount": 5310
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 39326,
+      "Total Payment Amount": 8656,
+      "Medicare Payment Amount": 5585
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 51389,
+      "Total Payment Amount": 11157,
+      "Medicare Payment Amount": 9027
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 73019,
+      "Total Payment Amount": 15397,
+      "Medicare Payment Amount": 12471
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 49650,
+      "Total Payment Amount": 8766,
+      "Medicare Payment Amount": 5461
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 75417,
+      "Total Payment Amount": 18874,
+      "Medicare Payment Amount": 13593
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 42390,
+      "Total Payment Amount": 8066,
+      "Medicare Payment Amount": 5038
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 40379,
+      "Total Payment Amount": 13278,
+      "Medicare Payment Amount": 2897
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 78562,
+      "Total Payment Amount": 12943,
+      "Medicare Payment Amount": 9963
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 39045,
+      "Total Payment Amount": 8806,
+      "Medicare Payment Amount": 6664
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CRANIAL AND PERIPHERAL NERVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 30132,
+      "Total Payment Amount": 7116,
+      "Medicare Payment Amount": 5265
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 102490,
+      "Total Payment Amount": 21423,
+      "Medicare Payment Amount": 18582
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 91689,
+      "Total Payment Amount": 15214,
+      "Medicare Payment Amount": 12355
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 63858,
+      "Total Payment Amount": 11633,
+      "Medicare Payment Amount": 8395
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 84639,
+      "Total Payment Amount": 16440,
+      "Medicare Payment Amount": 11128
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 44668,
+      "Total Payment Amount": 7354,
+      "Medicare Payment Amount": 5489
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 70466,
+      "Total Payment Amount": 18925,
+      "Medicare Payment Amount": 16503
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 55769,
+      "Total Payment Amount": 10655,
+      "Medicare Payment Amount": 7469
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 91834,
+      "Total Payment Amount": 16312,
+      "Medicare Payment Amount": 13410
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 40369,
+      "Total Payment Amount": 15812,
+      "Medicare Payment Amount": 11533
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 45841,
+      "Total Payment Amount": 11835,
+      "Medicare Payment Amount": 6587
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 42849,
+      "Total Payment Amount": 5408,
+      "Medicare Payment Amount": 3717
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 51460,
+      "Total Payment Amount": 13309,
+      "Medicare Payment Amount": 9726
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 53488,
+      "Total Payment Amount": 13392,
+      "Medicare Payment Amount": 9027
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 74133,
+      "Total Payment Amount": 14102,
+      "Medicare Payment Amount": 11410
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 52706,
+      "Total Payment Amount": 7995,
+      "Medicare Payment Amount": 4638
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 47393,
+      "Total Payment Amount": 9205,
+      "Medicare Payment Amount": 5487
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 31373,
+      "Total Payment Amount": 6740,
+      "Medicare Payment Amount": 4258
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 27769,
+      "Total Payment Amount": 6422,
+      "Medicare Payment Amount": 4115
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 39103,
+      "Total Payment Amount": 8869,
+      "Medicare Payment Amount": 5996
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 31629,
+      "Total Payment Amount": 5483,
+      "Medicare Payment Amount": 3521
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PNEUMOTHORAX WITH CC",
+      "Submitted Covered Payment": 54114,
+      "Total Payment Amount": 6372,
+      "Medicare Payment Amount": 3820
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 90954,
+      "Total Payment Amount": 17902,
+      "Medicare Payment Amount": 14914
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WIT",
+      "Submitted Covered Payment": 272108,
+      "Total Payment Amount": 81960,
+      "Medicare Payment Amount": 78019
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 229675,
+      "Total Payment Amount": 85845,
+      "Medicare Payment Amount": 61457
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 129243,
+      "Total Payment Amount": 44251,
+      "Medicare Payment Amount": 32940
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 140792,
+      "Total Payment Amount": 28387,
+      "Medicare Payment Amount": 24653
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 145656,
+      "Total Payment Amount": 43745,
+      "Medicare Payment Amount": 40321
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 98915,
+      "Total Payment Amount": 29595,
+      "Medicare Payment Amount": 26028
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH CC",
+      "Submitted Covered Payment": 90573,
+      "Total Payment Amount": 29445,
+      "Medicare Payment Amount": 20300
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 83843,
+      "Total Payment Amount": 20391,
+      "Medicare Payment Amount": 15470
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 72976,
+      "Total Payment Amount": 14219,
+      "Medicare Payment Amount": 10107
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 58611,
+      "Total Payment Amount": 12877,
+      "Medicare Payment Amount": 6587
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 96270,
+      "Total Payment Amount": 18868,
+      "Medicare Payment Amount": 17031
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 73978,
+      "Total Payment Amount": 12422,
+      "Medicare Payment Amount": 8959
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 138140,
+      "Total Payment Amount": 31775,
+      "Medicare Payment Amount": 27569
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 84458,
+      "Total Payment Amount": 18031,
+      "Medicare Payment Amount": 13290
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER VASCULAR PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 50518,
+      "Total Payment Amount": 9628,
+      "Medicare Payment Amount": 7533
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 214753,
+      "Total Payment Amount": 54828,
+      "Medicare Payment Amount": 52496
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 150812,
+      "Total Payment Amount": 33112,
+      "Medicare Payment Amount": 29735
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 139732,
+      "Total Payment Amount": 25930,
+      "Medicare Payment Amount": 23940
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 148132,
+      "Total Payment Amount": 40334,
+      "Medicare Payment Amount": 37687
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 115949,
+      "Total Payment Amount": 28906,
+      "Medicare Payment Amount": 21424
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 106882,
+      "Total Payment Amount": 19547,
+      "Medicare Payment Amount": 16348
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 49804,
+      "Total Payment Amount": 10322,
+      "Medicare Payment Amount": 7266
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 30957,
+      "Total Payment Amount": 6036,
+      "Medicare Payment Amount": 3574
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27590,
+      "Total Payment Amount": 5491,
+      "Medicare Payment Amount": 3813
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",
+      "Submitted Covered Payment": 64792,
+      "Total Payment Amount": 13797,
+      "Medicare Payment Amount": 11560
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 66599,
+      "Total Payment Amount": 15755,
+      "Medicare Payment Amount": 10790
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 37159,
+      "Total Payment Amount": 10267,
+      "Medicare Payment Amount": 4912
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 37864,
+      "Total Payment Amount": 8147,
+      "Medicare Payment Amount": 5443
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 53085,
+      "Total Payment Amount": 11954,
+      "Medicare Payment Amount": 10123
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 33977,
+      "Total Payment Amount": 7436,
+      "Medicare Payment Amount": 5073
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ATHEROSCLEROSIS WITHOUT MCC",
+      "Submitted Covered Payment": 29725,
+      "Total Payment Amount": 4891,
+      "Medicare Payment Amount": 2941
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 43816,
+      "Total Payment Amount": 9500,
+      "Medicare Payment Amount": 7125
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 22039,
+      "Total Payment Amount": 5598,
+      "Medicare Payment Amount": 2599
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 13707,
+      "Total Payment Amount": 4605,
+      "Medicare Payment Amount": 1891
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 46851,
+      "Total Payment Amount": 4616,
+      "Medicare Payment Amount": 2292
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 69497,
+      "Total Payment Amount": 16711,
+      "Medicare Payment Amount": 12552
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 37403,
+      "Total Payment Amount": 6520,
+      "Medicare Payment Amount": 4400
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 113899,
+      "Total Payment Amount": 26795,
+      "Medicare Payment Amount": 18414
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 79832,
+      "Total Payment Amount": 9556,
+      "Medicare Payment Amount": 7786
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 202412,
+      "Total Payment Amount": 63468,
+      "Medicare Payment Amount": 56461
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 176819,
+      "Total Payment Amount": 48174,
+      "Medicare Payment Amount": 39828
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 67037,
+      "Total Payment Amount": 17306,
+      "Medicare Payment Amount": 14646
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 37673,
+      "Total Payment Amount": 12911,
+      "Medicare Payment Amount": 8392
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 54543,
+      "Total Payment Amount": 14254,
+      "Medicare Payment Amount": 12157
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 44107,
+      "Total Payment Amount": 5504,
+      "Medicare Payment Amount": 3173
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 60816,
+      "Total Payment Amount": 18452,
+      "Medicare Payment Amount": 11278
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 31320,
+      "Total Payment Amount": 7362,
+      "Medicare Payment Amount": 5450
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 31367,
+      "Total Payment Amount": 5881,
+      "Medicare Payment Amount": 3211
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22542,
+      "Total Payment Amount": 4629,
+      "Medicare Payment Amount": 2230
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 47413,
+      "Total Payment Amount": 9507,
+      "Medicare Payment Amount": 5566
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 32117,
+      "Total Payment Amount": 5762,
+      "Medicare Payment Amount": 3914
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 53467,
+      "Total Payment Amount": 12694,
+      "Medicare Payment Amount": 10311
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25188,
+      "Total Payment Amount": 6953,
+      "Medicare Payment Amount": 3425
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 42482,
+      "Total Payment Amount": 10705,
+      "Medicare Payment Amount": 6288
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 52091,
+      "Total Payment Amount": 20605,
+      "Medicare Payment Amount": 18046
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 31860,
+      "Total Payment Amount": 8766,
+      "Medicare Payment Amount": 6715
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 32219,
+      "Total Payment Amount": 8892,
+      "Medicare Payment Amount": 5150
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 33860,
+      "Total Payment Amount": 8903,
+      "Medicare Payment Amount": 6675
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 54122,
+      "Total Payment Amount": 8226,
+      "Medicare Payment Amount": 5701
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 35395,
+      "Total Payment Amount": 6938,
+      "Medicare Payment Amount": 5041
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 101872,
+      "Total Payment Amount": 25069,
+      "Medicare Payment Amount": 22422
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 53647,
+      "Total Payment Amount": 9002,
+      "Medicare Payment Amount": 6879
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 113542,
+      "Total Payment Amount": 24350,
+      "Medicare Payment Amount": 16924
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 90498,
+      "Total Payment Amount": 21475,
+      "Medicare Payment Amount": 17237
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 68048,
+      "Total Payment Amount": 14236,
+      "Medicare Payment Amount": 11653
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45872,
+      "Total Payment Amount": 8074,
+      "Medicare Payment Amount": 5834
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 99092,
+      "Total Payment Amount": 28615,
+      "Medicare Payment Amount": 25853
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 72447,
+      "Total Payment Amount": 13800,
+      "Medicare Payment Amount": 11553
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 50782,
+      "Total Payment Amount": 9220,
+      "Medicare Payment Amount": 7177
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 59158,
+      "Total Payment Amount": 16098,
+      "Medicare Payment Amount": 11391
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 95585,
+      "Total Payment Amount": 16744,
+      "Medicare Payment Amount": 13793
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 68033,
+      "Total Payment Amount": 12811,
+      "Medicare Payment Amount": 10191
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 35279,
+      "Total Payment Amount": 5079,
+      "Medicare Payment Amount": 2973
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 79215,
+      "Total Payment Amount": 15125,
+      "Medicare Payment Amount": 9412
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 46351,
+      "Total Payment Amount": 6486,
+      "Medicare Payment Amount": 3172
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 42227,
+      "Total Payment Amount": 8044,
+      "Medicare Payment Amount": 3149
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 46903,
+      "Total Payment Amount": 10841,
+      "Medicare Payment Amount": 7623
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 31366,
+      "Total Payment Amount": 7112,
+      "Medicare Payment Amount": 5082
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 52105,
+      "Total Payment Amount": 10194,
+      "Medicare Payment Amount": 5456
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 60640,
+      "Total Payment Amount": 9368,
+      "Medicare Payment Amount": 6773
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 38134,
+      "Total Payment Amount": 7768,
+      "Medicare Payment Amount": 5197
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 44816,
+      "Total Payment Amount": 9774,
+      "Medicare Payment Amount": 6631
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 33161,
+      "Total Payment Amount": 7557,
+      "Medicare Payment Amount": 4777
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 25540,
+      "Total Payment Amount": 8119,
+      "Medicare Payment Amount": 4279
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITH CC",
+      "Submitted Covered Payment": 51966,
+      "Total Payment Amount": 11316,
+      "Medicare Payment Amount": 9045
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 45800,
+      "Total Payment Amount": 7937,
+      "Medicare Payment Amount": 5862
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 40953,
+      "Total Payment Amount": 9787,
+      "Medicare Payment Amount": 6803
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 29093,
+      "Total Payment Amount": 5778,
+      "Medicare Payment Amount": 3429
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 33623,
+      "Total Payment Amount": 5062,
+      "Medicare Payment Amount": 2935
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 30400,
+      "Total Payment Amount": 5764,
+      "Medicare Payment Amount": 3165
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 54717,
+      "Total Payment Amount": 11181,
+      "Medicare Payment Amount": 7005
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 38280,
+      "Total Payment Amount": 8146,
+      "Medicare Payment Amount": 5856
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 65497,
+      "Total Payment Amount": 19220,
+      "Medicare Payment Amount": 16978
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 38230,
+      "Total Payment Amount": 6152,
+      "Medicare Payment Amount": 4440
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 37678,
+      "Total Payment Amount": 6511,
+      "Medicare Payment Amount": 4577
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 37857,
+      "Total Payment Amount": 6725,
+      "Medicare Payment Amount": 4220
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ACUTE LEUKEMIA WITH MCC",
+      "Submitted Covered Payment": 234213,
+      "Total Payment Amount": 86918,
+      "Medicare Payment Amount": 46613
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "LYMPHOMA AND NON-ACUTE LEUKEMIA WITH CC",
+      "Submitted Covered Payment": 70605,
+      "Total Payment Amount": 12528,
+      "Medicare Payment Amount": 10369
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 37914,
+      "Total Payment Amount": 7251,
+      "Medicare Payment Amount": 6010
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 124227,
+      "Total Payment Amount": 36864,
+      "Medicare Payment Amount": 32646
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 64498,
+      "Total Payment Amount": 15372,
+      "Medicare Payment Amount": 12473
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 166000,
+      "Total Payment Amount": 37529,
+      "Medicare Payment Amount": 30085
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 78332,
+      "Total Payment Amount": 16073,
+      "Medicare Payment Amount": 13198
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 66968,
+      "Total Payment Amount": 16351,
+      "Medicare Payment Amount": 10761
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 61801,
+      "Total Payment Amount": 13924,
+      "Medicare Payment Amount": 11090
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 38348,
+      "Total Payment Amount": 7231,
+      "Medicare Payment Amount": 4368
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 53516,
+      "Total Payment Amount": 12773,
+      "Medicare Payment Amount": 8831
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 79192,
+      "Total Payment Amount": 19124,
+      "Medicare Payment Amount": 12489
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 33125,
+      "Total Payment Amount": 18022,
+      "Medicare Payment Amount": 16167
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 25477,
+      "Total Payment Amount": 10480,
+      "Medicare Payment Amount": 7249
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 58260,
+      "Total Payment Amount": 13112,
+      "Medicare Payment Amount": 11210
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "COMPLICATIONS OF TREATMENT WITH CC",
+      "Submitted Covered Payment": 38746,
+      "Total Payment Amount": 9810,
+      "Medicare Payment Amount": 6868
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SIGNS AND SYMPTOMS WITH MCC",
+      "Submitted Covered Payment": 50991,
+      "Total Payment Amount": 7952,
+      "Medicare Payment Amount": 6232
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 32257,
+      "Total Payment Amount": 6446,
+      "Medicare Payment Amount": 3306
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 18007,
+      "Total Payment Amount": 3514,
+      "Medicare Payment Amount": 1921
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "OTHER MULTIPLE SIGNIFICANT TRAUMA WITH CC",
+      "Submitted Covered Payment": 56311,
+      "Total Payment Amount": 9867,
+      "Medicare Payment Amount": 7030
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 155819,
+      "Total Payment Amount": 32551,
+      "Medicare Payment Amount": 28446
+    },
+    {
+      "Hospital_Name": "University Of Vermont Medical Center",
+      "Address": "111 Colchester Ave, Burlington, VT 5401",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 76285,
+      "Total Payment Amount": 22269,
+      "Medicare Payment Amount": 16545
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 56799,
+      "Total Payment Amount": 9443,
+      "Medicare Payment Amount": 8128
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 35736,
+      "Total Payment Amount": 5992,
+      "Medicare Payment Amount": 4888
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26635,
+      "Total Payment Amount": 3909,
+      "Medicare Payment Amount": 2489
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 36411,
+      "Total Payment Amount": 3260,
+      "Medicare Payment Amount": 2460
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 45812,
+      "Total Payment Amount": 11107,
+      "Medicare Payment Amount": 9497
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 30261,
+      "Total Payment Amount": 5887,
+      "Medicare Payment Amount": 4475
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 37367,
+      "Total Payment Amount": 7115,
+      "Medicare Payment Amount": 5371
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 30563,
+      "Total Payment Amount": 5021,
+      "Medicare Payment Amount": 3998
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 31326,
+      "Total Payment Amount": 6410,
+      "Medicare Payment Amount": 5005
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 24680,
+      "Total Payment Amount": 4232,
+      "Medicare Payment Amount": 2739
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 19321,
+      "Total Payment Amount": 5845,
+      "Medicare Payment Amount": 3393
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15246,
+      "Total Payment Amount": 5845,
+      "Medicare Payment Amount": 3320
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 38953,
+      "Total Payment Amount": 8697,
+      "Medicare Payment Amount": 7159
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 33332,
+      "Total Payment Amount": 5858,
+      "Medicare Payment Amount": 4969
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21629,
+      "Total Payment Amount": 5413,
+      "Medicare Payment Amount": 3360
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15513,
+      "Total Payment Amount": 5626,
+      "Medicare Payment Amount": 3109
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 23036,
+      "Total Payment Amount": 5556,
+      "Medicare Payment Amount": 4144
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 59668,
+      "Total Payment Amount": 8888,
+      "Medicare Payment Amount": 6852
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 78786,
+      "Total Payment Amount": 17486,
+      "Medicare Payment Amount": 16286
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 35621,
+      "Total Payment Amount": 8685,
+      "Medicare Payment Amount": 7885
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 36268,
+      "Total Payment Amount": 8365,
+      "Medicare Payment Amount": 5564
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 26316,
+      "Total Payment Amount": 4535,
+      "Medicare Payment Amount": 3517
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 43493,
+      "Total Payment Amount": 7541,
+      "Medicare Payment Amount": 5874
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 27061,
+      "Total Payment Amount": 6028,
+      "Medicare Payment Amount": 2850
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 51224,
+      "Total Payment Amount": 8655,
+      "Medicare Payment Amount": 6412
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 31940,
+      "Total Payment Amount": 7567,
+      "Medicare Payment Amount": 6249
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 72167,
+      "Total Payment Amount": 17573,
+      "Medicare Payment Amount": 16096
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 58416,
+      "Total Payment Amount": 12107,
+      "Medicare Payment Amount": 10753
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 38935,
+      "Total Payment Amount": 4542,
+      "Medicare Payment Amount": 2942
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 63959,
+      "Total Payment Amount": 14288,
+      "Medicare Payment Amount": 12806
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 32896,
+      "Total Payment Amount": 7571,
+      "Medicare Payment Amount": 6254
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 25056,
+      "Total Payment Amount": 7234,
+      "Medicare Payment Amount": 4655
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 36764,
+      "Total Payment Amount": 5466,
+      "Medicare Payment Amount": 4533
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 49567,
+      "Total Payment Amount": 8573,
+      "Medicare Payment Amount": 7026
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 29137,
+      "Total Payment Amount": 4593,
+      "Medicare Payment Amount": 3458
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 34157,
+      "Total Payment Amount": 5073,
+      "Medicare Payment Amount": 4038
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 37736,
+      "Total Payment Amount": 7103,
+      "Medicare Payment Amount": 6303
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24208,
+      "Total Payment Amount": 4214,
+      "Medicare Payment Amount": 2962
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 43407,
+      "Total Payment Amount": 5509,
+      "Medicare Payment Amount": 4549
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25405,
+      "Total Payment Amount": 4714,
+      "Medicare Payment Amount": 3730
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25965,
+      "Total Payment Amount": 6526,
+      "Medicare Payment Amount": 5665
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 80578,
+      "Total Payment Amount": 42464,
+      "Medicare Payment Amount": 40436
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 49814,
+      "Total Payment Amount": 9911,
+      "Medicare Payment Amount": 8533
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 39872,
+      "Total Payment Amount": 6781,
+      "Medicare Payment Amount": 5320
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "DEPRESSIVE NEUROSES",
+      "Submitted Covered Payment": 29215,
+      "Total Payment Amount": 8435,
+      "Medicare Payment Amount": 7597
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "NEUROSES EXCEPT DEPRESSIVE",
+      "Submitted Covered Payment": 29685,
+      "Total Payment Amount": 6803,
+      "Medicare Payment Amount": 5477
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 68641,
+      "Total Payment Amount": 20186,
+      "Medicare Payment Amount": 17780
+    },
+    {
+      "Hospital_Name": "Rutland Regional Medical Center",
+      "Address": "160 Allen St, Rutland, VT 5701",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 26818,
+      "Total Payment Amount": 7582,
+      "Medicare Payment Amount": 6594
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 42875,
+      "Total Payment Amount": 5715,
+      "Medicare Payment Amount": 4414
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 35703,
+      "Total Payment Amount": 11959,
+      "Medicare Payment Amount": 10759
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 25852,
+      "Total Payment Amount": 9173,
+      "Medicare Payment Amount": 7573
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 27619,
+      "Total Payment Amount": 5528,
+      "Medicare Payment Amount": 4518
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 32676,
+      "Total Payment Amount": 7630,
+      "Medicare Payment Amount": 6373
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32922,
+      "Total Payment Amount": 8538,
+      "Medicare Payment Amount": 7574
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 34797,
+      "Total Payment Amount": 14791,
+      "Medicare Payment Amount": 13191
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 41343,
+      "Total Payment Amount": 18571,
+      "Medicare Payment Amount": 16953
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19753,
+      "Total Payment Amount": 4822,
+      "Medicare Payment Amount": 3925
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 31040,
+      "Total Payment Amount": 7015,
+      "Medicare Payment Amount": 5950
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 19343,
+      "Total Payment Amount": 5959,
+      "Medicare Payment Amount": 4795
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 30818,
+      "Total Payment Amount": 11104,
+      "Medicare Payment Amount": 9942
+    },
+    {
+      "Hospital_Name": "Brattleboro Memorial Hospital",
+      "Address": "17 Belmont Ave, Brattleboro, VT 5301",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 36826,
+      "Total Payment Amount": 7919,
+      "Medicare Payment Amount": 6604
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 28460,
+      "Total Payment Amount": 4783,
+      "Medicare Payment Amount": 3419
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 30739,
+      "Total Payment Amount": 9665,
+      "Medicare Payment Amount": 8070
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 26689,
+      "Total Payment Amount": 7506,
+      "Medicare Payment Amount": 6111
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 24598,
+      "Total Payment Amount": 7266,
+      "Medicare Payment Amount": 6083
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 19792,
+      "Total Payment Amount": 7490,
+      "Medicare Payment Amount": 6301
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 19027,
+      "Total Payment Amount": 4814,
+      "Medicare Payment Amount": 3586
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 24824,
+      "Total Payment Amount": 9164,
+      "Medicare Payment Amount": 7940
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 21753,
+      "Total Payment Amount": 7292,
+      "Medicare Payment Amount": 6106
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 16679,
+      "Total Payment Amount": 5650,
+      "Medicare Payment Amount": 4448
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 16151,
+      "Total Payment Amount": 4231,
+      "Medicare Payment Amount": 2983
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 31044,
+      "Total Payment Amount": 12519,
+      "Medicare Payment Amount": 11302
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 23030,
+      "Total Payment Amount": 6264,
+      "Medicare Payment Amount": 4433
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 19504,
+      "Total Payment Amount": 3960,
+      "Medicare Payment Amount": 2991
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 20620,
+      "Total Payment Amount": 5584,
+      "Medicare Payment Amount": 4105
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 48546,
+      "Total Payment Amount": 12408,
+      "Medicare Payment Amount": 10861
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 42328,
+      "Total Payment Amount": 11031,
+      "Medicare Payment Amount": 9579
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19640,
+      "Total Payment Amount": 4967,
+      "Medicare Payment Amount": 3446
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 24072,
+      "Total Payment Amount": 4956,
+      "Medicare Payment Amount": 3663
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 26620,
+      "Total Payment Amount": 7963,
+      "Medicare Payment Amount": 6783
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 18560,
+      "Total Payment Amount": 4881,
+      "Medicare Payment Amount": 3683
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 27551,
+      "Total Payment Amount": 7040,
+      "Medicare Payment Amount": 6406
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 32664,
+      "Total Payment Amount": 11914,
+      "Medicare Payment Amount": 10218
+    },
+    {
+      "Hospital_Name": "Southwestern Vermont Medical Center",
+      "Address": "100 Hospital Drive, Bennington, VT 5201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 20505,
+      "Total Payment Amount": 5934,
+      "Medicare Payment Amount": 4586
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 21365,
+      "Total Payment Amount": 11362,
+      "Medicare Payment Amount": 10014
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 29429,
+      "Total Payment Amount": 20843,
+      "Medicare Payment Amount": 19700
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 30929,
+      "Total Payment Amount": 13797,
+      "Medicare Payment Amount": 12750
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 22526,
+      "Total Payment Amount": 12160,
+      "Medicare Payment Amount": 10827
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 22046,
+      "Total Payment Amount": 14590,
+      "Medicare Payment Amount": 12959
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 14267,
+      "Total Payment Amount": 9552,
+      "Medicare Payment Amount": 7610
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 20239,
+      "Total Payment Amount": 18083,
+      "Medicare Payment Amount": 16963
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 11130,
+      "Total Payment Amount": 10209,
+      "Medicare Payment Amount": 9235
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 23648,
+      "Total Payment Amount": 15090,
+      "Medicare Payment Amount": 13639
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 20080,
+      "Total Payment Amount": 13116,
+      "Medicare Payment Amount": 12021
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 15353,
+      "Total Payment Amount": 8499,
+      "Medicare Payment Amount": 6445
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 16193,
+      "Total Payment Amount": 11069,
+      "Medicare Payment Amount": 9472
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 11674,
+      "Total Payment Amount": 8796,
+      "Medicare Payment Amount": 7196
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 47361,
+      "Total Payment Amount": 23510,
+      "Medicare Payment Amount": 22312
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 16939,
+      "Total Payment Amount": 8645,
+      "Medicare Payment Amount": 7045
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 17528,
+      "Total Payment Amount": 16872,
+      "Medicare Payment Amount": 15999
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 14414,
+      "Total Payment Amount": 9935,
+      "Medicare Payment Amount": 8935
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 17724,
+      "Total Payment Amount": 12947,
+      "Medicare Payment Amount": 11617
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 17784,
+      "Total Payment Amount": 8922,
+      "Medicare Payment Amount": 7779
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 28005,
+      "Total Payment Amount": 22464,
+      "Medicare Payment Amount": 21290
+    },
+    {
+      "Hospital_Name": "Northwestern Medical Center Inc",
+      "Address": "133 Fairfield Street, Saint Albans, VT 5478",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 18527,
+      "Total Payment Amount": 11504,
+      "Medicare Payment Amount": 10285
+    }
+  ]
+}

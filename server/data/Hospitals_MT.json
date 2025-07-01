@@ -1,0 +1,4372 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 59892,
+      "Total Payment Amount": 12085,
+      "Medicare Payment Amount": 8900
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 25126,
+      "Total Payment Amount": 14615,
+      "Medicare Payment Amount": 13321
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 24112,
+      "Total Payment Amount": 7610,
+      "Medicare Payment Amount": 6035
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 28475,
+      "Total Payment Amount": 14158,
+      "Medicare Payment Amount": 12764
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 19704,
+      "Total Payment Amount": 8377,
+      "Medicare Payment Amount": 6954
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 42139,
+      "Total Payment Amount": 9047,
+      "Medicare Payment Amount": 7617
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 30210,
+      "Total Payment Amount": 8078,
+      "Medicare Payment Amount": 6921
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 27042,
+      "Total Payment Amount": 9760,
+      "Medicare Payment Amount": 8286
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 25680,
+      "Total Payment Amount": 6313,
+      "Medicare Payment Amount": 4902
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 87030,
+      "Total Payment Amount": 23547,
+      "Medicare Payment Amount": 22032
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 57588,
+      "Total Payment Amount": 14058,
+      "Medicare Payment Amount": 12437
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 26120,
+      "Total Payment Amount": 7504,
+      "Medicare Payment Amount": 5345
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 32027,
+      "Total Payment Amount": 9829,
+      "Medicare Payment Amount": 8642
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 26332,
+      "Total Payment Amount": 6469,
+      "Medicare Payment Amount": 5342
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27784,
+      "Total Payment Amount": 8954,
+      "Medicare Payment Amount": 7457
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21604,
+      "Total Payment Amount": 5901,
+      "Medicare Payment Amount": 3300
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 14178,
+      "Total Payment Amount": 5990,
+      "Medicare Payment Amount": 2753
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 22310,
+      "Total Payment Amount": 6410,
+      "Medicare Payment Amount": 5324
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 37836,
+      "Total Payment Amount": 18026,
+      "Medicare Payment Amount": 16685
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32545,
+      "Total Payment Amount": 13461,
+      "Medicare Payment Amount": 10256
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 16681,
+      "Total Payment Amount": 7313,
+      "Medicare Payment Amount": 6025
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 13608,
+      "Total Payment Amount": 6071,
+      "Medicare Payment Amount": 4733
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 18139,
+      "Total Payment Amount": 6970,
+      "Medicare Payment Amount": 4591
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25216,
+      "Total Payment Amount": 7073,
+      "Medicare Payment Amount": 5776
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 35984,
+      "Total Payment Amount": 14100,
+      "Medicare Payment Amount": 12553
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 46405,
+      "Total Payment Amount": 15626,
+      "Medicare Payment Amount": 13418
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 41813,
+      "Total Payment Amount": 17821,
+      "Medicare Payment Amount": 16276
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 49455,
+      "Total Payment Amount": 16006,
+      "Medicare Payment Amount": 14434
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 23995,
+      "Total Payment Amount": 5945,
+      "Medicare Payment Amount": 4709
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 26226,
+      "Total Payment Amount": 7172,
+      "Medicare Payment Amount": 5506
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 16761,
+      "Total Payment Amount": 6737,
+      "Medicare Payment Amount": 4951
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 19647,
+      "Total Payment Amount": 5866,
+      "Medicare Payment Amount": 4514
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 30504,
+      "Total Payment Amount": 11316,
+      "Medicare Payment Amount": 10047
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 19516,
+      "Total Payment Amount": 6717,
+      "Medicare Payment Amount": 5281
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 21252,
+      "Total Payment Amount": 8525,
+      "Medicare Payment Amount": 7409
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 18354,
+      "Total Payment Amount": 6739,
+      "Medicare Payment Amount": 4492
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26216,
+      "Total Payment Amount": 7600,
+      "Medicare Payment Amount": 6458
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 81114,
+      "Total Payment Amount": 36486,
+      "Medicare Payment Amount": 35159
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 40506,
+      "Total Payment Amount": 15567,
+      "Medicare Payment Amount": 13250
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 23865,
+      "Total Payment Amount": 7652,
+      "Medicare Payment Amount": 6305
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 29826,
+      "Total Payment Amount": 11097,
+      "Medicare Payment Amount": 8322
+    },
+    {
+      "Hospital_Name": "St Peters Health",
+      "Address": "2475 Broadway, Helena, MT 59601",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 27143,
+      "Total Payment Amount": 5930,
+      "Medicare Payment Amount": 5157
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 125825,
+      "Total Payment Amount": 48162,
+      "Medicare Payment Amount": 43573
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITHOUT MC",
+      "Submitted Covered Payment": 83025,
+      "Total Payment Amount": 29585,
+      "Medicare Payment Amount": 28024
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 91082,
+      "Total Payment Amount": 35229,
+      "Medicare Payment Amount": 33995
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 54868,
+      "Total Payment Amount": 23021,
+      "Medicare Payment Amount": 21603
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 43352,
+      "Total Payment Amount": 19027,
+      "Medicare Payment Amount": 16563
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19936,
+      "Total Payment Amount": 9153,
+      "Medicare Payment Amount": 7528
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 42745,
+      "Total Payment Amount": 15896,
+      "Medicare Payment Amount": 13646
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 24170,
+      "Total Payment Amount": 8120,
+      "Medicare Payment Amount": 6535
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 18702,
+      "Total Payment Amount": 6259,
+      "Medicare Payment Amount": 4076
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 15577,
+      "Total Payment Amount": 6586,
+      "Medicare Payment Amount": 5383
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 38241,
+      "Total Payment Amount": 14185,
+      "Medicare Payment Amount": 12779
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 20194,
+      "Total Payment Amount": 8256,
+      "Medicare Payment Amount": 6945
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 29452,
+      "Total Payment Amount": 10607,
+      "Medicare Payment Amount": 9525
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 19596,
+      "Total Payment Amount": 12122,
+      "Medicare Payment Amount": 11042
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 15837,
+      "Total Payment Amount": 7888,
+      "Medicare Payment Amount": 6695
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 48345,
+      "Total Payment Amount": 18670,
+      "Medicare Payment Amount": 16998
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 73743,
+      "Total Payment Amount": 36567,
+      "Medicare Payment Amount": 35370
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 42260,
+      "Total Payment Amount": 20586,
+      "Medicare Payment Amount": 17044
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 23658,
+      "Total Payment Amount": 11062,
+      "Medicare Payment Amount": 9595
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 11490,
+      "Total Payment Amount": 6594,
+      "Medicare Payment Amount": 5821
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 26629,
+      "Total Payment Amount": 14669,
+      "Medicare Payment Amount": 13143
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 18499,
+      "Total Payment Amount": 8595,
+      "Medicare Payment Amount": 7161
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR CHEST TRAUMA WITH MCC",
+      "Submitted Covered Payment": 34188,
+      "Total Payment Amount": 12010,
+      "Medicare Payment Amount": 10396
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 24246,
+      "Total Payment Amount": 8422,
+      "Medicare Payment Amount": 6979
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 24836,
+      "Total Payment Amount": 9671,
+      "Medicare Payment Amount": 8630
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 22356,
+      "Total Payment Amount": 8792,
+      "Medicare Payment Amount": 7741
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 22064,
+      "Total Payment Amount": 10645,
+      "Medicare Payment Amount": 9289
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 13349,
+      "Total Payment Amount": 6917,
+      "Medicare Payment Amount": 5271
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "INTERSTITIAL LUNG DISEASE WITH MCC",
+      "Submitted Covered Payment": 26898,
+      "Total Payment Amount": 13354,
+      "Medicare Payment Amount": 12486
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 21227,
+      "Total Payment Amount": 7551,
+      "Medicare Payment Amount": 6534
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER RESPIRATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 32439,
+      "Total Payment Amount": 13451,
+      "Medicare Payment Amount": 12656
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 49692,
+      "Total Payment Amount": 20171,
+      "Medicare Payment Amount": 19139
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER HEART ASSIST SYSTEM IMPLANT",
+      "Submitted Covered Payment": 195273,
+      "Total Payment Amount": 79905,
+      "Medicare Payment Amount": 78313
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 165830,
+      "Total Payment Amount": 59784,
+      "Medicare Payment Amount": 58136
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 124545,
+      "Total Payment Amount": 43997,
+      "Medicare Payment Amount": 36443
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 99056,
+      "Total Payment Amount": 30980,
+      "Medicare Payment Amount": 29480
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 68543,
+      "Total Payment Amount": 26908,
+      "Medicare Payment Amount": 25693
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 42570,
+      "Total Payment Amount": 17948,
+      "Medicare Payment Amount": 15882
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 34677,
+      "Total Payment Amount": 14640,
+      "Medicare Payment Amount": 13140
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 74843,
+      "Total Payment Amount": 24631,
+      "Medicare Payment Amount": 23134
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 49199,
+      "Total Payment Amount": 15040,
+      "Medicare Payment Amount": 13497
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 52416,
+      "Total Payment Amount": 26738,
+      "Medicare Payment Amount": 25525
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 70940,
+      "Total Payment Amount": 21365,
+      "Medicare Payment Amount": 17810
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 95864,
+      "Total Payment Amount": 48749,
+      "Medicare Payment Amount": 47937
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 88808,
+      "Total Payment Amount": 38560,
+      "Medicare Payment Amount": 37338
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 79802,
+      "Total Payment Amount": 32213,
+      "Medicare Payment Amount": 30784
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 78060,
+      "Total Payment Amount": 36931,
+      "Medicare Payment Amount": 35204
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 49049,
+      "Total Payment Amount": 26505,
+      "Medicare Payment Amount": 25278
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 58551,
+      "Total Payment Amount": 25366,
+      "Medicare Payment Amount": 24048
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 30981,
+      "Total Payment Amount": 12561,
+      "Medicare Payment Amount": 11064
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 19484,
+      "Total Payment Amount": 7452,
+      "Medicare Payment Amount": 5991
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 16787,
+      "Total Payment Amount": 5928,
+      "Medicare Payment Amount": 4605
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 43313,
+      "Total Payment Amount": 16421,
+      "Medicare Payment Amount": 15158
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 21740,
+      "Total Payment Amount": 8748,
+      "Medicare Payment Amount": 7432
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 25962,
+      "Total Payment Amount": 10279,
+      "Medicare Payment Amount": 9021
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 17606,
+      "Total Payment Amount": 7319,
+      "Medicare Payment Amount": 5196
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 22975,
+      "Total Payment Amount": 10961,
+      "Medicare Payment Amount": 9131
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 25039,
+      "Total Payment Amount": 9455,
+      "Medicare Payment Amount": 7994
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 11620,
+      "Total Payment Amount": 6181,
+      "Medicare Payment Amount": 4949
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 9704,
+      "Total Payment Amount": 4756,
+      "Medicare Payment Amount": 3343
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 19458,
+      "Total Payment Amount": 6983,
+      "Medicare Payment Amount": 5877
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 10571,
+      "Total Payment Amount": 5940,
+      "Medicare Payment Amount": 4701
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 33228,
+      "Total Payment Amount": 16274,
+      "Medicare Payment Amount": 15181
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 16832,
+      "Total Payment Amount": 7651,
+      "Medicare Payment Amount": 6727
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 56457,
+      "Total Payment Amount": 22539,
+      "Medicare Payment Amount": 20942
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 45709,
+      "Total Payment Amount": 14500,
+      "Medicare Payment Amount": 13254
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 66487,
+      "Total Payment Amount": 36168,
+      "Medicare Payment Amount": 34734
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 58616,
+      "Total Payment Amount": 37234,
+      "Medicare Payment Amount": 29925
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 46688,
+      "Total Payment Amount": 19447,
+      "Medicare Payment Amount": 16973
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 30497,
+      "Total Payment Amount": 13718,
+      "Medicare Payment Amount": 11202
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HERNIA PROCEDURES EXCEPT INGUINAL AND FEMORAL WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17767,
+      "Total Payment Amount": 10834,
+      "Medicare Payment Amount": 9197
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "DIGESTIVE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 26409,
+      "Total Payment Amount": 14480,
+      "Medicare Payment Amount": 13162
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 29222,
+      "Total Payment Amount": 13843,
+      "Medicare Payment Amount": 12766
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 14419,
+      "Total Payment Amount": 7945,
+      "Medicare Payment Amount": 6764
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 25427,
+      "Total Payment Amount": 11845,
+      "Medicare Payment Amount": 10717
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 13841,
+      "Total Payment Amount": 6230,
+      "Medicare Payment Amount": 4862
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 10223,
+      "Total Payment Amount": 5795,
+      "Medicare Payment Amount": 3058
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 20076,
+      "Total Payment Amount": 9950,
+      "Medicare Payment Amount": 8720
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 12360,
+      "Total Payment Amount": 6471,
+      "Medicare Payment Amount": 5240
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 12959,
+      "Total Payment Amount": 7644,
+      "Medicare Payment Amount": 6320
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 27403,
+      "Total Payment Amount": 13449,
+      "Medicare Payment Amount": 10692
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 14483,
+      "Total Payment Amount": 7385,
+      "Medicare Payment Amount": 5236
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 23847,
+      "Total Payment Amount": 14874,
+      "Medicare Payment Amount": 11315
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 20477,
+      "Total Payment Amount": 8788,
+      "Medicare Payment Amount": 7610
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 128721,
+      "Total Payment Amount": 48044,
+      "Medicare Payment Amount": 46412
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 82812,
+      "Total Payment Amount": 38361,
+      "Medicare Payment Amount": 32415
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 90401,
+      "Total Payment Amount": 29725,
+      "Medicare Payment Amount": 26068
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 65281,
+      "Total Payment Amount": 27110,
+      "Medicare Payment Amount": 25879
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 35232,
+      "Total Payment Amount": 14991,
+      "Medicare Payment Amount": 13055
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 49640,
+      "Total Payment Amount": 23282,
+      "Medicare Payment Amount": 21743
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CERVICAL SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 48316,
+      "Total Payment Amount": 21159,
+      "Medicare Payment Amount": 16928
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 65002,
+      "Total Payment Amount": 23270,
+      "Medicare Payment Amount": 21764
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 45505,
+      "Total Payment Amount": 16354,
+      "Medicare Payment Amount": 14753
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32521,
+      "Total Payment Amount": 12717,
+      "Medicare Payment Amount": 11171
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 68201,
+      "Total Payment Amount": 21526,
+      "Medicare Payment Amount": 15441
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 46535,
+      "Total Payment Amount": 15507,
+      "Medicare Payment Amount": 14185
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 38461,
+      "Total Payment Amount": 14804,
+      "Medicare Payment Amount": 9072
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 57502,
+      "Total Payment Amount": 23847,
+      "Medicare Payment Amount": 22364
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 36340,
+      "Total Payment Amount": 16739,
+      "Medicare Payment Amount": 14662
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 17915,
+      "Total Payment Amount": 6295,
+      "Medicare Payment Amount": 4903
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 13549,
+      "Total Payment Amount": 8782,
+      "Medicare Payment Amount": 7230
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 14286,
+      "Total Payment Amount": 7650,
+      "Medicare Payment Amount": 6343
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 14260,
+      "Total Payment Amount": 7486,
+      "Medicare Payment Amount": 5542
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 33395,
+      "Total Payment Amount": 14731,
+      "Medicare Payment Amount": 13833
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 20958,
+      "Total Payment Amount": 7220,
+      "Medicare Payment Amount": 6010
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 23997,
+      "Total Payment Amount": 9987,
+      "Medicare Payment Amount": 8945
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 13708,
+      "Total Payment Amount": 6346,
+      "Medicare Payment Amount": 5192
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 23203,
+      "Total Payment Amount": 12019,
+      "Medicare Payment Amount": 8911
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19881,
+      "Total Payment Amount": 8567,
+      "Medicare Payment Amount": 7136
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 30373,
+      "Total Payment Amount": 11810,
+      "Medicare Payment Amount": 10344
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 15156,
+      "Total Payment Amount": 7458,
+      "Medicare Payment Amount": 5542
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 14378,
+      "Total Payment Amount": 9053,
+      "Medicare Payment Amount": 7812
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 12709,
+      "Total Payment Amount": 6434,
+      "Medicare Payment Amount": 5124
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 28542,
+      "Total Payment Amount": 11400,
+      "Medicare Payment Amount": 9895
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 17745,
+      "Total Payment Amount": 7422,
+      "Medicare Payment Amount": 6117
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 90879,
+      "Total Payment Amount": 38527,
+      "Medicare Payment Amount": 36322
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 34733,
+      "Total Payment Amount": 15965,
+      "Medicare Payment Amount": 14489
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 127820,
+      "Total Payment Amount": 52648,
+      "Medicare Payment Amount": 51457
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 39935,
+      "Total Payment Amount": 15760,
+      "Medicare Payment Amount": 14115
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 19628,
+      "Total Payment Amount": 8289,
+      "Medicare Payment Amount": 6980
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 37328,
+      "Total Payment Amount": 13787,
+      "Medicare Payment Amount": 10205
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 13529,
+      "Total Payment Amount": 10493,
+      "Medicare Payment Amount": 9155
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 28263,
+      "Total Payment Amount": 13840,
+      "Medicare Payment Amount": 12528
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 16073,
+      "Total Payment Amount": 6923,
+      "Medicare Payment Amount": 6078
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 40484,
+      "Total Payment Amount": 12815,
+      "Medicare Payment Amount": 11394
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITHOUT MCC",
+      "Submitted Covered Payment": 15460,
+      "Total Payment Amount": 6788,
+      "Medicare Payment Amount": 4889
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 77732,
+      "Total Payment Amount": 33789,
+      "Medicare Payment Amount": 32206
+    },
+    {
+      "Hospital_Name": "Billings Clinic Hospital",
+      "Address": "2800 10th Ave N, Billings, MT 59101",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 46910,
+      "Total Payment Amount": 19299,
+      "Medicare Payment Amount": 18089
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 114079,
+      "Total Payment Amount": 32055,
+      "Medicare Payment Amount": 30716
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 29717,
+      "Total Payment Amount": 9437,
+      "Medicare Payment Amount": 8148
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 26455,
+      "Total Payment Amount": 13300,
+      "Medicare Payment Amount": 11309
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 26637,
+      "Total Payment Amount": 7604,
+      "Medicare Payment Amount": 6151
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 21385,
+      "Total Payment Amount": 6027,
+      "Medicare Payment Amount": 4660
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 40996,
+      "Total Payment Amount": 13018,
+      "Medicare Payment Amount": 11876
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 40188,
+      "Total Payment Amount": 16512,
+      "Medicare Payment Amount": 15085
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 41893,
+      "Total Payment Amount": 14283,
+      "Medicare Payment Amount": 12761
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 22206,
+      "Total Payment Amount": 6789,
+      "Medicare Payment Amount": 5410
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 45587,
+      "Total Payment Amount": 10642,
+      "Medicare Payment Amount": 9778
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 25915,
+      "Total Payment Amount": 7873,
+      "Medicare Payment Amount": 4343
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 38898,
+      "Total Payment Amount": 12974,
+      "Medicare Payment Amount": 11656
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 27186,
+      "Total Payment Amount": 8911,
+      "Medicare Payment Amount": 6853
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 36725,
+      "Total Payment Amount": 8995,
+      "Medicare Payment Amount": 7594
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 33470,
+      "Total Payment Amount": 8116,
+      "Medicare Payment Amount": 6704
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 35531,
+      "Total Payment Amount": 10236,
+      "Medicare Payment Amount": 7889
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 24516,
+      "Total Payment Amount": 6340,
+      "Medicare Payment Amount": 4975
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 34575,
+      "Total Payment Amount": 7023,
+      "Medicare Payment Amount": 6029
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 82498,
+      "Total Payment Amount": 19239,
+      "Medicare Payment Amount": 16006
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 70288,
+      "Total Payment Amount": 16909,
+      "Medicare Payment Amount": 15371
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 111884,
+      "Total Payment Amount": 21938,
+      "Medicare Payment Amount": 20161
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 67519,
+      "Total Payment Amount": 17568,
+      "Medicare Payment Amount": 11400
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 168285,
+      "Total Payment Amount": 32040,
+      "Medicare Payment Amount": 30713
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 49043,
+      "Total Payment Amount": 11503,
+      "Medicare Payment Amount": 9681
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 23865,
+      "Total Payment Amount": 6736,
+      "Medicare Payment Amount": 5360
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27210,
+      "Total Payment Amount": 5451,
+      "Medicare Payment Amount": 3791
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 35009,
+      "Total Payment Amount": 9449,
+      "Medicare Payment Amount": 8141
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 35921,
+      "Total Payment Amount": 8993,
+      "Medicare Payment Amount": 7698
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 18982,
+      "Total Payment Amount": 5648,
+      "Medicare Payment Amount": 4127
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 29431,
+      "Total Payment Amount": 6520,
+      "Medicare Payment Amount": 5104
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 67118,
+      "Total Payment Amount": 15590,
+      "Medicare Payment Amount": 14696
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 80371,
+      "Total Payment Amount": 13517,
+      "Medicare Payment Amount": 11814
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 112571,
+      "Total Payment Amount": 32672,
+      "Medicare Payment Amount": 31115
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 76295,
+      "Total Payment Amount": 17898,
+      "Medicare Payment Amount": 16567
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 53669,
+      "Total Payment Amount": 16810,
+      "Medicare Payment Amount": 9737
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 46579,
+      "Total Payment Amount": 13002,
+      "Medicare Payment Amount": 11936
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 30368,
+      "Total Payment Amount": 7759,
+      "Medicare Payment Amount": 5917
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 20179,
+      "Total Payment Amount": 5930,
+      "Medicare Payment Amount": 4524
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 21011,
+      "Total Payment Amount": 5964,
+      "Medicare Payment Amount": 4740
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 72167,
+      "Total Payment Amount": 23177,
+      "Medicare Payment Amount": 12785
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 56980,
+      "Total Payment Amount": 12136,
+      "Medicare Payment Amount": 10729
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 107498,
+      "Total Payment Amount": 29445,
+      "Medicare Payment Amount": 24207
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 92662,
+      "Total Payment Amount": 19862,
+      "Medicare Payment Amount": 18637
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 53532,
+      "Total Payment Amount": 13850,
+      "Medicare Payment Amount": 12340
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 94065,
+      "Total Payment Amount": 21641,
+      "Medicare Payment Amount": 20176
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 61764,
+      "Total Payment Amount": 15241,
+      "Medicare Payment Amount": 13754
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 51297,
+      "Total Payment Amount": 11951,
+      "Medicare Payment Amount": 10471
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 81833,
+      "Total Payment Amount": 19722,
+      "Medicare Payment Amount": 14920
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 59068,
+      "Total Payment Amount": 15649,
+      "Medicare Payment Amount": 13940
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 21279,
+      "Total Payment Amount": 7032,
+      "Medicare Payment Amount": 5576
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 18376,
+      "Total Payment Amount": 6433,
+      "Medicare Payment Amount": 4848
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 25049,
+      "Total Payment Amount": 6718,
+      "Medicare Payment Amount": 5216
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 39729,
+      "Total Payment Amount": 10365,
+      "Medicare Payment Amount": 8452
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 37930,
+      "Total Payment Amount": 9404,
+      "Medicare Payment Amount": 8248
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20687,
+      "Total Payment Amount": 5908,
+      "Medicare Payment Amount": 4454
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 42365,
+      "Total Payment Amount": 11014,
+      "Medicare Payment Amount": 9662
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23181,
+      "Total Payment Amount": 6941,
+      "Medicare Payment Amount": 5116
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 41013,
+      "Total Payment Amount": 9118,
+      "Medicare Payment Amount": 7690
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 22559,
+      "Total Payment Amount": 6745,
+      "Medicare Payment Amount": 4462
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 36731,
+      "Total Payment Amount": 11759,
+      "Medicare Payment Amount": 10634
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 27327,
+      "Total Payment Amount": 7583,
+      "Medicare Payment Amount": 6375
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 28369,
+      "Total Payment Amount": 6787,
+      "Medicare Payment Amount": 5825
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 149548,
+      "Total Payment Amount": 37314,
+      "Medicare Payment Amount": 34654
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 48607,
+      "Total Payment Amount": 14521,
+      "Medicare Payment Amount": 12671
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 23322,
+      "Total Payment Amount": 7668,
+      "Medicare Payment Amount": 6094
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "NEUROSES EXCEPT DEPRESSIVE",
+      "Submitted Covered Payment": 8340,
+      "Total Payment Amount": 6604,
+      "Medicare Payment Amount": 5381
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 17715,
+      "Total Payment Amount": 11673,
+      "Medicare Payment Amount": 10287
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 21231,
+      "Total Payment Amount": 9763,
+      "Medicare Payment Amount": 8358
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 20777,
+      "Total Payment Amount": 6476,
+      "Medicare Payment Amount": 5270
+    },
+    {
+      "Hospital_Name": "Benefis Hospitals Inc",
+      "Address": "1101 26th St S, Great Falls, MT 59405",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 20604,
+      "Total Payment Amount": 5883,
+      "Medicare Payment Amount": 4832
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 105065,
+      "Total Payment Amount": 41495,
+      "Medicare Payment Amount": 39318
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 68487,
+      "Total Payment Amount": 33663,
+      "Medicare Payment Amount": 31942
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 37803,
+      "Total Payment Amount": 8822,
+      "Medicare Payment Amount": 7291
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 32406,
+      "Total Payment Amount": 14626,
+      "Medicare Payment Amount": 13052
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 22691,
+      "Total Payment Amount": 10178,
+      "Medicare Payment Amount": 5764
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17776,
+      "Total Payment Amount": 6280,
+      "Medicare Payment Amount": 3796
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 35658,
+      "Total Payment Amount": 13359,
+      "Medicare Payment Amount": 12170
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 66025,
+      "Total Payment Amount": 35165,
+      "Medicare Payment Amount": 33520
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 64180,
+      "Total Payment Amount": 21103,
+      "Medicare Payment Amount": 16601
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 24610,
+      "Total Payment Amount": 11042,
+      "Medicare Payment Amount": 9048
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 28663,
+      "Total Payment Amount": 14231,
+      "Medicare Payment Amount": 12558
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 26501,
+      "Total Payment Amount": 9399,
+      "Medicare Payment Amount": 8035
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 22015,
+      "Total Payment Amount": 9420,
+      "Medicare Payment Amount": 8097
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 15935,
+      "Total Payment Amount": 8643,
+      "Medicare Payment Amount": 6503
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 21963,
+      "Total Payment Amount": 10361,
+      "Medicare Payment Amount": 8513
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 15487,
+      "Total Payment Amount": 6609,
+      "Medicare Payment Amount": 5322
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 74088,
+      "Total Payment Amount": 22331,
+      "Medicare Payment Amount": 18801
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 146912,
+      "Total Payment Amount": 60385,
+      "Medicare Payment Amount": 57165
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 112644,
+      "Total Payment Amount": 40247,
+      "Medicare Payment Amount": 38533
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 135403,
+      "Total Payment Amount": 48700,
+      "Medicare Payment Amount": 46832
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 95429,
+      "Total Payment Amount": 33867,
+      "Medicare Payment Amount": 27247
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 75758,
+      "Total Payment Amount": 24951,
+      "Medicare Payment Amount": 23723
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 55360,
+      "Total Payment Amount": 17614,
+      "Medicare Payment Amount": 15817
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 36146,
+      "Total Payment Amount": 14253,
+      "Medicare Payment Amount": 12753
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 93978,
+      "Total Payment Amount": 26959,
+      "Medicare Payment Amount": 21979
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 50389,
+      "Total Payment Amount": 15176,
+      "Medicare Payment Amount": 12550
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 82393,
+      "Total Payment Amount": 29653,
+      "Medicare Payment Amount": 24198
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 63499,
+      "Total Payment Amount": 19394,
+      "Medicare Payment Amount": 18021
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER VASCULAR PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 41678,
+      "Total Payment Amount": 17977,
+      "Medicare Payment Amount": 10859
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 93147,
+      "Total Payment Amount": 48411,
+      "Medicare Payment Amount": 47012
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 76091,
+      "Total Payment Amount": 38233,
+      "Medicare Payment Amount": 35590
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 93945,
+      "Total Payment Amount": 33787,
+      "Medicare Payment Amount": 32093
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 50517,
+      "Total Payment Amount": 26045,
+      "Medicare Payment Amount": 22430
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 22063,
+      "Total Payment Amount": 12237,
+      "Medicare Payment Amount": 11201
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 22618,
+      "Total Payment Amount": 7195,
+      "Medicare Payment Amount": 5562
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 35976,
+      "Total Payment Amount": 17506,
+      "Medicare Payment Amount": 13198
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 22830,
+      "Total Payment Amount": 10098,
+      "Medicare Payment Amount": 8577
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 16354,
+      "Total Payment Amount": 6797,
+      "Medicare Payment Amount": 5505
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 22753,
+      "Total Payment Amount": 9486,
+      "Medicare Payment Amount": 7348
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 12915,
+      "Total Payment Amount": 5983,
+      "Medicare Payment Amount": 4214
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 11798,
+      "Total Payment Amount": 4546,
+      "Medicare Payment Amount": 3057
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 42512,
+      "Total Payment Amount": 16887,
+      "Medicare Payment Amount": 12978
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 53709,
+      "Total Payment Amount": 14241,
+      "Medicare Payment Amount": 12605
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 80058,
+      "Total Payment Amount": 33872,
+      "Medicare Payment Amount": 31016
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 49101,
+      "Total Payment Amount": 20386,
+      "Medicare Payment Amount": 15092
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 43387,
+      "Total Payment Amount": 14479,
+      "Medicare Payment Amount": 10492
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 28050,
+      "Total Payment Amount": 13121,
+      "Medicare Payment Amount": 11860
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 19111,
+      "Total Payment Amount": 7737,
+      "Medicare Payment Amount": 6195
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 12590,
+      "Total Payment Amount": 6402,
+      "Medicare Payment Amount": 4817
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 11266,
+      "Total Payment Amount": 4605,
+      "Medicare Payment Amount": 2991
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27211,
+      "Total Payment Amount": 10075,
+      "Medicare Payment Amount": 8595
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 17127,
+      "Total Payment Amount": 6239,
+      "Medicare Payment Amount": 4632
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 15868,
+      "Total Payment Amount": 8560,
+      "Medicare Payment Amount": 5352
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 34350,
+      "Total Payment Amount": 12692,
+      "Medicare Payment Amount": 10902
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 46062,
+      "Total Payment Amount": 14900,
+      "Medicare Payment Amount": 13613
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 55546,
+      "Total Payment Amount": 28894,
+      "Medicare Payment Amount": 25457
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 73430,
+      "Total Payment Amount": 29360,
+      "Medicare Payment Amount": 23876
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 56888,
+      "Total Payment Amount": 20664,
+      "Medicare Payment Amount": 19134
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 48838,
+      "Total Payment Amount": 14451,
+      "Medicare Payment Amount": 12780
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 46879,
+      "Total Payment Amount": 25132,
+      "Medicare Payment Amount": 19563
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 49505,
+      "Total Payment Amount": 23125,
+      "Medicare Payment Amount": 21266
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 47790,
+      "Total Payment Amount": 16048,
+      "Medicare Payment Amount": 14287
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33748,
+      "Total Payment Amount": 12493,
+      "Medicare Payment Amount": 10692
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 40644,
+      "Total Payment Amount": 17960,
+      "Medicare Payment Amount": 16287
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 60532,
+      "Total Payment Amount": 16597,
+      "Medicare Payment Amount": 14829
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 61568,
+      "Total Payment Amount": 22795,
+      "Medicare Payment Amount": 20972
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 51489,
+      "Total Payment Amount": 17456,
+      "Medicare Payment Amount": 13935
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 27156,
+      "Total Payment Amount": 9904,
+      "Medicare Payment Amount": 5207
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 17238,
+      "Total Payment Amount": 7311,
+      "Medicare Payment Amount": 5389
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 23567,
+      "Total Payment Amount": 10258,
+      "Medicare Payment Amount": 8498
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 40911,
+      "Total Payment Amount": 19787,
+      "Medicare Payment Amount": 18291
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 25329,
+      "Total Payment Amount": 11343,
+      "Medicare Payment Amount": 8525
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 21690,
+      "Total Payment Amount": 11478,
+      "Medicare Payment Amount": 9169
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 16437,
+      "Total Payment Amount": 7586,
+      "Medicare Payment Amount": 4816
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 21894,
+      "Total Payment Amount": 9081,
+      "Medicare Payment Amount": 7534
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 15191,
+      "Total Payment Amount": 6369,
+      "Medicare Payment Amount": 4786
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 31400,
+      "Total Payment Amount": 12509,
+      "Medicare Payment Amount": 10089
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 77340,
+      "Total Payment Amount": 35736,
+      "Medicare Payment Amount": 33704
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 41313,
+      "Total Payment Amount": 15561,
+      "Medicare Payment Amount": 13927
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 28952,
+      "Total Payment Amount": 13950,
+      "Medicare Payment Amount": 12585
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 32170,
+      "Total Payment Amount": 15320,
+      "Medicare Payment Amount": 13300
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 19294,
+      "Total Payment Amount": 8200,
+      "Medicare Payment Amount": 6377
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 32739,
+      "Total Payment Amount": 10575,
+      "Medicare Payment Amount": 8418
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 25415,
+      "Total Payment Amount": 6921,
+      "Medicare Payment Amount": 5698
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 23451,
+      "Total Payment Amount": 11951,
+      "Medicare Payment Amount": 10202
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 11644,
+      "Total Payment Amount": 4652,
+      "Medicare Payment Amount": 3366
+    },
+    {
+      "Hospital_Name": "St Patrick Hospital",
+      "Address": "500 W Broadway, Missoula, MT 59806",
+      "Service": "OTHER MULTIPLE SIGNIFICANT TRAUMA WITH CC",
+      "Submitted Covered Payment": 25218,
+      "Total Payment Amount": 11529,
+      "Medicare Payment Amount": 9692
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 27783,
+      "Total Payment Amount": 16691,
+      "Medicare Payment Amount": 15305
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 39175,
+      "Total Payment Amount": 11003,
+      "Medicare Payment Amount": 10088
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 29770,
+      "Total Payment Amount": 11811,
+      "Medicare Payment Amount": 10482
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 84773,
+      "Total Payment Amount": 16982,
+      "Medicare Payment Amount": 15382
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 38835,
+      "Total Payment Amount": 8348,
+      "Medicare Payment Amount": 7118
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 37489,
+      "Total Payment Amount": 11400,
+      "Medicare Payment Amount": 10238
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 69767,
+      "Total Payment Amount": 19054,
+      "Medicare Payment Amount": 17538
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 58469,
+      "Total Payment Amount": 19317,
+      "Medicare Payment Amount": 17866
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 45290,
+      "Total Payment Amount": 14602,
+      "Medicare Payment Amount": 13513
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 146727,
+      "Total Payment Amount": 48480,
+      "Medicare Payment Amount": 45122
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 76997,
+      "Total Payment Amount": 22108,
+      "Medicare Payment Amount": 20511
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 51523,
+      "Total Payment Amount": 17874,
+      "Medicare Payment Amount": 16795
+    },
+    {
+      "Hospital_Name": "Intermountain Health St James Hospital",
+      "Address": "400 S Clark St, Butte, MT 59701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26809,
+      "Total Payment Amount": 9669,
+      "Medicare Payment Amount": 7551
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 43649,
+      "Total Payment Amount": 13428,
+      "Medicare Payment Amount": 11945
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 24990,
+      "Total Payment Amount": 10188,
+      "Medicare Payment Amount": 7342
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 58003,
+      "Total Payment Amount": 10687,
+      "Medicare Payment Amount": 9472
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 53179,
+      "Total Payment Amount": 15262,
+      "Medicare Payment Amount": 13870
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 34612,
+      "Total Payment Amount": 10104,
+      "Medicare Payment Amount": 8312
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 71929,
+      "Total Payment Amount": 12323,
+      "Medicare Payment Amount": 10700
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 87580,
+      "Total Payment Amount": 18093,
+      "Medicare Payment Amount": 16920
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 53978,
+      "Total Payment Amount": 13479,
+      "Medicare Payment Amount": 12580
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 32381,
+      "Total Payment Amount": 7548,
+      "Medicare Payment Amount": 6103
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 55956,
+      "Total Payment Amount": 16726,
+      "Medicare Payment Amount": 12516
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 58637,
+      "Total Payment Amount": 9944,
+      "Medicare Payment Amount": 8055
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 40283,
+      "Total Payment Amount": 11273,
+      "Medicare Payment Amount": 10613
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 29116,
+      "Total Payment Amount": 6855,
+      "Medicare Payment Amount": 5447
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 16612,
+      "Total Payment Amount": 5976,
+      "Medicare Payment Amount": 4770
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 93844,
+      "Total Payment Amount": 33414,
+      "Medicare Payment Amount": 32150
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 53239,
+      "Total Payment Amount": 15072,
+      "Medicare Payment Amount": 13345
+    },
+    {
+      "Hospital_Name": "Community Medical Center",
+      "Address": "2827 Fort Missoula Rd, Missoula, MT 59804",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26978,
+      "Total Payment Amount": 7857,
+      "Medicare Payment Amount": 6471
+    },
+    {
+      "Hospital_Name": "Northern Montana Hospital",
+      "Address": "30 13th St, Havre, MT 59501",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 30567,
+      "Total Payment Amount": 17990,
+      "Medicare Payment Amount": 16976
+    },
+    {
+      "Hospital_Name": "Northern Montana Hospital",
+      "Address": "30 13th St, Havre, MT 59501",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 27901,
+      "Total Payment Amount": 11549,
+      "Medicare Payment Amount": 10484
+    },
+    {
+      "Hospital_Name": "Northern Montana Hospital",
+      "Address": "30 13th St, Havre, MT 59501",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29817,
+      "Total Payment Amount": 11373,
+      "Medicare Payment Amount": 10388
+    },
+    {
+      "Hospital_Name": "Northern Montana Hospital",
+      "Address": "30 13th St, Havre, MT 59501",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 53364,
+      "Total Payment Amount": 17827,
+      "Medicare Payment Amount": 14360
+    },
+    {
+      "Hospital_Name": "Northern Montana Hospital",
+      "Address": "30 13th St, Havre, MT 59501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 33553,
+      "Total Payment Amount": 17135,
+      "Medicare Payment Amount": 15935
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 133438,
+      "Total Payment Amount": 41463,
+      "Medicare Payment Amount": 39867
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 97571,
+      "Total Payment Amount": 33623,
+      "Medicare Payment Amount": 32338
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 84286,
+      "Total Payment Amount": 18987,
+      "Medicare Payment Amount": 16525
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 53687,
+      "Total Payment Amount": 12038,
+      "Medicare Payment Amount": 10830
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 62262,
+      "Total Payment Amount": 8657,
+      "Medicare Payment Amount": 7114
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 56325,
+      "Total Payment Amount": 15781,
+      "Medicare Payment Amount": 14166
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 38952,
+      "Total Payment Amount": 9029,
+      "Medicare Payment Amount": 7720
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 55893,
+      "Total Payment Amount": 14711,
+      "Medicare Payment Amount": 13909
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 27437,
+      "Total Payment Amount": 6885,
+      "Medicare Payment Amount": 5228
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 127451,
+      "Total Payment Amount": 39216,
+      "Medicare Payment Amount": 38025
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 75794,
+      "Total Payment Amount": 18860,
+      "Medicare Payment Amount": 17337
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 35077,
+      "Total Payment Amount": 10462,
+      "Medicare Payment Amount": 9069
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 25084,
+      "Total Payment Amount": 14326,
+      "Medicare Payment Amount": 12347
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 28814,
+      "Total Payment Amount": 9149,
+      "Medicare Payment Amount": 7845
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 24542,
+      "Total Payment Amount": 8286,
+      "Medicare Payment Amount": 6834
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 28421,
+      "Total Payment Amount": 9775,
+      "Medicare Payment Amount": 8579
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 323152,
+      "Total Payment Amount": 79901,
+      "Medicare Payment Amount": 69259
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 254654,
+      "Total Payment Amount": 50433,
+      "Medicare Payment Amount": 48701
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER CARDIOTHORACIC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 98842,
+      "Total Payment Amount": 24496,
+      "Medicare Payment Amount": 23223
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 219474,
+      "Total Payment Amount": 49621,
+      "Medicare Payment Amount": 36710
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 195950,
+      "Total Payment Amount": 32634,
+      "Medicare Payment Amount": 31078
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 132259,
+      "Total Payment Amount": 28565,
+      "Medicare Payment Amount": 27052
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 78737,
+      "Total Payment Amount": 14091,
+      "Medicare Payment Amount": 12568
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 110537,
+      "Total Payment Amount": 26939,
+      "Medicare Payment Amount": 25816
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 85729,
+      "Total Payment Amount": 20840,
+      "Medicare Payment Amount": 19592
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER VASCULAR PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 61847,
+      "Total Payment Amount": 16254,
+      "Medicare Payment Amount": 9857
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 189221,
+      "Total Payment Amount": 49227,
+      "Medicare Payment Amount": 48678
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 166617,
+      "Total Payment Amount": 36772,
+      "Medicare Payment Amount": 35790
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 110133,
+      "Total Payment Amount": 30831,
+      "Medicare Payment Amount": 29200
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 97962,
+      "Total Payment Amount": 24255,
+      "Medicare Payment Amount": 22998
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 45735,
+      "Total Payment Amount": 13149,
+      "Medicare Payment Amount": 11479
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 28155,
+      "Total Payment Amount": 7178,
+      "Medicare Payment Amount": 5315
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 37951,
+      "Total Payment Amount": 15517,
+      "Medicare Payment Amount": 14099
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 27314,
+      "Total Payment Amount": 8953,
+      "Medicare Payment Amount": 6365
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 26768,
+      "Total Payment Amount": 9509,
+      "Medicare Payment Amount": 8233
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29752,
+      "Total Payment Amount": 8962,
+      "Medicare Payment Amount": 7623
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 15511,
+      "Total Payment Amount": 6211,
+      "Medicare Payment Amount": 4016
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 18389,
+      "Total Payment Amount": 6558,
+      "Medicare Payment Amount": 5203
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 39711,
+      "Total Payment Amount": 15465,
+      "Medicare Payment Amount": 14129
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 17437,
+      "Total Payment Amount": 7332,
+      "Medicare Payment Amount": 6271
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 70584,
+      "Total Payment Amount": 31461,
+      "Medicare Payment Amount": 30442
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 41650,
+      "Total Payment Amount": 17813,
+      "Medicare Payment Amount": 16440
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 38178,
+      "Total Payment Amount": 12552,
+      "Medicare Payment Amount": 11249
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 35682,
+      "Total Payment Amount": 13299,
+      "Medicare Payment Amount": 11869
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 25934,
+      "Total Payment Amount": 7385,
+      "Medicare Payment Amount": 6278
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 19146,
+      "Total Payment Amount": 6156,
+      "Medicare Payment Amount": 4792
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 17253,
+      "Total Payment Amount": 6013,
+      "Medicare Payment Amount": 4871
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 33258,
+      "Total Payment Amount": 12256,
+      "Medicare Payment Amount": 10588
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 236839,
+      "Total Payment Amount": 57925,
+      "Medicare Payment Amount": 56443
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 169066,
+      "Total Payment Amount": 41442,
+      "Medicare Payment Amount": 35671
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 120556,
+      "Total Payment Amount": 31605,
+      "Medicare Payment Amount": 27052
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 122484,
+      "Total Payment Amount": 28109,
+      "Medicare Payment Amount": 26764
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 120303,
+      "Total Payment Amount": 22010,
+      "Medicare Payment Amount": 20427
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 53918,
+      "Total Payment Amount": 14106,
+      "Medicare Payment Amount": 12570
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 85911,
+      "Total Payment Amount": 20379,
+      "Medicare Payment Amount": 18860
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CERVICAL SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 77869,
+      "Total Payment Amount": 20950,
+      "Medicare Payment Amount": 15407
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 66685,
+      "Total Payment Amount": 21026,
+      "Medicare Payment Amount": 19662
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 57697,
+      "Total Payment Amount": 15502,
+      "Medicare Payment Amount": 14074
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 37052,
+      "Total Payment Amount": 12136,
+      "Medicare Payment Amount": 10576
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 56683,
+      "Total Payment Amount": 19450,
+      "Medicare Payment Amount": 14802
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 50613,
+      "Total Payment Amount": 15824,
+      "Medicare Payment Amount": 14200
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 23392,
+      "Total Payment Amount": 6875,
+      "Medicare Payment Amount": 5294
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 30556,
+      "Total Payment Amount": 11104,
+      "Medicare Payment Amount": 9847
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 21482,
+      "Total Payment Amount": 6802,
+      "Medicare Payment Amount": 5248
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 29845,
+      "Total Payment Amount": 9674,
+      "Medicare Payment Amount": 8535
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 19245,
+      "Total Payment Amount": 5923,
+      "Medicare Payment Amount": 4568
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 50732,
+      "Total Payment Amount": 14380,
+      "Medicare Payment Amount": 13114
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23133,
+      "Total Payment Amount": 6990,
+      "Medicare Payment Amount": 5420
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 22474,
+      "Total Payment Amount": 8786,
+      "Medicare Payment Amount": 7604
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 15694,
+      "Total Payment Amount": 6017,
+      "Medicare Payment Amount": 4922
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 23999,
+      "Total Payment Amount": 11963,
+      "Medicare Payment Amount": 10892
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29839,
+      "Total Payment Amount": 10529,
+      "Medicare Payment Amount": 9072
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 106510,
+      "Total Payment Amount": 41228,
+      "Medicare Payment Amount": 34687
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 50410,
+      "Total Payment Amount": 15612,
+      "Medicare Payment Amount": 13373
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 232925,
+      "Total Payment Amount": 61889,
+      "Medicare Payment Amount": 60182
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 34257,
+      "Total Payment Amount": 14614,
+      "Medicare Payment Amount": 13026
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 20240,
+      "Total Payment Amount": 7821,
+      "Medicare Payment Amount": 6402
+    },
+    {
+      "Hospital_Name": "St Vincent Healthcare",
+      "Address": "1233 N 30th St, Billings, MT 59101",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 84394,
+      "Total Payment Amount": 31450,
+      "Medicare Payment Amount": 30435
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 94279,
+      "Total Payment Amount": 32825,
+      "Medicare Payment Amount": 31510
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27025,
+      "Total Payment Amount": 8688,
+      "Medicare Payment Amount": 7508
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 40055,
+      "Total Payment Amount": 14309,
+      "Medicare Payment Amount": 13136
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 25337,
+      "Total Payment Amount": 7649,
+      "Medicare Payment Amount": 6196
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 59053,
+      "Total Payment Amount": 18808,
+      "Medicare Payment Amount": 17422
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 56378,
+      "Total Payment Amount": 14150,
+      "Medicare Payment Amount": 12645
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 34585,
+      "Total Payment Amount": 10422,
+      "Medicare Payment Amount": 9060
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 40146,
+      "Total Payment Amount": 14803,
+      "Medicare Payment Amount": 12888
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 23910,
+      "Total Payment Amount": 8192,
+      "Medicare Payment Amount": 6833
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 28389,
+      "Total Payment Amount": 11571,
+      "Medicare Payment Amount": 8737
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 82223,
+      "Total Payment Amount": 21794,
+      "Medicare Payment Amount": 20843
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 162581,
+      "Total Payment Amount": 37387,
+      "Medicare Payment Amount": 35750
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 129756,
+      "Total Payment Amount": 29250,
+      "Medicare Payment Amount": 27736
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 85032,
+      "Total Payment Amount": 17951,
+      "Medicare Payment Amount": 16408
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 73567,
+      "Total Payment Amount": 13896,
+      "Medicare Payment Amount": 12287
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 119109,
+      "Total Payment Amount": 25497,
+      "Medicare Payment Amount": 24112
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 76796,
+      "Total Payment Amount": 14023,
+      "Medicare Payment Amount": 12413
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 152947,
+      "Total Payment Amount": 48313,
+      "Medicare Payment Amount": 47474
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 122362,
+      "Total Payment Amount": 36684,
+      "Medicare Payment Amount": 35653
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 69561,
+      "Total Payment Amount": 24205,
+      "Medicare Payment Amount": 23269
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 39284,
+      "Total Payment Amount": 13525,
+      "Medicare Payment Amount": 9784
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 28796,
+      "Total Payment Amount": 7055,
+      "Medicare Payment Amount": 5561
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 59408,
+      "Total Payment Amount": 14694,
+      "Medicare Payment Amount": 13280
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 32297,
+      "Total Payment Amount": 9494,
+      "Medicare Payment Amount": 6456
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 28285,
+      "Total Payment Amount": 9710,
+      "Medicare Payment Amount": 8577
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 28275,
+      "Total Payment Amount": 8912,
+      "Medicare Payment Amount": 7415
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 16112,
+      "Total Payment Amount": 5805,
+      "Medicare Payment Amount": 4462
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 78689,
+      "Total Payment Amount": 22091,
+      "Medicare Payment Amount": 19559
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 75999,
+      "Total Payment Amount": 13780,
+      "Medicare Payment Amount": 12317
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 119559,
+      "Total Payment Amount": 38148,
+      "Medicare Payment Amount": 36844
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 71781,
+      "Total Payment Amount": 17711,
+      "Medicare Payment Amount": 16241
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 44406,
+      "Total Payment Amount": 14345,
+      "Medicare Payment Amount": 13120
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 23695,
+      "Total Payment Amount": 7526,
+      "Medicare Payment Amount": 6475
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 18911,
+      "Total Payment Amount": 6271,
+      "Medicare Payment Amount": 4854
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 22937,
+      "Total Payment Amount": 6131,
+      "Medicare Payment Amount": 4627
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 38736,
+      "Total Payment Amount": 12140,
+      "Medicare Payment Amount": 10993
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 24659,
+      "Total Payment Amount": 7466,
+      "Medicare Payment Amount": 5573
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PANCREAS, LIVER AND SHUNT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 86528,
+      "Total Payment Amount": 21952,
+      "Medicare Payment Amount": 20506
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 70959,
+      "Total Payment Amount": 25894,
+      "Medicare Payment Amount": 24649
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 45953,
+      "Total Payment Amount": 15215,
+      "Medicare Payment Amount": 13706
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 46477,
+      "Total Payment Amount": 15862,
+      "Medicare Payment Amount": 14308
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19895,
+      "Total Payment Amount": 6804,
+      "Medicare Payment Amount": 5444
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 29535,
+      "Total Payment Amount": 9501,
+      "Medicare Payment Amount": 8299
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 22617,
+      "Total Payment Amount": 6042,
+      "Medicare Payment Amount": 4511
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 38248,
+      "Total Payment Amount": 11065,
+      "Medicare Payment Amount": 10509
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 37510,
+      "Total Payment Amount": 7064,
+      "Medicare Payment Amount": 5547
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 26569,
+      "Total Payment Amount": 8859,
+      "Medicare Payment Amount": 7368
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 30539,
+      "Total Payment Amount": 11876,
+      "Medicare Payment Amount": 10749
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 37951,
+      "Total Payment Amount": 9256,
+      "Medicare Payment Amount": 8996
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 127447,
+      "Total Payment Amount": 39171,
+      "Medicare Payment Amount": 37870
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 38553,
+      "Total Payment Amount": 13417,
+      "Medicare Payment Amount": 12814
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 48504,
+      "Total Payment Amount": 14460,
+      "Medicare Payment Amount": 13169
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 25458,
+      "Total Payment Amount": 7818,
+      "Medicare Payment Amount": 6492
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "ACUTE ADJUSTMENT REACTION AND PSYCHOSOCIAL DYSFUNCTION",
+      "Submitted Covered Payment": 25951,
+      "Total Payment Amount": 7037,
+      "Medicare Payment Amount": 6017
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 30429,
+      "Total Payment Amount": 10107,
+      "Medicare Payment Amount": 8757
+    },
+    {
+      "Hospital_Name": "Logan Health Medical Center",
+      "Address": "310 Sunnyview Lane, Kalispell, MT 59901",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 64252,
+      "Total Payment Amount": 16283,
+      "Medicare Payment Amount": 14840
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 23974,
+      "Total Payment Amount": 7604,
+      "Medicare Payment Amount": 6226
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22099,
+      "Total Payment Amount": 5507,
+      "Medicare Payment Amount": 4017
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 22555,
+      "Total Payment Amount": 10123,
+      "Medicare Payment Amount": 8919
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 24562,
+      "Total Payment Amount": 13695,
+      "Medicare Payment Amount": 12347
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 24396,
+      "Total Payment Amount": 10238,
+      "Medicare Payment Amount": 7677
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 20277,
+      "Total Payment Amount": 8418,
+      "Medicare Payment Amount": 6662
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 18747,
+      "Total Payment Amount": 9689,
+      "Medicare Payment Amount": 7924
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 42272,
+      "Total Payment Amount": 14383,
+      "Medicare Payment Amount": 11618
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 24735,
+      "Total Payment Amount": 11092,
+      "Medicare Payment Amount": 10008
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 20656,
+      "Total Payment Amount": 6823,
+      "Medicare Payment Amount": 5288
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 23154,
+      "Total Payment Amount": 5603,
+      "Medicare Payment Amount": 4663
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 30364,
+      "Total Payment Amount": 8099,
+      "Medicare Payment Amount": 6590
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 24841,
+      "Total Payment Amount": 9635,
+      "Medicare Payment Amount": 8487
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 20276,
+      "Total Payment Amount": 8739,
+      "Medicare Payment Amount": 7649
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 12395,
+      "Total Payment Amount": 5682,
+      "Medicare Payment Amount": 4604
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 17642,
+      "Total Payment Amount": 6516,
+      "Medicare Payment Amount": 5773
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 79072,
+      "Total Payment Amount": 19735,
+      "Medicare Payment Amount": 18326
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 45372,
+      "Total Payment Amount": 12676,
+      "Medicare Payment Amount": 11873
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 25067,
+      "Total Payment Amount": 7373,
+      "Medicare Payment Amount": 5980
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 12211,
+      "Total Payment Amount": 6380,
+      "Medicare Payment Amount": 4431
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 11552,
+      "Total Payment Amount": 4620,
+      "Medicare Payment Amount": 3244
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 15162,
+      "Total Payment Amount": 6104,
+      "Medicare Payment Amount": 4759
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 44328,
+      "Total Payment Amount": 11891,
+      "Medicare Payment Amount": 10665
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 207203,
+      "Total Payment Amount": 58044,
+      "Medicare Payment Amount": 56485
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 180531,
+      "Total Payment Amount": 45077,
+      "Medicare Payment Amount": 43446
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 159437,
+      "Total Payment Amount": 38484,
+      "Medicare Payment Amount": 36962
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 56361,
+      "Total Payment Amount": 13632,
+      "Medicare Payment Amount": 12012
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 74621,
+      "Total Payment Amount": 20725,
+      "Medicare Payment Amount": 19314
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 59455,
+      "Total Payment Amount": 14909,
+      "Medicare Payment Amount": 13384
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 59451,
+      "Total Payment Amount": 15290,
+      "Medicare Payment Amount": 13642
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 15723,
+      "Total Payment Amount": 7093,
+      "Medicare Payment Amount": 5705
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 14536,
+      "Total Payment Amount": 6757,
+      "Medicare Payment Amount": 5511
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 30813,
+      "Total Payment Amount": 9617,
+      "Medicare Payment Amount": 8483
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 19760,
+      "Total Payment Amount": 5977,
+      "Medicare Payment Amount": 4527
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 36950,
+      "Total Payment Amount": 11328,
+      "Medicare Payment Amount": 10166
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 15370,
+      "Total Payment Amount": 6847,
+      "Medicare Payment Amount": 5781
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 23904,
+      "Total Payment Amount": 8423,
+      "Medicare Payment Amount": 7136
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 81255,
+      "Total Payment Amount": 33974,
+      "Medicare Payment Amount": 32791
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 32467,
+      "Total Payment Amount": 14100,
+      "Medicare Payment Amount": 12668
+    },
+    {
+      "Hospital_Name": "Bozeman Health Deaconess Regional Medical Center",
+      "Address": "915 Highland Blvd, Bozeman, MT 59715",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 19219,
+      "Total Payment Amount": 7602,
+      "Medicare Payment Amount": 6172
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 60410,
+      "Total Payment Amount": 7811,
+      "Medicare Payment Amount": 6469
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 47886,
+      "Total Payment Amount": 13802,
+      "Medicare Payment Amount": 12461
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 32767,
+      "Total Payment Amount": 11274,
+      "Medicare Payment Amount": 6341
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 42745,
+      "Total Payment Amount": 11497,
+      "Medicare Payment Amount": 6851
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29461,
+      "Total Payment Amount": 8705,
+      "Medicare Payment Amount": 7478
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 243541,
+      "Total Payment Amount": 38155,
+      "Medicare Payment Amount": 36555
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 78838,
+      "Total Payment Amount": 16865,
+      "Medicare Payment Amount": 10705
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19013,
+      "Total Payment Amount": 6001,
+      "Medicare Payment Amount": 4701
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 43442,
+      "Total Payment Amount": 13489,
+      "Medicare Payment Amount": 10948
+    },
+    {
+      "Hospital_Name": "Great Falls Clinic Hospital",
+      "Address": "3010 15th Avenue South, Great Falls, MT 59405",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 28949,
+      "Total Payment Amount": 7049,
+      "Medicare Payment Amount": 5769
+    }
+  ]
+}

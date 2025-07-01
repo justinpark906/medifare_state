@@ -1,0 +1,2940 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ECMO OR TRACHEOSTOMY WITH MV >96 HOURS OR PRINCIPAL DIAGNOSIS EXCEPT FACE, MOUTH AND NEC",
+      "Submitted Covered Payment": 943776,
+      "Total Payment Amount": 318990,
+      "Medicare Payment Amount": 180133
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "INTRACRANIAL VASCULAR PROCEDURES WITH PRINCIPAL DIAGNOSIS HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 332354,
+      "Total Payment Amount": 163013,
+      "Medicare Payment Amount": 74683
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 260091,
+      "Total Payment Amount": 77853,
+      "Medicare Payment Amount": 51293
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITHOUT MC",
+      "Submitted Covered Payment": 143285,
+      "Total Payment Amount": 44473,
+      "Medicare Payment Amount": 36006
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 226587,
+      "Total Payment Amount": 54889,
+      "Medicare Payment Amount": 42568
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 143885,
+      "Total Payment Amount": 34558,
+      "Medicare Payment Amount": 19418
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 65640,
+      "Total Payment Amount": 16902,
+      "Medicare Payment Amount": 10073
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 114846,
+      "Total Payment Amount": 28799,
+      "Medicare Payment Amount": 25766
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 100105,
+      "Total Payment Amount": 24964,
+      "Medicare Payment Amount": 15114
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 106927,
+      "Total Payment Amount": 25155,
+      "Medicare Payment Amount": 18651
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 61942,
+      "Total Payment Amount": 14218,
+      "Medicare Payment Amount": 8002
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 51798,
+      "Total Payment Amount": 12064,
+      "Medicare Payment Amount": 4989
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 43421,
+      "Total Payment Amount": 10415,
+      "Medicare Payment Amount": 5822
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 70385,
+      "Total Payment Amount": 20732,
+      "Medicare Payment Amount": 14446
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 67538,
+      "Total Payment Amount": 14488,
+      "Medicare Payment Amount": 9064
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 93083,
+      "Total Payment Amount": 24577,
+      "Medicare Payment Amount": 21955
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 62105,
+      "Total Payment Amount": 19484,
+      "Medicare Payment Amount": 10646
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 97439,
+      "Total Payment Amount": 28322,
+      "Medicare Payment Amount": 18469
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 87817,
+      "Total Payment Amount": 18849,
+      "Medicare Payment Amount": 15748
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 60871,
+      "Total Payment Amount": 16079,
+      "Medicare Payment Amount": 8413
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 145407,
+      "Total Payment Amount": 24887,
+      "Medicare Payment Amount": 17564
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 51699,
+      "Total Payment Amount": 12200,
+      "Medicare Payment Amount": 6597
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 269718,
+      "Total Payment Amount": 75969,
+      "Medicare Payment Amount": 56952
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 109292,
+      "Total Payment Amount": 32547,
+      "Medicare Payment Amount": 19345
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 96878,
+      "Total Payment Amount": 31722,
+      "Medicare Payment Amount": 12825
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 125406,
+      "Total Payment Amount": 38393,
+      "Medicare Payment Amount": 26483
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 63498,
+      "Total Payment Amount": 17771,
+      "Medicare Payment Amount": 11560
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 74442,
+      "Total Payment Amount": 22348,
+      "Medicare Payment Amount": 17342
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 53132,
+      "Total Payment Amount": 15626,
+      "Medicare Payment Amount": 11517
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45150,
+      "Total Payment Amount": 13552,
+      "Medicare Payment Amount": 8249
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 86718,
+      "Total Payment Amount": 22671,
+      "Medicare Payment Amount": 14714
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 66805,
+      "Total Payment Amount": 13431,
+      "Medicare Payment Amount": 6468
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PLEURAL EFFUSION WITH MCC",
+      "Submitted Covered Payment": 79790,
+      "Total Payment Amount": 19497,
+      "Medicare Payment Amount": 14829
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 48447,
+      "Total Payment Amount": 15235,
+      "Medicare Payment Amount": 10921
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 66984,
+      "Total Payment Amount": 12969,
+      "Medicare Payment Amount": 9201
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 62184,
+      "Total Payment Amount": 15694,
+      "Medicare Payment Amount": 11740
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 49371,
+      "Total Payment Amount": 10677,
+      "Medicare Payment Amount": 7431
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT >96 HOURS",
+      "Submitted Covered Payment": 284946,
+      "Total Payment Amount": 94415,
+      "Medicare Payment Amount": 45090
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 112034,
+      "Total Payment Amount": 31446,
+      "Medicare Payment Amount": 21135
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 284343,
+      "Total Payment Amount": 95465,
+      "Medicare Payment Amount": 67766
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 245764,
+      "Total Payment Amount": 65855,
+      "Medicare Payment Amount": 46363
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 246502,
+      "Total Payment Amount": 69018,
+      "Medicare Payment Amount": 48849
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 186047,
+      "Total Payment Amount": 50862,
+      "Medicare Payment Amount": 34045
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH CC",
+      "Submitted Covered Payment": 160664,
+      "Total Payment Amount": 43227,
+      "Medicare Payment Amount": 24703
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 95642,
+      "Total Payment Amount": 40299,
+      "Medicare Payment Amount": 32119
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 154528,
+      "Total Payment Amount": 37459,
+      "Medicare Payment Amount": 22682
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 94967,
+      "Total Payment Amount": 25138,
+      "Medicare Payment Amount": 14688
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 125147,
+      "Total Payment Amount": 39999,
+      "Medicare Payment Amount": 33073
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 142410,
+      "Total Payment Amount": 35246,
+      "Medicare Payment Amount": 20098
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER CIRCULATORY SYSTEM O.R. PROCEDURES",
+      "Submitted Covered Payment": 116008,
+      "Total Payment Amount": 47323,
+      "Medicare Payment Amount": 32902
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 244006,
+      "Total Payment Amount": 73551,
+      "Medicare Payment Amount": 52084
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 180914,
+      "Total Payment Amount": 54183,
+      "Medicare Payment Amount": 44310
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 167116,
+      "Total Payment Amount": 47682,
+      "Medicare Payment Amount": 36639
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 273650,
+      "Total Payment Amount": 63192,
+      "Medicare Payment Amount": 49347
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 114583,
+      "Total Payment Amount": 34074,
+      "Medicare Payment Amount": 30675
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 79448,
+      "Total Payment Amount": 19325,
+      "Medicare Payment Amount": 14105
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 47698,
+      "Total Payment Amount": 11287,
+      "Medicare Payment Amount": 8218
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 39081,
+      "Total Payment Amount": 8362,
+      "Medicare Payment Amount": 6537
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",
+      "Submitted Covered Payment": 113743,
+      "Total Payment Amount": 32073,
+      "Medicare Payment Amount": 16418
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 147406,
+      "Total Payment Amount": 34396,
+      "Medicare Payment Amount": 24271
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 70177,
+      "Total Payment Amount": 16912,
+      "Medicare Payment Amount": 7576
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 65724,
+      "Total Payment Amount": 15989,
+      "Medicare Payment Amount": 11727
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 84012,
+      "Total Payment Amount": 19981,
+      "Medicare Payment Amount": 15359
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 55732,
+      "Total Payment Amount": 11807,
+      "Medicare Payment Amount": 8913
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HYPERTENSION WITH MCC",
+      "Submitted Covered Payment": 54327,
+      "Total Payment Amount": 12088,
+      "Medicare Payment Amount": 8525
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 33044,
+      "Total Payment Amount": 8602,
+      "Medicare Payment Amount": 6451
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 62637,
+      "Total Payment Amount": 15028,
+      "Medicare Payment Amount": 10578
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 38810,
+      "Total Payment Amount": 10760,
+      "Medicare Payment Amount": 5623
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33140,
+      "Total Payment Amount": 8763,
+      "Medicare Payment Amount": 3443
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 50377,
+      "Total Payment Amount": 10756,
+      "Medicare Payment Amount": 7765
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 46485,
+      "Total Payment Amount": 9054,
+      "Medicare Payment Amount": 6556
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 77339,
+      "Total Payment Amount": 25374,
+      "Medicare Payment Amount": 17570
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 251926,
+      "Total Payment Amount": 64550,
+      "Medicare Payment Amount": 50951
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 93757,
+      "Total Payment Amount": 30661,
+      "Medicare Payment Amount": 20701
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 68804,
+      "Total Payment Amount": 21528,
+      "Medicare Payment Amount": 13419
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 159777,
+      "Total Payment Amount": 46396,
+      "Medicare Payment Amount": 36126
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 78565,
+      "Total Payment Amount": 18895,
+      "Medicare Payment Amount": 15009
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "DIGESTIVE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 104452,
+      "Total Payment Amount": 28182,
+      "Medicare Payment Amount": 14783
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 86971,
+      "Total Payment Amount": 22153,
+      "Medicare Payment Amount": 18115
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 48699,
+      "Total Payment Amount": 12265,
+      "Medicare Payment Amount": 8274
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 100709,
+      "Total Payment Amount": 27490,
+      "Medicare Payment Amount": 19119
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 37922,
+      "Total Payment Amount": 10389,
+      "Medicare Payment Amount": 6138
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20198,
+      "Total Payment Amount": 9047,
+      "Medicare Payment Amount": 3462
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 64140,
+      "Total Payment Amount": 15312,
+      "Medicare Payment Amount": 11380
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 37504,
+      "Total Payment Amount": 10445,
+      "Medicare Payment Amount": 5648
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 103479,
+      "Total Payment Amount": 22866,
+      "Medicare Payment Amount": 17892
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 45835,
+      "Total Payment Amount": 12249,
+      "Medicare Payment Amount": 7780
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PANCREAS, LIVER AND SHUNT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 115735,
+      "Total Payment Amount": 35631,
+      "Medicare Payment Amount": 23168
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 119975,
+      "Total Payment Amount": 31810,
+      "Medicare Payment Amount": 25332
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 64530,
+      "Total Payment Amount": 18454,
+      "Medicare Payment Amount": 14545
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC",
+      "Submitted Covered Payment": 111166,
+      "Total Payment Amount": 23218,
+      "Medicare Payment Amount": 15838
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 72171,
+      "Total Payment Amount": 21762,
+      "Medicare Payment Amount": 11287
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 63319,
+      "Total Payment Amount": 13806,
+      "Medicare Payment Amount": 10110
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 210440,
+      "Total Payment Amount": 69131,
+      "Medicare Payment Amount": 52799
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 146679,
+      "Total Payment Amount": 56558,
+      "Medicare Payment Amount": 41205
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 124236,
+      "Total Payment Amount": 42887,
+      "Medicare Payment Amount": 33236
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "WOUND DEBRIDEMENT AND SKIN GRAFT EXCEPT HAND FOR MUSCULOSKELETAL AND CONNECTIVE TISSUE D",
+      "Submitted Covered Payment": 162267,
+      "Total Payment Amount": 39520,
+      "Medicare Payment Amount": 27448
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 84909,
+      "Total Payment Amount": 21135,
+      "Medicare Payment Amount": 16540
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 141258,
+      "Total Payment Amount": 33454,
+      "Medicare Payment Amount": 28142
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 146446,
+      "Total Payment Amount": 36546,
+      "Medicare Payment Amount": 29378
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 88575,
+      "Total Payment Amount": 24064,
+      "Medicare Payment Amount": 19210
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 62220,
+      "Total Payment Amount": 20343,
+      "Medicare Payment Amount": 12558
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 121359,
+      "Total Payment Amount": 30616,
+      "Medicare Payment Amount": 27270
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 84684,
+      "Total Payment Amount": 24185,
+      "Medicare Payment Amount": 19273
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 41668,
+      "Total Payment Amount": 9576,
+      "Medicare Payment Amount": 6873
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 51041,
+      "Total Payment Amount": 12770,
+      "Medicare Payment Amount": 9852
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 78408,
+      "Total Payment Amount": 18309,
+      "Medicare Payment Amount": 14025
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 46485,
+      "Total Payment Amount": 12454,
+      "Medicare Payment Amount": 8003
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "BONE DISEASES AND ARTHROPATHIES WITHOUT MCC",
+      "Submitted Covered Payment": 34795,
+      "Total Payment Amount": 11291,
+      "Medicare Payment Amount": 5464
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 42628,
+      "Total Payment Amount": 11805,
+      "Medicare Payment Amount": 6175
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SKIN DEBRIDEMENT WITH MCC",
+      "Submitted Covered Payment": 114121,
+      "Total Payment Amount": 33115,
+      "Medicare Payment Amount": 28336
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SKIN DEBRIDEMENT WITH CC",
+      "Submitted Covered Payment": 60884,
+      "Total Payment Amount": 19370,
+      "Medicare Payment Amount": 15992
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 42841,
+      "Total Payment Amount": 16333,
+      "Medicare Payment Amount": 13941
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 35018,
+      "Total Payment Amount": 11397,
+      "Medicare Payment Amount": 6787
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC",
+      "Submitted Covered Payment": 41399,
+      "Total Payment Amount": 11420,
+      "Medicare Payment Amount": 7609
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SKIN GRAFTS AND WOUND DEBRIDEMENT FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WIT",
+      "Submitted Covered Payment": 173643,
+      "Total Payment Amount": 47590,
+      "Medicare Payment Amount": 35159
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SKIN GRAFTS AND WOUND DEBRIDEMENT FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WIT",
+      "Submitted Covered Payment": 114747,
+      "Total Payment Amount": 28599,
+      "Medicare Payment Amount": 16201
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 57011,
+      "Total Payment Amount": 16826,
+      "Medicare Payment Amount": 11612
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 41256,
+      "Total Payment Amount": 11147,
+      "Medicare Payment Amount": 7381
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 65113,
+      "Total Payment Amount": 15555,
+      "Medicare Payment Amount": 11488
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 45432,
+      "Total Payment Amount": 11540,
+      "Medicare Payment Amount": 6262
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 79361,
+      "Total Payment Amount": 18672,
+      "Medicare Payment Amount": 13741
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 55382,
+      "Total Payment Amount": 14105,
+      "Medicare Payment Amount": 10190
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "KIDNEY TRANSPLANT",
+      "Submitted Covered Payment": 456834,
+      "Total Payment Amount": 103467,
+      "Medicare Payment Amount": 19282
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 65110,
+      "Total Payment Amount": 18376,
+      "Medicare Payment Amount": 12140
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 37506,
+      "Total Payment Amount": 19051,
+      "Medicare Payment Amount": 5554
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 126150,
+      "Total Payment Amount": 41395,
+      "Medicare Payment Amount": 37851
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 51308,
+      "Total Payment Amount": 18038,
+      "Medicare Payment Amount": 12873
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 51001,
+      "Total Payment Amount": 12209,
+      "Medicare Payment Amount": 7497
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 64658,
+      "Total Payment Amount": 15984,
+      "Medicare Payment Amount": 11829
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 34281,
+      "Total Payment Amount": 9656,
+      "Medicare Payment Amount": 6952
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 70449,
+      "Total Payment Amount": 19427,
+      "Medicare Payment Amount": 15124
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 44196,
+      "Total Payment Amount": 13879,
+      "Medicare Payment Amount": 6823
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MAJOR MALE PELVIC PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 55754,
+      "Total Payment Amount": 19290,
+      "Medicare Payment Amount": 6924
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 85426,
+      "Total Payment Amount": 19000,
+      "Medicare Payment Amount": 13539
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 106252,
+      "Total Payment Amount": 27844,
+      "Medicare Payment Amount": 14372
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS WITH OTHER PROCEDURES WI",
+      "Submitted Covered Payment": 84258,
+      "Total Payment Amount": 34189,
+      "Medicare Payment Amount": 31256
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 45714,
+      "Total Payment Amount": 15060,
+      "Medicare Payment Amount": 9549
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 210026,
+      "Total Payment Amount": 61410,
+      "Medicare Payment Amount": 45295
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 87044,
+      "Total Payment Amount": 35646,
+      "Medicare Payment Amount": 17367
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 292139,
+      "Total Payment Amount": 82134,
+      "Medicare Payment Amount": 69600
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 81185,
+      "Total Payment Amount": 23718,
+      "Medicare Payment Amount": 18233
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 46868,
+      "Total Payment Amount": 14687,
+      "Medicare Payment Amount": 8339
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 110587,
+      "Total Payment Amount": 28692,
+      "Medicare Payment Amount": 18080
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 79759,
+      "Total Payment Amount": 16978,
+      "Medicare Payment Amount": 11533
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 113675,
+      "Total Payment Amount": 19340,
+      "Medicare Payment Amount": 11511
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 94609,
+      "Total Payment Amount": 22561,
+      "Medicare Payment Amount": 18600
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 29005,
+      "Total Payment Amount": 7119,
+      "Medicare Payment Amount": 5208
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 152614,
+      "Total Payment Amount": 50763,
+      "Medicare Payment Amount": 43671
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 129354,
+      "Total Payment Amount": 31230,
+      "Medicare Payment Amount": 21464
+    },
+    {
+      "Hospital_Name": "The Queens Medical Center",
+      "Address": "1301 Punchbowl St, Honolulu, HI 96813",
+      "Service": "NON-EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 135011,
+      "Total Payment Amount": 39606,
+      "Medicare Payment Amount": 31934
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 105628,
+      "Total Payment Amount": 70139,
+      "Medicare Payment Amount": 68684
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 101993,
+      "Total Payment Amount": 34717,
+      "Medicare Payment Amount": 29965
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 36112,
+      "Total Payment Amount": 15774,
+      "Medicare Payment Amount": 13845
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 47728,
+      "Total Payment Amount": 29030,
+      "Medicare Payment Amount": 27048
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 36084,
+      "Total Payment Amount": 20268,
+      "Medicare Payment Amount": 17260
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 49559,
+      "Total Payment Amount": 25010,
+      "Medicare Payment Amount": 19903
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 36506,
+      "Total Payment Amount": 20656,
+      "Medicare Payment Amount": 17930
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 66660,
+      "Total Payment Amount": 36135,
+      "Medicare Payment Amount": 35205
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 116504,
+      "Total Payment Amount": 72550,
+      "Medicare Payment Amount": 66201
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 54374,
+      "Total Payment Amount": 27736,
+      "Medicare Payment Amount": 26536
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 32206,
+      "Total Payment Amount": 15331,
+      "Medicare Payment Amount": 13825
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15760,
+      "Total Payment Amount": 9559,
+      "Medicare Payment Amount": 6005
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 79443,
+      "Total Payment Amount": 32858,
+      "Medicare Payment Amount": 30858
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 62007,
+      "Total Payment Amount": 33570,
+      "Medicare Payment Amount": 30575
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 27168,
+      "Total Payment Amount": 13790,
+      "Medicare Payment Amount": 11808
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 35021,
+      "Total Payment Amount": 20173,
+      "Medicare Payment Amount": 18871
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 47810,
+      "Total Payment Amount": 12015,
+      "Medicare Payment Amount": 10661
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 45549,
+      "Total Payment Amount": 23110,
+      "Medicare Payment Amount": 20749
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 35694,
+      "Total Payment Amount": 14171,
+      "Medicare Payment Amount": 11590
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 36879,
+      "Total Payment Amount": 18111,
+      "Medicare Payment Amount": 15572
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24423,
+      "Total Payment Amount": 12419,
+      "Medicare Payment Amount": 11007
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 188400,
+      "Total Payment Amount": 92505,
+      "Medicare Payment Amount": 70907
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 72209,
+      "Total Payment Amount": 33849,
+      "Medicare Payment Amount": 28133
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 33478,
+      "Total Payment Amount": 17358,
+      "Medicare Payment Amount": 12201
+    },
+    {
+      "Hospital_Name": "Maui Memorial Medical Center",
+      "Address": "221 Mahalani Street, Wailuku, HI 96793",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 41105,
+      "Total Payment Amount": 20385,
+      "Medicare Payment Amount": 18985
+    },
+    {
+      "Hospital_Name": "Wahiawa General Hospital",
+      "Address": "128 Lehua Street, Wahiawa, HI 96786",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 40746,
+      "Total Payment Amount": 17919,
+      "Medicare Payment Amount": 15291
+    },
+    {
+      "Hospital_Name": "Wahiawa General Hospital",
+      "Address": "128 Lehua Street, Wahiawa, HI 96786",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 31972,
+      "Total Payment Amount": 13384,
+      "Medicare Payment Amount": 9794
+    },
+    {
+      "Hospital_Name": "Wahiawa General Hospital",
+      "Address": "128 Lehua Street, Wahiawa, HI 96786",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19909,
+      "Total Payment Amount": 9116,
+      "Medicare Payment Amount": 6158
+    },
+    {
+      "Hospital_Name": "Wahiawa General Hospital",
+      "Address": "128 Lehua Street, Wahiawa, HI 96786",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 40123,
+      "Total Payment Amount": 18165,
+      "Medicare Payment Amount": 16782
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 56751,
+      "Total Payment Amount": 24678,
+      "Medicare Payment Amount": 23145
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 41001,
+      "Total Payment Amount": 13346,
+      "Medicare Payment Amount": 10295
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 23754,
+      "Total Payment Amount": 8508,
+      "Medicare Payment Amount": 6825
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 55086,
+      "Total Payment Amount": 23843,
+      "Medicare Payment Amount": 22430
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 27511,
+      "Total Payment Amount": 13715,
+      "Medicare Payment Amount": 12263
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 46524,
+      "Total Payment Amount": 14350,
+      "Medicare Payment Amount": 11713
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 58932,
+      "Total Payment Amount": 17060,
+      "Medicare Payment Amount": 15606
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 89502,
+      "Total Payment Amount": 32445,
+      "Medicare Payment Amount": 30962
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 90056,
+      "Total Payment Amount": 37454,
+      "Medicare Payment Amount": 33642
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 48657,
+      "Total Payment Amount": 25608,
+      "Medicare Payment Amount": 17213
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 60661,
+      "Total Payment Amount": 22261,
+      "Medicare Payment Amount": 19524
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 35500,
+      "Total Payment Amount": 11206,
+      "Medicare Payment Amount": 10045
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 37222,
+      "Total Payment Amount": 9702,
+      "Medicare Payment Amount": 6645
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 41321,
+      "Total Payment Amount": 13454,
+      "Medicare Payment Amount": 11422
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 49299,
+      "Total Payment Amount": 16494,
+      "Medicare Payment Amount": 14660
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 52992,
+      "Total Payment Amount": 15081,
+      "Medicare Payment Amount": 13527
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 23768,
+      "Total Payment Amount": 9176,
+      "Medicare Payment Amount": 7072
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 74049,
+      "Total Payment Amount": 29610,
+      "Medicare Payment Amount": 28064
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 88376,
+      "Total Payment Amount": 29763,
+      "Medicare Payment Amount": 27587
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 36216,
+      "Total Payment Amount": 12666,
+      "Medicare Payment Amount": 9896
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15516,
+      "Total Payment Amount": 7813,
+      "Medicare Payment Amount": 4279
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 37019,
+      "Total Payment Amount": 9988,
+      "Medicare Payment Amount": 8562
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 57442,
+      "Total Payment Amount": 25623,
+      "Medicare Payment Amount": 23383
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 63828,
+      "Total Payment Amount": 25068,
+      "Medicare Payment Amount": 21385
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 31535,
+      "Total Payment Amount": 10892,
+      "Medicare Payment Amount": 9239
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 32892,
+      "Total Payment Amount": 15964,
+      "Medicare Payment Amount": 14524
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21217,
+      "Total Payment Amount": 9410,
+      "Medicare Payment Amount": 8015
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 43863,
+      "Total Payment Amount": 17421,
+      "Medicare Payment Amount": 15697
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 24818,
+      "Total Payment Amount": 10913,
+      "Medicare Payment Amount": 9502
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 33584,
+      "Total Payment Amount": 14310,
+      "Medicare Payment Amount": 11348
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 25110,
+      "Total Payment Amount": 9253,
+      "Medicare Payment Amount": 7890
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 171466,
+      "Total Payment Amount": 77645,
+      "Medicare Payment Amount": 68674
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 63322,
+      "Total Payment Amount": 26010,
+      "Medicare Payment Amount": 23639
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 37339,
+      "Total Payment Amount": 14107,
+      "Medicare Payment Amount": 10317
+    },
+    {
+      "Hospital_Name": "Hilo Medical Center",
+      "Address": "1190 Waianuenue Avenue, Hilo, HI 96720",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 29795,
+      "Total Payment Amount": 15087,
+      "Medicare Payment Amount": 13675
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 52040,
+      "Total Payment Amount": 18197,
+      "Medicare Payment Amount": 14822
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32591,
+      "Total Payment Amount": 8900,
+      "Medicare Payment Amount": 4673
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 50188,
+      "Total Payment Amount": 17085,
+      "Medicare Payment Amount": 14708
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 28130,
+      "Total Payment Amount": 12216,
+      "Medicare Payment Amount": 8162
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 35542,
+      "Total Payment Amount": 12502,
+      "Medicare Payment Amount": 11579
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 50150,
+      "Total Payment Amount": 15670,
+      "Medicare Payment Amount": 13861
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 37986,
+      "Total Payment Amount": 9676,
+      "Medicare Payment Amount": 7063
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 39613,
+      "Total Payment Amount": 12071,
+      "Medicare Payment Amount": 11133
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 66602,
+      "Total Payment Amount": 25553,
+      "Medicare Payment Amount": 19815
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 49202,
+      "Total Payment Amount": 16781,
+      "Medicare Payment Amount": 14898
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 44660,
+      "Total Payment Amount": 9394,
+      "Medicare Payment Amount": 8085
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 24558,
+      "Total Payment Amount": 8216,
+      "Medicare Payment Amount": 6288
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 52943,
+      "Total Payment Amount": 20310,
+      "Medicare Payment Amount": 16915
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 20930,
+      "Total Payment Amount": 8325,
+      "Medicare Payment Amount": 6798
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 30810,
+      "Total Payment Amount": 11926,
+      "Medicare Payment Amount": 10399
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21188,
+      "Total Payment Amount": 7370,
+      "Medicare Payment Amount": 6016
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 51085,
+      "Total Payment Amount": 14726,
+      "Medicare Payment Amount": 11052
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 34213,
+      "Total Payment Amount": 11362,
+      "Medicare Payment Amount": 10065
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 86685,
+      "Total Payment Amount": 55048,
+      "Medicare Payment Amount": 36271
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 54483,
+      "Total Payment Amount": 17664,
+      "Medicare Payment Amount": 15990
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 30273,
+      "Total Payment Amount": 11045,
+      "Medicare Payment Amount": 7761
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 30241,
+      "Total Payment Amount": 12465,
+      "Medicare Payment Amount": 10949
+    },
+    {
+      "Hospital_Name": "Adventist Health Castle",
+      "Address": "640 Ulukahiki St, Kailua, HI 96734",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 15386,
+      "Total Payment Amount": 8013,
+      "Medicare Payment Amount": 7213
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 64407,
+      "Total Payment Amount": 19524,
+      "Medicare Payment Amount": 17778
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 59112,
+      "Total Payment Amount": 21179,
+      "Medicare Payment Amount": 19145
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32220,
+      "Total Payment Amount": 12994,
+      "Medicare Payment Amount": 11582
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 54152,
+      "Total Payment Amount": 15896,
+      "Medicare Payment Amount": 13850
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 38731,
+      "Total Payment Amount": 9217,
+      "Medicare Payment Amount": 7653
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 37100,
+      "Total Payment Amount": 12452,
+      "Medicare Payment Amount": 11258
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 42630,
+      "Total Payment Amount": 17592,
+      "Medicare Payment Amount": 16260
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 42743,
+      "Total Payment Amount": 28835,
+      "Medicare Payment Amount": 22817
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 36047,
+      "Total Payment Amount": 18808,
+      "Medicare Payment Amount": 15967
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 42937,
+      "Total Payment Amount": 24131,
+      "Medicare Payment Amount": 19703
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 151540,
+      "Total Payment Amount": 61276,
+      "Medicare Payment Amount": 53180
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 60798,
+      "Total Payment Amount": 20738,
+      "Medicare Payment Amount": 18153
+    },
+    {
+      "Hospital_Name": "Kuakini Medical Center",
+      "Address": "347 North Kuakini Street, Honolulu, HI 96817",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 38194,
+      "Total Payment Amount": 10199,
+      "Medicare Payment Amount": 8825
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 50460,
+      "Total Payment Amount": 20306,
+      "Medicare Payment Amount": 13494
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 34165,
+      "Total Payment Amount": 13224,
+      "Medicare Payment Amount": 9173
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 33247,
+      "Total Payment Amount": 14672,
+      "Medicare Payment Amount": 9812
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 58226,
+      "Total Payment Amount": 25583,
+      "Medicare Payment Amount": 8534
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 81326,
+      "Total Payment Amount": 40029,
+      "Medicare Payment Amount": 6164
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 47459,
+      "Total Payment Amount": 19249,
+      "Medicare Payment Amount": 11581
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 158851,
+      "Total Payment Amount": 80890,
+      "Medicare Payment Amount": 26681
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 62679,
+      "Total Payment Amount": 25429,
+      "Medicare Payment Amount": 15452
+    },
+    {
+      "Hospital_Name": "Kaiser Foundation Hospital",
+      "Address": "3288 Moanalua Rd, Honolulu, HI 96819",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 30924,
+      "Total Payment Amount": 15028,
+      "Medicare Payment Amount": 4796
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 63611,
+      "Total Payment Amount": 25022,
+      "Medicare Payment Amount": 21859
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 40730,
+      "Total Payment Amount": 12550,
+      "Medicare Payment Amount": 11241
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 23295,
+      "Total Payment Amount": 9487,
+      "Medicare Payment Amount": 6519
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 39954,
+      "Total Payment Amount": 24911,
+      "Medicare Payment Amount": 19919
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 30511,
+      "Total Payment Amount": 16326,
+      "Medicare Payment Amount": 14189
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 35801,
+      "Total Payment Amount": 16130,
+      "Medicare Payment Amount": 14374
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29730,
+      "Total Payment Amount": 14583,
+      "Medicare Payment Amount": 13352
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 32280,
+      "Total Payment Amount": 13131,
+      "Medicare Payment Amount": 9828
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 18234,
+      "Total Payment Amount": 10444,
+      "Medicare Payment Amount": 7878
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 73435,
+      "Total Payment Amount": 29595,
+      "Medicare Payment Amount": 25071
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 35149,
+      "Total Payment Amount": 11515,
+      "Medicare Payment Amount": 8198
+    },
+    {
+      "Hospital_Name": "Wilcox Memorial Hospital",
+      "Address": "3-3420 Kuhio Highway, Lihue, HI 96766",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 56630,
+      "Total Payment Amount": 24316,
+      "Medicare Payment Amount": 23004
+    },
+    {
+      "Hospital_Name": "Kona Community Hospital",
+      "Address": "79-1019 Haukapila Street, Kealakekua, HI 96750",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 38610,
+      "Total Payment Amount": 27727,
+      "Medicare Payment Amount": 23739
+    },
+    {
+      "Hospital_Name": "Kona Community Hospital",
+      "Address": "79-1019 Haukapila Street, Kealakekua, HI 96750",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 34617,
+      "Total Payment Amount": 16812,
+      "Medicare Payment Amount": 11782
+    },
+    {
+      "Hospital_Name": "Kona Community Hospital",
+      "Address": "79-1019 Haukapila Street, Kealakekua, HI 96750",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 50254,
+      "Total Payment Amount": 21056,
+      "Medicare Payment Amount": 19856
+    },
+    {
+      "Hospital_Name": "Kona Community Hospital",
+      "Address": "79-1019 Haukapila Street, Kealakekua, HI 96750",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 44996,
+      "Total Payment Amount": 19962,
+      "Medicare Payment Amount": 18084
+    },
+    {
+      "Hospital_Name": "Kona Community Hospital",
+      "Address": "79-1019 Haukapila Street, Kealakekua, HI 96750",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 34108,
+      "Total Payment Amount": 15394,
+      "Medicare Payment Amount": 12769
+    },
+    {
+      "Hospital_Name": "Kona Community Hospital",
+      "Address": "79-1019 Haukapila Street, Kealakekua, HI 96750",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 54111,
+      "Total Payment Amount": 33235,
+      "Medicare Payment Amount": 29076
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 101000,
+      "Total Payment Amount": 43255,
+      "Medicare Payment Amount": 38800
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 95828,
+      "Total Payment Amount": 23429,
+      "Medicare Payment Amount": 20559
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 37256,
+      "Total Payment Amount": 11394,
+      "Medicare Payment Amount": 8164
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 68718,
+      "Total Payment Amount": 19070,
+      "Medicare Payment Amount": 16874
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 41249,
+      "Total Payment Amount": 11695,
+      "Medicare Payment Amount": 10346
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 65081,
+      "Total Payment Amount": 14695,
+      "Medicare Payment Amount": 11132
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 55088,
+      "Total Payment Amount": 13620,
+      "Medicare Payment Amount": 11148
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 244260,
+      "Total Payment Amount": 95006,
+      "Medicare Payment Amount": 68585
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 150997,
+      "Total Payment Amount": 59191,
+      "Medicare Payment Amount": 50830
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 147056,
+      "Total Payment Amount": 43828,
+      "Medicare Payment Amount": 34612
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 71530,
+      "Total Payment Amount": 32150,
+      "Medicare Payment Amount": 31083
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 55382,
+      "Total Payment Amount": 22227,
+      "Medicare Payment Amount": 20990
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 159938,
+      "Total Payment Amount": 30600,
+      "Medicare Payment Amount": 29340
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 78541,
+      "Total Payment Amount": 18127,
+      "Medicare Payment Amount": 16504
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 92268,
+      "Total Payment Amount": 29388,
+      "Medicare Payment Amount": 21966
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 150025,
+      "Total Payment Amount": 61097,
+      "Medicare Payment Amount": 60116
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 127892,
+      "Total Payment Amount": 49941,
+      "Medicare Payment Amount": 43744
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 80595,
+      "Total Payment Amount": 31909,
+      "Medicare Payment Amount": 28288
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 53843,
+      "Total Payment Amount": 15442,
+      "Medicare Payment Amount": 13967
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 69084,
+      "Total Payment Amount": 20638,
+      "Medicare Payment Amount": 19245
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 50459,
+      "Total Payment Amount": 13265,
+      "Medicare Payment Amount": 10467
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 53752,
+      "Total Payment Amount": 13499,
+      "Medicare Payment Amount": 11039
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 31807,
+      "Total Payment Amount": 8085,
+      "Medicare Payment Amount": 5788
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 30044,
+      "Total Payment Amount": 9410,
+      "Medicare Payment Amount": 6445
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 79954,
+      "Total Payment Amount": 20562,
+      "Medicare Payment Amount": 18059
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 140561,
+      "Total Payment Amount": 60531,
+      "Medicare Payment Amount": 32391
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 64492,
+      "Total Payment Amount": 19916,
+      "Medicare Payment Amount": 16583
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 32772,
+      "Total Payment Amount": 9535,
+      "Medicare Payment Amount": 8601
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 29355,
+      "Total Payment Amount": 8024,
+      "Medicare Payment Amount": 6531
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 35527,
+      "Total Payment Amount": 10280,
+      "Medicare Payment Amount": 4385
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 51686,
+      "Total Payment Amount": 16336,
+      "Medicare Payment Amount": 13057
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 68840,
+      "Total Payment Amount": 22211,
+      "Medicare Payment Amount": 16849
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 103573,
+      "Total Payment Amount": 29315,
+      "Medicare Payment Amount": 23960
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 42399,
+      "Total Payment Amount": 14707,
+      "Medicare Payment Amount": 11976
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 33491,
+      "Total Payment Amount": 9421,
+      "Medicare Payment Amount": 7089
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 51395,
+      "Total Payment Amount": 12289,
+      "Medicare Payment Amount": 9809
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 30185,
+      "Total Payment Amount": 7557,
+      "Medicare Payment Amount": 6180
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 75908,
+      "Total Payment Amount": 17152,
+      "Medicare Payment Amount": 15685
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 37276,
+      "Total Payment Amount": 10232,
+      "Medicare Payment Amount": 8733
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 54044,
+      "Total Payment Amount": 14185,
+      "Medicare Payment Amount": 12858
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23236,
+      "Total Payment Amount": 8796,
+      "Medicare Payment Amount": 7512
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 41213,
+      "Total Payment Amount": 11459,
+      "Medicare Payment Amount": 10185
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 38610,
+      "Total Payment Amount": 8021,
+      "Medicare Payment Amount": 6746
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 58963,
+      "Total Payment Amount": 14946,
+      "Medicare Payment Amount": 14046
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 37547,
+      "Total Payment Amount": 22823,
+      "Medicare Payment Amount": 22683
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 236840,
+      "Total Payment Amount": 63650,
+      "Medicare Payment Amount": 61706
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 76309,
+      "Total Payment Amount": 20624,
+      "Medicare Payment Amount": 17175
+    },
+    {
+      "Hospital_Name": "Straub Clinic And Hospital",
+      "Address": "888 S King Street, Honolulu, HI 96813",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 31792,
+      "Total Payment Amount": 12526,
+      "Medicare Payment Amount": 7877
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 58046,
+      "Total Payment Amount": 19124,
+      "Medicare Payment Amount": 15777
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 41902,
+      "Total Payment Amount": 10815,
+      "Medicare Payment Amount": 8272
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 42891,
+      "Total Payment Amount": 20861,
+      "Medicare Payment Amount": 19563
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 61693,
+      "Total Payment Amount": 20489,
+      "Medicare Payment Amount": 15707
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 49811,
+      "Total Payment Amount": 13065,
+      "Medicare Payment Amount": 11285
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 31593,
+      "Total Payment Amount": 8336,
+      "Medicare Payment Amount": 6968
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 145597,
+      "Total Payment Amount": 43118,
+      "Medicare Payment Amount": 24217
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 90242,
+      "Total Payment Amount": 22291,
+      "Medicare Payment Amount": 14733
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 167876,
+      "Total Payment Amount": 76794,
+      "Medicare Payment Amount": 41718
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 48683,
+      "Total Payment Amount": 16165,
+      "Medicare Payment Amount": 13456
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 35684,
+      "Total Payment Amount": 11210,
+      "Medicare Payment Amount": 6725
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 40961,
+      "Total Payment Amount": 8664,
+      "Medicare Payment Amount": 5093
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 46578,
+      "Total Payment Amount": 12608,
+      "Medicare Payment Amount": 11035
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 38314,
+      "Total Payment Amount": 11457,
+      "Medicare Payment Amount": 10181
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 26687,
+      "Total Payment Amount": 7371,
+      "Medicare Payment Amount": 6164
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 42350,
+      "Total Payment Amount": 19720,
+      "Medicare Payment Amount": 18689
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 89105,
+      "Total Payment Amount": 26534,
+      "Medicare Payment Amount": 20551
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 48661,
+      "Total Payment Amount": 16766,
+      "Medicare Payment Amount": 14616
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 35537,
+      "Total Payment Amount": 11180,
+      "Medicare Payment Amount": 7384
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 24631,
+      "Total Payment Amount": 8642,
+      "Medicare Payment Amount": 6142
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19618,
+      "Total Payment Amount": 5761,
+      "Medicare Payment Amount": 4185
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 22304,
+      "Total Payment Amount": 7907,
+      "Medicare Payment Amount": 6480
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 71870,
+      "Total Payment Amount": 17026,
+      "Medicare Payment Amount": 15568
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 61788,
+      "Total Payment Amount": 22550,
+      "Medicare Payment Amount": 16826
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 59786,
+      "Total Payment Amount": 21859,
+      "Medicare Payment Amount": 18242
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 29104,
+      "Total Payment Amount": 10123,
+      "Medicare Payment Amount": 5656
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 37828,
+      "Total Payment Amount": 12998,
+      "Medicare Payment Amount": 10407
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 24484,
+      "Total Payment Amount": 8146,
+      "Medicare Payment Amount": 5887
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 39562,
+      "Total Payment Amount": 16339,
+      "Medicare Payment Amount": 14890
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 55750,
+      "Total Payment Amount": 15905,
+      "Medicare Payment Amount": 12876
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 26239,
+      "Total Payment Amount": 9558,
+      "Medicare Payment Amount": 6804
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 39129,
+      "Total Payment Amount": 11717,
+      "Medicare Payment Amount": 9616
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24054,
+      "Total Payment Amount": 8391,
+      "Medicare Payment Amount": 6337
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 48077,
+      "Total Payment Amount": 18267,
+      "Medicare Payment Amount": 12425
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 142000,
+      "Total Payment Amount": 56930,
+      "Medicare Payment Amount": 41360
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 75288,
+      "Total Payment Amount": 23230,
+      "Medicare Payment Amount": 17560
+    },
+    {
+      "Hospital_Name": "Pali Momi Medical Center",
+      "Address": "98-1079 Moanalua Road, Aiea, HI 96701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 29750,
+      "Total Payment Amount": 9514,
+      "Medicare Payment Amount": 7952
+    },
+    {
+      "Hospital_Name": "North Hawaii Community Hospital, Inc",
+      "Address": "67 1125 Mamalahoa Highway, Kamuela, HI 96743",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 43298,
+      "Total Payment Amount": 22184,
+      "Medicare Payment Amount": 20717
+    },
+    {
+      "Hospital_Name": "North Hawaii Community Hospital, Inc",
+      "Address": "67 1125 Mamalahoa Highway, Kamuela, HI 96743",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 65711,
+      "Total Payment Amount": 21064,
+      "Medicare Payment Amount": 8831
+    },
+    {
+      "Hospital_Name": "North Hawaii Community Hospital, Inc",
+      "Address": "67 1125 Mamalahoa Highway, Kamuela, HI 96743",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 76639,
+      "Total Payment Amount": 25855,
+      "Medicare Payment Amount": 11982
+    },
+    {
+      "Hospital_Name": "North Hawaii Community Hospital, Inc",
+      "Address": "67 1125 Mamalahoa Highway, Kamuela, HI 96743",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 84499,
+      "Total Payment Amount": 24821,
+      "Medicare Payment Amount": 20488
+    }
+  ]
+}

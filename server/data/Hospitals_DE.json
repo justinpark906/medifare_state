@@ -1,0 +1,4644 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ECMO OR TRACHEOSTOMY WITH MV >96 HOURS OR PRINCIPAL DIAGNOSIS EXCEPT FACE, MOUTH AND NEC",
+      "Submitted Covered Payment": 666524,
+      "Total Payment Amount": 256964,
+      "Medicare Payment Amount": 233112
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRACHEOSTOMY WITH MV >96 HOURS OR PRINCIPAL DIAGNOSIS EXCEPT FACE, MOUTH AND NECK WITHOU",
+      "Submitted Covered Payment": 357950,
+      "Total Payment Amount": 126667,
+      "Medicare Payment Amount": 116657
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INTRACRANIAL VASCULAR PROCEDURES WITH PRINCIPAL DIAGNOSIS HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 290009,
+      "Total Payment Amount": 125218,
+      "Medicare Payment Amount": 82394
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 170136,
+      "Total Payment Amount": 50941,
+      "Medicare Payment Amount": 47689
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITHOUT MC",
+      "Submitted Covered Payment": 130636,
+      "Total Payment Amount": 36124,
+      "Medicare Payment Amount": 30603
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 125967,
+      "Total Payment Amount": 42318,
+      "Medicare Payment Amount": 37815
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 76044,
+      "Total Payment Amount": 26594,
+      "Medicare Payment Amount": 21563
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 66150,
+      "Total Payment Amount": 21235,
+      "Medicare Payment Amount": 18632
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SPINAL PROCEDURES WITH CC OR SPINAL NEUROSTIMULATORS",
+      "Submitted Covered Payment": 103572,
+      "Total Payment Amount": 36033,
+      "Medicare Payment Amount": 22333
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "VENTRICULAR SHUNT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 51477,
+      "Total Payment Amount": 14446,
+      "Medicare Payment Amount": 12632
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 56617,
+      "Total Payment Amount": 19431,
+      "Medicare Payment Amount": 13139
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 50625,
+      "Total Payment Amount": 20858,
+      "Medicare Payment Amount": 11073
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 25046,
+      "Total Payment Amount": 10580,
+      "Medicare Payment Amount": 8026
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 48122,
+      "Total Payment Amount": 13867,
+      "Medicare Payment Amount": 11201
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 59067,
+      "Total Payment Amount": 22591,
+      "Medicare Payment Amount": 18942
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 40556,
+      "Total Payment Amount": 14610,
+      "Medicare Payment Amount": 10083
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 85312,
+      "Total Payment Amount": 16739,
+      "Medicare Payment Amount": 14578
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 64626,
+      "Total Payment Amount": 19826,
+      "Medicare Payment Amount": 15606
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 36947,
+      "Total Payment Amount": 11630,
+      "Medicare Payment Amount": 7084
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27031,
+      "Total Payment Amount": 6998,
+      "Medicare Payment Amount": 4427
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NONSPECIFIC CVA AND PRECEREBRAL OCCLUSION WITHOUT INFARCTION WITHOUT MCC",
+      "Submitted Covered Payment": 27195,
+      "Total Payment Amount": 8341,
+      "Medicare Payment Amount": 6503
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 26512,
+      "Total Payment Amount": 7944,
+      "Medicare Payment Amount": 5708
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 64026,
+      "Total Payment Amount": 17620,
+      "Medicare Payment Amount": 14583
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 32907,
+      "Total Payment Amount": 9977,
+      "Medicare Payment Amount": 7900
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIAL AND PERIPHERAL NERVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 54652,
+      "Total Payment Amount": 16260,
+      "Medicare Payment Amount": 14241
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CRANIAL AND PERIPHERAL NERVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 27548,
+      "Total Payment Amount": 9576,
+      "Medicare Payment Amount": 7367
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 79677,
+      "Total Payment Amount": 22522,
+      "Medicare Payment Amount": 19811
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 42996,
+      "Total Payment Amount": 12418,
+      "Medicare Payment Amount": 10201
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26935,
+      "Total Payment Amount": 8931,
+      "Medicare Payment Amount": 6189
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 63098,
+      "Total Payment Amount": 21447,
+      "Medicare Payment Amount": 18585
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 33210,
+      "Total Payment Amount": 11791,
+      "Medicare Payment Amount": 9650
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITHOUT CC/MCC",
+      "Submitted Covered Payment": 24368,
+      "Total Payment Amount": 8095,
+      "Medicare Payment Amount": 6220
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CONCUSSION WITH CC",
+      "Submitted Covered Payment": 32604,
+      "Total Payment Amount": 11145,
+      "Medicare Payment Amount": 7785
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 42277,
+      "Total Payment Amount": 16025,
+      "Medicare Payment Amount": 13307
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 33036,
+      "Total Payment Amount": 9813,
+      "Medicare Payment Amount": 7342
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 29053,
+      "Total Payment Amount": 8633,
+      "Medicare Payment Amount": 6069
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 68608,
+      "Total Payment Amount": 23068,
+      "Medicare Payment Amount": 17515
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 29251,
+      "Total Payment Amount": 8881,
+      "Medicare Payment Amount": 6409
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HEADACHES WITHOUT MCC",
+      "Submitted Covered Payment": 29848,
+      "Total Payment Amount": 9405,
+      "Medicare Payment Amount": 5298
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NEUROLOGICAL EYE DISORDERS",
+      "Submitted Covered Payment": 24475,
+      "Total Payment Amount": 8265,
+      "Medicare Payment Amount": 5101
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DISORDERS OF THE EYE WITHOUT MCC",
+      "Submitted Covered Payment": 25447,
+      "Total Payment Amount": 7962,
+      "Medicare Payment Amount": 6392
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DYSEQUILIBRIUM",
+      "Submitted Covered Payment": 23704,
+      "Total Payment Amount": 7148,
+      "Medicare Payment Amount": 5232
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "EPISTAXIS WITHOUT MCC",
+      "Submitted Covered Payment": 24040,
+      "Total Payment Amount": 7684,
+      "Medicare Payment Amount": 5543
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTITIS MEDIA AND URI WITHOUT MCC",
+      "Submitted Covered Payment": 18000,
+      "Total Payment Amount": 6741,
+      "Medicare Payment Amount": 4784
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER EAR, NOSE, MOUTH AND THROAT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 24280,
+      "Total Payment Amount": 9650,
+      "Medicare Payment Amount": 6095
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DENTAL AND ORAL DISEASES WITH CC",
+      "Submitted Covered Payment": 22060,
+      "Total Payment Amount": 8835,
+      "Medicare Payment Amount": 6979
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 119793,
+      "Total Payment Amount": 47169,
+      "Medicare Payment Amount": 35906
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 61178,
+      "Total Payment Amount": 22949,
+      "Medicare Payment Amount": 19308
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 58530,
+      "Total Payment Amount": 16545,
+      "Medicare Payment Amount": 14564
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 115875,
+      "Total Payment Amount": 41326,
+      "Medicare Payment Amount": 34642
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 47872,
+      "Total Payment Amount": 13635,
+      "Medicare Payment Amount": 10250
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 27523,
+      "Total Payment Amount": 7818,
+      "Medicare Payment Amount": 5861
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 56319,
+      "Total Payment Amount": 19497,
+      "Medicare Payment Amount": 16348
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 39573,
+      "Total Payment Amount": 13103,
+      "Medicare Payment Amount": 10574
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 39698,
+      "Total Payment Amount": 11448,
+      "Medicare Payment Amount": 8708
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 62608,
+      "Total Payment Amount": 17597,
+      "Medicare Payment Amount": 14631
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY NEOPLASMS WITH CC",
+      "Submitted Covered Payment": 31884,
+      "Total Payment Amount": 11298,
+      "Medicare Payment Amount": 8170
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR CHEST TRAUMA WITH MCC",
+      "Submitted Covered Payment": 41260,
+      "Total Payment Amount": 14995,
+      "Medicare Payment Amount": 12825
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 26190,
+      "Total Payment Amount": 9941,
+      "Medicare Payment Amount": 7272
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR CHEST TRAUMA WITHOUT CC/MCC",
+      "Submitted Covered Payment": 24256,
+      "Total Payment Amount": 7238,
+      "Medicare Payment Amount": 5233
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PLEURAL EFFUSION WITH MCC",
+      "Submitted Covered Payment": 45260,
+      "Total Payment Amount": 14647,
+      "Medicare Payment Amount": 12385
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PLEURAL EFFUSION WITH CC",
+      "Submitted Covered Payment": 43266,
+      "Total Payment Amount": 10242,
+      "Medicare Payment Amount": 7876
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 39030,
+      "Total Payment Amount": 12082,
+      "Medicare Payment Amount": 9309
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 31111,
+      "Total Payment Amount": 10390,
+      "Medicare Payment Amount": 8011
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 27819,
+      "Total Payment Amount": 8242,
+      "Medicare Payment Amount": 6358
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19253,
+      "Total Payment Amount": 6197,
+      "Medicare Payment Amount": 4239
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 40776,
+      "Total Payment Amount": 13054,
+      "Medicare Payment Amount": 9868
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 23810,
+      "Total Payment Amount": 8246,
+      "Medicare Payment Amount": 5802
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20472,
+      "Total Payment Amount": 7293,
+      "Medicare Payment Amount": 4212
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INTERSTITIAL LUNG DISEASE WITH MCC",
+      "Submitted Covered Payment": 62422,
+      "Total Payment Amount": 18049,
+      "Medicare Payment Amount": 15300
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PNEUMOTHORAX WITH MCC",
+      "Submitted Covered Payment": 56693,
+      "Total Payment Amount": 16376,
+      "Medicare Payment Amount": 14238
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PNEUMOTHORAX WITH CC",
+      "Submitted Covered Payment": 24382,
+      "Total Payment Amount": 10886,
+      "Medicare Payment Amount": 7256
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 25956,
+      "Total Payment Amount": 9028,
+      "Medicare Payment Amount": 6703
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BRONCHITIS AND ASTHMA WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17230,
+      "Total Payment Amount": 6503,
+      "Medicare Payment Amount": 4426
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER RESPIRATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 63689,
+      "Total Payment Amount": 19844,
+      "Medicare Payment Amount": 14392
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER RESPIRATORY SYSTEM DIAGNOSES WITHOUT MCC",
+      "Submitted Covered Payment": 25992,
+      "Total Payment Amount": 8559,
+      "Medicare Payment Amount": 6700
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT >96 HOURS",
+      "Submitted Covered Payment": 163970,
+      "Total Payment Amount": 56299,
+      "Medicare Payment Amount": 52953
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 81894,
+      "Total Payment Amount": 24344,
+      "Medicare Payment Amount": 21229
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WIT",
+      "Submitted Covered Payment": 355139,
+      "Total Payment Amount": 108193,
+      "Medicare Payment Amount": 103451
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 318639,
+      "Total Payment Amount": 97748,
+      "Medicare Payment Amount": 84809
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 171686,
+      "Total Payment Amount": 52262,
+      "Medicare Payment Amount": 43079
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 168777,
+      "Total Payment Amount": 42777,
+      "Medicare Payment Amount": 41300
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 248823,
+      "Total Payment Amount": 79683,
+      "Medicare Payment Amount": 69725
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 142949,
+      "Total Payment Amount": 48753,
+      "Medicare Payment Amount": 37336
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 170108,
+      "Total Payment Amount": 53027,
+      "Medicare Payment Amount": 49971
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 90679,
+      "Total Payment Amount": 36545,
+      "Medicare Payment Amount": 30140
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH MCC",
+      "Submitted Covered Payment": 136039,
+      "Total Payment Amount": 46195,
+      "Medicare Payment Amount": 39692
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH CC",
+      "Submitted Covered Payment": 65230,
+      "Total Payment Amount": 24504,
+      "Medicare Payment Amount": 21654
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 104523,
+      "Total Payment Amount": 34254,
+      "Medicare Payment Amount": 28235
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 74187,
+      "Total Payment Amount": 20602,
+      "Medicare Payment Amount": 18468
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 61995,
+      "Total Payment Amount": 19205,
+      "Medicare Payment Amount": 14167
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 145370,
+      "Total Payment Amount": 40267,
+      "Medicare Payment Amount": 27191
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 106093,
+      "Total Payment Amount": 23307,
+      "Medicare Payment Amount": 14362
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 85902,
+      "Total Payment Amount": 29859,
+      "Medicare Payment Amount": 27504
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 78956,
+      "Total Payment Amount": 23067,
+      "Medicare Payment Amount": 20777
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER VASCULAR PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 43695,
+      "Total Payment Amount": 15678,
+      "Medicare Payment Amount": 13832
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER CIRCULATORY SYSTEM O.R. PROCEDURES",
+      "Submitted Covered Payment": 138693,
+      "Total Payment Amount": 42212,
+      "Medicare Payment Amount": 36745
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 281275,
+      "Total Payment Amount": 70564,
+      "Medicare Payment Amount": 68530
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 222720,
+      "Total Payment Amount": 47338,
+      "Medicare Payment Amount": 44826
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 138747,
+      "Total Payment Amount": 47232,
+      "Medicare Payment Amount": 29818
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 177252,
+      "Total Payment Amount": 53879,
+      "Medicare Payment Amount": 49895
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 124056,
+      "Total Payment Amount": 44135,
+      "Medicare Payment Amount": 26902
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 187745,
+      "Total Payment Amount": 45528,
+      "Medicare Payment Amount": 34653
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 171557,
+      "Total Payment Amount": 33285,
+      "Medicare Payment Amount": 28268
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 52293,
+      "Total Payment Amount": 14892,
+      "Medicare Payment Amount": 12200
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 33268,
+      "Total Payment Amount": 10465,
+      "Medicare Payment Amount": 6253
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 31285,
+      "Total Payment Amount": 6714,
+      "Medicare Payment Amount": 5118
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 84777,
+      "Total Payment Amount": 22895,
+      "Medicare Payment Amount": 18003
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 43052,
+      "Total Payment Amount": 11743,
+      "Medicare Payment Amount": 7542
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 39419,
+      "Total Payment Amount": 12616,
+      "Medicare Payment Amount": 9964
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 35121,
+      "Total Payment Amount": 8947,
+      "Medicare Payment Amount": 6913
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 76813,
+      "Total Payment Amount": 21292,
+      "Medicare Payment Amount": 18988
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 39473,
+      "Total Payment Amount": 11750,
+      "Medicare Payment Amount": 9027
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27538,
+      "Total Payment Amount": 7221,
+      "Medicare Payment Amount": 4517
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ATHEROSCLEROSIS WITHOUT MCC",
+      "Submitted Covered Payment": 21117,
+      "Total Payment Amount": 6361,
+      "Medicare Payment Amount": 4518
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HYPERTENSION WITH MCC",
+      "Submitted Covered Payment": 36349,
+      "Total Payment Amount": 12081,
+      "Medicare Payment Amount": 10212
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 20013,
+      "Total Payment Amount": 7369,
+      "Medicare Payment Amount": 4968
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 39483,
+      "Total Payment Amount": 12738,
+      "Medicare Payment Amount": 10019
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 23712,
+      "Total Payment Amount": 7355,
+      "Medicare Payment Amount": 4926
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21040,
+      "Total Payment Amount": 5873,
+      "Medicare Payment Amount": 3866
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 27505,
+      "Total Payment Amount": 9229,
+      "Medicare Payment Amount": 6054
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 24653,
+      "Total Payment Amount": 7100,
+      "Medicare Payment Amount": 4960
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 67096,
+      "Total Payment Amount": 19649,
+      "Medicare Payment Amount": 16016
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30770,
+      "Total Payment Amount": 15024,
+      "Medicare Payment Amount": 6874
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 107716,
+      "Total Payment Amount": 20082,
+      "Medicare Payment Amount": 14388
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 147612,
+      "Total Payment Amount": 54034,
+      "Medicare Payment Amount": 49884
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 50049,
+      "Total Payment Amount": 21250,
+      "Medicare Payment Amount": 17246
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 44899,
+      "Total Payment Amount": 14352,
+      "Medicare Payment Amount": 12342
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 110340,
+      "Total Payment Amount": 41923,
+      "Medicare Payment Amount": 37084
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 62369,
+      "Total Payment Amount": 23247,
+      "Medicare Payment Amount": 17714
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45849,
+      "Total Payment Amount": 17129,
+      "Medicare Payment Amount": 11935
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PERITONEAL ADHESIOLYSIS WITH CC",
+      "Submitted Covered Payment": 50776,
+      "Total Payment Amount": 18561,
+      "Medicare Payment Amount": 16271
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 119632,
+      "Total Payment Amount": 48489,
+      "Medicare Payment Amount": 31981
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 73585,
+      "Total Payment Amount": 19911,
+      "Medicare Payment Amount": 17460
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR ESOPHAGEAL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 45295,
+      "Total Payment Amount": 15609,
+      "Medicare Payment Amount": 12471
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR ESOPHAGEAL DISORDERS WITH CC",
+      "Submitted Covered Payment": 27029,
+      "Total Payment Amount": 9364,
+      "Medicare Payment Amount": 7544
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 63360,
+      "Total Payment Amount": 20634,
+      "Medicare Payment Amount": 16964
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 34065,
+      "Total Payment Amount": 9568,
+      "Medicare Payment Amount": 7696
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DIGESTIVE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 64196,
+      "Total Payment Amount": 19369,
+      "Medicare Payment Amount": 16777
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 52282,
+      "Total Payment Amount": 12780,
+      "Medicare Payment Amount": 10399
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 51998,
+      "Total Payment Amount": 17802,
+      "Medicare Payment Amount": 14402
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 29584,
+      "Total Payment Amount": 9426,
+      "Medicare Payment Amount": 7141
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21548,
+      "Total Payment Amount": 7876,
+      "Medicare Payment Amount": 4088
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "COMPLICATED PEPTIC ULCER WITH MCC",
+      "Submitted Covered Payment": 68666,
+      "Total Payment Amount": 19786,
+      "Medicare Payment Amount": 17367
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 45700,
+      "Total Payment Amount": 14713,
+      "Medicare Payment Amount": 10686
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 24440,
+      "Total Payment Amount": 8354,
+      "Medicare Payment Amount": 5726
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15530,
+      "Total Payment Amount": 5722,
+      "Medicare Payment Amount": 3624
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 43394,
+      "Total Payment Amount": 13679,
+      "Medicare Payment Amount": 9700
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25296,
+      "Total Payment Amount": 8096,
+      "Medicare Payment Amount": 5423
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 41548,
+      "Total Payment Amount": 14786,
+      "Medicare Payment Amount": 12566
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25825,
+      "Total Payment Amount": 9491,
+      "Medicare Payment Amount": 6902
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15869,
+      "Total Payment Amount": 7316,
+      "Medicare Payment Amount": 3806
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 38684,
+      "Total Payment Amount": 15096,
+      "Medicare Payment Amount": 12159
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33976,
+      "Total Payment Amount": 11557,
+      "Medicare Payment Amount": 9642
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 57140,
+      "Total Payment Amount": 17694,
+      "Medicare Payment Amount": 15256
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 45967,
+      "Total Payment Amount": 13653,
+      "Medicare Payment Amount": 7239
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC",
+      "Submitted Covered Payment": 71465,
+      "Total Payment Amount": 25290,
+      "Medicare Payment Amount": 13188
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH CC",
+      "Submitted Covered Payment": 35159,
+      "Total Payment Amount": 10803,
+      "Medicare Payment Amount": 8013
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 70112,
+      "Total Payment Amount": 20877,
+      "Medicare Payment Amount": 18265
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 23032,
+      "Total Payment Amount": 9621,
+      "Medicare Payment Amount": 5320
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 41505,
+      "Total Payment Amount": 15604,
+      "Medicare Payment Amount": 13270
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 38091,
+      "Total Payment Amount": 9671,
+      "Medicare Payment Amount": 7455
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 50805,
+      "Total Payment Amount": 18070,
+      "Medicare Payment Amount": 13778
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 36270,
+      "Total Payment Amount": 11268,
+      "Medicare Payment Amount": 7784
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21607,
+      "Total Payment Amount": 7472,
+      "Medicare Payment Amount": 5508
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 147005,
+      "Total Payment Amount": 56696,
+      "Medicare Payment Amount": 46560
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 134478,
+      "Total Payment Amount": 47454,
+      "Medicare Payment Amount": 35599
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITH SPINAL CURVATURE, MALIGNANCY, INFECTION OR EXTENSIVE",
+      "Submitted Covered Payment": 158799,
+      "Total Payment Amount": 55575,
+      "Medicare Payment Amount": 53162
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITH MCC",
+      "Submitted Covered Payment": 147383,
+      "Total Payment Amount": 59503,
+      "Medicare Payment Amount": 46971
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 103570,
+      "Total Payment Amount": 32705,
+      "Medicare Payment Amount": 28537
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "WOUND DEBRIDEMENT AND SKIN GRAFT EXCEPT HAND FOR MUSCULOSKELETAL AND CONNECTIVE TISSUE D",
+      "Submitted Covered Payment": 71662,
+      "Total Payment Amount": 24799,
+      "Medicare Payment Amount": 21711
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "WOUND DEBRIDEMENT AND SKIN GRAFT EXCEPT HAND FOR MUSCULOSKELETAL AND CONNECTIVE TISSUE D",
+      "Submitted Covered Payment": 54785,
+      "Total Payment Amount": 20280,
+      "Medicare Payment Amount": 13797
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 82757,
+      "Total Payment Amount": 30898,
+      "Medicare Payment Amount": 26268
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 60191,
+      "Total Payment Amount": 27263,
+      "Medicare Payment Amount": 19897
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 51436,
+      "Total Payment Amount": 17346,
+      "Medicare Payment Amount": 14424
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CERVICAL SPINAL FUSION WITH MCC",
+      "Submitted Covered Payment": 116447,
+      "Total Payment Amount": 51326,
+      "Medicare Payment Amount": 35391
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 67489,
+      "Total Payment Amount": 27378,
+      "Medicare Payment Amount": 23197
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CERVICAL SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 65516,
+      "Total Payment Amount": 22228,
+      "Medicare Payment Amount": 18842
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BIOPSIES OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH MCC",
+      "Submitted Covered Payment": 127843,
+      "Total Payment Amount": 33422,
+      "Medicare Payment Amount": 29361
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BIOPSIES OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITH CC",
+      "Submitted Covered Payment": 76092,
+      "Total Payment Amount": 22894,
+      "Medicare Payment Amount": 18279
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 98628,
+      "Total Payment Amount": 30229,
+      "Medicare Payment Amount": 26232
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 69140,
+      "Total Payment Amount": 19775,
+      "Medicare Payment Amount": 16085
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 50101,
+      "Total Payment Amount": 16446,
+      "Medicare Payment Amount": 11900
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 77428,
+      "Total Payment Amount": 21426,
+      "Medicare Payment Amount": 17723
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KNEE PROCEDURES WITHOUT PRINCIPAL DIAGNOSIS OF INFECTION WITH CC/MCC",
+      "Submitted Covered Payment": 63416,
+      "Total Payment Amount": 17849,
+      "Medicare Payment Amount": 15887
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH MCC",
+      "Submitted Covered Payment": 110564,
+      "Total Payment Amount": 30632,
+      "Medicare Payment Amount": 27974
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 78255,
+      "Total Payment Amount": 24153,
+      "Medicare Payment Amount": 16863
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITHOUT CC/MCC",
+      "Submitted Covered Payment": 64539,
+      "Total Payment Amount": 16919,
+      "Medicare Payment Amount": 14365
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LOCAL EXCISION AND REMOVAL OF INTERNAL FIXATION DEVICES EXCEPT HIP AND FEMUR WITH CC",
+      "Submitted Covered Payment": 45825,
+      "Total Payment Amount": 18636,
+      "Medicare Payment Amount": 14450
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 101624,
+      "Total Payment Amount": 32276,
+      "Medicare Payment Amount": 25818
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 66133,
+      "Total Payment Amount": 23343,
+      "Medicare Payment Amount": 16371
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 35326,
+      "Total Payment Amount": 14815,
+      "Medicare Payment Amount": 10376
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH MCC OR DISC DEVICE OR NEUROSTIMULATOR",
+      "Submitted Covered Payment": 81673,
+      "Total Payment Amount": 31047,
+      "Medicare Payment Amount": 29047
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 45178,
+      "Total Payment Amount": 21854,
+      "Medicare Payment Amount": 13088
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 30968,
+      "Total Payment Amount": 15259,
+      "Medicare Payment Amount": 10043
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 80666,
+      "Total Payment Amount": 27295,
+      "Medicare Payment Amount": 23683
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 60406,
+      "Total Payment Amount": 18899,
+      "Medicare Payment Amount": 16251
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "FRACTURES OF HIP AND PELVIS WITH MCC",
+      "Submitted Covered Payment": 38682,
+      "Total Payment Amount": 13299,
+      "Medicare Payment Amount": 10871
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 22863,
+      "Total Payment Amount": 7539,
+      "Medicare Payment Amount": 5354
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OSTEOMYELITIS WITH MCC",
+      "Submitted Covered Payment": 83468,
+      "Total Payment Amount": 26372,
+      "Medicare Payment Amount": 15584
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OSTEOMYELITIS WITH CC",
+      "Submitted Covered Payment": 37453,
+      "Total Payment Amount": 12451,
+      "Medicare Payment Amount": 10557
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 61307,
+      "Total Payment Amount": 17808,
+      "Medicare Payment Amount": 14390
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 34618,
+      "Total Payment Amount": 10103,
+      "Medicare Payment Amount": 8122
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITHOUT CC/M",
+      "Submitted Covered Payment": 21981,
+      "Total Payment Amount": 7474,
+      "Medicare Payment Amount": 5236
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CONNECTIVE TISSUE DISORDERS WITH CC",
+      "Submitted Covered Payment": 41101,
+      "Total Payment Amount": 13182,
+      "Medicare Payment Amount": 7220
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 52500,
+      "Total Payment Amount": 15886,
+      "Medicare Payment Amount": 12891
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 25801,
+      "Total Payment Amount": 9538,
+      "Medicare Payment Amount": 6495
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BONE DISEASES AND ARTHROPATHIES WITHOUT MCC",
+      "Submitted Covered Payment": 31265,
+      "Total Payment Amount": 10156,
+      "Medicare Payment Amount": 5676
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SIGNS AND SYMPTOMS OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITHOUT MCC",
+      "Submitted Covered Payment": 27506,
+      "Total Payment Amount": 8201,
+      "Medicare Payment Amount": 6369
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TENDONITIS, MYOSITIS AND BURSITIS WITH MCC",
+      "Submitted Covered Payment": 41713,
+      "Total Payment Amount": 13740,
+      "Medicare Payment Amount": 11225
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TENDONITIS, MYOSITIS AND BURSITIS WITHOUT MCC",
+      "Submitted Covered Payment": 24328,
+      "Total Payment Amount": 8100,
+      "Medicare Payment Amount": 6058
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITH MCC",
+      "Submitted Covered Payment": 46019,
+      "Total Payment Amount": 15026,
+      "Medicare Payment Amount": 11647
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 23610,
+      "Total Payment Amount": 8120,
+      "Medicare Payment Amount": 6145
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 29918,
+      "Total Payment Amount": 9341,
+      "Medicare Payment Amount": 7288
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SKIN DEBRIDEMENT WITH CC",
+      "Submitted Covered Payment": 56396,
+      "Total Payment Amount": 14751,
+      "Medicare Payment Amount": 11992
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER SKIN, SUBCUTANEOUS TISSUE AND BREAST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 42710,
+      "Total Payment Amount": 15552,
+      "Medicare Payment Amount": 13299
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SKIN ULCERS WITH CC",
+      "Submitted Covered Payment": 32580,
+      "Total Payment Amount": 11206,
+      "Medicare Payment Amount": 7536
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 50089,
+      "Total Payment Amount": 15413,
+      "Medicare Payment Amount": 11721
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 24590,
+      "Total Payment Amount": 9094,
+      "Medicare Payment Amount": 5988
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC",
+      "Submitted Covered Payment": 32993,
+      "Total Payment Amount": 9779,
+      "Medicare Payment Amount": 6567
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MINOR SKIN DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 24460,
+      "Total Payment Amount": 9464,
+      "Medicare Payment Amount": 5745
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ADRENAL AND PITUITARY PROCEDURES WITH CC/MCC",
+      "Submitted Covered Payment": 71046,
+      "Total Payment Amount": 21965,
+      "Medicare Payment Amount": 16687
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 57302,
+      "Total Payment Amount": 18184,
+      "Medicare Payment Amount": 15013
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 52232,
+      "Total Payment Amount": 16614,
+      "Medicare Payment Amount": 12993
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 28638,
+      "Total Payment Amount": 9817,
+      "Medicare Payment Amount": 6709
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 43845,
+      "Total Payment Amount": 12929,
+      "Medicare Payment Amount": 10323
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 25570,
+      "Total Payment Amount": 7790,
+      "Medicare Payment Amount": 5384
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 51934,
+      "Total Payment Amount": 15361,
+      "Medicare Payment Amount": 12695
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 34346,
+      "Total Payment Amount": 10195,
+      "Medicare Payment Amount": 7457
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ENDOCRINE DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22441,
+      "Total Payment Amount": 7091,
+      "Medicare Payment Amount": 4987
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY TRANSPLANT WITH HEMODIALYSIS WITH MCC",
+      "Submitted Covered Payment": 347642,
+      "Total Payment Amount": 69742,
+      "Medicare Payment Amount": 44683
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY TRANSPLANT",
+      "Submitted Covered Payment": 304842,
+      "Total Payment Amount": 34741,
+      "Medicare Payment Amount": 32405
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITH CC",
+      "Submitted Covered Payment": 43883,
+      "Total Payment Amount": 20564,
+      "Medicare Payment Amount": 12625
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 41873,
+      "Total Payment Amount": 17668,
+      "Medicare Payment Amount": 10239
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 47622,
+      "Total Payment Amount": 21361,
+      "Medicare Payment Amount": 17832
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 34698,
+      "Total Payment Amount": 13184,
+      "Medicare Payment Amount": 10223
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 28319,
+      "Total Payment Amount": 9994,
+      "Medicare Payment Amount": 7599
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "TRANSURETHRAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 42854,
+      "Total Payment Amount": 17355,
+      "Medicare Payment Amount": 11139
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 96960,
+      "Total Payment Amount": 34277,
+      "Medicare Payment Amount": 28794
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 141226,
+      "Total Payment Amount": 38080,
+      "Medicare Payment Amount": 34884
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 42853,
+      "Total Payment Amount": 14470,
+      "Medicare Payment Amount": 11385
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 27619,
+      "Total Payment Amount": 9585,
+      "Medicare Payment Amount": 6278
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RENAL FAILURE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 16306,
+      "Total Payment Amount": 5800,
+      "Medicare Payment Amount": 4164
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 39225,
+      "Total Payment Amount": 13127,
+      "Medicare Payment Amount": 9843
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24290,
+      "Total Payment Amount": 8062,
+      "Medicare Payment Amount": 5591
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "URINARY STONES WITHOUT MCC",
+      "Submitted Covered Payment": 27573,
+      "Total Payment Amount": 8142,
+      "Medicare Payment Amount": 5654
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "KIDNEY AND URINARY TRACT SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 26351,
+      "Total Payment Amount": 6877,
+      "Medicare Payment Amount": 5052
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 52174,
+      "Total Payment Amount": 16762,
+      "Medicare Payment Amount": 14209
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30152,
+      "Total Payment Amount": 9964,
+      "Medicare Payment Amount": 7441
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "BENIGN PROSTATIC HYPERTROPHY WITHOUT MCC",
+      "Submitted Covered Payment": 30392,
+      "Total Payment Amount": 8017,
+      "Medicare Payment Amount": 5544
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 71073,
+      "Total Payment Amount": 31089,
+      "Medicare Payment Amount": 16057
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 123963,
+      "Total Payment Amount": 35870,
+      "Medicare Payment Amount": 33986
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 44800,
+      "Total Payment Amount": 14366,
+      "Medicare Payment Amount": 11350
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25892,
+      "Total Payment Amount": 8888,
+      "Medicare Payment Amount": 6685
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 149394,
+      "Total Payment Amount": 35286,
+      "Medicare Payment Amount": 33392
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "RETICULOENDOTHELIAL AND IMMUNITY DISORDERS WITH CC",
+      "Submitted Covered Payment": 34797,
+      "Total Payment Amount": 9554,
+      "Medicare Payment Amount": 7703
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LYMPHOMA AND NON-ACUTE LEUKEMIA WITH MCC",
+      "Submitted Covered Payment": 92830,
+      "Total Payment Amount": 34043,
+      "Medicare Payment Amount": 23668
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LYMPHOMA AND NON-ACUTE LEUKEMIA WITH CC",
+      "Submitted Covered Payment": 91816,
+      "Total Payment Amount": 27233,
+      "Medicare Payment Amount": 22945
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 48635,
+      "Total Payment Amount": 11008,
+      "Medicare Payment Amount": 9804
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 150789,
+      "Total Payment Amount": 51330,
+      "Medicare Payment Amount": 44326
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 68171,
+      "Total Payment Amount": 20020,
+      "Medicare Payment Amount": 17320
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 156383,
+      "Total Payment Amount": 45059,
+      "Medicare Payment Amount": 41171
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 71025,
+      "Total Payment Amount": 23026,
+      "Medicare Payment Amount": 19380
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 48231,
+      "Total Payment Amount": 17511,
+      "Medicare Payment Amount": 14288
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 45678,
+      "Total Payment Amount": 10199,
+      "Medicare Payment Amount": 8327
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "FEVER AND INFLAMMATORY CONDITIONS",
+      "Submitted Covered Payment": 27366,
+      "Total Payment Amount": 9469,
+      "Medicare Payment Amount": 5818
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "VIRAL ILLNESS WITHOUT MCC",
+      "Submitted Covered Payment": 40456,
+      "Total Payment Amount": 10625,
+      "Medicare Payment Amount": 8376
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 199152,
+      "Total Payment Amount": 72719,
+      "Medicare Payment Amount": 56414
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 62747,
+      "Total Payment Amount": 19899,
+      "Medicare Payment Amount": 16317
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 31594,
+      "Total Payment Amount": 10047,
+      "Medicare Payment Amount": 7375
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ACUTE ADJUSTMENT REACTION AND PSYCHOSOCIAL DYSFUNCTION",
+      "Submitted Covered Payment": 31698,
+      "Total Payment Amount": 9443,
+      "Medicare Payment Amount": 7684
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 41316,
+      "Total Payment Amount": 14726,
+      "Medicare Payment Amount": 11704
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 57858,
+      "Total Payment Amount": 18307,
+      "Medicare Payment Amount": 12444
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 57446,
+      "Total Payment Amount": 17452,
+      "Medicare Payment Amount": 14605
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 31711,
+      "Total Payment Amount": 10773,
+      "Medicare Payment Amount": 5513
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH MCC",
+      "Submitted Covered Payment": 97032,
+      "Total Payment Amount": 38237,
+      "Medicare Payment Amount": 32256
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH CC",
+      "Submitted Covered Payment": 52253,
+      "Total Payment Amount": 17673,
+      "Medicare Payment Amount": 16031
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 44280,
+      "Total Payment Amount": 14761,
+      "Medicare Payment Amount": 12488
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITHOUT MCC",
+      "Submitted Covered Payment": 23951,
+      "Total Payment Amount": 8604,
+      "Medicare Payment Amount": 5851
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 47752,
+      "Total Payment Amount": 18783,
+      "Medicare Payment Amount": 14405
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "COMPLICATIONS OF TREATMENT WITH CC",
+      "Submitted Covered Payment": 33771,
+      "Total Payment Amount": 10735,
+      "Medicare Payment Amount": 8287
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SIGNS AND SYMPTOMS WITH MCC",
+      "Submitted Covered Payment": 40329,
+      "Total Payment Amount": 11266,
+      "Medicare Payment Amount": 9467
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 27503,
+      "Total Payment Amount": 7658,
+      "Medicare Payment Amount": 5801
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 13119,
+      "Total Payment Amount": 5239,
+      "Medicare Payment Amount": 4769
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "LIMB REATTACHMENT, HIP AND FEMUR PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA",
+      "Submitted Covered Payment": 92192,
+      "Total Payment Amount": 37143,
+      "Medicare Payment Amount": 34556
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA WITH CC",
+      "Submitted Covered Payment": 121097,
+      "Total Payment Amount": 50334,
+      "Medicare Payment Amount": 28568
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "OTHER MULTIPLE SIGNIFICANT TRAUMA WITH CC",
+      "Submitted Covered Payment": 30542,
+      "Total Payment Amount": 13229,
+      "Medicare Payment Amount": 11195
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "HIV WITH MAJOR RELATED CONDITION WITH MCC",
+      "Submitted Covered Payment": 130271,
+      "Total Payment Amount": 37548,
+      "Medicare Payment Amount": 33843
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 173897,
+      "Total Payment Amount": 55656,
+      "Medicare Payment Amount": 46018
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 84701,
+      "Total Payment Amount": 21331,
+      "Medicare Payment Amount": 18041
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NON-EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 125781,
+      "Total Payment Amount": 39812,
+      "Medicare Payment Amount": 29076
+    },
+    {
+      "Hospital_Name": "Christianacare",
+      "Address": "4755 Ogletown-Stanton Road, Newark, DE 19718",
+      "Service": "NON-EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 50012,
+      "Total Payment Amount": 15519,
+      "Medicare Payment Amount": 13100
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 40288,
+      "Total Payment Amount": 15075,
+      "Medicare Payment Amount": 13472
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 43733,
+      "Total Payment Amount": 10541,
+      "Medicare Payment Amount": 8647
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 66165,
+      "Total Payment Amount": 19057,
+      "Medicare Payment Amount": 16919
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 33769,
+      "Total Payment Amount": 12552,
+      "Medicare Payment Amount": 9277
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 32938,
+      "Total Payment Amount": 10923,
+      "Medicare Payment Amount": 9040
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 24919,
+      "Total Payment Amount": 7610,
+      "Medicare Payment Amount": 5897
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 47166,
+      "Total Payment Amount": 12102,
+      "Medicare Payment Amount": 9703
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 37224,
+      "Total Payment Amount": 12329,
+      "Medicare Payment Amount": 10619
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 32228,
+      "Total Payment Amount": 8714,
+      "Medicare Payment Amount": 6932
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 37903,
+      "Total Payment Amount": 10461,
+      "Medicare Payment Amount": 8354
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 39086,
+      "Total Payment Amount": 13893,
+      "Medicare Payment Amount": 12386
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 47313,
+      "Total Payment Amount": 18042,
+      "Medicare Payment Amount": 14094
+    },
+    {
+      "Hospital_Name": "St Francis Hospital",
+      "Address": "7th And Clayton Sts, Wilmington, DE 19805",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 27723,
+      "Total Payment Amount": 10508,
+      "Medicare Payment Amount": 7108
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45044,
+      "Total Payment Amount": 15065,
+      "Medicare Payment Amount": 13912
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 67093,
+      "Total Payment Amount": 12242,
+      "Medicare Payment Amount": 10603
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 71730,
+      "Total Payment Amount": 21588,
+      "Medicare Payment Amount": 12855
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 51810,
+      "Total Payment Amount": 15428,
+      "Medicare Payment Amount": 13909
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 49724,
+      "Total Payment Amount": 16269,
+      "Medicare Payment Amount": 13628
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 35170,
+      "Total Payment Amount": 8353,
+      "Medicare Payment Amount": 6739
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 30087,
+      "Total Payment Amount": 5992,
+      "Medicare Payment Amount": 4457
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 29195,
+      "Total Payment Amount": 6909,
+      "Medicare Payment Amount": 5305
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 62067,
+      "Total Payment Amount": 13581,
+      "Medicare Payment Amount": 11313
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 38542,
+      "Total Payment Amount": 9909,
+      "Medicare Payment Amount": 8574
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 79549,
+      "Total Payment Amount": 18412,
+      "Medicare Payment Amount": 16668
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 147615,
+      "Total Payment Amount": 40494,
+      "Medicare Payment Amount": 38702
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 47831,
+      "Total Payment Amount": 14432,
+      "Medicare Payment Amount": 8813
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 29076,
+      "Total Payment Amount": 6894,
+      "Medicare Payment Amount": 5756
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 45467,
+      "Total Payment Amount": 15313,
+      "Medicare Payment Amount": 13577
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 30806,
+      "Total Payment Amount": 8789,
+      "Medicare Payment Amount": 7438
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 38993,
+      "Total Payment Amount": 10954,
+      "Medicare Payment Amount": 9265
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 34586,
+      "Total Payment Amount": 9588,
+      "Medicare Payment Amount": 7601
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 30579,
+      "Total Payment Amount": 7136,
+      "Medicare Payment Amount": 5626
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 37676,
+      "Total Payment Amount": 11253,
+      "Medicare Payment Amount": 9165
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 33107,
+      "Total Payment Amount": 7400,
+      "Medicare Payment Amount": 5705
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 63948,
+      "Total Payment Amount": 21340,
+      "Medicare Payment Amount": 20137
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 110633,
+      "Total Payment Amount": 27359,
+      "Medicare Payment Amount": 25626
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 82944,
+      "Total Payment Amount": 18713,
+      "Medicare Payment Amount": 17224
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 76387,
+      "Total Payment Amount": 16176,
+      "Medicare Payment Amount": 12580
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 88752,
+      "Total Payment Amount": 24309,
+      "Medicare Payment Amount": 22854
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 61816,
+      "Total Payment Amount": 18659,
+      "Medicare Payment Amount": 12472
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 88427,
+      "Total Payment Amount": 25870,
+      "Medicare Payment Amount": 18449
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 150356,
+      "Total Payment Amount": 56715,
+      "Medicare Payment Amount": 48858
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 123893,
+      "Total Payment Amount": 45737,
+      "Medicare Payment Amount": 36349
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 64102,
+      "Total Payment Amount": 26425,
+      "Medicare Payment Amount": 24949
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 53299,
+      "Total Payment Amount": 12828,
+      "Medicare Payment Amount": 11568
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 32723,
+      "Total Payment Amount": 8416,
+      "Medicare Payment Amount": 6168
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 55958,
+      "Total Payment Amount": 17459,
+      "Medicare Payment Amount": 15914
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 37461,
+      "Total Payment Amount": 10904,
+      "Medicare Payment Amount": 9178
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 27944,
+      "Total Payment Amount": 8697,
+      "Medicare Payment Amount": 7413
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HYPERTENSION WITH MCC",
+      "Submitted Covered Payment": 32614,
+      "Total Payment Amount": 9404,
+      "Medicare Payment Amount": 8281
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 25854,
+      "Total Payment Amount": 6404,
+      "Medicare Payment Amount": 4921
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 36968,
+      "Total Payment Amount": 9986,
+      "Medicare Payment Amount": 8792
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 23136,
+      "Total Payment Amount": 6398,
+      "Medicare Payment Amount": 5117
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 16422,
+      "Total Payment Amount": 4957,
+      "Medicare Payment Amount": 3381
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 33570,
+      "Total Payment Amount": 7306,
+      "Medicare Payment Amount": 6083
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 73974,
+      "Total Payment Amount": 16668,
+      "Medicare Payment Amount": 14725
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 73901,
+      "Total Payment Amount": 15287,
+      "Medicare Payment Amount": 13661
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 123424,
+      "Total Payment Amount": 38671,
+      "Medicare Payment Amount": 33204
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 102049,
+      "Total Payment Amount": 19797,
+      "Medicare Payment Amount": 17979
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 69432,
+      "Total Payment Amount": 16406,
+      "Medicare Payment Amount": 11298
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 57909,
+      "Total Payment Amount": 15448,
+      "Medicare Payment Amount": 12374
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 38435,
+      "Total Payment Amount": 9472,
+      "Medicare Payment Amount": 6649
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 70794,
+      "Total Payment Amount": 17583,
+      "Medicare Payment Amount": 15653
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 25977,
+      "Total Payment Amount": 7768,
+      "Medicare Payment Amount": 4903
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19936,
+      "Total Payment Amount": 5031,
+      "Medicare Payment Amount": 3530
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 35780,
+      "Total Payment Amount": 10717,
+      "Medicare Payment Amount": 9210
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 29183,
+      "Total Payment Amount": 6797,
+      "Medicare Payment Amount": 5176
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 72424,
+      "Total Payment Amount": 13559,
+      "Medicare Payment Amount": 11888
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 57444,
+      "Total Payment Amount": 9326,
+      "Medicare Payment Amount": 7767
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 94548,
+      "Total Payment Amount": 26201,
+      "Medicare Payment Amount": 24931
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 95008,
+      "Total Payment Amount": 24295,
+      "Medicare Payment Amount": 22872
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 62331,
+      "Total Payment Amount": 16625,
+      "Medicare Payment Amount": 15166
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 74903,
+      "Total Payment Amount": 22714,
+      "Medicare Payment Amount": 20830
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 73619,
+      "Total Payment Amount": 17667,
+      "Medicare Payment Amount": 16079
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 50284,
+      "Total Payment Amount": 13831,
+      "Medicare Payment Amount": 12244
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 36507,
+      "Total Payment Amount": 11820,
+      "Medicare Payment Amount": 10665
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 25615,
+      "Total Payment Amount": 7698,
+      "Medicare Payment Amount": 5548
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC",
+      "Submitted Covered Payment": 37589,
+      "Total Payment Amount": 7825,
+      "Medicare Payment Amount": 6213
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 32879,
+      "Total Payment Amount": 11724,
+      "Medicare Payment Amount": 9892
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 31378,
+      "Total Payment Amount": 9508,
+      "Medicare Payment Amount": 5055
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 37323,
+      "Total Payment Amount": 11119,
+      "Medicare Payment Amount": 9098
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21966,
+      "Total Payment Amount": 6647,
+      "Medicare Payment Amount": 5352
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 62716,
+      "Total Payment Amount": 15360,
+      "Medicare Payment Amount": 12258
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 26239,
+      "Total Payment Amount": 7430,
+      "Medicare Payment Amount": 6193
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 41463,
+      "Total Payment Amount": 11229,
+      "Medicare Payment Amount": 7644
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 23836,
+      "Total Payment Amount": 6766,
+      "Medicare Payment Amount": 5094
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 46531,
+      "Total Payment Amount": 16034,
+      "Medicare Payment Amount": 11789
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30308,
+      "Total Payment Amount": 8140,
+      "Medicare Payment Amount": 6939
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 40506,
+      "Total Payment Amount": 12687,
+      "Medicare Payment Amount": 10050
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 27821,
+      "Total Payment Amount": 11033,
+      "Medicare Payment Amount": 4898
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 40392,
+      "Total Payment Amount": 12954,
+      "Medicare Payment Amount": 11458
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 133628,
+      "Total Payment Amount": 38356,
+      "Medicare Payment Amount": 35718
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 62846,
+      "Total Payment Amount": 16793,
+      "Medicare Payment Amount": 14931
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 203820,
+      "Total Payment Amount": 61095,
+      "Medicare Payment Amount": 51380
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 57221,
+      "Total Payment Amount": 16583,
+      "Medicare Payment Amount": 14356
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 32402,
+      "Total Payment Amount": 9523,
+      "Medicare Payment Amount": 6982
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 21804,
+      "Total Payment Amount": 7223,
+      "Medicare Payment Amount": 6434
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 45683,
+      "Total Payment Amount": 12706,
+      "Medicare Payment Amount": 11390
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 32193,
+      "Total Payment Amount": 6594,
+      "Medicare Payment Amount": 4776
+    },
+    {
+      "Hospital_Name": "Bayhealth Medical Center, Kent Campus",
+      "Address": "640 S State Street, Dover, DE 19901",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 199158,
+      "Total Payment Amount": 47185,
+      "Medicare Payment Amount": 43887
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 22412,
+      "Total Payment Amount": 18580,
+      "Medicare Payment Amount": 17554
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 15868,
+      "Total Payment Amount": 9693,
+      "Medicare Payment Amount": 8339
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 29531,
+      "Total Payment Amount": 23322,
+      "Medicare Payment Amount": 21039
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 31138,
+      "Total Payment Amount": 18606,
+      "Medicare Payment Amount": 15374
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 21063,
+      "Total Payment Amount": 13316,
+      "Medicare Payment Amount": 12116
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 23376,
+      "Total Payment Amount": 17490,
+      "Medicare Payment Amount": 16337
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 21735,
+      "Total Payment Amount": 12022,
+      "Medicare Payment Amount": 10979
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 14077,
+      "Total Payment Amount": 10443,
+      "Medicare Payment Amount": 9191
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 16523,
+      "Total Payment Amount": 12557,
+      "Medicare Payment Amount": 11244
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 12996,
+      "Total Payment Amount": 8071,
+      "Medicare Payment Amount": 6814
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 19910,
+      "Total Payment Amount": 15612,
+      "Medicare Payment Amount": 13927
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 14442,
+      "Total Payment Amount": 9128,
+      "Medicare Payment Amount": 6817
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 29434,
+      "Total Payment Amount": 20610,
+      "Medicare Payment Amount": 19467
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 18812,
+      "Total Payment Amount": 12393,
+      "Medicare Payment Amount": 11213
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 14045,
+      "Total Payment Amount": 11544,
+      "Medicare Payment Amount": 10344
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 10121,
+      "Total Payment Amount": 7148,
+      "Medicare Payment Amount": 6040
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 16974,
+      "Total Payment Amount": 8347,
+      "Medicare Payment Amount": 6801
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 71690,
+      "Total Payment Amount": 47017,
+      "Medicare Payment Amount": 33898
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 21929,
+      "Total Payment Amount": 17370,
+      "Medicare Payment Amount": 15430
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 15117,
+      "Total Payment Amount": 9497,
+      "Medicare Payment Amount": 8192
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 15591,
+      "Total Payment Amount": 7802,
+      "Medicare Payment Amount": 6492
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 33474,
+      "Total Payment Amount": 15945,
+      "Medicare Payment Amount": 14345
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 26552,
+      "Total Payment Amount": 19914,
+      "Medicare Payment Amount": 18514
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 36257,
+      "Total Payment Amount": 20285,
+      "Medicare Payment Amount": 18685
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 14679,
+      "Total Payment Amount": 8508,
+      "Medicare Payment Amount": 7278
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 15077,
+      "Total Payment Amount": 12971,
+      "Medicare Payment Amount": 10921
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 12473,
+      "Total Payment Amount": 7734,
+      "Medicare Payment Amount": 5690
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 19517,
+      "Total Payment Amount": 13962,
+      "Medicare Payment Amount": 12134
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 14887,
+      "Total Payment Amount": 8885,
+      "Medicare Payment Amount": 6600
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 19677,
+      "Total Payment Amount": 15487,
+      "Medicare Payment Amount": 14787
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 49400,
+      "Total Payment Amount": 46227,
+      "Medicare Payment Amount": 41689
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 27653,
+      "Total Payment Amount": 18800,
+      "Medicare Payment Amount": 17512
+    },
+    {
+      "Hospital_Name": "Tidalhealth Nanticoke, Inc.",
+      "Address": "801 Middleford Rd, Seaford, DE 19973",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 17547,
+      "Total Payment Amount": 10112,
+      "Medicare Payment Amount": 8357
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 61374,
+      "Total Payment Amount": 15125,
+      "Medicare Payment Amount": 11913
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 46647,
+      "Total Payment Amount": 8595,
+      "Medicare Payment Amount": 7384
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 60541,
+      "Total Payment Amount": 15182,
+      "Medicare Payment Amount": 12903
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 37405,
+      "Total Payment Amount": 7659,
+      "Medicare Payment Amount": 5631
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 34990,
+      "Total Payment Amount": 6117,
+      "Medicare Payment Amount": 3566
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 35369,
+      "Total Payment Amount": 6056,
+      "Medicare Payment Amount": 4578
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 40936,
+      "Total Payment Amount": 12185,
+      "Medicare Payment Amount": 10915
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 31377,
+      "Total Payment Amount": 8022,
+      "Medicare Payment Amount": 6424
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 180249,
+      "Total Payment Amount": 44009,
+      "Medicare Payment Amount": 35134
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 113970,
+      "Total Payment Amount": 21560,
+      "Medicare Payment Amount": 16181
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 49114,
+      "Total Payment Amount": 9971,
+      "Medicare Payment Amount": 8424
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 31829,
+      "Total Payment Amount": 6781,
+      "Medicare Payment Amount": 4713
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 49685,
+      "Total Payment Amount": 14440,
+      "Medicare Payment Amount": 12613
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 35295,
+      "Total Payment Amount": 8538,
+      "Medicare Payment Amount": 6893
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22202,
+      "Total Payment Amount": 6209,
+      "Medicare Payment Amount": 4506
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 44625,
+      "Total Payment Amount": 9825,
+      "Medicare Payment Amount": 7982
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 37220,
+      "Total Payment Amount": 8743,
+      "Medicare Payment Amount": 6466
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 32181,
+      "Total Payment Amount": 6503,
+      "Medicare Payment Amount": 4986
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 44030,
+      "Total Payment Amount": 10323,
+      "Medicare Payment Amount": 8192
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 27252,
+      "Total Payment Amount": 6897,
+      "Medicare Payment Amount": 4781
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20164,
+      "Total Payment Amount": 4903,
+      "Medicare Payment Amount": 3180
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "INTERSTITIAL LUNG DISEASE WITH MCC",
+      "Submitted Covered Payment": 71882,
+      "Total Payment Amount": 17866,
+      "Medicare Payment Amount": 9078
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 40213,
+      "Total Payment Amount": 7546,
+      "Medicare Payment Amount": 5919
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER RESPIRATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 66802,
+      "Total Payment Amount": 13291,
+      "Medicare Payment Amount": 11297
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT >96 HOURS",
+      "Submitted Covered Payment": 204934,
+      "Total Payment Amount": 57100,
+      "Medicare Payment Amount": 54715
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 96647,
+      "Total Payment Amount": 21737,
+      "Medicare Payment Amount": 18618
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 117375,
+      "Total Payment Amount": 31875,
+      "Medicare Payment Amount": 23714
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 106449,
+      "Total Payment Amount": 25134,
+      "Medicare Payment Amount": 23487
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 77804,
+      "Total Payment Amount": 17060,
+      "Medicare Payment Amount": 15473
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 113428,
+      "Total Payment Amount": 22852,
+      "Medicare Payment Amount": 21072
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 84847,
+      "Total Payment Amount": 16554,
+      "Medicare Payment Amount": 11608
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 119684,
+      "Total Payment Amount": 25565,
+      "Medicare Payment Amount": 15063
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 132786,
+      "Total Payment Amount": 37459,
+      "Medicare Payment Amount": 36035
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 125895,
+      "Total Payment Amount": 31310,
+      "Medicare Payment Amount": 29697
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 82292,
+      "Total Payment Amount": 24434,
+      "Medicare Payment Amount": 22916
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 56330,
+      "Total Payment Amount": 12595,
+      "Medicare Payment Amount": 11038
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 48409,
+      "Total Payment Amount": 7692,
+      "Medicare Payment Amount": 5126
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 39117,
+      "Total Payment Amount": 7646,
+      "Medicare Payment Amount": 3224
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 65394,
+      "Total Payment Amount": 18188,
+      "Medicare Payment Amount": 14434
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 42848,
+      "Total Payment Amount": 8283,
+      "Medicare Payment Amount": 6645
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 35558,
+      "Total Payment Amount": 9782,
+      "Medicare Payment Amount": 8140
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 30748,
+      "Total Payment Amount": 6737,
+      "Medicare Payment Amount": 4980
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 35041,
+      "Total Payment Amount": 8048,
+      "Medicare Payment Amount": 6602
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 34258,
+      "Total Payment Amount": 5881,
+      "Medicare Payment Amount": 4000
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 42171,
+      "Total Payment Amount": 9242,
+      "Medicare Payment Amount": 7622
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 28945,
+      "Total Payment Amount": 5933,
+      "Medicare Payment Amount": 4139
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22704,
+      "Total Payment Amount": 4322,
+      "Medicare Payment Amount": 2788
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 27934,
+      "Total Payment Amount": 6610,
+      "Medicare Payment Amount": 5294
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 69923,
+      "Total Payment Amount": 16569,
+      "Medicare Payment Amount": 15006
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 37320,
+      "Total Payment Amount": 8045,
+      "Medicare Payment Amount": 5302
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 137457,
+      "Total Payment Amount": 35326,
+      "Medicare Payment Amount": 32666
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 87424,
+      "Total Payment Amount": 19102,
+      "Medicare Payment Amount": 15905
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 60157,
+      "Total Payment Amount": 13720,
+      "Medicare Payment Amount": 10573
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERITONEAL ADHESIOLYSIS WITH CC",
+      "Submitted Covered Payment": 73955,
+      "Total Payment Amount": 18278,
+      "Medicare Payment Amount": 13607
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "PERITONEAL ADHESIOLYSIS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45504,
+      "Total Payment Amount": 11744,
+      "Medicare Payment Amount": 9865
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HERNIA PROCEDURES EXCEPT INGUINAL AND FEMORAL WITHOUT CC/MCC",
+      "Submitted Covered Payment": 35051,
+      "Total Payment Amount": 11835,
+      "Medicare Payment Amount": 7835
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 50805,
+      "Total Payment Amount": 8251,
+      "Medicare Payment Amount": 6735
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 63419,
+      "Total Payment Amount": 14595,
+      "Medicare Payment Amount": 12364
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 36735,
+      "Total Payment Amount": 7948,
+      "Medicare Payment Amount": 5915
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 48998,
+      "Total Payment Amount": 13891,
+      "Medicare Payment Amount": 9034
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 29117,
+      "Total Payment Amount": 7066,
+      "Medicare Payment Amount": 4458
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26893,
+      "Total Payment Amount": 5175,
+      "Medicare Payment Amount": 2703
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 51337,
+      "Total Payment Amount": 10690,
+      "Medicare Payment Amount": 8808
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 31193,
+      "Total Payment Amount": 6483,
+      "Medicare Payment Amount": 4426
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 72030,
+      "Total Payment Amount": 12620,
+      "Medicare Payment Amount": 10641
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30478,
+      "Total Payment Amount": 8888,
+      "Medicare Payment Amount": 5387
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 79275,
+      "Total Payment Amount": 20240,
+      "Medicare Payment Amount": 14619
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 59701,
+      "Total Payment Amount": 12461,
+      "Medicare Payment Amount": 10768
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC",
+      "Submitted Covered Payment": 63304,
+      "Total Payment Amount": 13393,
+      "Medicare Payment Amount": 11617
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 88896,
+      "Total Payment Amount": 16657,
+      "Medicare Payment Amount": 14453
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 42830,
+      "Total Payment Amount": 6854,
+      "Medicare Payment Amount": 5232
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 28417,
+      "Total Payment Amount": 5236,
+      "Medicare Payment Amount": 2851
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 48371,
+      "Total Payment Amount": 7390,
+      "Medicare Payment Amount": 5814
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 49152,
+      "Total Payment Amount": 12826,
+      "Medicare Payment Amount": 11327
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 40823,
+      "Total Payment Amount": 9043,
+      "Medicare Payment Amount": 6232
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 90840,
+      "Total Payment Amount": 26881,
+      "Medicare Payment Amount": 21218
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 69871,
+      "Total Payment Amount": 20348,
+      "Medicare Payment Amount": 18727
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 97171,
+      "Total Payment Amount": 24729,
+      "Medicare Payment Amount": 22741
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 63965,
+      "Total Payment Amount": 15433,
+      "Medicare Payment Amount": 13414
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 52892,
+      "Total Payment Amount": 12216,
+      "Medicare Payment Amount": 10376
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 50053,
+      "Total Payment Amount": 15829,
+      "Medicare Payment Amount": 13996
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "TENDONITIS, MYOSITIS AND BURSITIS WITHOUT MCC",
+      "Submitted Covered Payment": 37140,
+      "Total Payment Amount": 6657,
+      "Medicare Payment Amount": 4833
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 46524,
+      "Total Payment Amount": 11204,
+      "Medicare Payment Amount": 9534
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 26032,
+      "Total Payment Amount": 7137,
+      "Medicare Payment Amount": 5098
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "O.R. PROCEDURES FOR OBESITY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 47713,
+      "Total Payment Amount": 11453,
+      "Medicare Payment Amount": 9756
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 60923,
+      "Total Payment Amount": 10683,
+      "Medicare Payment Amount": 8856
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 29518,
+      "Total Payment Amount": 6590,
+      "Medicare Payment Amount": 5092
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 41711,
+      "Total Payment Amount": 10265,
+      "Medicare Payment Amount": 8621
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 26212,
+      "Total Payment Amount": 5983,
+      "Medicare Payment Amount": 4370
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 82022,
+      "Total Payment Amount": 22159,
+      "Medicare Payment Amount": 20400
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 53687,
+      "Total Payment Amount": 10728,
+      "Medicare Payment Amount": 9010
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 34840,
+      "Total Payment Amount": 8130,
+      "Medicare Payment Amount": 6478
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 47768,
+      "Total Payment Amount": 11705,
+      "Medicare Payment Amount": 9523
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 32243,
+      "Total Payment Amount": 6867,
+      "Medicare Payment Amount": 5307
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RENAL FAILURE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22242,
+      "Total Payment Amount": 4788,
+      "Medicare Payment Amount": 3277
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 34231,
+      "Total Payment Amount": 8642,
+      "Medicare Payment Amount": 7126
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 25390,
+      "Total Payment Amount": 6214,
+      "Medicare Payment Amount": 4419
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 51987,
+      "Total Payment Amount": 12366,
+      "Medicare Payment Amount": 10880
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 35962,
+      "Total Payment Amount": 7850,
+      "Medicare Payment Amount": 6457
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 45121,
+      "Total Payment Amount": 10597,
+      "Medicare Payment Amount": 9384
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 27238,
+      "Total Payment Amount": 6819,
+      "Medicare Payment Amount": 5827
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 137965,
+      "Total Payment Amount": 36732,
+      "Medicare Payment Amount": 34363
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 67414,
+      "Total Payment Amount": 17448,
+      "Medicare Payment Amount": 12802
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 79301,
+      "Total Payment Amount": 14159,
+      "Medicare Payment Amount": 12622
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "FEVER AND INFLAMMATORY CONDITIONS",
+      "Submitted Covered Payment": 26707,
+      "Total Payment Amount": 6317,
+      "Medicare Payment Amount": 5251
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 203807,
+      "Total Payment Amount": 50791,
+      "Medicare Payment Amount": 48718
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 68493,
+      "Total Payment Amount": 15390,
+      "Medicare Payment Amount": 13267
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 37836,
+      "Total Payment Amount": 8108,
+      "Medicare Payment Amount": 6130
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 28450,
+      "Total Payment Amount": 6539,
+      "Medicare Payment Amount": 5074
+    },
+    {
+      "Hospital_Name": "Beebe Medical Center",
+      "Address": "424 Savannah Rd, Lewes, DE 19958",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 27935,
+      "Total Payment Amount": 5981,
+      "Medicare Payment Amount": 4605
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 47896,
+      "Total Payment Amount": 14833,
+      "Medicare Payment Amount": 13449
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 37668,
+      "Total Payment Amount": 8202,
+      "Medicare Payment Amount": 6827
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 30520,
+      "Total Payment Amount": 5998,
+      "Medicare Payment Amount": 4592
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 85510,
+      "Total Payment Amount": 21540,
+      "Medicare Payment Amount": 17389
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 48131,
+      "Total Payment Amount": 15793,
+      "Medicare Payment Amount": 14378
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 36544,
+      "Total Payment Amount": 8892,
+      "Medicare Payment Amount": 7643
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 38034,
+      "Total Payment Amount": 10022,
+      "Medicare Payment Amount": 8994
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 37926,
+      "Total Payment Amount": 10094,
+      "Medicare Payment Amount": 7268
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 31438,
+      "Total Payment Amount": 7333,
+      "Medicare Payment Amount": 6141
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 40567,
+      "Total Payment Amount": 11897,
+      "Medicare Payment Amount": 9273
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 27453,
+      "Total Payment Amount": 6900,
+      "Medicare Payment Amount": 5402
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 55739,
+      "Total Payment Amount": 21130,
+      "Medicare Payment Amount": 19905
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 37954,
+      "Total Payment Amount": 12104,
+      "Medicare Payment Amount": 11132
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 27907,
+      "Total Payment Amount": 7238,
+      "Medicare Payment Amount": 6126
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21642,
+      "Total Payment Amount": 6106,
+      "Medicare Payment Amount": 4831
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 39835,
+      "Total Payment Amount": 10571,
+      "Medicare Payment Amount": 8838
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 52019,
+      "Total Payment Amount": 9912,
+      "Medicare Payment Amount": 8549
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 24141,
+      "Total Payment Amount": 6761,
+      "Medicare Payment Amount": 4719
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17909,
+      "Total Payment Amount": 4895,
+      "Medicare Payment Amount": 3568
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 24403,
+      "Total Payment Amount": 8163,
+      "Medicare Payment Amount": 5745
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 46888,
+      "Total Payment Amount": 18639,
+      "Medicare Payment Amount": 13947
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 45188,
+      "Total Payment Amount": 14189,
+      "Medicare Payment Amount": 13042
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 36949,
+      "Total Payment Amount": 9554,
+      "Medicare Payment Amount": 6697
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 38945,
+      "Total Payment Amount": 11697,
+      "Medicare Payment Amount": 10364
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 20499,
+      "Total Payment Amount": 6841,
+      "Medicare Payment Amount": 5458
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 36022,
+      "Total Payment Amount": 10581,
+      "Medicare Payment Amount": 9292
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 30555,
+      "Total Payment Amount": 6740,
+      "Medicare Payment Amount": 5173
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 63992,
+      "Total Payment Amount": 16241,
+      "Medicare Payment Amount": 14990
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 64328,
+      "Total Payment Amount": 17086,
+      "Medicare Payment Amount": 15686
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 27785,
+      "Total Payment Amount": 8055,
+      "Medicare Payment Amount": 5363
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 27027,
+      "Total Payment Amount": 11414,
+      "Medicare Payment Amount": 10310
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 23277,
+      "Total Payment Amount": 7271,
+      "Medicare Payment Amount": 6189
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 37272,
+      "Total Payment Amount": 9935,
+      "Medicare Payment Amount": 8816
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 22853,
+      "Total Payment Amount": 6606,
+      "Medicare Payment Amount": 5116
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 43177,
+      "Total Payment Amount": 12852,
+      "Medicare Payment Amount": 10397
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 31917,
+      "Total Payment Amount": 7594,
+      "Medicare Payment Amount": 6197
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 25337,
+      "Total Payment Amount": 8857,
+      "Medicare Payment Amount": 7862
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 29442,
+      "Total Payment Amount": 6627,
+      "Medicare Payment Amount": 5390
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 37797,
+      "Total Payment Amount": 12794,
+      "Medicare Payment Amount": 11793
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 27620,
+      "Total Payment Amount": 10759,
+      "Medicare Payment Amount": 6273
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25141,
+      "Total Payment Amount": 7576,
+      "Medicare Payment Amount": 6471
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 54381,
+      "Total Payment Amount": 13004,
+      "Medicare Payment Amount": 11986
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 163192,
+      "Total Payment Amount": 56527,
+      "Medicare Payment Amount": 47149
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 54491,
+      "Total Payment Amount": 16983,
+      "Medicare Payment Amount": 14066
+    },
+    {
+      "Hospital_Name": "Bayhealth Hospital, Sussex Campus",
+      "Address": "100 Wellness Way, Milford, DE 19963",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 39772,
+      "Total Payment Amount": 9141,
+      "Medicare Payment Amount": 6897
+    }
+  ]
+}

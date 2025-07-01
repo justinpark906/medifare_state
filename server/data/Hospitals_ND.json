@@ -1,0 +1,4308 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 86660,
+      "Total Payment Amount": 39154,
+      "Medicare Payment Amount": 32410
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 38587,
+      "Total Payment Amount": 14522,
+      "Medicare Payment Amount": 13038
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 37451,
+      "Total Payment Amount": 8333,
+      "Medicare Payment Amount": 6741
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 21619,
+      "Total Payment Amount": 9799,
+      "Medicare Payment Amount": 8525
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 36898,
+      "Total Payment Amount": 13722,
+      "Medicare Payment Amount": 11898
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 26953,
+      "Total Payment Amount": 8155,
+      "Medicare Payment Amount": 6786
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 32023,
+      "Total Payment Amount": 9060,
+      "Medicare Payment Amount": 7747
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 31216,
+      "Total Payment Amount": 10090,
+      "Medicare Payment Amount": 8067
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 64675,
+      "Total Payment Amount": 19202,
+      "Medicare Payment Amount": 16924
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 82550,
+      "Total Payment Amount": 21206,
+      "Medicare Payment Amount": 19566
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 70974,
+      "Total Payment Amount": 13986,
+      "Medicare Payment Amount": 12515
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 45486,
+      "Total Payment Amount": 12811,
+      "Medicare Payment Amount": 11232
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 30375,
+      "Total Payment Amount": 6902,
+      "Medicare Payment Amount": 5542
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 33905,
+      "Total Payment Amount": 8133,
+      "Medicare Payment Amount": 6582
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29932,
+      "Total Payment Amount": 9565,
+      "Medicare Payment Amount": 8461
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27804,
+      "Total Payment Amount": 8941,
+      "Medicare Payment Amount": 7405
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 15431,
+      "Total Payment Amount": 5657,
+      "Medicare Payment Amount": 4266
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 14409,
+      "Total Payment Amount": 4372,
+      "Medicare Payment Amount": 3095
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 21778,
+      "Total Payment Amount": 6503,
+      "Medicare Payment Amount": 5249
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 59451,
+      "Total Payment Amount": 32458,
+      "Medicare Payment Amount": 30819
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 36290,
+      "Total Payment Amount": 12722,
+      "Medicare Payment Amount": 11416
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 22744,
+      "Total Payment Amount": 7310,
+      "Medicare Payment Amount": 5790
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 14913,
+      "Total Payment Amount": 6108,
+      "Medicare Payment Amount": 4560
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 22766,
+      "Total Payment Amount": 6890,
+      "Medicare Payment Amount": 4966
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 105833,
+      "Total Payment Amount": 42776,
+      "Medicare Payment Amount": 41085
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 93493,
+      "Total Payment Amount": 33534,
+      "Medicare Payment Amount": 31861
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 42969,
+      "Total Payment Amount": 13789,
+      "Medicare Payment Amount": 12082
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 66598,
+      "Total Payment Amount": 20184,
+      "Medicare Payment Amount": 18456
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 55631,
+      "Total Payment Amount": 15263,
+      "Medicare Payment Amount": 13572
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 55211,
+      "Total Payment Amount": 16954,
+      "Medicare Payment Amount": 15314
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 49781,
+      "Total Payment Amount": 15652,
+      "Medicare Payment Amount": 14282
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 26522,
+      "Total Payment Amount": 7305,
+      "Medicare Payment Amount": 5705
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 33142,
+      "Total Payment Amount": 6894,
+      "Medicare Payment Amount": 5027
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 32939,
+      "Total Payment Amount": 11345,
+      "Medicare Payment Amount": 8270
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 41915,
+      "Total Payment Amount": 11801,
+      "Medicare Payment Amount": 10542
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 26315,
+      "Total Payment Amount": 7597,
+      "Medicare Payment Amount": 5293
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 30543,
+      "Total Payment Amount": 8575,
+      "Medicare Payment Amount": 6850
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 17670,
+      "Total Payment Amount": 5992,
+      "Medicare Payment Amount": 4566
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 32485,
+      "Total Payment Amount": 11761,
+      "Medicare Payment Amount": 10430
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 18666,
+      "Total Payment Amount": 7347,
+      "Medicare Payment Amount": 6191
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 35257,
+      "Total Payment Amount": 11161,
+      "Medicare Payment Amount": 10031
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 97587,
+      "Total Payment Amount": 39754,
+      "Medicare Payment Amount": 34262
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 44869,
+      "Total Payment Amount": 14773,
+      "Medicare Payment Amount": 13020
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 22485,
+      "Total Payment Amount": 7724,
+      "Medicare Payment Amount": 6212
+    },
+    {
+      "Hospital_Name": "Chi St Alexius Health",
+      "Address": "900 E Broadway, Bismarck, ND 58501",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 13918,
+      "Total Payment Amount": 4469,
+      "Medicare Payment Amount": 3341
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 43657,
+      "Total Payment Amount": 15209,
+      "Medicare Payment Amount": 12926
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 32143,
+      "Total Payment Amount": 7703,
+      "Medicare Payment Amount": 6420
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20454,
+      "Total Payment Amount": 5456,
+      "Medicare Payment Amount": 4102
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 23158,
+      "Total Payment Amount": 6175,
+      "Medicare Payment Amount": 4987
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 43509,
+      "Total Payment Amount": 13434,
+      "Medicare Payment Amount": 12025
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 34723,
+      "Total Payment Amount": 10567,
+      "Medicare Payment Amount": 9451
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 45904,
+      "Total Payment Amount": 15083,
+      "Medicare Payment Amount": 12872
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 20760,
+      "Total Payment Amount": 8253,
+      "Medicare Payment Amount": 7013
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 30620,
+      "Total Payment Amount": 9723,
+      "Medicare Payment Amount": 7895
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 27512,
+      "Total Payment Amount": 8287,
+      "Medicare Payment Amount": 7251
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 34911,
+      "Total Payment Amount": 10291,
+      "Medicare Payment Amount": 8315
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 109648,
+      "Total Payment Amount": 29265,
+      "Medicare Payment Amount": 18232
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 73851,
+      "Total Payment Amount": 26132,
+      "Medicare Payment Amount": 24901
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 95107,
+      "Total Payment Amount": 22687,
+      "Medicare Payment Amount": 20104
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 60810,
+      "Total Payment Amount": 14885,
+      "Medicare Payment Amount": 11943
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 81244,
+      "Total Payment Amount": 26332,
+      "Medicare Payment Amount": 17266
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 34471,
+      "Total Payment Amount": 13495,
+      "Medicare Payment Amount": 10573
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 21304,
+      "Total Payment Amount": 7029,
+      "Medicare Payment Amount": 5784
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 32070,
+      "Total Payment Amount": 9384,
+      "Medicare Payment Amount": 5742
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 35097,
+      "Total Payment Amount": 10179,
+      "Medicare Payment Amount": 8712
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27886,
+      "Total Payment Amount": 9002,
+      "Medicare Payment Amount": 7753
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 16628,
+      "Total Payment Amount": 5762,
+      "Medicare Payment Amount": 4538
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 58843,
+      "Total Payment Amount": 14737,
+      "Medicare Payment Amount": 11476
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 47687,
+      "Total Payment Amount": 13782,
+      "Medicare Payment Amount": 13025
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 27238,
+      "Total Payment Amount": 7530,
+      "Medicare Payment Amount": 6105
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 22344,
+      "Total Payment Amount": 6485,
+      "Medicare Payment Amount": 4834
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 13790,
+      "Total Payment Amount": 4946,
+      "Medicare Payment Amount": 2813
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 19526,
+      "Total Payment Amount": 6842,
+      "Medicare Payment Amount": 4387
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 33512,
+      "Total Payment Amount": 7226,
+      "Medicare Payment Amount": 6313
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 72919,
+      "Total Payment Amount": 22830,
+      "Medicare Payment Amount": 21455
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 50780,
+      "Total Payment Amount": 16674,
+      "Medicare Payment Amount": 13669
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 73076,
+      "Total Payment Amount": 22715,
+      "Medicare Payment Amount": 21483
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 52601,
+      "Total Payment Amount": 16255,
+      "Medicare Payment Amount": 14712
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 34486,
+      "Total Payment Amount": 7318,
+      "Medicare Payment Amount": 5793
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 18114,
+      "Total Payment Amount": 7016,
+      "Medicare Payment Amount": 5220
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 30869,
+      "Total Payment Amount": 9840,
+      "Medicare Payment Amount": 8143
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 18167,
+      "Total Payment Amount": 6014,
+      "Medicare Payment Amount": 4822
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 38195,
+      "Total Payment Amount": 11992,
+      "Medicare Payment Amount": 10297
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23742,
+      "Total Payment Amount": 6888,
+      "Medicare Payment Amount": 5850
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 24062,
+      "Total Payment Amount": 8814,
+      "Medicare Payment Amount": 7567
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 18942,
+      "Total Payment Amount": 6132,
+      "Medicare Payment Amount": 5030
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 31984,
+      "Total Payment Amount": 12309,
+      "Medicare Payment Amount": 11142
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 142060,
+      "Total Payment Amount": 40407,
+      "Medicare Payment Amount": 36644
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 49984,
+      "Total Payment Amount": 16092,
+      "Medicare Payment Amount": 13511
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 30508,
+      "Total Payment Amount": 9689,
+      "Medicare Payment Amount": 5702
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 19010,
+      "Total Payment Amount": 6549,
+      "Medicare Payment Amount": 5281
+    },
+    {
+      "Hospital_Name": "Trinity Hospitals",
+      "Address": "407 3rd St Se, Minot, ND 58701",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 22348,
+      "Total Payment Amount": 6999,
+      "Medicare Payment Amount": 3492
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "TRACHEOSTOMY WITH MV >96 HOURS OR PRINCIPAL DIAGNOSIS EXCEPT FACE, MOUTH AND NECK WITHOU",
+      "Submitted Covered Payment": 294151,
+      "Total Payment Amount": 88597,
+      "Medicare Payment Amount": 85468
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "AUTOLOGOUS BONE MARROW TRANSPLANT WITH CC/MCC",
+      "Submitted Covered Payment": 100504,
+      "Total Payment Amount": 48915,
+      "Medicare Payment Amount": 46093
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 144799,
+      "Total Payment Amount": 47717,
+      "Medicare Payment Amount": 40144
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 111926,
+      "Total Payment Amount": 36675,
+      "Medicare Payment Amount": 28634
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 88277,
+      "Total Payment Amount": 24707,
+      "Medicare Payment Amount": 18942
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 91402,
+      "Total Payment Amount": 19407,
+      "Medicare Payment Amount": 17868
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 60484,
+      "Total Payment Amount": 17749,
+      "Medicare Payment Amount": 16258
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 57712,
+      "Total Payment Amount": 14513,
+      "Medicare Payment Amount": 13098
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERIPHERAL, CRANIAL NERVE AND OTHER NERVOUS SYSTEM PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 89034,
+      "Total Payment Amount": 32096,
+      "Medicare Payment Amount": 30420
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERIPHERAL, CRANIAL NERVE AND OTHER NERVOUS SYSTEM PROCEDURES WITH CC OR PERIPHERAL NEUR",
+      "Submitted Covered Payment": 64576,
+      "Total Payment Amount": 19024,
+      "Medicare Payment Amount": 16021
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERIPHERAL, CRANIAL NERVE AND OTHER NERVOUS SYSTEM PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 59408,
+      "Total Payment Amount": 14243,
+      "Medicare Payment Amount": 12442
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 37031,
+      "Total Payment Amount": 12314,
+      "Medicare Payment Amount": 8354
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 34237,
+      "Total Payment Amount": 10568,
+      "Medicare Payment Amount": 9003
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 55247,
+      "Total Payment Amount": 15985,
+      "Medicare Payment Amount": 14386
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 38805,
+      "Total Payment Amount": 8816,
+      "Medicare Payment Amount": 6260
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 25265,
+      "Total Payment Amount": 6773,
+      "Medicare Payment Amount": 3934
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 23439,
+      "Total Payment Amount": 6634,
+      "Medicare Payment Amount": 5106
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 42376,
+      "Total Payment Amount": 13640,
+      "Medicare Payment Amount": 11614
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 30191,
+      "Total Payment Amount": 8717,
+      "Medicare Payment Amount": 6980
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CRANIAL AND PERIPHERAL NERVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 34187,
+      "Total Payment Amount": 8414,
+      "Medicare Payment Amount": 6545
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 61119,
+      "Total Payment Amount": 17859,
+      "Medicare Payment Amount": 16639
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 41607,
+      "Total Payment Amount": 10942,
+      "Medicare Payment Amount": 9420
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 37565,
+      "Total Payment Amount": 11411,
+      "Medicare Payment Amount": 8465
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 56277,
+      "Total Payment Amount": 14445,
+      "Medicare Payment Amount": 12568
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 29299,
+      "Total Payment Amount": 8567,
+      "Medicare Payment Amount": 6062
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 57526,
+      "Total Payment Amount": 18159,
+      "Medicare Payment Amount": 15920
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 24028,
+      "Total Payment Amount": 7706,
+      "Medicare Payment Amount": 5597
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HEADACHES WITHOUT MCC",
+      "Submitted Covered Payment": 23191,
+      "Total Payment Amount": 6946,
+      "Medicare Payment Amount": 5784
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DYSEQUILIBRIUM",
+      "Submitted Covered Payment": 24509,
+      "Total Payment Amount": 6311,
+      "Medicare Payment Amount": 4530
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 99853,
+      "Total Payment Amount": 38443,
+      "Medicare Payment Amount": 31634
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 80150,
+      "Total Payment Amount": 21432,
+      "Medicare Payment Amount": 17200
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 27730,
+      "Total Payment Amount": 10760,
+      "Medicare Payment Amount": 9297
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 17401,
+      "Total Payment Amount": 7379,
+      "Medicare Payment Amount": 4958
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 38667,
+      "Total Payment Amount": 14799,
+      "Medicare Payment Amount": 12658
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 23361,
+      "Total Payment Amount": 8462,
+      "Medicare Payment Amount": 6877
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 48582,
+      "Total Payment Amount": 13895,
+      "Medicare Payment Amount": 11537
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 34913,
+      "Total Payment Amount": 8552,
+      "Medicare Payment Amount": 6551
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 37557,
+      "Total Payment Amount": 10051,
+      "Medicare Payment Amount": 8768
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 29970,
+      "Total Payment Amount": 8998,
+      "Medicare Payment Amount": 7402
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 20913,
+      "Total Payment Amount": 7007,
+      "Medicare Payment Amount": 5640
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 34088,
+      "Total Payment Amount": 10709,
+      "Medicare Payment Amount": 9118
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 20216,
+      "Total Payment Amount": 7289,
+      "Medicare Payment Amount": 4945
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 28022,
+      "Total Payment Amount": 7783,
+      "Medicare Payment Amount": 6014
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT >96 HOURS",
+      "Submitted Covered Payment": 140191,
+      "Total Payment Amount": 60437,
+      "Medicare Payment Amount": 42087
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 64828,
+      "Total Payment Amount": 23201,
+      "Medicare Payment Amount": 17100
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 186897,
+      "Total Payment Amount": 62673,
+      "Medicare Payment Amount": 60496
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 122213,
+      "Total Payment Amount": 44947,
+      "Medicare Payment Amount": 36081
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 96046,
+      "Total Payment Amount": 37481,
+      "Medicare Payment Amount": 31246
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 122159,
+      "Total Payment Amount": 40055,
+      "Medicare Payment Amount": 35125
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 81905,
+      "Total Payment Amount": 33192,
+      "Medicare Payment Amount": 25887
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "AMPUTATION FOR CIRCULATORY SYSTEM DISORDERS EXCEPT UPPER LIMB AND TOE WITH MCC",
+      "Submitted Covered Payment": 116333,
+      "Total Payment Amount": 40270,
+      "Medicare Payment Amount": 37266
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 77089,
+      "Total Payment Amount": 26580,
+      "Medicare Payment Amount": 23401
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 60835,
+      "Total Payment Amount": 18081,
+      "Medicare Payment Amount": 16589
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 48996,
+      "Total Payment Amount": 17460,
+      "Medicare Payment Amount": 12002
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 85568,
+      "Total Payment Amount": 23772,
+      "Medicare Payment Amount": 20630
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 66359,
+      "Total Payment Amount": 15887,
+      "Medicare Payment Amount": 11978
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 86087,
+      "Total Payment Amount": 28567,
+      "Medicare Payment Amount": 24166
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 62628,
+      "Total Payment Amount": 20535,
+      "Medicare Payment Amount": 18801
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 174595,
+      "Total Payment Amount": 51203,
+      "Medicare Payment Amount": 49918
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 137631,
+      "Total Payment Amount": 38836,
+      "Medicare Payment Amount": 37290
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 126129,
+      "Total Payment Amount": 32536,
+      "Medicare Payment Amount": 30895
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 87124,
+      "Total Payment Amount": 39218,
+      "Medicare Payment Amount": 33174
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 76764,
+      "Total Payment Amount": 26055,
+      "Medicare Payment Amount": 23578
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 37868,
+      "Total Payment Amount": 12717,
+      "Medicare Payment Amount": 10871
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 28936,
+      "Total Payment Amount": 7734,
+      "Medicare Payment Amount": 5781
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 27817,
+      "Total Payment Amount": 6269,
+      "Medicare Payment Amount": 4151
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, EXPIRED WITH MCC",
+      "Submitted Covered Payment": 58550,
+      "Total Payment Amount": 15194,
+      "Medicare Payment Amount": 13795
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 49931,
+      "Total Payment Amount": 16715,
+      "Medicare Payment Amount": 14056
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 41089,
+      "Total Payment Amount": 9162,
+      "Medicare Payment Amount": 6701
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 30514,
+      "Total Payment Amount": 10455,
+      "Medicare Payment Amount": 8730
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 22997,
+      "Total Payment Amount": 7197,
+      "Medicare Payment Amount": 5874
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 24380,
+      "Total Payment Amount": 9166,
+      "Medicare Payment Amount": 6608
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ATHEROSCLEROSIS WITHOUT MCC",
+      "Submitted Covered Payment": 22622,
+      "Total Payment Amount": 5934,
+      "Medicare Payment Amount": 4114
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 21756,
+      "Total Payment Amount": 6377,
+      "Medicare Payment Amount": 4610
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 26045,
+      "Total Payment Amount": 9699,
+      "Medicare Payment Amount": 8116
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 16572,
+      "Total Payment Amount": 6325,
+      "Medicare Payment Amount": 4682
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17837,
+      "Total Payment Amount": 5445,
+      "Medicare Payment Amount": 2889
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 23576,
+      "Total Payment Amount": 7104,
+      "Medicare Payment Amount": 5892
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 40550,
+      "Total Payment Amount": 16083,
+      "Medicare Payment Amount": 13978
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 25825,
+      "Total Payment Amount": 8005,
+      "Medicare Payment Amount": 6675
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 76504,
+      "Total Payment Amount": 22398,
+      "Medicare Payment Amount": 20796
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 62440,
+      "Total Payment Amount": 15127,
+      "Medicare Payment Amount": 12144
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 114345,
+      "Total Payment Amount": 55963,
+      "Medicare Payment Amount": 32695
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 55359,
+      "Total Payment Amount": 24205,
+      "Medicare Payment Amount": 16712
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 41463,
+      "Total Payment Amount": 12965,
+      "Medicare Payment Amount": 11274
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 102209,
+      "Total Payment Amount": 38819,
+      "Medicare Payment Amount": 31470
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 55241,
+      "Total Payment Amount": 19748,
+      "Medicare Payment Amount": 16793
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 35809,
+      "Total Payment Amount": 14316,
+      "Medicare Payment Amount": 10543
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 83766,
+      "Total Payment Amount": 29869,
+      "Medicare Payment Amount": 28025
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 106543,
+      "Total Payment Amount": 23527,
+      "Medicare Payment Amount": 17686
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 35665,
+      "Total Payment Amount": 13217,
+      "Medicare Payment Amount": 12105
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 31157,
+      "Total Payment Amount": 8893,
+      "Medicare Payment Amount": 6858
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 40247,
+      "Total Payment Amount": 9893,
+      "Medicare Payment Amount": 8133
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 39083,
+      "Total Payment Amount": 14241,
+      "Medicare Payment Amount": 12135
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 22577,
+      "Total Payment Amount": 8250,
+      "Medicare Payment Amount": 6617
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 44870,
+      "Total Payment Amount": 13789,
+      "Medicare Payment Amount": 9138
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 20460,
+      "Total Payment Amount": 7383,
+      "Medicare Payment Amount": 4665
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15902,
+      "Total Payment Amount": 5345,
+      "Medicare Payment Amount": 3253
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27831,
+      "Total Payment Amount": 10784,
+      "Medicare Payment Amount": 8171
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 20684,
+      "Total Payment Amount": 7330,
+      "Medicare Payment Amount": 4746
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 35492,
+      "Total Payment Amount": 13280,
+      "Medicare Payment Amount": 10907
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 18894,
+      "Total Payment Amount": 7730,
+      "Medicare Payment Amount": 6743
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 73811,
+      "Total Payment Amount": 18765,
+      "Medicare Payment Amount": 17310
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 47994,
+      "Total Payment Amount": 13112,
+      "Medicare Payment Amount": 10864
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 42779,
+      "Total Payment Amount": 14901,
+      "Medicare Payment Amount": 13472
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC",
+      "Submitted Covered Payment": 38259,
+      "Total Payment Amount": 14415,
+      "Medicare Payment Amount": 11521
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 49714,
+      "Total Payment Amount": 19344,
+      "Medicare Payment Amount": 10972
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 25238,
+      "Total Payment Amount": 7867,
+      "Medicare Payment Amount": 4673
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 29832,
+      "Total Payment Amount": 12957,
+      "Medicare Payment Amount": 11910
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 22028,
+      "Total Payment Amount": 7870,
+      "Medicare Payment Amount": 6518
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 72890,
+      "Total Payment Amount": 18435,
+      "Medicare Payment Amount": 13369
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 38429,
+      "Total Payment Amount": 9954,
+      "Medicare Payment Amount": 6775
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 186068,
+      "Total Payment Amount": 54024,
+      "Medicare Payment Amount": 36948
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 135495,
+      "Total Payment Amount": 43039,
+      "Medicare Payment Amount": 29096
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 160567,
+      "Total Payment Amount": 32437,
+      "Medicare Payment Amount": 27233
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "BILATERAL OR MULTIPLE MAJOR JOINT PROCEDURES OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 60229,
+      "Total Payment Amount": 22700,
+      "Medicare Payment Amount": 20986
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH MCC",
+      "Submitted Covered Payment": 121815,
+      "Total Payment Amount": 42630,
+      "Medicare Payment Amount": 36063
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 83536,
+      "Total Payment Amount": 28163,
+      "Medicare Payment Amount": 23939
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 64286,
+      "Total Payment Amount": 22667,
+      "Medicare Payment Amount": 17325
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITH MCC OR TOTA",
+      "Submitted Covered Payment": 73173,
+      "Total Payment Amount": 24419,
+      "Medicare Payment Amount": 22663
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 50870,
+      "Total Payment Amount": 15188,
+      "Medicare Payment Amount": 12472
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 89559,
+      "Total Payment Amount": 23870,
+      "Medicare Payment Amount": 22123
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 73188,
+      "Total Payment Amount": 22441,
+      "Medicare Payment Amount": 20460
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 54768,
+      "Total Payment Amount": 16690,
+      "Medicare Payment Amount": 14213
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 41990,
+      "Total Payment Amount": 13175,
+      "Medicare Payment Amount": 10135
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 61912,
+      "Total Payment Amount": 19211,
+      "Medicare Payment Amount": 15378
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 53746,
+      "Total Payment Amount": 18345,
+      "Medicare Payment Amount": 16014
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITHOUT CC/MCC",
+      "Submitted Covered Payment": 54074,
+      "Total Payment Amount": 14803,
+      "Medicare Payment Amount": 13301
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SOFT TISSUE PROCEDURES WITH CC",
+      "Submitted Covered Payment": 29760,
+      "Total Payment Amount": 12614,
+      "Medicare Payment Amount": 10009
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 53032,
+      "Total Payment Amount": 16185,
+      "Medicare Payment Amount": 14235
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 47993,
+      "Total Payment Amount": 15985,
+      "Medicare Payment Amount": 14550
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 70788,
+      "Total Payment Amount": 25555,
+      "Medicare Payment Amount": 20172
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 54804,
+      "Total Payment Amount": 16884,
+      "Medicare Payment Amount": 15103
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 23977,
+      "Total Payment Amount": 6345,
+      "Medicare Payment Amount": 4648
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 25094,
+      "Total Payment Amount": 8533,
+      "Medicare Payment Amount": 7411
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 41907,
+      "Total Payment Amount": 13496,
+      "Medicare Payment Amount": 11366
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 26119,
+      "Total Payment Amount": 8165,
+      "Medicare Payment Amount": 5909
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "BONE DISEASES AND ARTHROPATHIES WITHOUT MCC",
+      "Submitted Covered Payment": 17822,
+      "Total Payment Amount": 6884,
+      "Medicare Payment Amount": 5176
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SIGNS AND SYMPTOMS OF MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE WITHOUT MCC",
+      "Submitted Covered Payment": 19049,
+      "Total Payment Amount": 7114,
+      "Medicare Payment Amount": 5065
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 25573,
+      "Total Payment Amount": 7085,
+      "Medicare Payment Amount": 5422
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER SKIN, SUBCUTANEOUS TISSUE AND BREAST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 33991,
+      "Total Payment Amount": 13324,
+      "Medicare Payment Amount": 11744
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 17500,
+      "Total Payment Amount": 7579,
+      "Medicare Payment Amount": 5338
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC",
+      "Submitted Covered Payment": 24233,
+      "Total Payment Amount": 8053,
+      "Medicare Payment Amount": 5746
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 44242,
+      "Total Payment Amount": 15112,
+      "Medicare Payment Amount": 13610
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "O.R. PROCEDURES FOR OBESITY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 37482,
+      "Total Payment Amount": 13385,
+      "Medicare Payment Amount": 9484
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 33369,
+      "Total Payment Amount": 10927,
+      "Medicare Payment Amount": 9294
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 19316,
+      "Total Payment Amount": 7267,
+      "Medicare Payment Amount": 6023
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 32493,
+      "Total Payment Amount": 11262,
+      "Medicare Payment Amount": 9081
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 17436,
+      "Total Payment Amount": 6663,
+      "Medicare Payment Amount": 5019
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 30098,
+      "Total Payment Amount": 13723,
+      "Medicare Payment Amount": 10747
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "KIDNEY TRANSPLANT",
+      "Submitted Covered Payment": 155655,
+      "Total Payment Amount": 40210,
+      "Medicare Payment Amount": 19111
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITHOUT CC/MCC",
+      "Submitted Covered Payment": 48356,
+      "Total Payment Amount": 12349,
+      "Medicare Payment Amount": 10534
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 45789,
+      "Total Payment Amount": 19421,
+      "Medicare Payment Amount": 18016
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 31058,
+      "Total Payment Amount": 11029,
+      "Medicare Payment Amount": 9386
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 72085,
+      "Total Payment Amount": 27429,
+      "Medicare Payment Amount": 25908
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 29562,
+      "Total Payment Amount": 12117,
+      "Medicare Payment Amount": 10426
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 22026,
+      "Total Payment Amount": 8058,
+      "Medicare Payment Amount": 5936
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 29768,
+      "Total Payment Amount": 9630,
+      "Medicare Payment Amount": 7926
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 18539,
+      "Total Payment Amount": 6518,
+      "Medicare Payment Amount": 5066
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 30820,
+      "Total Payment Amount": 12407,
+      "Medicare Payment Amount": 10602
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 17809,
+      "Total Payment Amount": 8204,
+      "Medicare Payment Amount": 7060
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 32624,
+      "Total Payment Amount": 9977,
+      "Medicare Payment Amount": 8689
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 44934,
+      "Total Payment Amount": 11806,
+      "Medicare Payment Amount": 9868
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 36799,
+      "Total Payment Amount": 8375,
+      "Medicare Payment Amount": 5511
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 83843,
+      "Total Payment Amount": 33251,
+      "Medicare Payment Amount": 31527
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "LYMPHOMA AND NON-ACUTE LEUKEMIA WITH MCC",
+      "Submitted Covered Payment": 101221,
+      "Total Payment Amount": 25646,
+      "Medicare Payment Amount": 23924
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 33593,
+      "Total Payment Amount": 10890,
+      "Medicare Payment Amount": 8414
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 114660,
+      "Total Payment Amount": 38171,
+      "Medicare Payment Amount": 32799
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 39951,
+      "Total Payment Amount": 15796,
+      "Medicare Payment Amount": 13118
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 85867,
+      "Total Payment Amount": 34612,
+      "Medicare Payment Amount": 32459
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 37916,
+      "Total Payment Amount": 17278,
+      "Medicare Payment Amount": 14108
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 152597,
+      "Total Payment Amount": 53632,
+      "Medicare Payment Amount": 48613
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 46505,
+      "Total Payment Amount": 15825,
+      "Medicare Payment Amount": 13225
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 23404,
+      "Total Payment Amount": 8840,
+      "Medicare Payment Amount": 6347
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ACUTE ADJUSTMENT REACTION AND PSYCHOSOCIAL DYSFUNCTION",
+      "Submitted Covered Payment": 26109,
+      "Total Payment Amount": 8164,
+      "Medicare Payment Amount": 5201
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "DISORDERS OF PERSONALITY AND IMPULSE CONTROL",
+      "Submitted Covered Payment": 104358,
+      "Total Payment Amount": 17677,
+      "Medicare Payment Amount": 13585
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 26902,
+      "Total Payment Amount": 11536,
+      "Medicare Payment Amount": 9935
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 23275,
+      "Total Payment Amount": 10210,
+      "Medicare Payment Amount": 7930
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 17463,
+      "Total Payment Amount": 7138,
+      "Medicare Payment Amount": 5967
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH MCC",
+      "Submitted Covered Payment": 83354,
+      "Total Payment Amount": 33309,
+      "Medicare Payment Amount": 30162
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 46667,
+      "Total Payment Amount": 13624,
+      "Medicare Payment Amount": 11167
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITHOUT MCC",
+      "Submitted Covered Payment": 18936,
+      "Total Payment Amount": 6624,
+      "Medicare Payment Amount": 5603
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 31436,
+      "Total Payment Amount": 14503,
+      "Medicare Payment Amount": 12701
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "COMPLICATIONS OF TREATMENT WITH CC",
+      "Submitted Covered Payment": 25402,
+      "Total Payment Amount": 8657,
+      "Medicare Payment Amount": 6821
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 22189,
+      "Total Payment Amount": 6573,
+      "Medicare Payment Amount": 4834
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "LIMB REATTACHMENT, HIP AND FEMUR PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA",
+      "Submitted Covered Payment": 118618,
+      "Total Payment Amount": 37439,
+      "Medicare Payment Amount": 29033
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 89696,
+      "Total Payment Amount": 33968,
+      "Medicare Payment Amount": 27864
+    },
+    {
+      "Hospital_Name": "Sanford",
+      "Address": "801 Broadway North, Fargo, ND 58122",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 66596,
+      "Total Payment Amount": 21099,
+      "Medicare Payment Amount": 16073
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 113193,
+      "Total Payment Amount": 39210,
+      "Medicare Payment Amount": 37538
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 26929,
+      "Total Payment Amount": 12212,
+      "Medicare Payment Amount": 10891
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 25604,
+      "Total Payment Amount": 8968,
+      "Medicare Payment Amount": 7118
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 40447,
+      "Total Payment Amount": 10606,
+      "Medicare Payment Amount": 9064
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 40996,
+      "Total Payment Amount": 13246,
+      "Medicare Payment Amount": 8590
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 53752,
+      "Total Payment Amount": 15344,
+      "Medicare Payment Amount": 12896
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 27484,
+      "Total Payment Amount": 7974,
+      "Medicare Payment Amount": 6024
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29451,
+      "Total Payment Amount": 12610,
+      "Medicare Payment Amount": 11345
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 45419,
+      "Total Payment Amount": 10617,
+      "Medicare Payment Amount": 9072
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 27036,
+      "Total Payment Amount": 7736,
+      "Medicare Payment Amount": 6427
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 61333,
+      "Total Payment Amount": 18664,
+      "Medicare Payment Amount": 16959
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 56365,
+      "Total Payment Amount": 17825,
+      "Medicare Payment Amount": 16017
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 34056,
+      "Total Payment Amount": 10842,
+      "Medicare Payment Amount": 8799
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 22450,
+      "Total Payment Amount": 8185,
+      "Medicare Payment Amount": 3682
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 35186,
+      "Total Payment Amount": 14059,
+      "Medicare Payment Amount": 11833
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 24656,
+      "Total Payment Amount": 8200,
+      "Medicare Payment Amount": 6066
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 42127,
+      "Total Payment Amount": 12965,
+      "Medicare Payment Amount": 11805
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 30447,
+      "Total Payment Amount": 10036,
+      "Medicare Payment Amount": 7774
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 23620,
+      "Total Payment Amount": 8452,
+      "Medicare Payment Amount": 6906
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 16999,
+      "Total Payment Amount": 6767,
+      "Medicare Payment Amount": 5383
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32919,
+      "Total Payment Amount": 10014,
+      "Medicare Payment Amount": 8127
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 26973,
+      "Total Payment Amount": 7345,
+      "Medicare Payment Amount": 4941
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 22621,
+      "Total Payment Amount": 7437,
+      "Medicare Payment Amount": 5882
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 119394,
+      "Total Payment Amount": 41835,
+      "Medicare Payment Amount": 31647
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 122827,
+      "Total Payment Amount": 36764,
+      "Medicare Payment Amount": 34676
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 105085,
+      "Total Payment Amount": 41636,
+      "Medicare Payment Amount": 40164
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 94494,
+      "Total Payment Amount": 29581,
+      "Medicare Payment Amount": 27744
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 72015,
+      "Total Payment Amount": 25455,
+      "Medicare Payment Amount": 23657
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 59906,
+      "Total Payment Amount": 18200,
+      "Medicare Payment Amount": 14206
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 93242,
+      "Total Payment Amount": 23048,
+      "Medicare Payment Amount": 20382
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 68824,
+      "Total Payment Amount": 15226,
+      "Medicare Payment Amount": 11613
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 95552,
+      "Total Payment Amount": 25270,
+      "Medicare Payment Amount": 23966
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 64854,
+      "Total Payment Amount": 20947,
+      "Medicare Payment Amount": 16800
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 157261,
+      "Total Payment Amount": 47236,
+      "Medicare Payment Amount": 45758
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 138211,
+      "Total Payment Amount": 37213,
+      "Medicare Payment Amount": 34992
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 108380,
+      "Total Payment Amount": 33381,
+      "Medicare Payment Amount": 26034
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 114054,
+      "Total Payment Amount": 37827,
+      "Medicare Payment Amount": 22464
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 70080,
+      "Total Payment Amount": 24588,
+      "Medicare Payment Amount": 21918
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 30166,
+      "Total Payment Amount": 12284,
+      "Medicare Payment Amount": 10571
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 22281,
+      "Total Payment Amount": 7379,
+      "Medicare Payment Amount": 5567
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21955,
+      "Total Payment Amount": 6074,
+      "Medicare Payment Amount": 4060
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 30994,
+      "Total Payment Amount": 8417,
+      "Medicare Payment Amount": 6801
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 22899,
+      "Total Payment Amount": 9811,
+      "Medicare Payment Amount": 8405
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 36083,
+      "Total Payment Amount": 11883,
+      "Medicare Payment Amount": 10568
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 29578,
+      "Total Payment Amount": 8323,
+      "Medicare Payment Amount": 6001
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27065,
+      "Total Payment Amount": 9182,
+      "Medicare Payment Amount": 7732
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 15114,
+      "Total Payment Amount": 6073,
+      "Medicare Payment Amount": 4502
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 10920,
+      "Total Payment Amount": 4860,
+      "Medicare Payment Amount": 2611
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 28186,
+      "Total Payment Amount": 7160,
+      "Medicare Payment Amount": 5825
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 28680,
+      "Total Payment Amount": 15353,
+      "Medicare Payment Amount": 13948
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 73502,
+      "Total Payment Amount": 15122,
+      "Medicare Payment Amount": 11353
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 84512,
+      "Total Payment Amount": 36529,
+      "Medicare Payment Amount": 34551
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 47672,
+      "Total Payment Amount": 18405,
+      "Medicare Payment Amount": 15533
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 36575,
+      "Total Payment Amount": 12842,
+      "Medicare Payment Amount": 11106
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 18708,
+      "Total Payment Amount": 8368,
+      "Medicare Payment Amount": 6036
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 36828,
+      "Total Payment Amount": 13506,
+      "Medicare Payment Amount": 11252
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 25273,
+      "Total Payment Amount": 7582,
+      "Medicare Payment Amount": 6207
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 19818,
+      "Total Payment Amount": 6474,
+      "Medicare Payment Amount": 5266
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 35081,
+      "Total Payment Amount": 11080,
+      "Medicare Payment Amount": 7308
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 21133,
+      "Total Payment Amount": 6554,
+      "Medicare Payment Amount": 4435
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 45696,
+      "Total Payment Amount": 13628,
+      "Medicare Payment Amount": 11458
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 19583,
+      "Total Payment Amount": 8455,
+      "Medicare Payment Amount": 5106
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 55224,
+      "Total Payment Amount": 20227,
+      "Medicare Payment Amount": 14660
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 27525,
+      "Total Payment Amount": 6998,
+      "Medicare Payment Amount": 5546
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 30114,
+      "Total Payment Amount": 17305,
+      "Medicare Payment Amount": 11276
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 113024,
+      "Total Payment Amount": 48336,
+      "Medicare Payment Amount": 32746
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 79927,
+      "Total Payment Amount": 36610,
+      "Medicare Payment Amount": 26692
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 54857,
+      "Total Payment Amount": 22269,
+      "Medicare Payment Amount": 20613
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 72897,
+      "Total Payment Amount": 23776,
+      "Medicare Payment Amount": 20022
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 45445,
+      "Total Payment Amount": 15736,
+      "Medicare Payment Amount": 13995
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 63979,
+      "Total Payment Amount": 25785,
+      "Medicare Payment Amount": 10410
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH MCC",
+      "Submitted Covered Payment": 66815,
+      "Total Payment Amount": 26934,
+      "Medicare Payment Amount": 24841
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 49867,
+      "Total Payment Amount": 16760,
+      "Medicare Payment Amount": 12606
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 73245,
+      "Total Payment Amount": 22619,
+      "Medicare Payment Amount": 20613
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 50606,
+      "Total Payment Amount": 16231,
+      "Medicare Payment Amount": 14376
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 23941,
+      "Total Payment Amount": 7450,
+      "Medicare Payment Amount": 5935
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 26709,
+      "Total Payment Amount": 10900,
+      "Medicare Payment Amount": 9505
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 20069,
+      "Total Payment Amount": 7178,
+      "Medicare Payment Amount": 5459
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 39758,
+      "Total Payment Amount": 15297,
+      "Medicare Payment Amount": 12403
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 30933,
+      "Total Payment Amount": 10507,
+      "Medicare Payment Amount": 9504
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 22274,
+      "Total Payment Amount": 7256,
+      "Medicare Payment Amount": 5378
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 24953,
+      "Total Payment Amount": 9931,
+      "Medicare Payment Amount": 8280
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21525,
+      "Total Payment Amount": 6312,
+      "Medicare Payment Amount": 4707
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 18762,
+      "Total Payment Amount": 7965,
+      "Medicare Payment Amount": 6510
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 90351,
+      "Total Payment Amount": 37904,
+      "Medicare Payment Amount": 22305
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 39761,
+      "Total Payment Amount": 12351,
+      "Medicare Payment Amount": 8108
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 34719,
+      "Total Payment Amount": 11314,
+      "Medicare Payment Amount": 9476
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 16767,
+      "Total Payment Amount": 7108,
+      "Medicare Payment Amount": 5539
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 30148,
+      "Total Payment Amount": 9003,
+      "Medicare Payment Amount": 7652
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 21283,
+      "Total Payment Amount": 6334,
+      "Medicare Payment Amount": 4854
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 45062,
+      "Total Payment Amount": 13276,
+      "Medicare Payment Amount": 11416
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26990,
+      "Total Payment Amount": 8525,
+      "Medicare Payment Amount": 6164
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "MAJOR HEMATOLOGICAL AND IMMUNOLOGICAL DIAGNOSES EXCEPT SICKLE CELL CRISIS AND COAGULATIO",
+      "Submitted Covered Payment": 18104,
+      "Total Payment Amount": 9218,
+      "Medicare Payment Amount": 8109
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 37029,
+      "Total Payment Amount": 10781,
+      "Medicare Payment Amount": 9520
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 21615,
+      "Total Payment Amount": 7424,
+      "Medicare Payment Amount": 5486
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 120566,
+      "Total Payment Amount": 36769,
+      "Medicare Payment Amount": 33920
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 186502,
+      "Total Payment Amount": 57168,
+      "Medicare Payment Amount": 55004
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 46570,
+      "Total Payment Amount": 15615,
+      "Medicare Payment Amount": 12902
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26413,
+      "Total Payment Amount": 8818,
+      "Medicare Payment Amount": 5856
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 30594,
+      "Total Payment Amount": 6367,
+      "Medicare Payment Amount": 4865
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 100123,
+      "Total Payment Amount": 35344,
+      "Medicare Payment Amount": 33542
+    },
+    {
+      "Hospital_Name": "Sanford Medical Center Bismarck",
+      "Address": "300 N 7th St, Bismarck, ND 58506",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 53292,
+      "Total Payment Amount": 18549,
+      "Medicare Payment Amount": 17246
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 81135,
+      "Total Payment Amount": 37100,
+      "Medicare Payment Amount": 31438
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 48912,
+      "Total Payment Amount": 16405,
+      "Medicare Payment Amount": 14963
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 28751,
+      "Total Payment Amount": 8461,
+      "Medicare Payment Amount": 6457
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "NONSPECIFIC CEREBROVASCULAR DISORDERS WITH MCC",
+      "Submitted Covered Payment": 48718,
+      "Total Payment Amount": 14370,
+      "Medicare Payment Amount": 13286
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 56936,
+      "Total Payment Amount": 20405,
+      "Medicare Payment Amount": 16103
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 30379,
+      "Total Payment Amount": 10437,
+      "Medicare Payment Amount": 8893
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 21278,
+      "Total Payment Amount": 7179,
+      "Medicare Payment Amount": 5669
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 75305,
+      "Total Payment Amount": 12081,
+      "Medicare Payment Amount": 9521
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 48536,
+      "Total Payment Amount": 15367,
+      "Medicare Payment Amount": 13757
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 24138,
+      "Total Payment Amount": 8633,
+      "Medicare Payment Amount": 7374
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 31980,
+      "Total Payment Amount": 8980,
+      "Medicare Payment Amount": 6545
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PLEURAL EFFUSION WITH MCC",
+      "Submitted Covered Payment": 37940,
+      "Total Payment Amount": 13981,
+      "Medicare Payment Amount": 10203
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 40744,
+      "Total Payment Amount": 11093,
+      "Medicare Payment Amount": 7713
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 27464,
+      "Total Payment Amount": 8952,
+      "Medicare Payment Amount": 6847
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32518,
+      "Total Payment Amount": 10444,
+      "Medicare Payment Amount": 8961
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PNEUMOTHORAX WITH MCC",
+      "Submitted Covered Payment": 58386,
+      "Total Payment Amount": 14318,
+      "Medicare Payment Amount": 12733
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 95411,
+      "Total Payment Amount": 22089,
+      "Medicare Payment Amount": 19026
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 230792,
+      "Total Payment Amount": 68896,
+      "Medicare Payment Amount": 62526
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 220429,
+      "Total Payment Amount": 62757,
+      "Medicare Payment Amount": 59556
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 167016,
+      "Total Payment Amount": 48167,
+      "Medicare Payment Amount": 46643
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 130429,
+      "Total Payment Amount": 28135,
+      "Medicare Payment Amount": 26973
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 92931,
+      "Total Payment Amount": 18974,
+      "Medicare Payment Amount": 17414
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 86825,
+      "Total Payment Amount": 23763,
+      "Medicare Payment Amount": 22490
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 79812,
+      "Total Payment Amount": 17091,
+      "Medicare Payment Amount": 13020
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 279769,
+      "Total Payment Amount": 80142,
+      "Medicare Payment Amount": 29276
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 87334,
+      "Total Payment Amount": 21266,
+      "Medicare Payment Amount": 20078
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 221114,
+      "Total Payment Amount": 52750,
+      "Medicare Payment Amount": 51483
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 209911,
+      "Total Payment Amount": 43598,
+      "Medicare Payment Amount": 39442
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 135301,
+      "Total Payment Amount": 33693,
+      "Medicare Payment Amount": 32139
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 123793,
+      "Total Payment Amount": 27128,
+      "Medicare Payment Amount": 23603
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 47022,
+      "Total Payment Amount": 13300,
+      "Medicare Payment Amount": 10935
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 41538,
+      "Total Payment Amount": 7691,
+      "Medicare Payment Amount": 5471
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 56172,
+      "Total Payment Amount": 16900,
+      "Medicare Payment Amount": 15514
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 33013,
+      "Total Payment Amount": 10513,
+      "Medicare Payment Amount": 9027
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 19631,
+      "Total Payment Amount": 9159,
+      "Medicare Payment Amount": 6694
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 28804,
+      "Total Payment Amount": 9371,
+      "Medicare Payment Amount": 8344
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 14755,
+      "Total Payment Amount": 5974,
+      "Medicare Payment Amount": 4879
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 61258,
+      "Total Payment Amount": 20052,
+      "Medicare Payment Amount": 17790
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 133083,
+      "Total Payment Amount": 39696,
+      "Medicare Payment Amount": 38329
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 48736,
+      "Total Payment Amount": 19766,
+      "Medicare Payment Amount": 17198
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 52822,
+      "Total Payment Amount": 14981,
+      "Medicare Payment Amount": 12942
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 28131,
+      "Total Payment Amount": 7868,
+      "Medicare Payment Amount": 6666
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 23250,
+      "Total Payment Amount": 6910,
+      "Medicare Payment Amount": 4642
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 37023,
+      "Total Payment Amount": 10397,
+      "Medicare Payment Amount": 9200
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 23957,
+      "Total Payment Amount": 6340,
+      "Medicare Payment Amount": 4983
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 38025,
+      "Total Payment Amount": 8369,
+      "Medicare Payment Amount": 6992
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 49149,
+      "Total Payment Amount": 13712,
+      "Medicare Payment Amount": 10845
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 60678,
+      "Total Payment Amount": 15362,
+      "Medicare Payment Amount": 14141
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 50816,
+      "Total Payment Amount": 15774,
+      "Medicare Payment Amount": 15029
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 84476,
+      "Total Payment Amount": 28479,
+      "Medicare Payment Amount": 27120
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 81276,
+      "Total Payment Amount": 25366,
+      "Medicare Payment Amount": 23800
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 50687,
+      "Total Payment Amount": 16733,
+      "Medicare Payment Amount": 15082
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 55592,
+      "Total Payment Amount": 23971,
+      "Medicare Payment Amount": 22253
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 54585,
+      "Total Payment Amount": 17180,
+      "Medicare Payment Amount": 15677
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 21557,
+      "Total Payment Amount": 8676,
+      "Medicare Payment Amount": 7525
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 46590,
+      "Total Payment Amount": 13548,
+      "Medicare Payment Amount": 12181
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 25277,
+      "Total Payment Amount": 8748,
+      "Medicare Payment Amount": 6094
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 26226,
+      "Total Payment Amount": 8610,
+      "Medicare Payment Amount": 6036
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 41236,
+      "Total Payment Amount": 11861,
+      "Medicare Payment Amount": 10579
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 25186,
+      "Total Payment Amount": 7772,
+      "Medicare Payment Amount": 5462
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 37079,
+      "Total Payment Amount": 11590,
+      "Medicare Payment Amount": 9895
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 20076,
+      "Total Payment Amount": 7639,
+      "Medicare Payment Amount": 4939
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 37215,
+      "Total Payment Amount": 11078,
+      "Medicare Payment Amount": 9831
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20259,
+      "Total Payment Amount": 6243,
+      "Medicare Payment Amount": 4851
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 25602,
+      "Total Payment Amount": 11114,
+      "Medicare Payment Amount": 9800
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 94512,
+      "Total Payment Amount": 29136,
+      "Medicare Payment Amount": 28300
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 34053,
+      "Total Payment Amount": 12333,
+      "Medicare Payment Amount": 10385
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 18014,
+      "Total Payment Amount": 7451,
+      "Medicare Payment Amount": 5723
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 15613,
+      "Total Payment Amount": 6347,
+      "Medicare Payment Amount": 4698
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 39822,
+      "Total Payment Amount": 13460,
+      "Medicare Payment Amount": 11593
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 24680,
+      "Total Payment Amount": 8494,
+      "Medicare Payment Amount": 6238
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 36293,
+      "Total Payment Amount": 11223,
+      "Medicare Payment Amount": 9943
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 20120,
+      "Total Payment Amount": 7275,
+      "Medicare Payment Amount": 5856
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 26100,
+      "Total Payment Amount": 12513,
+      "Medicare Payment Amount": 11419
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 150161,
+      "Total Payment Amount": 45138,
+      "Medicare Payment Amount": 43508
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 62663,
+      "Total Payment Amount": 16353,
+      "Medicare Payment Amount": 14580
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 53945,
+      "Total Payment Amount": 14760,
+      "Medicare Payment Amount": 14102
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 234672,
+      "Total Payment Amount": 76435,
+      "Medicare Payment Amount": 59737
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 54710,
+      "Total Payment Amount": 17057,
+      "Medicare Payment Amount": 14813
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 30303,
+      "Total Payment Amount": 8463,
+      "Medicare Payment Amount": 6631
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 42189,
+      "Total Payment Amount": 11339,
+      "Medicare Payment Amount": 9377
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 42004,
+      "Total Payment Amount": 14369,
+      "Medicare Payment Amount": 12776
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 22724,
+      "Total Payment Amount": 6547,
+      "Medicare Payment Amount": 4840
+    },
+    {
+      "Hospital_Name": "Altru Hospital",
+      "Address": "1200 S Columbia Rd, Grand Forks, ND 58201",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 52178,
+      "Total Payment Amount": 13203,
+      "Medicare Payment Amount": 12322
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "EXTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 37247,
+      "Total Payment Amount": 11749,
+      "Medicare Payment Amount": 10574
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 39255,
+      "Total Payment Amount": 13890,
+      "Medicare Payment Amount": 6227
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 44199,
+      "Total Payment Amount": 14364,
+      "Medicare Payment Amount": 12904
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 29224,
+      "Total Payment Amount": 7318,
+      "Medicare Payment Amount": 6015
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 31734,
+      "Total Payment Amount": 12356,
+      "Medicare Payment Amount": 11095
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 21097,
+      "Total Payment Amount": 9412,
+      "Medicare Payment Amount": 7604
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 20672,
+      "Total Payment Amount": 7990,
+      "Medicare Payment Amount": 6540
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 26766,
+      "Total Payment Amount": 9512,
+      "Medicare Payment Amount": 7615
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 196943,
+      "Total Payment Amount": 60508,
+      "Medicare Payment Amount": 58921
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 113701,
+      "Total Payment Amount": 30965,
+      "Medicare Payment Amount": 24811
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 98675,
+      "Total Payment Amount": 27559,
+      "Medicare Payment Amount": 24053
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 60666,
+      "Total Payment Amount": 16910,
+      "Medicare Payment Amount": 15448
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 79329,
+      "Total Payment Amount": 22187,
+      "Medicare Payment Amount": 21065
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 68526,
+      "Total Payment Amount": 13664,
+      "Medicare Payment Amount": 12227
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 74941,
+      "Total Payment Amount": 22858,
+      "Medicare Payment Amount": 15329
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 153346,
+      "Total Payment Amount": 55482,
+      "Medicare Payment Amount": 44380
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 137125,
+      "Total Payment Amount": 37793,
+      "Medicare Payment Amount": 36358
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 146980,
+      "Total Payment Amount": 43086,
+      "Medicare Payment Amount": 41762
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 96467,
+      "Total Payment Amount": 28098,
+      "Medicare Payment Amount": 26565
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 73974,
+      "Total Payment Amount": 24847,
+      "Medicare Payment Amount": 22024
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 39510,
+      "Total Payment Amount": 11769,
+      "Medicare Payment Amount": 10375
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 30366,
+      "Total Payment Amount": 6787,
+      "Medicare Payment Amount": 5520
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 50645,
+      "Total Payment Amount": 15572,
+      "Medicare Payment Amount": 13562
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 31646,
+      "Total Payment Amount": 8330,
+      "Medicare Payment Amount": 6433
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 28643,
+      "Total Payment Amount": 9366,
+      "Medicare Payment Amount": 8244
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 24735,
+      "Total Payment Amount": 5732,
+      "Medicare Payment Amount": 4335
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 28336,
+      "Total Payment Amount": 9823,
+      "Medicare Payment Amount": 8183
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 16580,
+      "Total Payment Amount": 5730,
+      "Medicare Payment Amount": 4286
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 15655,
+      "Total Payment Amount": 4363,
+      "Medicare Payment Amount": 2870
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 31326,
+      "Total Payment Amount": 6477,
+      "Medicare Payment Amount": 5578
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 87321,
+      "Total Payment Amount": 32563,
+      "Medicare Payment Amount": 31313
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 57747,
+      "Total Payment Amount": 18977,
+      "Medicare Payment Amount": 14201
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 78087,
+      "Total Payment Amount": 17449,
+      "Medicare Payment Amount": 16353
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 34829,
+      "Total Payment Amount": 13100,
+      "Medicare Payment Amount": 11571
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 23232,
+      "Total Payment Amount": 7282,
+      "Medicare Payment Amount": 6104
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 14065,
+      "Total Payment Amount": 6245,
+      "Medicare Payment Amount": 3894
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 38190,
+      "Total Payment Amount": 9428,
+      "Medicare Payment Amount": 8376
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 20936,
+      "Total Payment Amount": 6351,
+      "Medicare Payment Amount": 4125
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 21333,
+      "Total Payment Amount": 6851,
+      "Medicare Payment Amount": 5951
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH MCC",
+      "Submitted Covered Payment": 43154,
+      "Total Payment Amount": 16865,
+      "Medicare Payment Amount": 15474
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 43297,
+      "Total Payment Amount": 11968,
+      "Medicare Payment Amount": 10481
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS WITH MCC",
+      "Submitted Covered Payment": 33860,
+      "Total Payment Amount": 12695,
+      "Medicare Payment Amount": 11473
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 18664,
+      "Total Payment Amount": 6172,
+      "Medicare Payment Amount": 5221
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 45079,
+      "Total Payment Amount": 13529,
+      "Medicare Payment Amount": 13161
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 15415,
+      "Total Payment Amount": 8218,
+      "Medicare Payment Amount": 5594
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 101355,
+      "Total Payment Amount": 42373,
+      "Medicare Payment Amount": 40745
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 82100,
+      "Total Payment Amount": 26769,
+      "Medicare Payment Amount": 25284
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 53470,
+      "Total Payment Amount": 23950,
+      "Medicare Payment Amount": 22592
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 42947,
+      "Total Payment Amount": 13677,
+      "Medicare Payment Amount": 12225
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 68647,
+      "Total Payment Amount": 22240,
+      "Medicare Payment Amount": 20654
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 49248,
+      "Total Payment Amount": 14904,
+      "Medicare Payment Amount": 13431
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 50983,
+      "Total Payment Amount": 15452,
+      "Medicare Payment Amount": 13874
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 25464,
+      "Total Payment Amount": 7026,
+      "Medicare Payment Amount": 5566
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 36895,
+      "Total Payment Amount": 10980,
+      "Medicare Payment Amount": 8680
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 19301,
+      "Total Payment Amount": 6659,
+      "Medicare Payment Amount": 5106
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 36266,
+      "Total Payment Amount": 11433,
+      "Medicare Payment Amount": 8796
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 18003,
+      "Total Payment Amount": 6918,
+      "Medicare Payment Amount": 5412
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 27879,
+      "Total Payment Amount": 10279,
+      "Medicare Payment Amount": 8921
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 21315,
+      "Total Payment Amount": 5697,
+      "Medicare Payment Amount": 4470
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 31153,
+      "Total Payment Amount": 10194,
+      "Medicare Payment Amount": 8799
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 43292,
+      "Total Payment Amount": 12935,
+      "Medicare Payment Amount": 11036
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 21257,
+      "Total Payment Amount": 6702,
+      "Medicare Payment Amount": 5421
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 40119,
+      "Total Payment Amount": 9706,
+      "Medicare Payment Amount": 7565
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 21733,
+      "Total Payment Amount": 6084,
+      "Medicare Payment Amount": 4518
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 34452,
+      "Total Payment Amount": 11341,
+      "Medicare Payment Amount": 10218
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 21184,
+      "Total Payment Amount": 7357,
+      "Medicare Payment Amount": 6114
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 19590,
+      "Total Payment Amount": 6639,
+      "Medicare Payment Amount": 5420
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 35144,
+      "Total Payment Amount": 11343,
+      "Medicare Payment Amount": 10036
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 100055,
+      "Total Payment Amount": 40458,
+      "Medicare Payment Amount": 37193
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 38622,
+      "Total Payment Amount": 14083,
+      "Medicare Payment Amount": 12645
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 24010,
+      "Total Payment Amount": 7606,
+      "Medicare Payment Amount": 5921
+    },
+    {
+      "Hospital_Name": "Essentia Health Fargo",
+      "Address": "3000 32nd Ave South, Fargo, ND 58104",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 105352,
+      "Total Payment Amount": 35713,
+      "Medicare Payment Amount": 34326
+    }
+  ]
+}

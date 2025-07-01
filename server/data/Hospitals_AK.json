@@ -1,0 +1,2532 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 404296,
+      "Total Payment Amount": 85174,
+      "Medicare Payment Amount": 54580
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 253834,
+      "Total Payment Amount": 49833,
+      "Medicare Payment Amount": 44390
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 120622,
+      "Total Payment Amount": 25304,
+      "Medicare Payment Amount": 19916
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 107496,
+      "Total Payment Amount": 22592,
+      "Medicare Payment Amount": 13938
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 233308,
+      "Total Payment Amount": 32544,
+      "Medicare Payment Amount": 22182
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 143833,
+      "Total Payment Amount": 17421,
+      "Medicare Payment Amount": 12533
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 156744,
+      "Total Payment Amount": 23555,
+      "Medicare Payment Amount": 16726
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 186944,
+      "Total Payment Amount": 26625,
+      "Medicare Payment Amount": 23461
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 110698,
+      "Total Payment Amount": 12924,
+      "Medicare Payment Amount": 10783
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 59909,
+      "Total Payment Amount": 8607,
+      "Medicare Payment Amount": 5058
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CRANIAL AND PERIPHERAL NERVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 71942,
+      "Total Payment Amount": 10386,
+      "Medicare Payment Amount": 9277
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 205595,
+      "Total Payment Amount": 31646,
+      "Medicare Payment Amount": 24239
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 77792,
+      "Total Payment Amount": 16379,
+      "Medicare Payment Amount": 15128
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 105093,
+      "Total Payment Amount": 13590,
+      "Medicare Payment Amount": 9713
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 93394,
+      "Total Payment Amount": 18712,
+      "Medicare Payment Amount": 17609
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 281101,
+      "Total Payment Amount": 52614,
+      "Medicare Payment Amount": 41597
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 178302,
+      "Total Payment Amount": 31057,
+      "Medicare Payment Amount": 19491
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER RESPIRATORY SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 162841,
+      "Total Payment Amount": 37065,
+      "Medicare Payment Amount": 31182
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 71246,
+      "Total Payment Amount": 13701,
+      "Medicare Payment Amount": 12151
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 134729,
+      "Total Payment Amount": 22996,
+      "Medicare Payment Amount": 19304
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 92087,
+      "Total Payment Amount": 16080,
+      "Medicare Payment Amount": 11763
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 160266,
+      "Total Payment Amount": 23916,
+      "Medicare Payment Amount": 19673
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 94780,
+      "Total Payment Amount": 13738,
+      "Medicare Payment Amount": 11086
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 109258,
+      "Total Payment Amount": 14503,
+      "Medicare Payment Amount": 11731
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 275747,
+      "Total Payment Amount": 31537,
+      "Medicare Payment Amount": 29549
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITH CARDIAC CATHETERIZATION WIT",
+      "Submitted Covered Payment": 779792,
+      "Total Payment Amount": 155310,
+      "Medicare Payment Amount": 118284
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 382922,
+      "Total Payment Amount": 75355,
+      "Medicare Payment Amount": 73619
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITH MCC",
+      "Submitted Covered Payment": 489269,
+      "Total Payment Amount": 81276,
+      "Medicare Payment Amount": 66703
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CORONARY BYPASS WITH CARDIAC CATHETERIZATION OR OPEN ABLATION WITHOUT MCC",
+      "Submitted Covered Payment": 329336,
+      "Total Payment Amount": 50672,
+      "Medicare Payment Amount": 43684
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 349177,
+      "Total Payment Amount": 54571,
+      "Medicare Payment Amount": 53011
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 275744,
+      "Total Payment Amount": 39929,
+      "Medicare Payment Amount": 35048
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 220081,
+      "Total Payment Amount": 37146,
+      "Medicare Payment Amount": 31700
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 126099,
+      "Total Payment Amount": 24604,
+      "Medicare Payment Amount": 17948
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 188521,
+      "Total Payment Amount": 34034,
+      "Medicare Payment Amount": 24605
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 121105,
+      "Total Payment Amount": 22717,
+      "Medicare Payment Amount": 13378
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 279282,
+      "Total Payment Amount": 44047,
+      "Medicare Payment Amount": 40967
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 118833,
+      "Total Payment Amount": 24776,
+      "Medicare Payment Amount": 23362
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER VASCULAR PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 101785,
+      "Total Payment Amount": 17260,
+      "Medicare Payment Amount": 15567
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 259776,
+      "Total Payment Amount": 80977,
+      "Medicare Payment Amount": 51575
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 153014,
+      "Total Payment Amount": 50447,
+      "Medicare Payment Amount": 41880
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 199095,
+      "Total Payment Amount": 40599,
+      "Medicare Payment Amount": 35669
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 273440,
+      "Total Payment Amount": 54789,
+      "Medicare Payment Amount": 47658
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 199789,
+      "Total Payment Amount": 33126,
+      "Medicare Payment Amount": 31708
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 202925,
+      "Total Payment Amount": 36762,
+      "Medicare Payment Amount": 34675
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 167643,
+      "Total Payment Amount": 33965,
+      "Medicare Payment Amount": 26899
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 114618,
+      "Total Payment Amount": 15711,
+      "Medicare Payment Amount": 13964
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 75240,
+      "Total Payment Amount": 9197,
+      "Medicare Payment Amount": 7517
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 126563,
+      "Total Payment Amount": 25274,
+      "Medicare Payment Amount": 17140
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 74962,
+      "Total Payment Amount": 14009,
+      "Medicare Payment Amount": 7605
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 101720,
+      "Total Payment Amount": 15726,
+      "Medicare Payment Amount": 12049
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 139986,
+      "Total Payment Amount": 17462,
+      "Medicare Payment Amount": 13005
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 110575,
+      "Total Payment Amount": 12395,
+      "Medicare Payment Amount": 9954
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 67679,
+      "Total Payment Amount": 11110,
+      "Medicare Payment Amount": 5379
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 92370,
+      "Total Payment Amount": 10120,
+      "Medicare Payment Amount": 6790
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 134227,
+      "Total Payment Amount": 23826,
+      "Medicare Payment Amount": 20421
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 63981,
+      "Total Payment Amount": 11174,
+      "Medicare Payment Amount": 6869
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 190683,
+      "Total Payment Amount": 28651,
+      "Medicare Payment Amount": 26759
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 146721,
+      "Total Payment Amount": 17315,
+      "Medicare Payment Amount": 15581
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 315266,
+      "Total Payment Amount": 56270,
+      "Medicare Payment Amount": 47750
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 113830,
+      "Total Payment Amount": 22875,
+      "Medicare Payment Amount": 21356
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 116876,
+      "Total Payment Amount": 17597,
+      "Medicare Payment Amount": 12925
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 266821,
+      "Total Payment Amount": 77103,
+      "Medicare Payment Amount": 36374
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 87989,
+      "Total Payment Amount": 12148,
+      "Medicare Payment Amount": 9827
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 104631,
+      "Total Payment Amount": 21211,
+      "Medicare Payment Amount": 14659
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 68635,
+      "Total Payment Amount": 10973,
+      "Medicare Payment Amount": 8049
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 57197,
+      "Total Payment Amount": 10017,
+      "Medicare Payment Amount": 5683
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 41751,
+      "Total Payment Amount": 7554,
+      "Medicare Payment Amount": 3764
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 90868,
+      "Total Payment Amount": 14414,
+      "Medicare Payment Amount": 12967
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 59421,
+      "Total Payment Amount": 8360,
+      "Medicare Payment Amount": 6316
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 117951,
+      "Total Payment Amount": 25104,
+      "Medicare Payment Amount": 13423
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 66301,
+      "Total Payment Amount": 9479,
+      "Medicare Payment Amount": 7986
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH MCC",
+      "Submitted Covered Payment": 98316,
+      "Total Payment Amount": 21244,
+      "Medicare Payment Amount": 15798
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 65719,
+      "Total Payment Amount": 8812,
+      "Medicare Payment Amount": 7303
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 265148,
+      "Total Payment Amount": 67117,
+      "Medicare Payment Amount": 45737
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 203864,
+      "Total Payment Amount": 46505,
+      "Medicare Payment Amount": 39304
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 155983,
+      "Total Payment Amount": 34566,
+      "Medicare Payment Amount": 32765
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 201540,
+      "Total Payment Amount": 41452,
+      "Medicare Payment Amount": 30350
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 119105,
+      "Total Payment Amount": 19711,
+      "Medicare Payment Amount": 17955
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 171005,
+      "Total Payment Amount": 33932,
+      "Medicare Payment Amount": 24967
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CERVICAL SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 134956,
+      "Total Payment Amount": 23533,
+      "Medicare Payment Amount": 21869
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 214190,
+      "Total Payment Amount": 32562,
+      "Medicare Payment Amount": 29852
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 136971,
+      "Total Payment Amount": 20564,
+      "Medicare Payment Amount": 18577
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 144063,
+      "Total Payment Amount": 22854,
+      "Medicare Payment Amount": 20346
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 141305,
+      "Total Payment Amount": 19339,
+      "Medicare Payment Amount": 17533
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 121168,
+      "Total Payment Amount": 22212,
+      "Medicare Payment Amount": 17029
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 67220,
+      "Total Payment Amount": 10100,
+      "Medicare Payment Amount": 7534
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 66697,
+      "Total Payment Amount": 9284,
+      "Medicare Payment Amount": 7769
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 112188,
+      "Total Payment Amount": 19330,
+      "Medicare Payment Amount": 17669
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "O.R. PROCEDURES FOR OBESITY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 80621,
+      "Total Payment Amount": 16138,
+      "Medicare Payment Amount": 11955
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 109017,
+      "Total Payment Amount": 15661,
+      "Medicare Payment Amount": 10688
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 53781,
+      "Total Payment Amount": 8884,
+      "Medicare Payment Amount": 6805
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 104867,
+      "Total Payment Amount": 14746,
+      "Medicare Payment Amount": 12077
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 78479,
+      "Total Payment Amount": 11299,
+      "Medicare Payment Amount": 8018
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 164866,
+      "Total Payment Amount": 27398,
+      "Medicare Payment Amount": 20718
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 96250,
+      "Total Payment Amount": 15785,
+      "Medicare Payment Amount": 11624
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 233656,
+      "Total Payment Amount": 37209,
+      "Medicare Payment Amount": 35762
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER KIDNEY AND URINARY TRACT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 189939,
+      "Total Payment Amount": 34057,
+      "Medicare Payment Amount": 25810
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 106516,
+      "Total Payment Amount": 15536,
+      "Medicare Payment Amount": 14009
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 60939,
+      "Total Payment Amount": 9468,
+      "Medicare Payment Amount": 7438
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 70502,
+      "Total Payment Amount": 12399,
+      "Medicare Payment Amount": 9032
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 76538,
+      "Total Payment Amount": 8682,
+      "Medicare Payment Amount": 6454
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 125259,
+      "Total Payment Amount": 19456,
+      "Medicare Payment Amount": 14921
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 51415,
+      "Total Payment Amount": 10599,
+      "Medicare Payment Amount": 7894
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 38619,
+      "Total Payment Amount": 14402,
+      "Medicare Payment Amount": 7973
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 286400,
+      "Total Payment Amount": 53155,
+      "Medicare Payment Amount": 48332
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 119545,
+      "Total Payment Amount": 22246,
+      "Medicare Payment Amount": 16533
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 227882,
+      "Total Payment Amount": 44179,
+      "Medicare Payment Amount": 37062
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 113427,
+      "Total Payment Amount": 22597,
+      "Medicare Payment Amount": 14030
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 138546,
+      "Total Payment Amount": 22443,
+      "Medicare Payment Amount": 18546
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 81384,
+      "Total Payment Amount": 11598,
+      "Medicare Payment Amount": 8693
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 218834,
+      "Total Payment Amount": 29402,
+      "Medicare Payment Amount": 18483
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 158295,
+      "Total Payment Amount": 17199,
+      "Medicare Payment Amount": 14469
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITH MCC",
+      "Submitted Covered Payment": 121999,
+      "Total Payment Amount": 19146,
+      "Medicare Payment Amount": 17742
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 87903,
+      "Total Payment Amount": 8943,
+      "Medicare Payment Amount": 7479
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH MCC",
+      "Submitted Covered Payment": 182260,
+      "Total Payment Amount": 38267,
+      "Medicare Payment Amount": 33372
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 86261,
+      "Total Payment Amount": 15768,
+      "Medicare Payment Amount": 12758
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 115848,
+      "Total Payment Amount": 17949,
+      "Medicare Payment Amount": 15625
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+      "Submitted Covered Payment": 43170,
+      "Total Payment Amount": 6224,
+      "Medicare Payment Amount": 4884
+    },
+    {
+      "Hospital_Name": "Providence Alaska Medical Center",
+      "Address": "3200 Providence Drive, Anchorage, AK 99508",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 328401,
+      "Total Payment Amount": 63339,
+      "Medicare Payment Amount": 47628
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 146863,
+      "Total Payment Amount": 24554,
+      "Medicare Payment Amount": 23260
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 97913,
+      "Total Payment Amount": 12190,
+      "Medicare Payment Amount": 10590
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 122399,
+      "Total Payment Amount": 23427,
+      "Medicare Payment Amount": 22093
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 56535,
+      "Total Payment Amount": 10860,
+      "Medicare Payment Amount": 9526
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 100228,
+      "Total Payment Amount": 22697,
+      "Medicare Payment Amount": 20925
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 100454,
+      "Total Payment Amount": 15241,
+      "Medicare Payment Amount": 13121
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 96572,
+      "Total Payment Amount": 14782,
+      "Medicare Payment Amount": 10834
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 111713,
+      "Total Payment Amount": 15787,
+      "Medicare Payment Amount": 14574
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 67165,
+      "Total Payment Amount": 10032,
+      "Medicare Payment Amount": 8661
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 228110,
+      "Total Payment Amount": 32126,
+      "Medicare Payment Amount": 30758
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 269801,
+      "Total Payment Amount": 36317,
+      "Medicare Payment Amount": 34984
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 229012,
+      "Total Payment Amount": 25928,
+      "Medicare Payment Amount": 20807
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 126144,
+      "Total Payment Amount": 21144,
+      "Medicare Payment Amount": 16863
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 92673,
+      "Total Payment Amount": 11101,
+      "Medicare Payment Amount": 9958
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 128499,
+      "Total Payment Amount": 31423,
+      "Medicare Payment Amount": 20731
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 101021,
+      "Total Payment Amount": 16506,
+      "Medicare Payment Amount": 14397
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 83270,
+      "Total Payment Amount": 14545,
+      "Medicare Payment Amount": 13228
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 87206,
+      "Total Payment Amount": 8964,
+      "Medicare Payment Amount": 7834
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 303698,
+      "Total Payment Amount": 56976,
+      "Medicare Payment Amount": 55509
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 194153,
+      "Total Payment Amount": 52742,
+      "Medicare Payment Amount": 25909
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 104589,
+      "Total Payment Amount": 21579,
+      "Medicare Payment Amount": 20197
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 73045,
+      "Total Payment Amount": 11914,
+      "Medicare Payment Amount": 10493
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 52526,
+      "Total Payment Amount": 9659,
+      "Medicare Payment Amount": 8486
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 56974,
+      "Total Payment Amount": 9629,
+      "Medicare Payment Amount": 7837
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 127609,
+      "Total Payment Amount": 19782,
+      "Medicare Payment Amount": 18182
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 307037,
+      "Total Payment Amount": 56877,
+      "Medicare Payment Amount": 55277
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 246915,
+      "Total Payment Amount": 50734,
+      "Medicare Payment Amount": 40674
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 177204,
+      "Total Payment Amount": 22932,
+      "Medicare Payment Amount": 21332
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 168742,
+      "Total Payment Amount": 28451,
+      "Medicare Payment Amount": 22806
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 186091,
+      "Total Payment Amount": 25786,
+      "Medicare Payment Amount": 24186
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 68334,
+      "Total Payment Amount": 11926,
+      "Medicare Payment Amount": 9710
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 73974,
+      "Total Payment Amount": 13872,
+      "Medicare Payment Amount": 8784
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 119279,
+      "Total Payment Amount": 23712,
+      "Medicare Payment Amount": 22549
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 78805,
+      "Total Payment Amount": 17872,
+      "Medicare Payment Amount": 14477
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 57714,
+      "Total Payment Amount": 13097,
+      "Medicare Payment Amount": 8179
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 74222,
+      "Total Payment Amount": 15508,
+      "Medicare Payment Amount": 14567
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 58507,
+      "Total Payment Amount": 9755,
+      "Medicare Payment Amount": 7811
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 87079,
+      "Total Payment Amount": 17955,
+      "Medicare Payment Amount": 16668
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 73604,
+      "Total Payment Amount": 11374,
+      "Medicare Payment Amount": 9194
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 68922,
+      "Total Payment Amount": 13918,
+      "Medicare Payment Amount": 12756
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 64758,
+      "Total Payment Amount": 9672,
+      "Medicare Payment Amount": 8483
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 134982,
+      "Total Payment Amount": 23333,
+      "Medicare Payment Amount": 20583
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 53554,
+      "Total Payment Amount": 12154,
+      "Medicare Payment Amount": 11285
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 283604,
+      "Total Payment Amount": 60543,
+      "Medicare Payment Amount": 57198
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 167506,
+      "Total Payment Amount": 24584,
+      "Medicare Payment Amount": 22988
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 122238,
+      "Total Payment Amount": 24684,
+      "Medicare Payment Amount": 22265
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 78830,
+      "Total Payment Amount": 18521,
+      "Medicare Payment Amount": 9837
+    },
+    {
+      "Hospital_Name": "Mat-Su Regional Medical Center",
+      "Address": "2500 South Woodworth Loop, Palmer, AK 99645",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 91463,
+      "Total Payment Amount": 15769,
+      "Medicare Payment Amount": 14347
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 55003,
+      "Total Payment Amount": 30439,
+      "Medicare Payment Amount": 29017
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 55294,
+      "Total Payment Amount": 20877,
+      "Medicare Payment Amount": 16981
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 54334,
+      "Total Payment Amount": 25563,
+      "Medicare Payment Amount": 22914
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 83962,
+      "Total Payment Amount": 39284,
+      "Medicare Payment Amount": 37636
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 37523,
+      "Total Payment Amount": 14381,
+      "Medicare Payment Amount": 13181
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 40616,
+      "Total Payment Amount": 13294,
+      "Medicare Payment Amount": 11840
+    },
+    {
+      "Hospital_Name": "Bartlett Regional Hospital",
+      "Address": "3260 Hospital Dr, Juneau, AK 99801",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 58160,
+      "Total Payment Amount": 32848,
+      "Medicare Payment Amount": 31530
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 55769,
+      "Total Payment Amount": 31623,
+      "Medicare Payment Amount": 27023
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 55796,
+      "Total Payment Amount": 16543,
+      "Medicare Payment Amount": 13695
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 60084,
+      "Total Payment Amount": 30675,
+      "Medicare Payment Amount": 28605
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 45675,
+      "Total Payment Amount": 17230,
+      "Medicare Payment Amount": 15876
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 64436,
+      "Total Payment Amount": 20359,
+      "Medicare Payment Amount": 19162
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 47518,
+      "Total Payment Amount": 17252,
+      "Medicare Payment Amount": 15872
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 67167,
+      "Total Payment Amount": 23720,
+      "Medicare Payment Amount": 19575
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 42805,
+      "Total Payment Amount": 12907,
+      "Medicare Payment Amount": 11507
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 162437,
+      "Total Payment Amount": 46510,
+      "Medicare Payment Amount": 44911
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 134493,
+      "Total Payment Amount": 37294,
+      "Medicare Payment Amount": 25570
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 78362,
+      "Total Payment Amount": 24841,
+      "Medicare Payment Amount": 23881
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 68685,
+      "Total Payment Amount": 14108,
+      "Medicare Payment Amount": 12968
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 59173,
+      "Total Payment Amount": 21562,
+      "Medicare Payment Amount": 17972
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 81034,
+      "Total Payment Amount": 39456,
+      "Medicare Payment Amount": 34499
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 42561,
+      "Total Payment Amount": 15609,
+      "Medicare Payment Amount": 12954
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 31644,
+      "Total Payment Amount": 12056,
+      "Medicare Payment Amount": 10747
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 37292,
+      "Total Payment Amount": 14616,
+      "Medicare Payment Amount": 12554
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 72718,
+      "Total Payment Amount": 32448,
+      "Medicare Payment Amount": 30848
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 76852,
+      "Total Payment Amount": 25167,
+      "Medicare Payment Amount": 23567
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 47070,
+      "Total Payment Amount": 13545,
+      "Medicare Payment Amount": 12382
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 53729,
+      "Total Payment Amount": 22892,
+      "Medicare Payment Amount": 21668
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 51794,
+      "Total Payment Amount": 13828,
+      "Medicare Payment Amount": 12510
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 95363,
+      "Total Payment Amount": 32840,
+      "Medicare Payment Amount": 30787
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 52803,
+      "Total Payment Amount": 15891,
+      "Medicare Payment Amount": 14430
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "DEPRESSIVE NEUROSES",
+      "Submitted Covered Payment": 35809,
+      "Total Payment Amount": 13547,
+      "Medicare Payment Amount": 12290
+    },
+    {
+      "Hospital_Name": "Fairbanks Memorial Hospital",
+      "Address": "1650 Cowles Street, Fairbanks, AK 99701",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 81244,
+      "Total Payment Amount": 24022,
+      "Medicare Payment Amount": 22784
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 590179,
+      "Total Payment Amount": 89652,
+      "Medicare Payment Amount": 45379
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 177445,
+      "Total Payment Amount": 19693,
+      "Medicare Payment Amount": 17063
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 108714,
+      "Total Payment Amount": 9269,
+      "Medicare Payment Amount": 7279
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 76194,
+      "Total Payment Amount": 7327,
+      "Medicare Payment Amount": 6070
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 135808,
+      "Total Payment Amount": 20066,
+      "Medicare Payment Amount": 16203
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 69301,
+      "Total Payment Amount": 8045,
+      "Medicare Payment Amount": 6419
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 63761,
+      "Total Payment Amount": 12456,
+      "Medicare Payment Amount": 11147
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 144150,
+      "Total Payment Amount": 17389,
+      "Medicare Payment Amount": 16109
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 99339,
+      "Total Payment Amount": 12764,
+      "Medicare Payment Amount": 9439
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 82413,
+      "Total Payment Amount": 12249,
+      "Medicare Payment Amount": 9762
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 226808,
+      "Total Payment Amount": 23623,
+      "Medicare Payment Amount": 22180
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 446581,
+      "Total Payment Amount": 39682,
+      "Medicare Payment Amount": 29075
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 308262,
+      "Total Payment Amount": 27067,
+      "Medicare Payment Amount": 25612
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 219832,
+      "Total Payment Amount": 16735,
+      "Medicare Payment Amount": 15364
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 274999,
+      "Total Payment Amount": 29384,
+      "Medicare Payment Amount": 27951
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 128213,
+      "Total Payment Amount": 16802,
+      "Medicare Payment Amount": 12045
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 106025,
+      "Total Payment Amount": 12364,
+      "Medicare Payment Amount": 10602
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 64037,
+      "Total Payment Amount": 8573,
+      "Medicare Payment Amount": 5825
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 198973,
+      "Total Payment Amount": 22383,
+      "Medicare Payment Amount": 18892
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 167976,
+      "Total Payment Amount": 30101,
+      "Medicare Payment Amount": 11440
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 183364,
+      "Total Payment Amount": 18410,
+      "Medicare Payment Amount": 14025
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 75836,
+      "Total Payment Amount": 8908,
+      "Medicare Payment Amount": 7708
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 57590,
+      "Total Payment Amount": 7148,
+      "Medicare Payment Amount": 6215
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 130571,
+      "Total Payment Amount": 13909,
+      "Medicare Payment Amount": 10530
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 70284,
+      "Total Payment Amount": 7135,
+      "Medicare Payment Amount": 6041
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 114159,
+      "Total Payment Amount": 8556,
+      "Medicare Payment Amount": 7489
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH MCC",
+      "Submitted Covered Payment": 777070,
+      "Total Payment Amount": 99553,
+      "Medicare Payment Amount": 70744
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 641457,
+      "Total Payment Amount": 81108,
+      "Medicare Payment Amount": 52389
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 468691,
+      "Total Payment Amount": 63741,
+      "Medicare Payment Amount": 36938
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 397013,
+      "Total Payment Amount": 47054,
+      "Medicare Payment Amount": 29283
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH MCC",
+      "Submitted Covered Payment": 441031,
+      "Total Payment Amount": 49432,
+      "Medicare Payment Amount": 40699
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 296577,
+      "Total Payment Amount": 32379,
+      "Medicare Payment Amount": 30806
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 213444,
+      "Total Payment Amount": 24067,
+      "Medicare Payment Amount": 22125
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITH MCC OR TOTA",
+      "Submitted Covered Payment": 262296,
+      "Total Payment Amount": 29761,
+      "Medicare Payment Amount": 28389
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 158415,
+      "Total Payment Amount": 19601,
+      "Medicare Payment Amount": 14734
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 230270,
+      "Total Payment Amount": 26459,
+      "Medicare Payment Amount": 24888
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 250165,
+      "Total Payment Amount": 27207,
+      "Medicare Payment Amount": 25607
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 239849,
+      "Total Payment Amount": 19223,
+      "Medicare Payment Amount": 17798
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 309570,
+      "Total Payment Amount": 24120,
+      "Medicare Payment Amount": 18575
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 170911,
+      "Total Payment Amount": 28170,
+      "Medicare Payment Amount": 15023
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 226906,
+      "Total Payment Amount": 26202,
+      "Medicare Payment Amount": 24893
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 226131,
+      "Total Payment Amount": 18882,
+      "Medicare Payment Amount": 17382
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 211540,
+      "Total Payment Amount": 16097,
+      "Medicare Payment Amount": 14954
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 92096,
+      "Total Payment Amount": 8572,
+      "Medicare Payment Amount": 7378
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 97628,
+      "Total Payment Amount": 8018,
+      "Medicare Payment Amount": 6709
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 106344,
+      "Total Payment Amount": 11186,
+      "Medicare Payment Amount": 9957
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 102028,
+      "Total Payment Amount": 13203,
+      "Medicare Payment Amount": 12049
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 58994,
+      "Total Payment Amount": 8079,
+      "Medicare Payment Amount": 7097
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 115946,
+      "Total Payment Amount": 13620,
+      "Medicare Payment Amount": 12464
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 79596,
+      "Total Payment Amount": 12380,
+      "Medicare Payment Amount": 11406
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 528009,
+      "Total Payment Amount": 54324,
+      "Medicare Payment Amount": 50732
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 582773,
+      "Total Payment Amount": 109528,
+      "Medicare Payment Amount": 49205
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 153481,
+      "Total Payment Amount": 20517,
+      "Medicare Payment Amount": 16134
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 83206,
+      "Total Payment Amount": 11613,
+      "Medicare Payment Amount": 7863
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 53435,
+      "Total Payment Amount": 7776,
+      "Medicare Payment Amount": 6576
+    },
+    {
+      "Hospital_Name": "Alaska Regional Hospital",
+      "Address": "2801 Debarr Road, Anchorage, AK 99508",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 136804,
+      "Total Payment Amount": 23254,
+      "Medicare Payment Amount": 11428
+    },
+    {
+      "Hospital_Name": "Yukon Kuskokwim Delta Reg Hospital",
+      "Address": "Po Box 287, Bethel, AK 99559",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 38863,
+      "Total Payment Amount": 23778,
+      "Medicare Payment Amount": 22328
+    },
+    {
+      "Hospital_Name": "Yukon Kuskokwim Delta Reg Hospital",
+      "Address": "Po Box 287, Bethel, AK 99559",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 24245,
+      "Total Payment Amount": 17261,
+      "Medicare Payment Amount": 15987
+    },
+    {
+      "Hospital_Name": "Yukon Kuskokwim Delta Reg Hospital",
+      "Address": "Po Box 287, Bethel, AK 99559",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 27976,
+      "Total Payment Amount": 32598,
+      "Medicare Payment Amount": 31244
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 81584,
+      "Total Payment Amount": 17058,
+      "Medicare Payment Amount": 15558
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 74592,
+      "Total Payment Amount": 29387,
+      "Medicare Payment Amount": 28466
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 58912,
+      "Total Payment Amount": 17866,
+      "Medicare Payment Amount": 16993
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 59883,
+      "Total Payment Amount": 17543,
+      "Medicare Payment Amount": 14325
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 58620,
+      "Total Payment Amount": 19160,
+      "Medicare Payment Amount": 18407
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 41794,
+      "Total Payment Amount": 13144,
+      "Medicare Payment Amount": 10584
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 49877,
+      "Total Payment Amount": 18986,
+      "Medicare Payment Amount": 17540
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 36730,
+      "Total Payment Amount": 12781,
+      "Medicare Payment Amount": 11908
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 56150,
+      "Total Payment Amount": 14422,
+      "Medicare Payment Amount": 13393
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 68723,
+      "Total Payment Amount": 35737,
+      "Medicare Payment Amount": 34404
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 64633,
+      "Total Payment Amount": 26128,
+      "Medicare Payment Amount": 21420
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 45681,
+      "Total Payment Amount": 14445,
+      "Medicare Payment Amount": 13245
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 42978,
+      "Total Payment Amount": 11502,
+      "Medicare Payment Amount": 10363
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 147209,
+      "Total Payment Amount": 55533,
+      "Medicare Payment Amount": 53986
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 88826,
+      "Total Payment Amount": 28613,
+      "Medicare Payment Amount": 25770
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 35508,
+      "Total Payment Amount": 13490,
+      "Medicare Payment Amount": 11001
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "AMPUTATION OF LOWER LIMB FOR ENDOCRINE, NUTRITIONAL AND METABOLIC DISORDERS WITH CC",
+      "Submitted Covered Payment": 44376,
+      "Total Payment Amount": 28591,
+      "Medicare Payment Amount": 24979
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 34117,
+      "Total Payment Amount": 12403,
+      "Medicare Payment Amount": 9321
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 35226,
+      "Total Payment Amount": 12062,
+      "Medicare Payment Amount": 10176
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 134839,
+      "Total Payment Amount": 75345,
+      "Medicare Payment Amount": 74036
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 80524,
+      "Total Payment Amount": 30895,
+      "Medicare Payment Amount": 29731
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 88107,
+      "Total Payment Amount": 30683,
+      "Medicare Payment Amount": 29491
+    },
+    {
+      "Hospital_Name": "Central Peninsula General Hospital",
+      "Address": "250 Hospital Place, Soldotna, AK 99669",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 49287,
+      "Total Payment Amount": 16747,
+      "Medicare Payment Amount": 12460
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 116955,
+      "Total Payment Amount": 27448,
+      "Medicare Payment Amount": 26381
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 50767,
+      "Total Payment Amount": 14752,
+      "Medicare Payment Amount": 13685
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 38096,
+      "Total Payment Amount": 10644,
+      "Medicare Payment Amount": 9344
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 71344,
+      "Total Payment Amount": 25113,
+      "Medicare Payment Amount": 23787
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 110272,
+      "Total Payment Amount": 19523,
+      "Medicare Payment Amount": 18278
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 51792,
+      "Total Payment Amount": 15329,
+      "Medicare Payment Amount": 13960
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 84206,
+      "Total Payment Amount": 18485,
+      "Medicare Payment Amount": 17374
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 64247,
+      "Total Payment Amount": 12458,
+      "Medicare Payment Amount": 10991
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 66101,
+      "Total Payment Amount": 20231,
+      "Medicare Payment Amount": 18737
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 51566,
+      "Total Payment Amount": 12926,
+      "Medicare Payment Amount": 11908
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 71577,
+      "Total Payment Amount": 18041,
+      "Medicare Payment Amount": 16986
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 51310,
+      "Total Payment Amount": 14552,
+      "Medicare Payment Amount": 9457
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 182023,
+      "Total Payment Amount": 32550,
+      "Medicare Payment Amount": 31950
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 288390,
+      "Total Payment Amount": 66912,
+      "Medicare Payment Amount": 64872
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 150341,
+      "Total Payment Amount": 32966,
+      "Medicare Payment Amount": 31994
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 112585,
+      "Total Payment Amount": 23484,
+      "Medicare Payment Amount": 22076
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 95579,
+      "Total Payment Amount": 23585,
+      "Medicare Payment Amount": 21472
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 46026,
+      "Total Payment Amount": 14645,
+      "Medicare Payment Amount": 12720
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 40561,
+      "Total Payment Amount": 11775,
+      "Medicare Payment Amount": 10646
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 76327,
+      "Total Payment Amount": 25650,
+      "Medicare Payment Amount": 23894
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 175554,
+      "Total Payment Amount": 43480,
+      "Medicare Payment Amount": 42280
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 87736,
+      "Total Payment Amount": 28688,
+      "Medicare Payment Amount": 27191
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 80664,
+      "Total Payment Amount": 22638,
+      "Medicare Payment Amount": 21132
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 96579,
+      "Total Payment Amount": 29446,
+      "Medicare Payment Amount": 28114
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "OTHER SKIN, SUBCUTANEOUS TISSUE AND BREAST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 59291,
+      "Total Payment Amount": 24097,
+      "Medicare Payment Amount": 23083
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 46559,
+      "Total Payment Amount": 13098,
+      "Medicare Payment Amount": 12245
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 53302,
+      "Total Payment Amount": 18221,
+      "Medicare Payment Amount": 17955
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 52824,
+      "Total Payment Amount": 11598,
+      "Medicare Payment Amount": 10289
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 80890,
+      "Total Payment Amount": 21976,
+      "Medicare Payment Amount": 19329
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 52650,
+      "Total Payment Amount": 13162,
+      "Medicare Payment Amount": 12188
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 190775,
+      "Total Payment Amount": 66009,
+      "Medicare Payment Amount": 65108
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 149368,
+      "Total Payment Amount": 28076,
+      "Medicare Payment Amount": 26585
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 132515,
+      "Total Payment Amount": 28951,
+      "Medicare Payment Amount": 27644
+    },
+    {
+      "Hospital_Name": "Alaska Native Medical Center",
+      "Address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 75682,
+      "Total Payment Amount": 14820,
+      "Medicare Payment Amount": 13520
+    }
+  ]
+}

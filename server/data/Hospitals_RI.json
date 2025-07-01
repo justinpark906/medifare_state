@@ -1,0 +1,3700 @@
+{
+  "Hospitals": [
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 46116,
+      "Total Payment Amount": 17977,
+      "Medicare Payment Amount": 15710
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 35037,
+      "Total Payment Amount": 10909,
+      "Medicare Payment Amount": 8977
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 34641,
+      "Total Payment Amount": 12761,
+      "Medicare Payment Amount": 11021
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 38236,
+      "Total Payment Amount": 14299,
+      "Medicare Payment Amount": 12525
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 39390,
+      "Total Payment Amount": 13180,
+      "Medicare Payment Amount": 10895
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 40381,
+      "Total Payment Amount": 10397,
+      "Medicare Payment Amount": 8327
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 28109,
+      "Total Payment Amount": 8782,
+      "Medicare Payment Amount": 6139
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 39163,
+      "Total Payment Amount": 13865,
+      "Medicare Payment Amount": 11313
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 24366,
+      "Total Payment Amount": 8453,
+      "Medicare Payment Amount": 6196
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 36937,
+      "Total Payment Amount": 14966,
+      "Medicare Payment Amount": 12865
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 24547,
+      "Total Payment Amount": 9228,
+      "Medicare Payment Amount": 7200
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 36870,
+      "Total Payment Amount": 12725,
+      "Medicare Payment Amount": 10350
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 22432,
+      "Total Payment Amount": 8413,
+      "Medicare Payment Amount": 6446
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 50187,
+      "Total Payment Amount": 18417,
+      "Medicare Payment Amount": 15600
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 41485,
+      "Total Payment Amount": 14619,
+      "Medicare Payment Amount": 11050
+    },
+    {
+      "Hospital_Name": "Roger Williams Medical Center",
+      "Address": "825 Chalkstone Avenue, Providence, RI 2908",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 29346,
+      "Total Payment Amount": 9995,
+      "Medicare Payment Amount": 7530
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 39552,
+      "Total Payment Amount": 13247,
+      "Medicare Payment Amount": 12573
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 32626,
+      "Total Payment Amount": 9354,
+      "Medicare Payment Amount": 7155
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 33272,
+      "Total Payment Amount": 10606,
+      "Medicare Payment Amount": 8903
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 24378,
+      "Total Payment Amount": 12060,
+      "Medicare Payment Amount": 10455
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 25674,
+      "Total Payment Amount": 7398,
+      "Medicare Payment Amount": 6198
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29890,
+      "Total Payment Amount": 9955,
+      "Medicare Payment Amount": 8857
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 25084,
+      "Total Payment Amount": 7682,
+      "Medicare Payment Amount": 6882
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 18830,
+      "Total Payment Amount": 6358,
+      "Medicare Payment Amount": 5295
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 60810,
+      "Total Payment Amount": 28471,
+      "Medicare Payment Amount": 27031
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 21042,
+      "Total Payment Amount": 7005,
+      "Medicare Payment Amount": 5576
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 22430,
+      "Total Payment Amount": 10154,
+      "Medicare Payment Amount": 8845
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 26189,
+      "Total Payment Amount": 11071,
+      "Medicare Payment Amount": 10121
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23738,
+      "Total Payment Amount": 7139,
+      "Medicare Payment Amount": 6080
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 20301,
+      "Total Payment Amount": 8666,
+      "Medicare Payment Amount": 7954
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 23701,
+      "Total Payment Amount": 11792,
+      "Medicare Payment Amount": 10859
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 40607,
+      "Total Payment Amount": 14312,
+      "Medicare Payment Amount": 13074
+    },
+    {
+      "Hospital_Name": "Our Lady Of Fatima Hospital",
+      "Address": "200 High Service Avenue, North Providence, RI 2904",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 28957,
+      "Total Payment Amount": 8324,
+      "Medicare Payment Amount": 6754
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 23233,
+      "Total Payment Amount": 7987,
+      "Medicare Payment Amount": 6555
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 31024,
+      "Total Payment Amount": 13630,
+      "Medicare Payment Amount": 12664
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 26536,
+      "Total Payment Amount": 9624,
+      "Medicare Payment Amount": 7396
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 34213,
+      "Total Payment Amount": 9515,
+      "Medicare Payment Amount": 9022
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 22716,
+      "Total Payment Amount": 9733,
+      "Medicare Payment Amount": 6942
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 28648,
+      "Total Payment Amount": 10420,
+      "Medicare Payment Amount": 8572
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 25943,
+      "Total Payment Amount": 6671,
+      "Medicare Payment Amount": 5273
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 28798,
+      "Total Payment Amount": 12058,
+      "Medicare Payment Amount": 10931
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 26122,
+      "Total Payment Amount": 9849,
+      "Medicare Payment Amount": 8557
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31573,
+      "Total Payment Amount": 12294,
+      "Medicare Payment Amount": 7401
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21265,
+      "Total Payment Amount": 6029,
+      "Medicare Payment Amount": 4865
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 33424,
+      "Total Payment Amount": 14607,
+      "Medicare Payment Amount": 11599
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 23943,
+      "Total Payment Amount": 8288,
+      "Medicare Payment Amount": 6441
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 22890,
+      "Total Payment Amount": 6416,
+      "Medicare Payment Amount": 5124
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 23488,
+      "Total Payment Amount": 7906,
+      "Medicare Payment Amount": 6124
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 26789,
+      "Total Payment Amount": 14768,
+      "Medicare Payment Amount": 13223
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 39948,
+      "Total Payment Amount": 17663,
+      "Medicare Payment Amount": 12921
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 44225,
+      "Total Payment Amount": 16651,
+      "Medicare Payment Amount": 15298
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 18585,
+      "Total Payment Amount": 8195,
+      "Medicare Payment Amount": 4995
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 32341,
+      "Total Payment Amount": 10139,
+      "Medicare Payment Amount": 8975
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 19638,
+      "Total Payment Amount": 6517,
+      "Medicare Payment Amount": 4261
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 26275,
+      "Total Payment Amount": 11301,
+      "Medicare Payment Amount": 10287
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 21728,
+      "Total Payment Amount": 7270,
+      "Medicare Payment Amount": 5671
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 29301,
+      "Total Payment Amount": 8992,
+      "Medicare Payment Amount": 7813
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 24348,
+      "Total Payment Amount": 6547,
+      "Medicare Payment Amount": 5253
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 25628,
+      "Total Payment Amount": 12877,
+      "Medicare Payment Amount": 10095
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 23365,
+      "Total Payment Amount": 7980,
+      "Medicare Payment Amount": 6780
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 30998,
+      "Total Payment Amount": 10646,
+      "Medicare Payment Amount": 8726
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 24313,
+      "Total Payment Amount": 7228,
+      "Medicare Payment Amount": 6060
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 42320,
+      "Total Payment Amount": 16254,
+      "Medicare Payment Amount": 13465
+    },
+    {
+      "Hospital_Name": "Newport Hospital",
+      "Address": "11 Friendship Street, Newport, RI 2840",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 25370,
+      "Total Payment Amount": 7641,
+      "Medicare Payment Amount": 6498
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ECMO OR TRACHEOSTOMY WITH MV >96 HOURS OR PRINCIPAL DIAGNOSIS EXCEPT FACE, MOUTH AND NEC",
+      "Submitted Covered Payment": 775893,
+      "Total Payment Amount": 268503,
+      "Medicare Payment Amount": 240293
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "INTRACRANIAL VASCULAR PROCEDURES WITH PRINCIPAL DIAGNOSIS HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 307614,
+      "Total Payment Amount": 112483,
+      "Medicare Payment Amount": 90070
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITH MCC O",
+      "Submitted Covered Payment": 122096,
+      "Total Payment Amount": 56394,
+      "Medicare Payment Amount": 49177
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CRANIOTOMY WITH MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PRINCIPAL DIAGNOSIS WITHOUT MC",
+      "Submitted Covered Payment": 84047,
+      "Total Payment Amount": 39503,
+      "Medicare Payment Amount": 33577
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 92862,
+      "Total Payment Amount": 48222,
+      "Medicare Payment Amount": 36900
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 69698,
+      "Total Payment Amount": 29764,
+      "Medicare Payment Amount": 24865
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CRANIOTOMY AND ENDOVASCULAR INTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 55830,
+      "Total Payment Amount": 26578,
+      "Medicare Payment Amount": 20569
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SPINAL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 129072,
+      "Total Payment Amount": 67395,
+      "Medicare Payment Amount": 50593
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SPINAL PROCEDURES WITH CC OR SPINAL NEUROSTIMULATORS",
+      "Submitted Covered Payment": 55267,
+      "Total Payment Amount": 36222,
+      "Medicare Payment Amount": 29310
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "VENTRICULAR SHUNT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 31943,
+      "Total Payment Amount": 17279,
+      "Medicare Payment Amount": 15765
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 103915,
+      "Total Payment Amount": 41229,
+      "Medicare Payment Amount": 39398
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITH CC",
+      "Submitted Covered Payment": 68416,
+      "Total Payment Amount": 23436,
+      "Medicare Payment Amount": 20310
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 44958,
+      "Total Payment Amount": 19950,
+      "Medicare Payment Amount": 16700
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "EXTRACRANIAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 28128,
+      "Total Payment Amount": 12040,
+      "Medicare Payment Amount": 10847
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "NERVOUS SYSTEM NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 45826,
+      "Total Payment Amount": 17088,
+      "Medicare Payment Amount": 12514
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 57873,
+      "Total Payment Amount": 23864,
+      "Medicare Payment Amount": 18910
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 44409,
+      "Total Payment Amount": 14974,
+      "Medicare Payment Amount": 11540
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 87487,
+      "Total Payment Amount": 30899,
+      "Medicare Payment Amount": 26174
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA WITH THROMBOLYTIC AGENT WIT",
+      "Submitted Covered Payment": 65728,
+      "Total Payment Amount": 20883,
+      "Medicare Payment Amount": 14553
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 59323,
+      "Total Payment Amount": 22088,
+      "Medicare Payment Amount": 18374
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 34301,
+      "Total Payment Amount": 11055,
+      "Medicare Payment Amount": 8917
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33412,
+      "Total Payment Amount": 9024,
+      "Medicare Payment Amount": 6252
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CRANIAL AND PERIPHERAL NERVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 34931,
+      "Total Payment Amount": 11264,
+      "Medicare Payment Amount": 9471
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH MCC",
+      "Submitted Covered Payment": 58118,
+      "Total Payment Amount": 24250,
+      "Medicare Payment Amount": 21409
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "TRAUMATIC STUPOR AND COMA >1 HOUR WITH CC",
+      "Submitted Covered Payment": 35097,
+      "Total Payment Amount": 14516,
+      "Medicare Payment Amount": 12612
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH MCC",
+      "Submitted Covered Payment": 37945,
+      "Total Payment Amount": 20743,
+      "Medicare Payment Amount": 18858
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "TRAUMATIC STUPOR AND COMA <1 HOUR WITH CC",
+      "Submitted Covered Payment": 33112,
+      "Total Payment Amount": 12635,
+      "Medicare Payment Amount": 10778
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH MCC",
+      "Submitted Covered Payment": 53159,
+      "Total Payment Amount": 19665,
+      "Medicare Payment Amount": 17435
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 30605,
+      "Total Payment Amount": 10695,
+      "Medicare Payment Amount": 8956
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SEIZURES WITH MCC",
+      "Submitted Covered Payment": 60037,
+      "Total Payment Amount": 20939,
+      "Medicare Payment Amount": 15958
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SEIZURES WITHOUT MCC",
+      "Submitted Covered Payment": 37223,
+      "Total Payment Amount": 10687,
+      "Medicare Payment Amount": 7503
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR CHEST PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 101124,
+      "Total Payment Amount": 45770,
+      "Medicare Payment Amount": 42716
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR CHEST PROCEDURES WITH CC",
+      "Submitted Covered Payment": 49170,
+      "Total Payment Amount": 27969,
+      "Medicare Payment Amount": 21475
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR CHEST PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33470,
+      "Total Payment Amount": 21586,
+      "Medicare Payment Amount": 16469
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 45717,
+      "Total Payment Amount": 15145,
+      "Medicare Payment Amount": 13371
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 51402,
+      "Total Payment Amount": 19525,
+      "Medicare Payment Amount": 16158
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 33657,
+      "Total Payment Amount": 12420,
+      "Medicare Payment Amount": 10312
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RESPIRATORY NEOPLASMS WITH MCC",
+      "Submitted Covered Payment": 43370,
+      "Total Payment Amount": 21048,
+      "Medicare Payment Amount": 14627
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR CHEST TRAUMA WITH MCC",
+      "Submitted Covered Payment": 46524,
+      "Total Payment Amount": 16615,
+      "Medicare Payment Amount": 14376
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR CHEST TRAUMA WITH CC",
+      "Submitted Covered Payment": 29320,
+      "Total Payment Amount": 11518,
+      "Medicare Payment Amount": 9307
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR CHEST TRAUMA WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26196,
+      "Total Payment Amount": 11677,
+      "Medicare Payment Amount": 6003
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 57561,
+      "Total Payment Amount": 15324,
+      "Medicare Payment Amount": 11633
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 33627,
+      "Total Payment Amount": 14247,
+      "Medicare Payment Amount": 8912
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 25123,
+      "Total Payment Amount": 9697,
+      "Medicare Payment Amount": 8035
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32943,
+      "Total Payment Amount": 14633,
+      "Medicare Payment Amount": 11741
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 21244,
+      "Total Payment Amount": 9354,
+      "Medicare Payment Amount": 7596
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PNEUMOTHORAX WITH MCC",
+      "Submitted Covered Payment": 43400,
+      "Total Payment Amount": 18872,
+      "Medicare Payment Amount": 15951
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PNEUMOTHORAX WITH CC",
+      "Submitted Covered Payment": 37632,
+      "Total Payment Amount": 12529,
+      "Medicare Payment Amount": 9384
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 91976,
+      "Total Payment Amount": 30273,
+      "Medicare Payment Amount": 25206
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 209869,
+      "Total Payment Amount": 80369,
+      "Medicare Payment Amount": 68725
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CARDIAC VALVE AND OTHER MAJOR CARDIOTHORACIC PROCEDURES WITHOUT CARDIAC CATHETERIZATION",
+      "Submitted Covered Payment": 128760,
+      "Total Payment Amount": 59962,
+      "Medicare Payment Amount": 47308
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 142804,
+      "Total Payment Amount": 69616,
+      "Medicare Payment Amount": 44980
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CORONARY BYPASS WITHOUT CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 126266,
+      "Total Payment Amount": 48335,
+      "Medicare Payment Amount": 35409
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 98554,
+      "Total Payment Amount": 35508,
+      "Medicare Payment Amount": 33396
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 74944,
+      "Total Payment Amount": 25355,
+      "Medicare Payment Amount": 21061
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 93566,
+      "Total Payment Amount": 32495,
+      "Medicare Payment Amount": 27514
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 63718,
+      "Total Payment Amount": 21739,
+      "Medicare Payment Amount": 15797
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER VASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 89683,
+      "Total Payment Amount": 41354,
+      "Medicare Payment Amount": 30507
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 72961,
+      "Total Payment Amount": 29963,
+      "Medicare Payment Amount": 23742
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 136162,
+      "Total Payment Amount": 67388,
+      "Medicare Payment Amount": 59527
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT AND SUPPLEMENT PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 108673,
+      "Total Payment Amount": 53677,
+      "Medicare Payment Amount": 45716
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON WITHOUT MCC",
+      "Submitted Covered Payment": 93027,
+      "Total Payment Amount": 44349,
+      "Medicare Payment Amount": 33701
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 140746,
+      "Total Payment Amount": 54438,
+      "Medicare Payment Amount": 46517
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER MAJOR CARDIOVASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 98598,
+      "Total Payment Amount": 47371,
+      "Medicare Payment Amount": 17866
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 97250,
+      "Total Payment Amount": 40211,
+      "Medicare Payment Amount": 37010
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERCUTANEOUS AND OTHER INTRACARDIAC PROCEDURES WITHOUT MCC",
+      "Submitted Covered Payment": 71280,
+      "Total Payment Amount": 33215,
+      "Medicare Payment Amount": 31094
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 56707,
+      "Total Payment Amount": 18170,
+      "Medicare Payment Amount": 14668
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 34030,
+      "Total Payment Amount": 10453,
+      "Medicare Payment Amount": 8079
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 90380,
+      "Total Payment Amount": 24833,
+      "Medicare Payment Amount": 20313
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 42472,
+      "Total Payment Amount": 13070,
+      "Medicare Payment Amount": 8555
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 45886,
+      "Total Payment Amount": 14948,
+      "Medicare Payment Amount": 11577
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 35886,
+      "Total Payment Amount": 11777,
+      "Medicare Payment Amount": 9058
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HYPERTENSION WITH MCC",
+      "Submitted Covered Payment": 51887,
+      "Total Payment Amount": 12638,
+      "Medicare Payment Amount": 10375
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HYPERTENSION WITHOUT MCC",
+      "Submitted Covered Payment": 29416,
+      "Total Payment Amount": 8714,
+      "Medicare Payment Amount": 6564
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 57820,
+      "Total Payment Amount": 16139,
+      "Medicare Payment Amount": 11114
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 25678,
+      "Total Payment Amount": 8605,
+      "Medicare Payment Amount": 6252
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 27457,
+      "Total Payment Amount": 10669,
+      "Medicare Payment Amount": 7531
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 72231,
+      "Total Payment Amount": 23010,
+      "Medicare Payment Amount": 18839
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 42186,
+      "Total Payment Amount": 10686,
+      "Medicare Payment Amount": 9122
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITH MCC OR 4+ ARTERIES/",
+      "Submitted Covered Payment": 114353,
+      "Total Payment Amount": 30336,
+      "Medicare Payment Amount": 27871
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 83152,
+      "Total Payment Amount": 19400,
+      "Medicare Payment Amount": 17366
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "STOMACH, ESOPHAGEAL AND DUODENAL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 24783,
+      "Total Payment Amount": 18408,
+      "Medicare Payment Amount": 14257
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 88763,
+      "Total Payment Amount": 42960,
+      "Medicare Payment Amount": 39841
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 81548,
+      "Total Payment Amount": 26047,
+      "Medicare Payment Amount": 22950
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 31469,
+      "Total Payment Amount": 12175,
+      "Medicare Payment Amount": 8817
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DIGESTIVE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 59901,
+      "Total Payment Amount": 20789,
+      "Medicare Payment Amount": 18102
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 32124,
+      "Total Payment Amount": 15991,
+      "Medicare Payment Amount": 8832
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 48001,
+      "Total Payment Amount": 19128,
+      "Medicare Payment Amount": 16802
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 34592,
+      "Total Payment Amount": 11317,
+      "Medicare Payment Amount": 9040
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 31166,
+      "Total Payment Amount": 9779,
+      "Medicare Payment Amount": 6326
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 39380,
+      "Total Payment Amount": 14208,
+      "Medicare Payment Amount": 12515
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 26988,
+      "Total Payment Amount": 9282,
+      "Medicare Payment Amount": 6906
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 46725,
+      "Total Payment Amount": 19198,
+      "Medicare Payment Amount": 14066
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 24807,
+      "Total Payment Amount": 10503,
+      "Medicare Payment Amount": 8671
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 51799,
+      "Total Payment Amount": 17765,
+      "Medicare Payment Amount": 15740
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 43586,
+      "Total Payment Amount": 17935,
+      "Medicare Payment Amount": 16066
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DISORDERS OF LIVER EXCEPT MALIGNANCY, CIRRHOSIS OR ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 62740,
+      "Total Payment Amount": 14816,
+      "Medicare Payment Amount": 7287
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 59441,
+      "Total Payment Amount": 18184,
+      "Medicare Payment Amount": 16266
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 42090,
+      "Total Payment Amount": 12134,
+      "Medicare Payment Amount": 10161
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 145239,
+      "Total Payment Amount": 63537,
+      "Medicare Payment Amount": 56589
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITH SPINAL CURVATURE, MALIGNANCY, INFECTION OR EXTENSIVE",
+      "Submitted Covered Payment": 143795,
+      "Total Payment Amount": 62659,
+      "Medicare Payment Amount": 55603
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITH MCC",
+      "Submitted Covered Payment": 113761,
+      "Total Payment Amount": 60509,
+      "Medicare Payment Amount": 51514
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 84904,
+      "Total Payment Amount": 40225,
+      "Medicare Payment Amount": 32533
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CERVICAL SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 80266,
+      "Total Payment Amount": 31312,
+      "Medicare Payment Amount": 28989
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH MCC",
+      "Submitted Covered Payment": 74461,
+      "Total Payment Amount": 30886,
+      "Medicare Payment Amount": 25755
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 52601,
+      "Total Payment Amount": 21987,
+      "Medicare Payment Amount": 19002
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITH CC",
+      "Submitted Covered Payment": 54926,
+      "Total Payment Amount": 28553,
+      "Medicare Payment Amount": 20234
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "LOWER EXTREMITY AND HUMERUS PROCEDURES EXCEPT HIP, FOOT AND FEMUR WITHOUT CC/MCC",
+      "Submitted Covered Payment": 32180,
+      "Total Payment Amount": 19101,
+      "Medicare Payment Amount": 16210
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITH CC",
+      "Submitted Covered Payment": 43648,
+      "Total Payment Amount": 21954,
+      "Medicare Payment Amount": 17143
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER MUSCULOSKELETAL SYSTEM AND CONNECTIVE TISSUE O.R. PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33372,
+      "Total Payment Amount": 18208,
+      "Medicare Payment Amount": 11594
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 52091,
+      "Total Payment Amount": 21569,
+      "Medicare Payment Amount": 17696
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "BACK AND NECK PROCEDURES EXCEPT SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 31096,
+      "Total Payment Amount": 15382,
+      "Medicare Payment Amount": 13374
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITH MCC",
+      "Submitted Covered Payment": 58924,
+      "Total Payment Amount": 30384,
+      "Medicare Payment Amount": 27933
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 56792,
+      "Total Payment Amount": 22495,
+      "Medicare Payment Amount": 20371
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "FRACTURES OF HIP AND PELVIS WITHOUT MCC",
+      "Submitted Covered Payment": 29720,
+      "Total Payment Amount": 7931,
+      "Medicare Payment Amount": 6507
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 41646,
+      "Total Payment Amount": 17944,
+      "Medicare Payment Amount": 15812
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 27959,
+      "Total Payment Amount": 10831,
+      "Medicare Payment Amount": 9002
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITHOUT CC/M",
+      "Submitted Covered Payment": 25444,
+      "Total Payment Amount": 8722,
+      "Medicare Payment Amount": 7013
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CONNECTIVE TISSUE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 95411,
+      "Total Payment Amount": 31167,
+      "Medicare Payment Amount": 29061
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MEDICAL BACK PROBLEMS WITH MCC",
+      "Submitted Covered Payment": 70984,
+      "Total Payment Amount": 19421,
+      "Medicare Payment Amount": 16618
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 30136,
+      "Total Payment Amount": 10668,
+      "Medicare Payment Amount": 8169
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CELLULITIS WITH MCC",
+      "Submitted Covered Payment": 82009,
+      "Total Payment Amount": 17119,
+      "Medicare Payment Amount": 11046
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 25849,
+      "Total Payment Amount": 10050,
+      "Medicare Payment Amount": 7989
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "TRAUMA TO THE SKIN, SUBCUTANEOUS TISSUE AND BREAST WITHOUT MCC",
+      "Submitted Covered Payment": 25207,
+      "Total Payment Amount": 10000,
+      "Medicare Payment Amount": 8061
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 54831,
+      "Total Payment Amount": 16862,
+      "Medicare Payment Amount": 14065
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 28084,
+      "Total Payment Amount": 10020,
+      "Medicare Payment Amount": 7739
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 46800,
+      "Total Payment Amount": 14166,
+      "Medicare Payment Amount": 11340
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 30458,
+      "Total Payment Amount": 9773,
+      "Medicare Payment Amount": 6718
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "KIDNEY TRANSPLANT",
+      "Submitted Covered Payment": 156355,
+      "Total Payment Amount": 36478,
+      "Medicare Payment Amount": 27412
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 44534,
+      "Total Payment Amount": 18308,
+      "Medicare Payment Amount": 12984
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 27313,
+      "Total Payment Amount": 9975,
+      "Medicare Payment Amount": 8023
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 39253,
+      "Total Payment Amount": 12891,
+      "Medicare Payment Amount": 10803
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 29815,
+      "Total Payment Amount": 9209,
+      "Medicare Payment Amount": 7329
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 43558,
+      "Total Payment Amount": 18432,
+      "Medicare Payment Amount": 15206
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 30710,
+      "Total Payment Amount": 10886,
+      "Medicare Payment Amount": 9230
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 41270,
+      "Total Payment Amount": 15088,
+      "Medicare Payment Amount": 12978
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 39745,
+      "Total Payment Amount": 11350,
+      "Medicare Payment Amount": 7743
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 31816,
+      "Total Payment Amount": 16999,
+      "Medicare Payment Amount": 14514
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "LYMPHOMA AND NON-ACUTE LEUKEMIA WITH MCC",
+      "Submitted Covered Payment": 46851,
+      "Total Payment Amount": 31175,
+      "Medicare Payment Amount": 21799
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 61782,
+      "Total Payment Amount": 25406,
+      "Medicare Payment Amount": 23992
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "CHEMOTHERAPY WITHOUT ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS WITH CC",
+      "Submitted Covered Payment": 39753,
+      "Total Payment Amount": 13234,
+      "Medicare Payment Amount": 12231
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 118896,
+      "Total Payment Amount": 47720,
+      "Medicare Payment Amount": 41662
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 46210,
+      "Total Payment Amount": 19501,
+      "Medicare Payment Amount": 15935
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "POSTOPERATIVE AND POST-TRAUMATIC INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 38054,
+      "Total Payment Amount": 12259,
+      "Medicare Payment Amount": 9214
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITH MV >96 HOURS",
+      "Submitted Covered Payment": 244264,
+      "Total Payment Amount": 75653,
+      "Medicare Payment Amount": 62147
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 58966,
+      "Total Payment Amount": 21690,
+      "Medicare Payment Amount": 17381
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 36736,
+      "Total Payment Amount": 11527,
+      "Medicare Payment Amount": 9560
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 43427,
+      "Total Payment Amount": 17232,
+      "Medicare Payment Amount": 13423
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 65616,
+      "Total Payment Amount": 21837,
+      "Medicare Payment Amount": 16236
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 33432,
+      "Total Payment Amount": 10283,
+      "Medicare Payment Amount": 6606
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "OTHER O.R. PROCEDURES FOR INJURIES WITH MCC",
+      "Submitted Covered Payment": 113160,
+      "Total Payment Amount": 38785,
+      "Medicare Payment Amount": 36169
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "POISONING AND TOXIC EFFECTS OF DRUGS WITH MCC",
+      "Submitted Covered Payment": 49947,
+      "Total Payment Amount": 16716,
+      "Medicare Payment Amount": 12869
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 49603,
+      "Total Payment Amount": 19198,
+      "Medicare Payment Amount": 17110
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "COMPLICATIONS OF TREATMENT WITH CC",
+      "Submitted Covered Payment": 34139,
+      "Total Payment Amount": 11222,
+      "Medicare Payment Amount": 9902
+    },
+    {
+      "Hospital_Name": "Rhode Island Hospital",
+      "Address": "593 Eddy Street, Providence, RI 2903",
+      "Service": "EXTENSIVE O.R. PROCEDURES UNRELATED TO PRINCIPAL DIAGNOSIS WITH MCC",
+      "Submitted Covered Payment": 141162,
+      "Total Payment Amount": 49183,
+      "Medicare Payment Amount": 46267
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 27935,
+      "Total Payment Amount": 8437,
+      "Medicare Payment Amount": 5809
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26002,
+      "Total Payment Amount": 5178,
+      "Medicare Payment Amount": 4160
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 25917,
+      "Total Payment Amount": 5991,
+      "Medicare Payment Amount": 4658
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 40681,
+      "Total Payment Amount": 13670,
+      "Medicare Payment Amount": 12491
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 23946,
+      "Total Payment Amount": 7844,
+      "Medicare Payment Amount": 6435
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 39140,
+      "Total Payment Amount": 9328,
+      "Medicare Payment Amount": 8097
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 27413,
+      "Total Payment Amount": 7972,
+      "Medicare Payment Amount": 6785
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 36453,
+      "Total Payment Amount": 9955,
+      "Medicare Payment Amount": 8246
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 22937,
+      "Total Payment Amount": 6216,
+      "Medicare Payment Amount": 5060
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 29376,
+      "Total Payment Amount": 9318,
+      "Medicare Payment Amount": 8101
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27849,
+      "Total Payment Amount": 8780,
+      "Medicare Payment Amount": 7790
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 14708,
+      "Total Payment Amount": 5552,
+      "Medicare Payment Amount": 4352
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 12216,
+      "Total Payment Amount": 4558,
+      "Medicare Payment Amount": 2953
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 23476,
+      "Total Payment Amount": 6341,
+      "Medicare Payment Amount": 5541
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 19332,
+      "Total Payment Amount": 5429,
+      "Medicare Payment Amount": 3975
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 49731,
+      "Total Payment Amount": 12610,
+      "Medicare Payment Amount": 11810
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 31872,
+      "Total Payment Amount": 7378,
+      "Medicare Payment Amount": 5867
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 23218,
+      "Total Payment Amount": 6251,
+      "Medicare Payment Amount": 4493
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 28506,
+      "Total Payment Amount": 8143,
+      "Medicare Payment Amount": 5273
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 84938,
+      "Total Payment Amount": 27624,
+      "Medicare Payment Amount": 26163
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "BILATERAL OR MULTIPLE MAJOR JOINT PROCEDURES OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 47526,
+      "Total Payment Amount": 21866,
+      "Medicare Payment Amount": 20266
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 74526,
+      "Total Payment Amount": 25922,
+      "Medicare Payment Amount": 25122
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 56471,
+      "Total Payment Amount": 21298,
+      "Medicare Payment Amount": 18204
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 37298,
+      "Total Payment Amount": 13976,
+      "Medicare Payment Amount": 12325
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 41665,
+      "Total Payment Amount": 16025,
+      "Medicare Payment Amount": 13123
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 44503,
+      "Total Payment Amount": 17576,
+      "Medicare Payment Amount": 16090
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 45519,
+      "Total Payment Amount": 16842,
+      "Medicare Payment Amount": 13577
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "FRACTURE, SPRAIN, STRAIN AND DISLOCATION EXCEPT FEMUR, HIP, PELVIS AND THIGH WITHOUT MCC",
+      "Submitted Covered Payment": 15451,
+      "Total Payment Amount": 6273,
+      "Medicare Payment Amount": 4673
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 17213,
+      "Total Payment Amount": 6583,
+      "Medicare Payment Amount": 4983
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 24277,
+      "Total Payment Amount": 9231,
+      "Medicare Payment Amount": 8202
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 25203,
+      "Total Payment Amount": 5656,
+      "Medicare Payment Amount": 4224
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 20468,
+      "Total Payment Amount": 10337,
+      "Medicare Payment Amount": 9464
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 22276,
+      "Total Payment Amount": 6988,
+      "Medicare Payment Amount": 5285
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 21440,
+      "Total Payment Amount": 8498,
+      "Medicare Payment Amount": 7198
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 17369,
+      "Total Payment Amount": 5912,
+      "Medicare Payment Amount": 4845
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25784,
+      "Total Payment Amount": 7181,
+      "Medicare Payment Amount": 4843
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 57369,
+      "Total Payment Amount": 14482,
+      "Medicare Payment Amount": 13315
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 28030,
+      "Total Payment Amount": 7669,
+      "Medicare Payment Amount": 6160
+    },
+    {
+      "Hospital_Name": "South County Hospital Inc",
+      "Address": "100 Kenyon Ave, Wakefield, RI 2879",
+      "Service": "SIGNS AND SYMPTOMS WITHOUT MCC",
+      "Submitted Covered Payment": 19263,
+      "Total Payment Amount": 5666,
+      "Medicare Payment Amount": 4751
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 41575,
+      "Total Payment Amount": 13649,
+      "Medicare Payment Amount": 10503
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 33179,
+      "Total Payment Amount": 9572,
+      "Medicare Payment Amount": 7751
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 22713,
+      "Total Payment Amount": 7233,
+      "Medicare Payment Amount": 4691
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 22482,
+      "Total Payment Amount": 7609,
+      "Medicare Payment Amount": 5721
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 30971,
+      "Total Payment Amount": 9462,
+      "Medicare Payment Amount": 8016
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 33438,
+      "Total Payment Amount": 14501,
+      "Medicare Payment Amount": 10482
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 44489,
+      "Total Payment Amount": 17026,
+      "Medicare Payment Amount": 14927
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 28870,
+      "Total Payment Amount": 10790,
+      "Medicare Payment Amount": 8264
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 18673,
+      "Total Payment Amount": 7768,
+      "Medicare Payment Amount": 6075
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 42191,
+      "Total Payment Amount": 12546,
+      "Medicare Payment Amount": 10244
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 29577,
+      "Total Payment Amount": 10397,
+      "Medicare Payment Amount": 8412
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 24996,
+      "Total Payment Amount": 8343,
+      "Medicare Payment Amount": 6231
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21369,
+      "Total Payment Amount": 7058,
+      "Medicare Payment Amount": 4611
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 43406,
+      "Total Payment Amount": 13438,
+      "Medicare Payment Amount": 10158
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 23477,
+      "Total Payment Amount": 8354,
+      "Medicare Payment Amount": 6373
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITHOUT CC/MCC",
+      "Submitted Covered Payment": 13437,
+      "Total Payment Amount": 6260,
+      "Medicare Payment Amount": 3884
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "BRONCHITIS AND ASTHMA WITH CC/MCC",
+      "Submitted Covered Payment": 29195,
+      "Total Payment Amount": 10859,
+      "Medicare Payment Amount": 6765
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RESPIRATORY SYSTEM DIAGNOSIS WITH VENTILATOR SUPPORT <=96 HOURS",
+      "Submitted Covered Payment": 62156,
+      "Total Payment Amount": 28109,
+      "Medicare Payment Amount": 20347
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 68387,
+      "Total Payment Amount": 27944,
+      "Medicare Payment Amount": 22730
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 51016,
+      "Total Payment Amount": 19586,
+      "Medicare Payment Amount": 14494
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 44358,
+      "Total Payment Amount": 14800,
+      "Medicare Payment Amount": 12649
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 31455,
+      "Total Payment Amount": 9520,
+      "Medicare Payment Amount": 6767
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 26979,
+      "Total Payment Amount": 7181,
+      "Medicare Payment Amount": 5124
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 61843,
+      "Total Payment Amount": 20978,
+      "Medicare Payment Amount": 18266
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 31199,
+      "Total Payment Amount": 10464,
+      "Medicare Payment Amount": 8220
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 30266,
+      "Total Payment Amount": 12243,
+      "Medicare Payment Amount": 10020
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 27005,
+      "Total Payment Amount": 8786,
+      "Medicare Payment Amount": 6973
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 37181,
+      "Total Payment Amount": 12726,
+      "Medicare Payment Amount": 8302
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21284,
+      "Total Payment Amount": 7344,
+      "Medicare Payment Amount": 5578
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17000,
+      "Total Payment Amount": 6478,
+      "Medicare Payment Amount": 3596
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 26807,
+      "Total Payment Amount": 8418,
+      "Medicare Payment Amount": 6619
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 18474,
+      "Total Payment Amount": 6988,
+      "Medicare Payment Amount": 5407
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 32057,
+      "Total Payment Amount": 8952,
+      "Medicare Payment Amount": 7393
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 49211,
+      "Total Payment Amount": 19069,
+      "Medicare Payment Amount": 14723
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 26602,
+      "Total Payment Amount": 9967,
+      "Medicare Payment Amount": 7779
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 24654,
+      "Total Payment Amount": 8122,
+      "Medicare Payment Amount": 5989
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19522,
+      "Total Payment Amount": 6213,
+      "Medicare Payment Amount": 3460
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 32535,
+      "Total Payment Amount": 13176,
+      "Medicare Payment Amount": 10748
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25619,
+      "Total Payment Amount": 7879,
+      "Medicare Payment Amount": 5943
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 23474,
+      "Total Payment Amount": 9293,
+      "Medicare Payment Amount": 7552
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 44124,
+      "Total Payment Amount": 17351,
+      "Medicare Payment Amount": 15484
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 39835,
+      "Total Payment Amount": 19193,
+      "Medicare Payment Amount": 13754
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 30557,
+      "Total Payment Amount": 14465,
+      "Medicare Payment Amount": 12711
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 49783,
+      "Total Payment Amount": 21858,
+      "Medicare Payment Amount": 14886
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 24920,
+      "Total Payment Amount": 8566,
+      "Medicare Payment Amount": 6737
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 18306,
+      "Total Payment Amount": 12761,
+      "Medicare Payment Amount": 5759
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 24953,
+      "Total Payment Amount": 8755,
+      "Medicare Payment Amount": 6117
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 39068,
+      "Total Payment Amount": 16020,
+      "Medicare Payment Amount": 9529
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20877,
+      "Total Payment Amount": 7892,
+      "Medicare Payment Amount": 5426
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ENDOCRINE DISORDERS WITH CC",
+      "Submitted Covered Payment": 27898,
+      "Total Payment Amount": 11249,
+      "Medicare Payment Amount": 6674
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 38779,
+      "Total Payment Amount": 14077,
+      "Medicare Payment Amount": 11903
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23667,
+      "Total Payment Amount": 9006,
+      "Medicare Payment Amount": 6676
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 28180,
+      "Total Payment Amount": 10261,
+      "Medicare Payment Amount": 8466
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 20637,
+      "Total Payment Amount": 7591,
+      "Medicare Payment Amount": 5886
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 43287,
+      "Total Payment Amount": 16284,
+      "Medicare Payment Amount": 11815
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 22530,
+      "Total Payment Amount": 9595,
+      "Medicare Payment Amount": 7915
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 24625,
+      "Total Payment Amount": 8679,
+      "Medicare Payment Amount": 7436
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 108453,
+      "Total Payment Amount": 42321,
+      "Medicare Payment Amount": 38429
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 55802,
+      "Total Payment Amount": 19679,
+      "Medicare Payment Amount": 15953
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 23193,
+      "Total Payment Amount": 11073,
+      "Medicare Payment Amount": 6820
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "DEPRESSIVE NEUROSES",
+      "Submitted Covered Payment": 14673,
+      "Total Payment Amount": 8103,
+      "Medicare Payment Amount": 6688
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 23735,
+      "Total Payment Amount": 12724,
+      "Medicare Payment Amount": 10640
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 23214,
+      "Total Payment Amount": 12850,
+      "Medicare Payment Amount": 10625
+    },
+    {
+      "Hospital_Name": "Kent County Memorial Hospital",
+      "Address": "455 Toll Gate Rd, Warwick, RI 2886",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 18436,
+      "Total Payment Amount": 8456,
+      "Medicare Payment Amount": 6241
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "TRANSIENT ISCHEMIA WITHOUT THROMBOLYTIC",
+      "Submitted Covered Payment": 29204,
+      "Total Payment Amount": 7013,
+      "Medicare Payment Amount": 5829
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 44564,
+      "Total Payment Amount": 14473,
+      "Medicare Payment Amount": 13343
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 41230,
+      "Total Payment Amount": 11048,
+      "Medicare Payment Amount": 8839
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 34487,
+      "Total Payment Amount": 11909,
+      "Medicare Payment Amount": 8718
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 156454,
+      "Total Payment Amount": 24487,
+      "Medicare Payment Amount": 23103
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 55071,
+      "Total Payment Amount": 13886,
+      "Medicare Payment Amount": 11436
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 31343,
+      "Total Payment Amount": 7447,
+      "Medicare Payment Amount": 6268
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 37608,
+      "Total Payment Amount": 11281,
+      "Medicare Payment Amount": 9767
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 26620,
+      "Total Payment Amount": 6919,
+      "Medicare Payment Amount": 5225
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 21777,
+      "Total Payment Amount": 4941,
+      "Medicare Payment Amount": 3423
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 18197,
+      "Total Payment Amount": 7722,
+      "Medicare Payment Amount": 5536
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 77968,
+      "Total Payment Amount": 14369,
+      "Medicare Payment Amount": 13054
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 28162,
+      "Total Payment Amount": 10935,
+      "Medicare Payment Amount": 9810
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25044,
+      "Total Payment Amount": 7067,
+      "Medicare Payment Amount": 5683
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 22764,
+      "Total Payment Amount": 10623,
+      "Medicare Payment Amount": 9267
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 19279,
+      "Total Payment Amount": 6536,
+      "Medicare Payment Amount": 5251
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 39920,
+      "Total Payment Amount": 12089,
+      "Medicare Payment Amount": 10936
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 29018,
+      "Total Payment Amount": 9620,
+      "Medicare Payment Amount": 8292
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 153467,
+      "Total Payment Amount": 39856,
+      "Medicare Payment Amount": 38105
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 66062,
+      "Total Payment Amount": 16036,
+      "Medicare Payment Amount": 14232
+    },
+    {
+      "Hospital_Name": "Landmark Medical Center",
+      "Address": "115 Cass Avenue, Woonsocket, RI 2895",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 31157,
+      "Total Payment Amount": 8800,
+      "Medicare Payment Amount": 7562
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CAROTID ARTERY STENT PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 45386,
+      "Total Payment Amount": 18098,
+      "Medicare Payment Amount": 14472
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITH MCC",
+      "Submitted Covered Payment": 53434,
+      "Total Payment Amount": 19903,
+      "Medicare Payment Amount": 14590
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DEGENERATIVE NERVOUS SYSTEM DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 33108,
+      "Total Payment Amount": 10868,
+      "Medicare Payment Amount": 9039
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH MCC",
+      "Submitted Covered Payment": 39796,
+      "Total Payment Amount": 16933,
+      "Medicare Payment Amount": 14064
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION WITH CC OR TPA IN 24 HOURS",
+      "Submitted Covered Payment": 26112,
+      "Total Payment Amount": 9518,
+      "Medicare Payment Amount": 6989
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER DISORDERS OF NERVOUS SYSTEM WITH CC",
+      "Submitted Covered Payment": 35464,
+      "Total Payment Amount": 9823,
+      "Medicare Payment Amount": 6900
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DYSEQUILIBRIUM",
+      "Submitted Covered Payment": 22110,
+      "Total Payment Amount": 6540,
+      "Medicare Payment Amount": 5224
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PULMONARY EMBOLISM WITH MCC OR ACUTE COR PULMONALE",
+      "Submitted Covered Payment": 37632,
+      "Total Payment Amount": 11822,
+      "Medicare Payment Amount": 10601
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PULMONARY EMBOLISM WITHOUT MCC",
+      "Submitted Covered Payment": 29694,
+      "Total Payment Amount": 8182,
+      "Medicare Payment Amount": 6121
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 37774,
+      "Total Payment Amount": 15344,
+      "Medicare Payment Amount": 13262
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH CC",
+      "Submitted Covered Payment": 28861,
+      "Total Payment Amount": 9823,
+      "Medicare Payment Amount": 7924
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 40489,
+      "Total Payment Amount": 11912,
+      "Medicare Payment Amount": 9149
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 27892,
+      "Total Payment Amount": 10196,
+      "Medicare Payment Amount": 7791
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH CC",
+      "Submitted Covered Payment": 25436,
+      "Total Payment Amount": 8071,
+      "Medicare Payment Amount": 6496
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 32686,
+      "Total Payment Amount": 12022,
+      "Medicare Payment Amount": 9742
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 21371,
+      "Total Payment Amount": 8194,
+      "Medicare Payment Amount": 6081
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH MCC",
+      "Submitted Covered Payment": 98802,
+      "Total Payment Amount": 33275,
+      "Medicare Payment Amount": 28089
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITH CC",
+      "Submitted Covered Payment": 57033,
+      "Total Payment Amount": 21309,
+      "Medicare Payment Amount": 18362
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERMANENT CARDIAC PACEMAKER IMPLANT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 55523,
+      "Total Payment Amount": 18288,
+      "Medicare Payment Amount": 13763
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITH MCC OR 4+ ARTERIES O",
+      "Submitted Covered Payment": 98784,
+      "Total Payment Amount": 29231,
+      "Medicare Payment Amount": 23120
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH DRUG-ELUTING STENT WITHOUT MCC",
+      "Submitted Covered Payment": 68820,
+      "Total Payment Amount": 21047,
+      "Medicare Payment Amount": 13661
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER VASCULAR PROCEDURES WITH CC",
+      "Submitted Covered Payment": 134869,
+      "Total Payment Amount": 25431,
+      "Medicare Payment Amount": 23799
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH MCC",
+      "Submitted Covered Payment": 41651,
+      "Total Payment Amount": 14983,
+      "Medicare Payment Amount": 12236
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITH CC",
+      "Submitted Covered Payment": 30593,
+      "Total Payment Amount": 8512,
+      "Medicare Payment Amount": 7037
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE WITHOUT CC/MCC",
+      "Submitted Covered Payment": 23438,
+      "Total Payment Amount": 8985,
+      "Medicare Payment Amount": 4698
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITH MCC",
+      "Submitted Covered Payment": 55316,
+      "Total Payment Amount": 20109,
+      "Medicare Payment Amount": 17300
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CIRCULATORY DISORDERS EXCEPT AMI, WITH CARDIAC CATHETERIZATION WITHOUT MCC",
+      "Submitted Covered Payment": 28957,
+      "Total Payment Amount": 11408,
+      "Medicare Payment Amount": 7992
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 35057,
+      "Total Payment Amount": 11524,
+      "Medicare Payment Amount": 9780
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "HEART FAILURE AND SHOCK WITH CC",
+      "Submitted Covered Payment": 30289,
+      "Total Payment Amount": 8624,
+      "Medicare Payment Amount": 6590
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERIPHERAL VASCULAR DISORDERS WITH CC",
+      "Submitted Covered Payment": 27689,
+      "Total Payment Amount": 10339,
+      "Medicare Payment Amount": 7207
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH MCC",
+      "Submitted Covered Payment": 32763,
+      "Total Payment Amount": 10872,
+      "Medicare Payment Amount": 9049
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21897,
+      "Total Payment Amount": 7318,
+      "Medicare Payment Amount": 5296
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITHOUT CC/MCC",
+      "Submitted Covered Payment": 17812,
+      "Total Payment Amount": 5394,
+      "Medicare Payment Amount": 3936
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "SYNCOPE AND COLLAPSE",
+      "Submitted Covered Payment": 23631,
+      "Total Payment Amount": 8103,
+      "Medicare Payment Amount": 6674
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CHEST PAIN",
+      "Submitted Covered Payment": 21862,
+      "Total Payment Amount": 7008,
+      "Medicare Payment Amount": 4978
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER CIRCULATORY SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 43459,
+      "Total Payment Amount": 21168,
+      "Medicare Payment Amount": 14158
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES WITH INTRALUMINAL DEVICE WITHOUT MCC",
+      "Submitted Covered Payment": 59553,
+      "Total Payment Amount": 16869,
+      "Medicare Payment Amount": 15409
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 100490,
+      "Total Payment Amount": 43389,
+      "Medicare Payment Amount": 31954
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITH CC",
+      "Submitted Covered Payment": 54439,
+      "Total Payment Amount": 22607,
+      "Medicare Payment Amount": 19414
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR SMALL AND LARGE BOWEL PROCEDURES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 36984,
+      "Total Payment Amount": 20503,
+      "Medicare Payment Amount": 9162
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 46129,
+      "Total Payment Amount": 18537,
+      "Medicare Payment Amount": 12543
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR GASTROINTESTINAL DISORDERS AND PERITONEAL INFECTIONS WITH CC",
+      "Submitted Covered Payment": 26553,
+      "Total Payment Amount": 9361,
+      "Medicare Payment Amount": 8009
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DIGESTIVE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 32303,
+      "Total Payment Amount": 11239,
+      "Medicare Payment Amount": 9696
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 38984,
+      "Total Payment Amount": 16935,
+      "Medicare Payment Amount": 12851
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 26632,
+      "Total Payment Amount": 9325,
+      "Medicare Payment Amount": 7690
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH MCC",
+      "Submitted Covered Payment": 41686,
+      "Total Payment Amount": 11993,
+      "Medicare Payment Amount": 9741
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITH CC",
+      "Submitted Covered Payment": 26601,
+      "Total Payment Amount": 8309,
+      "Medicare Payment Amount": 5786
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "GASTROINTESTINAL OBSTRUCTION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 19109,
+      "Total Payment Amount": 6172,
+      "Medicare Payment Amount": 3499
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 27580,
+      "Total Payment Amount": 12053,
+      "Medicare Payment Amount": 10112
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 25756,
+      "Total Payment Amount": 8485,
+      "Medicare Payment Amount": 5497
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 44086,
+      "Total Payment Amount": 15656,
+      "Medicare Payment Amount": 12904
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 23909,
+      "Total Payment Amount": 10595,
+      "Medicare Payment Amount": 6352
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITHOUT CC/MCC",
+      "Submitted Covered Payment": 20579,
+      "Total Payment Amount": 6688,
+      "Medicare Payment Amount": 4289
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITH CC",
+      "Submitted Covered Payment": 42550,
+      "Total Payment Amount": 15812,
+      "Medicare Payment Amount": 12667
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "LAPAROSCOPIC CHOLECYSTECTOMY WITHOUT C.D.E. WITHOUT CC/MCC",
+      "Submitted Covered Payment": 33184,
+      "Total Payment Amount": 12028,
+      "Medicare Payment Amount": 10246
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CIRRHOSIS AND ALCOHOLIC HEPATITIS WITH CC",
+      "Submitted Covered Payment": 33806,
+      "Total Payment Amount": 9723,
+      "Medicare Payment Amount": 8473
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH MCC",
+      "Submitted Covered Payment": 35367,
+      "Total Payment Amount": 14064,
+      "Medicare Payment Amount": 12711
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 23698,
+      "Total Payment Amount": 9042,
+      "Medicare Payment Amount": 6017
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH MCC",
+      "Submitted Covered Payment": 42220,
+      "Total Payment Amount": 15447,
+      "Medicare Payment Amount": 13834
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DISORDERS OF THE BILIARY TRACT WITH CC",
+      "Submitted Covered Payment": 31024,
+      "Total Payment Amount": 10254,
+      "Medicare Payment Amount": 8639
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITH CC",
+      "Submitted Covered Payment": 115362,
+      "Total Payment Amount": 57006,
+      "Medicare Payment Amount": 47750
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "COMBINED ANTERIOR AND POSTERIOR SPINAL FUSION WITHOUT CC/MCC",
+      "Submitted Covered Payment": 90891,
+      "Total Payment Amount": 44325,
+      "Medicare Payment Amount": 37656
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "SPINAL FUSION EXCEPT CERVICAL WITHOUT MCC",
+      "Submitted Covered Payment": 66378,
+      "Total Payment Amount": 37461,
+      "Medicare Payment Amount": 26336
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITH CC",
+      "Submitted Covered Payment": 59905,
+      "Total Payment Amount": 31127,
+      "Medicare Payment Amount": 22059
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "REVISION OF HIP OR KNEE REPLACEMENT WITHOUT CC/MCC",
+      "Submitted Covered Payment": 44691,
+      "Total Payment Amount": 25139,
+      "Medicare Payment Amount": 21848
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WITHOUT MCC",
+      "Submitted Covered Payment": 28699,
+      "Total Payment Amount": 17527,
+      "Medicare Payment Amount": 15072
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "HIP AND FEMUR PROCEDURES EXCEPT MAJOR JOINT WITH CC",
+      "Submitted Covered Payment": 51096,
+      "Total Payment Amount": 19004,
+      "Medicare Payment Amount": 17196
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MAJOR JOINT OR LIMB REATTACHMENT PROCEDURES OF UPPER EXTREMITIES",
+      "Submitted Covered Payment": 47482,
+      "Total Payment Amount": 22380,
+      "Medicare Payment Amount": 18864
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 51680,
+      "Total Payment Amount": 19679,
+      "Medicare Payment Amount": 17733
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PATHOLOGICAL FRACTURES AND MUSCULOSKELETAL AND CONNECTIVE TISSUE MALIGNANCY WITH CC",
+      "Submitted Covered Payment": 26439,
+      "Total Payment Amount": 9693,
+      "Medicare Payment Amount": 8294
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MEDICAL BACK PROBLEMS WITHOUT MCC",
+      "Submitted Covered Payment": 32287,
+      "Total Payment Amount": 9013,
+      "Medicare Payment Amount": 7286
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "BONE DISEASES AND ARTHROPATHIES WITHOUT MCC",
+      "Submitted Covered Payment": 22246,
+      "Total Payment Amount": 7791,
+      "Medicare Payment Amount": 6538
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 20775,
+      "Total Payment Amount": 7422,
+      "Medicare Payment Amount": 5960
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DIABETES WITH MCC",
+      "Submitted Covered Payment": 32754,
+      "Total Payment Amount": 12008,
+      "Medicare Payment Amount": 10736
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "DIABETES WITH CC",
+      "Submitted Covered Payment": 23072,
+      "Total Payment Amount": 8395,
+      "Medicare Payment Amount": 6064
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITH MCC",
+      "Submitted Covered Payment": 39030,
+      "Total Payment Amount": 12139,
+      "Medicare Payment Amount": 9858
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 23578,
+      "Total Payment Amount": 7658,
+      "Medicare Payment Amount": 5304
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ENDOCRINE DISORDERS WITH MCC",
+      "Submitted Covered Payment": 66196,
+      "Total Payment Amount": 15920,
+      "Medicare Payment Amount": 14306
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NEOPLASM WITH CC",
+      "Submitted Covered Payment": 43179,
+      "Total Payment Amount": 17975,
+      "Medicare Payment Amount": 14056
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH MCC",
+      "Submitted Covered Payment": 92068,
+      "Total Payment Amount": 25202,
+      "Medicare Payment Amount": 23520
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "KIDNEY AND URETER PROCEDURES FOR NON-NEOPLASM WITH CC",
+      "Submitted Covered Payment": 33386,
+      "Total Payment Amount": 12760,
+      "Medicare Payment Amount": 9637
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 36802,
+      "Total Payment Amount": 13786,
+      "Medicare Payment Amount": 11008
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 22842,
+      "Total Payment Amount": 8331,
+      "Medicare Payment Amount": 6409
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 28464,
+      "Total Payment Amount": 10891,
+      "Medicare Payment Amount": 8823
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 27653,
+      "Total Payment Amount": 7563,
+      "Medicare Payment Amount": 5938
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 43855,
+      "Total Payment Amount": 15801,
+      "Medicare Payment Amount": 13921
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 23781,
+      "Total Payment Amount": 9729,
+      "Medicare Payment Amount": 7265
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 31323,
+      "Total Payment Amount": 12823,
+      "Medicare Payment Amount": 11803
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "RED BLOOD CELL DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 24291,
+      "Total Payment Amount": 8447,
+      "Medicare Payment Amount": 7259
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "COAGULATION DISORDERS",
+      "Submitted Covered Payment": 42854,
+      "Total Payment Amount": 16735,
+      "Medicare Payment Amount": 13883
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "INFECTIOUS AND PARASITIC DISEASES WITH O.R. PROCEDURES WITH MCC",
+      "Submitted Covered Payment": 106961,
+      "Total Payment Amount": 42297,
+      "Medicare Payment Amount": 40314
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 51794,
+      "Total Payment Amount": 18083,
+      "Medicare Payment Amount": 15215
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 31697,
+      "Total Payment Amount": 11451,
+      "Medicare Payment Amount": 7450
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ORGANIC DISTURBANCES AND INTELLECTUAL DISABILITY",
+      "Submitted Covered Payment": 26997,
+      "Total Payment Amount": 13235,
+      "Medicare Payment Amount": 11672
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "PSYCHOSES",
+      "Submitted Covered Payment": 27877,
+      "Total Payment Amount": 12039,
+      "Medicare Payment Amount": 10701
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "ALCOHOL, DRUG ABUSE OR DEPENDENCE WITHOUT REHABILITATION THERAPY WITHOUT MCC",
+      "Submitted Covered Payment": 23821,
+      "Total Payment Amount": 7658,
+      "Medicare Payment Amount": 5564
+    },
+    {
+      "Hospital_Name": "The Miriam Hospital",
+      "Address": "164 Summit Avenue, Providence, RI 2906",
+      "Service": "COMPLICATIONS OF TREATMENT WITH MCC",
+      "Submitted Covered Payment": 75680,
+      "Total Payment Amount": 18603,
+      "Medicare Payment Amount": 15379
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "RESPIRATORY INFECTIONS AND INFLAMMATIONS WITH MCC",
+      "Submitted Covered Payment": 38322,
+      "Total Payment Amount": 14014,
+      "Medicare Payment Amount": 12718
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "PULMONARY EDEMA AND RESPIRATORY FAILURE",
+      "Submitted Covered Payment": 30862,
+      "Total Payment Amount": 9462,
+      "Medicare Payment Amount": 8264
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE WITH MCC",
+      "Submitted Covered Payment": 21507,
+      "Total Payment Amount": 9435,
+      "Medicare Payment Amount": 6747
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH MCC",
+      "Submitted Covered Payment": 30556,
+      "Total Payment Amount": 10414,
+      "Medicare Payment Amount": 8690
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "SIMPLE PNEUMONIA AND PLEURISY WITH CC",
+      "Submitted Covered Payment": 23221,
+      "Total Payment Amount": 8589,
+      "Medicare Payment Amount": 4673
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "HEART FAILURE AND SHOCK WITH MCC",
+      "Submitted Covered Payment": 37111,
+      "Total Payment Amount": 9912,
+      "Medicare Payment Amount": 8582
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "CARDIAC ARRHYTHMIA AND CONDUCTION DISORDERS WITH CC",
+      "Submitted Covered Payment": 21569,
+      "Total Payment Amount": 5535,
+      "Medicare Payment Amount": 3821
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH MCC",
+      "Submitted Covered Payment": 32962,
+      "Total Payment Amount": 12685,
+      "Medicare Payment Amount": 11666
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "GASTROINTESTINAL HEMORRHAGE WITH CC",
+      "Submitted Covered Payment": 29584,
+      "Total Payment Amount": 7667,
+      "Medicare Payment Amount": 6358
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "ESOPHAGITIS, GASTROENTERITIS AND MISCELLANEOUS DIGESTIVE DISORDERS WITHOUT MCC",
+      "Submitted Covered Payment": 23575,
+      "Total Payment Amount": 7244,
+      "Medicare Payment Amount": 4454
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "OTHER DIGESTIVE SYSTEM DIAGNOSES WITH CC",
+      "Submitted Covered Payment": 24362,
+      "Total Payment Amount": 7650,
+      "Medicare Payment Amount": 5541
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "HIP REPLACEMENT WITH PRINCIPAL DIAGNOSIS OF HIP FRACTURE WITHOUT MCC",
+      "Submitted Covered Payment": 46514,
+      "Total Payment Amount": 16775,
+      "Medicare Payment Amount": 15312
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "CELLULITIS WITHOUT MCC",
+      "Submitted Covered Payment": 22032,
+      "Total Payment Amount": 7131,
+      "Medicare Payment Amount": 5408
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "MISCELLANEOUS DISORDERS OF NUTRITION, METABOLISM, FLUIDS AND ELECTROLYTES WITHOUT MCC",
+      "Submitted Covered Payment": 20185,
+      "Total Payment Amount": 5994,
+      "Medicare Payment Amount": 3964
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "RENAL FAILURE WITH MCC",
+      "Submitted Covered Payment": 28745,
+      "Total Payment Amount": 11595,
+      "Medicare Payment Amount": 9726
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "RENAL FAILURE WITH CC",
+      "Submitted Covered Payment": 23801,
+      "Total Payment Amount": 7144,
+      "Medicare Payment Amount": 5211
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITH MCC",
+      "Submitted Covered Payment": 25691,
+      "Total Payment Amount": 8740,
+      "Medicare Payment Amount": 7561
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "KIDNEY AND URINARY TRACT INFECTIONS WITHOUT MCC",
+      "Submitted Covered Payment": 21798,
+      "Total Payment Amount": 6276,
+      "Medicare Payment Amount": 4931
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "OTHER KIDNEY AND URINARY TRACT DIAGNOSES WITH MCC",
+      "Submitted Covered Payment": 31095,
+      "Total Payment Amount": 11739,
+      "Medicare Payment Amount": 10512
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "RED BLOOD CELL DISORDERS WITH MCC",
+      "Submitted Covered Payment": 29820,
+      "Total Payment Amount": 10927,
+      "Medicare Payment Amount": 9942
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITH MCC",
+      "Submitted Covered Payment": 37767,
+      "Total Payment Amount": 14511,
+      "Medicare Payment Amount": 13423
+    },
+    {
+      "Hospital_Name": "Westerly Hospital",
+      "Address": "25 Wells Street, Westerly, RI 2891",
+      "Service": "SEPTICEMIA OR SEVERE SEPSIS WITHOUT MV >96 HOURS WITHOUT MCC",
+      "Submitted Covered Payment": 26346,
+      "Total Payment Amount": 7852,
+      "Medicare Payment Amount": 6634
+    }
+  ]
+}
