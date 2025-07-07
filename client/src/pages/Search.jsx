@@ -10,12 +10,14 @@ function Search() {
   const [hospitalInput, setHospitalInput] = useState('');
   const [serviceInput, setServiceInput] = useState('');
   const [selectedState, setSelectedState] = useState('');
+  const [searchKey, setSearchKey] = useState(0);
   const [showMap, setShowMap] = useState(true);
   const [matchedHospital, setMatchedHospital] = useState('');
   const [results, setResults] = useState([]);
   const [filtered, setFiltered] = useState([]);
   const [error, setError] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
+  const [darkMode, setDarkMode] = useState(false);
 
   const RESULTS_PER_PAGE = 10;
 
@@ -90,6 +92,7 @@ function Search() {
     }
 
     setCurrentPage(1);
+    setSearchKey(prev => prev + 1);
   };
 
   const mapHandler = (event) => {
@@ -114,6 +117,9 @@ function Search() {
 
   return (
     <main className="search-page">
+        <button onClick={() => setDarkMode(!darkMode)} className="dark-toggle">
+        {darkMode ? "☀️ Light Mode" : "🌙 Dark Mode"}
+        </button>
       <div className="search-box">
         <h1 className="hero-heading">Discover the cost of your care.</h1>
         <p className="search-subtext">Please select a state then search any hospital or service.</p>
@@ -181,7 +187,7 @@ function Search() {
 
       {error && <p className="error">{error}</p>}
 
-      <ul style={{ listStyle: 'none', padding: 0 }}>
+      <ul key={searchKey} style={{ listStyle: 'none', padding: 0 }}>
         {paginatedResults.map((item, index) => (
           <li key={index} className="result-card">
             <details>

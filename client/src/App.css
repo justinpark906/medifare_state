@@ -116,3 +116,50 @@ main p {
   max-width: 600px;
   margin: 0 auto 40px;
 }
+
+
+/* === DARK MODE === */
+.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark header,
+.dark .new-header {
+  border-bottom: 1px solid #444;
+}
+
+.dark nav a {
+  color: #bbb;
+}
+
+.dark .auth-buttons .login {
+  background: #222;
+  color: #eee;
+  border: 1px solid #555;
+}
+
+.dark .auth-buttons .signup {
+  background-color: #6a0dad;
+}
+
+.dark main {
+  background-color: #121212;
+}
+
+.dark .search-box {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+.dark select,
+.dark input,
+.dark button {
+  background-color: #333;
+  color: #f0f0f0;
+  border: 1px solid #666;
+}
+
+.dark details {
+  background-color: #222;
+}
