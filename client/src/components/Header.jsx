@@ -1,7 +1,11 @@
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import SignUpModal from './SignUpModal';
 
 function Header() {
+  const [showModal, setShowModal] = useState(false);
   return (
+    <>
     <header className="new-header">
       <div className="logo-center">
         <Link to="/">
@@ -15,10 +19,12 @@ function Header() {
         <Link to="/terms">Terms of Service</Link>
       </nav>
       <div className="auth-buttons">
-        <button className="login">Log In</button>
-        <button className="signup">Sign Up</button>
-      </div>
-    </header>
+          {/* Log In removed */}
+          <button className="signup" onClick={() => setShowModal(true)}>Sign Up</button>
+        </div>
+      </header>
+      <SignUpModal isOpen={showModal} onClose={() => setShowModal(false)} />
+    </>
   );
 }
 

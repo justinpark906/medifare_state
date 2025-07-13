@@ -12,10 +12,11 @@ function About() {
         <h2 className="company-name">MediFare Inc.</h2>
         <p>Accidents happen. Medical debt shouldn’t.</p>
         <p>
-          Medical debt is the leading cause of bankruptcy in the United States. We aim to
-          share cash prices as well as negotiated prices from insurance companies for
-          common medical treatments and surgical procedures so you can know what to expect
-          before you receive the bill.
+        Medical debt is the leading cause of bankruptcy in the United States. 
+        We aim to share hospital price transparency data in an easy-to-use search, so you can know what to expect before you receive the bill.
+        </p>
+        <p>
+        *At present, we are offering Medicare transparency data with the implication that the Medicare price is often the lowest payment amount, whereas the total payment amount reflects an average of negotiated prices with private insurers. 
         </p>
       </div>
     </div>
@@ -23,3 +24,9 @@ function About() {
 }
 
 export default About;
+
+
+
+
+
+

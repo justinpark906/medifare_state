@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../styles/Search.css';
+import HelpModal from './HelpModal';
 import Fuse from 'fuse.js';
 import USAMap from 'react-usa-map';
 
@@ -17,7 +18,7 @@ function Search() {
   const [filtered, setFiltered] = useState([]);
   const [error, setError] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const [darkMode, setDarkMode] = useState(false);
+  const [showHelp, setShowHelp] = useState(false);
 
   const RESULTS_PER_PAGE = 10;
 
@@ -93,6 +94,7 @@ function Search() {
 
     setCurrentPage(1);
     setSearchKey(prev => prev + 1);
+    setShowMap(false);
   };
 
   const mapHandler = (event) => {
@@ -117,9 +119,6 @@ function Search() {
 
   return (
     <main className="search-page">
-        <button onClick={() => setDarkMode(!darkMode)} className="dark-toggle">
-        {darkMode ? "☀️ Light Mode" : "🌙 Dark Mode"}
-        </button>
       <div className="search-box">
         <h1 className="hero-heading">Discover the cost of your care.</h1>
         <p className="search-subtext">Please select a state then search any hospital or service.</p>
@@ -152,15 +151,16 @@ function Search() {
 
           <input
             type="text"
-            placeholder="Search Hospital"
-            value={hospitalInput}
-            onChange={(e) => setHospitalInput(e.target.value)}
-          />
-          <input
-            type="text"
             placeholder="Search Service"
             value={serviceInput}
             onChange={(e) => setServiceInput(e.target.value)}
+          />
+
+          <input
+            type="text"
+            placeholder="Search Hospital (Optional)"
+            value={hospitalInput}
+            onChange={(e) => setHospitalInput(e.target.value)}
           />
           <button onClick={handleSearch}>Search</button>
         </div>
@@ -219,7 +219,18 @@ function Search() {
           </button>
         </div>
       )}
+
+    <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
+
+    <button 
+    className="help-float-button"
+    onClick={() => setShowHelp(true)}
+    title="How to use"
+    >
+    ?
+    </button>
     </main>
+   
   );
 }
 
