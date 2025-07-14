@@ -14,7 +14,6 @@ function Footer() {
           <ul>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/about">About Us</Link></li>
-            <li><a href="/signup">Sign Up</a></li>
           </ul>
         </div>
   
@@ -24,19 +23,6 @@ function Footer() {
             <li><Link to="/privacy">Privacy Policy</Link></li>
             <li><Link to="/terms">Terms of Service</Link></li>
           </ul>
-        </div>
-  
-        <div className="footer-section">
-          <h4>Contact Us</h4>
-          <form className="contact-form">
-            <div className="name-fields">
-              <input type="text" placeholder="First name" required />
-              <input type="text" placeholder="Last name" required />
-            </div>
-            <input type="email" placeholder="Your email" required />
-            <textarea placeholder="Your message" required />
-            <button type="submit">Send Message</button>
-          </form>
         </div>
       </footer>
     );
