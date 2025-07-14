@@ -20,6 +20,13 @@ function Search() {
   const [currentPage, setCurrentPage] = useState(1);
   const [showHelp, setShowHelp] = useState(false);
 
+  // Hide map by default on mobile screens
+useEffect(() => {
+    if (window.innerWidth < 768) {
+      setShowMap(false);
+    }
+  }, []);
+
   const RESULTS_PER_PAGE = 10;
 
   useEffect(() => {
