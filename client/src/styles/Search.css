@@ -214,7 +214,7 @@
     /* Search section */
     /* SEARCH SPACING FIX */
     .search-page {
-        margin-top: 5px; /* reduce space between header and search */
+        margin-top: 0px; /* reduce space between header and search */
     }
   
     .search-box {
