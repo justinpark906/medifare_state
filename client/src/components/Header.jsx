@@ -15,8 +15,6 @@ function Header() {
       <nav>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
-        <Link to="/privacy">Privacy Policy</Link>
-        <Link to="/terms">Terms of Service</Link>
       </nav>
       <div className="auth-buttons">
           {/* Log In removed */}

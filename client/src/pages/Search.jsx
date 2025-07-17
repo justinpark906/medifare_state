@@ -158,14 +158,14 @@ useEffect(() => {
 
           <input
             type="text"
-            placeholder="Search Service"
+            placeholder="Service"
             value={serviceInput}
             onChange={(e) => setServiceInput(e.target.value)}
           />
 
           <input
             type="text"
-            placeholder="Search Hospital (Optional)"
+            placeholder="Hospital (Optional)"
             value={hospitalInput}
             onChange={(e) => setHospitalInput(e.target.value)}
           />
