@@ -211,44 +211,20 @@
       font-size: 0.95rem;
     }
   
-    /* Search section */
-    /* SEARCH SPACING FIX */
     .search-page {
-        margin-top: 0px; /* reduce space between header and search */
-    }
-  
-    .search-box {
-      width: 95%;
-      padding: 1.5rem 1rem;
-      margin-top: 0;
-    }
-  
-    .search-bar select,
-    .search-bar input {
-      width: 100%;
-      max-width: 100%;
-    }
-  
-    .search-bar button {
-      width: 100%;
-      font-size: 1rem;
-    }
-  
-    .hero-heading {
-      font-size: 1.75rem;
-      padding: 0 0.5rem;
-    }
-  
-    .search-subtext {
-      padding: 0 1rem;
-      font-size: 1rem;
-    }
-  
-    .help-float-button {
-      right: 10px;
-      width: 40px;
-      height: 40px;
-    }
+        margin-top: 0px !important; 
+        padding-top: 0.5rem;
+      }
+    
+      .search-box {
+        margin-top: 0px !important; 
+        padding: 1.2rem;
+        width: 90%;
+      }
+    
+      .help-float-button {
+        top: 40%;  
+      }
   
   }
   
