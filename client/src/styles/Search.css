@@ -186,16 +186,18 @@
   @media (max-width: 768px) {
     /* Header-specific fixes */
     header.new-header {
-      flex-direction: column;
-      align-items: center;
-      gap: 0.8rem;
-      padding: 1rem;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 0.5rem;
+        padding: 1rem;
     }
   
     .auth-buttons {
       width: 100%;
       display: flex;
       justify-content: center;
+      margin-top: 0.5rem;
     }
   
     nav {
@@ -210,8 +212,9 @@
     }
   
     /* Search section */
+    /* SEARCH SPACING FIX */
     .search-page {
-      margin-top: 20px;
+        margin-top: 5px; /* reduce space between header and search */
     }
   
     .search-box {
