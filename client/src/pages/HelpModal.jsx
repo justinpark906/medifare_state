@@ -23,6 +23,9 @@ function HelpModal({ isOpen, onClose }) {
           <li>
             <span className="step-title">Optionally search by hospital name</span> to narrow results further.
           </li>
+          <li>
+            <span className="step-title">Check the 'Your Hospitals' </span> for further guidance on the most popular searches and to view your favorited searches.
+          </li>
         </ol>
         <p className="howto-footer">
         Some services may be bundled or unavailable depending on the hospital's data.<br />

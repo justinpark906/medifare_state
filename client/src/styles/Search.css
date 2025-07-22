@@ -120,7 +120,6 @@
     margin: 1rem auto;
     padding: 1rem;
     border: 1px solid #ddd;
-    width: 90%;
     max-width: 900px;
     border-radius: 16px;
     background-color: #fff;
@@ -129,6 +128,15 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+  }
+  .summary-text {
+    flex-grow: 1;
+    text-align: left;
   }
   
   .result-card summary {
@@ -210,14 +218,38 @@
     nav a {
       font-size: 0.95rem;
     }
-  
+
+      .details-content {
+        position: relative;
+        padding-top: 0.5rem;
+      }
+      
+      .star-inside {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.3rem;
+        background-color: transparent !important;
+        border: none !important;
+        cursor: pointer;
+        color: #8a2be2; /* Purple when not starred */
+        transition: transform 0.2s ease;
+        margin-top: 10px;
+        box-shadow: none !important;
+        outline: none;
+      }
+      
+      .star-inside:hover {
+        transform: scale(1.2);
+      }
+      
     .search-page {
-        margin-top: 0px !important; 
+        margin-top: 0px; 
         padding-top: 0.5rem;
       }
     
       .search-box {
-        margin-top: 0px !important; 
+        margin-top: 0px; 
         padding: 1.2rem;
         width: 90%;
       }

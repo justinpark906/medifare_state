@@ -3,6 +3,7 @@ import '../styles/Search.css';
 import HelpModal from './HelpModal';
 import Fuse from 'fuse.js';
 import USAMap from 'react-usa-map';
+import { FaRegStar, FaStar } from 'react-icons/fa';
 
 
 const API_URL = 'https://medifare-state.onrender.com';
@@ -19,27 +20,31 @@ function Search() {
   const [error, setError] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const [showHelp, setShowHelp] = useState(false);
+  const [favorites, setFavorites] = useState({});
 
-  // Hide map by default on mobile screens
-useEffect(() => {
+  const RESULTS_PER_PAGE = 10;
+
+  
+
+  // Hide map on mobile by default
+  useEffect(() => {
     if (window.innerWidth < 768) {
       setShowMap(false);
     }
   }, []);
 
-  const RESULTS_PER_PAGE = 10;
+  // Load favorites from localStorage
+  useEffect(() => {
+    const stored = localStorage.getItem('starredServices');
+    if (stored) setFavorites(JSON.parse(stored));
+  }, []);
+
 
   useEffect(() => {
     if (!selectedState) return;
     fetch(`${API_URL}/api/hospitals/${selectedState}`)
       .then(res => res.json())
-      .then(data => {
-        if (data.Hospitals) {
-          setResults(data.Hospitals);
-        } else {
-          setResults([]);
-        }
-      })
+      .then(data => setResults(data.Hospitals || []))
       .catch(err => {
         console.error(err);
         setResults([]);
@@ -104,18 +109,33 @@ useEffect(() => {
     setShowMap(false);
   };
 
+  const toggleFavorite = (item) => {
+    const key = `${item.Hospital_Name}-${item.Service}`;
+    const stored = JSON.parse(localStorage.getItem('starredServices') || '{}');
+  
+    if (stored[key]) {
+      delete stored[key];
+    } else {
+      stored[key] = item;
+    }
+  
+    setFavorites(stored);
+    localStorage.setItem('starredServices', JSON.stringify(stored));
+  };
+  
+  
+  
+
   const mapHandler = (event) => {
     const stateCode = event.target.dataset.name;
     setSelectedState(stateCode);
   };
 
-  const statesCustomConfig = () => {
-    return {
-      [selectedState]: {
-        fill: "#8e2de2",
-      },
-    };
-  };
+  const statesCustomConfig = () => ({
+    [selectedState]: {
+      fill: "#8e2de2",
+    },
+  });
 
   const paginatedResults = filtered.slice(
     (currentPage - 1) * RESULTS_PER_PAGE,
@@ -171,19 +191,16 @@ useEffect(() => {
           />
           <button onClick={handleSearch}>Search</button>
         </div>
-        <button 
-        onClick={() => setShowMap(!showMap)} 
-        className="map-toggle"
-        >
-        {showMap ? 'Hide Map ▲' : 'Show Map ▼'}
+
+        <button onClick={() => setShowMap(!showMap)} className="map-toggle">
+          {showMap ? 'Hide Map ▲' : 'Show Map ▼'}
         </button>
 
         {showMap && (
-        <div className="usa-map-container">
-        <USAMap onClick={mapHandler} customize={statesCustomConfig()} />
-      </div>
+          <div className="usa-map-container">
+            <USAMap onClick={mapHandler} customize={statesCustomConfig()} />
+          </div>
         )}
-
       </div>
 
       {matchedHospital && (
@@ -195,49 +212,65 @@ useEffect(() => {
       {error && <p className="error">{error}</p>}
 
       <ul key={searchKey} style={{ listStyle: 'none', padding: 0 }}>
-        {paginatedResults.map((item, index) => (
-          <li key={index} className="result-card">
-            <details>
-              <summary><strong>Service:</strong> {item.Service}</summary>
-              <p><strong>Hospital:</strong> {item.Hospital_Name}</p>
-              <p><strong>Address:</strong> {item.Address}</p>
-              <p><strong>Submitted Covered Payment:</strong> ${item["Submitted Covered Payment"]}</p>
-              <p><strong>Total Payment Amount:</strong> ${item["Total Payment Amount"]}</p>
-              <p><strong>Medicare Payment Amount:</strong> ${item["Medicare Payment Amount"]}</p>
-            </details>
-          </li>
-        ))}
+        {paginatedResults.map((item, index) => {
+          const key = `${item.Hospital_Name}-${item.Service}`;
+          const isFavorited = favorites[key];
+
+          return (
+            <li key={index} className="result-card" style={{ position: 'relative' }}>
+                <details>
+                <summary><strong>Service:</strong> {item.Service}</summary>
+
+                <div className="details-content">
+                    <p><strong>Hospital:</strong> {item.Hospital_Name}</p>
+                    <p><strong>Address:</strong> {item.Address}</p>
+                    <p><strong>Submitted Covered Payment:</strong> ${item["Submitted Covered Payment"]}</p>
+                    <p><strong>Total Payment Amount:</strong> ${item["Total Payment Amount"]}</p>
+                    <p><strong>Medicare Payment Amount:</strong> ${item["Medicare Payment Amount"]}</p>
+
+                    <button
+                    className="star-inside"
+                    onClick={() => toggleFavorite(item)}
+                    style={{
+                        background: 'none',
+                        border: 'none',
+                        fontSize: '1.5rem',
+                        cursor: 'pointer',
+                        color: isFavorited ? '#ffc107' : '#ccc',
+                        transition: 'color 0.3s ease',
+                    }}
+                    title={isFavorited ? "Unstar" : "Star this service"}
+                    >
+                    {isFavorited ? <FaStar /> : <FaRegStar />}
+                    </button>
+                </div>
+                </details>
+                </li>
+          );
+        })}
       </ul>
 
       {totalPages > 1 && (
         <div className="pagination">
-          <button
-            onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
-            disabled={currentPage === 1}
-          >
+          <button onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))} disabled={currentPage === 1}>
             &laquo; Prev
           </button>
           <span> Page {currentPage} of {totalPages} </span>
-          <button
-            onClick={() => setCurrentPage((prev) => Math.min(prev + 1, totalPages))}
-            disabled={currentPage === totalPages}
-          >
+          <button onClick={() => setCurrentPage((prev) => Math.min(prev + 1, totalPages))} disabled={currentPage === totalPages}>
             Next &raquo;
           </button>
         </div>
       )}
 
-    <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
-
-    <button 
-    className="help-float-button"
-    onClick={() => setShowHelp(true)}
-    title="How to use"
-    >
-    ?
-    </button>
+      <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
+      <button
+        className="help-float-button"
+        onClick={() => setShowHelp(true)}
+        title="How to use"
+      >
+        ?
+      </button>
     </main>
-   
   );
 }
 
