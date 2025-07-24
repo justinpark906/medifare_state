@@ -12,7 +12,7 @@ import Footer from './components/Footer';
 import Saved from './pages/Saved';
 
 // Replace this with your real GA4 ID
-const GA_MEASUREMENT_ID = 'G-M6SPDCHG4Q';
+const GA_MEASUREMENT_ID = 'G-88LGMF7NBX';
 
 function App() {
   const location = useLocation();
