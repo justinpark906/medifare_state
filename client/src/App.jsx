@@ -1,5 +1,8 @@
 import './App.css';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import { useEffect } from 'react';
+import ReactGA from 'react-ga4';
+
 import Header from './components/Header';
 import Search from './pages/Search';
 import About from './pages/About';
@@ -8,9 +11,22 @@ import Terms from './pages/Terms';
 import Footer from './components/Footer';
 import Saved from './pages/Saved';
 
-
+// Replace this with your real GA4 ID
+const GA_MEASUREMENT_ID = 'G-M6SPDCHG4Q';
 
 function App() {
+  const location = useLocation();
+
+  useEffect(() => {
+    // Initialize GA once
+    ReactGA.initialize(GA_MEASUREMENT_ID);
+  }, []);
+
+  useEffect(() => {
+    // Track page view on route change
+    ReactGA.send({ hitType: 'pageview', page: location.pathname });
+  }, [location]);
+
   return (
     <div className="app">
       <Header />
