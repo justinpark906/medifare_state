@@ -4,6 +4,8 @@ import HelpModal from './HelpModal';
 import Fuse from 'fuse.js';
 import USAMap from 'react-usa-map';
 import { FaRegStar, FaStar } from 'react-icons/fa';
+import ReactGA from 'react-ga4';
+
 
 
 const API_URL = 'https://medifare-state.onrender.com';
@@ -107,6 +109,12 @@ function Search() {
     setCurrentPage(1);
     setSearchKey(prev => prev + 1);
     setShowMap(false);
+
+    ReactGA.event({
+      category: 'Search',
+      action: 'Submitted Search',
+      label: `Hospital: ${hospitalInput} | Location: ${selectedState} | Service: ${serviceInput}`
+    });
   };
 
   const toggleFavorite = (item) => {
